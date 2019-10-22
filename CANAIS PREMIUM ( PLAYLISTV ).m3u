@@ -1,0 +1,724 @@
+#EXTM3U
+ 
+#######################################################################################################################################
+#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/417/164/full/an-msdn-tv-logo.png?1571028778" group-title="INFORMAÇÕES",💜❤💛💚💙📺📡 CANAIS PREMIUM 📡📺💙💚💛❤💜
+https://busqueieencontrei.com/wp-content/uploads/2018/07/painelbanner-iptv.jpg
+ 
+#EXTINF:-1 tvg-logo="https://i.screenshot.net/zplkohn" group-title="INFORMAÇÕES",💜❤💛💚💙📡📺 O  MELHOR  DOS  CANAIS  PREMIUM  EM  SUAS  MÃOS 📺📡💙💚💛❤💜
+https://uploaddeimagens.com.br/images/002/417/169/full/iptv-002.jpg?1571029102
+ 
+######################################################### INFANTIL #########################################################
+ 
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/kissclipart-cartoon-network-collection-platinum-edition-nint-7e2a5375fbb35b5c.png" group-title="INFANTIL",CARTOON NETWORK FHD
+https://live.multicanais.com/live/cartoonnetworkhd/chunks.m3u8?md5=mwaM4IEcV-vuAjslS_R2bA&expires=1571676760
+ 
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/free-cartoon-network-wallpaper-1.jpg" group-title="INFANTIL",CARTOON NETWORK HD
+https://live.multicanais.com/live/cartoonnetworkhd/chunks.m3u8?md5=mwaM4IEcV-vuAjslS_R2bA&expires=1571676760
+ 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/217.png" group-title="INFANTIL",BOOMERANG FHD
+http://104.160.173.2:1944/live/pt_0LsT3zQewCyqpN6kUJEaSZg1_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_CCAQCCwfaEf3&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=63f1c37dba0c43068250d6f13e3a103f
+ 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/217.png" group-title="INFANTIL",BOOMERANG HD
+http://104.160.173.2:1944/live/pt_0LsT3zQewCyqpN6kUJEaSZg1_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_CCAQCCwfaEf3&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=63f1c37dba0c43068250d6f13e3a103f
+ 
+#EXTINF:-1 tvg-logo="https://www.directv.com/images/logos/channels/dark/large/217.png" group-title="INFANTIL",BOOMERANG
+http://104.160.173.2:1944/live/pt_0LsT3zQewCyqpN6kUJEaSZg1_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_CCAQCCwfaEf3&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=63f1c37dba0c43068250d6f13e3a103f
+ 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61C2TSxmMwL._SY355_.png" group-title="INFANTIL",BABY TV
+http://104.160.173.2:1944/live/pt_aEZNYVBM7gwkXuemhyKdcC62_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_ahpkQRMbAOIi&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=4a2f2c8a88d7b8f0ae819ac3a0789109
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="INFANTIL",ZOOMOO
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/126.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png" group-title="INFANTIL",TOONCAST
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/124.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://nickjr-intl.mtvnimages.com/img/nickjr-logo-200x200.png" group-title="INFANTIL",NICK JUNIOR
+http://lista.digitalgroup.me:80/Irineu/123456/986
+ 
+#EXTINF:-1 tvg-logo="https://img.quizur.com/f/img5bc9eb5bde0b34.76656226.png?lastEdited=1539959651" group-title="INFANTIL",NICKELODEON FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26015
+ 
+#EXTINF:-1 tvg-logo="https://img.quizur.com/f/img5bc9eb5bde0b34.76656226.png?lastEdited=1539959651" group-title="INFANTIL",NICKELODEON HD
+http://lista.digitalgroup.me:80/Irineu/123456/5093
+ 
+#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="INFANTIL",GLOOB FHD
+http://lista.digitalgroup.me:80/Irineu/123456/48806
+ 
+#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="INFANTIL",GLOOB HD
+http://lista.digitalgroup.me:80/Irineu/123456/5086
+ 
+#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="INFANTIL",GLOOB
+http://lista.digitalgroup.me:80/Irineu/123456/28406
+ 
+#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="INFANTIL",GLOOBINHO FHD
+http://lista.digitalgroup.me:80/Irineu/123456/46911
+ 
+#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="INFANTIL",GLOOBINHO HD
+http://lista.digitalgroup.me:80/Irineu/123456/17136
+ 
+#EXTINF:-1 tvg-logo="http://g.glbimg.com/og/gs/gsat3/f/thumbs/padrao/2014/09/22/logo_gloob_fundobranco_500x500.jpg" group-title="INFANTIL",GLOOBINHO
+http://lista.digitalgroup.me:80/Irineu/123456/23976
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-5KqEhVTI8F7QjPgdY9nuVsd74k7kpLOkxug=s900-c-k-c0xffffffff-no-rj-mo" group-title="INFANTIL",DISNEY XD
+http://lista.digitalgroup.me:80/Irineu/123456/38761
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="INFANTIL",DISNEY JR FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26021
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="INFANTIL",DISNEY JR HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8784,e684993f245c481f1f1bb14b273256e3;base64np;-uribHdW7Nh31Zw!/amlst:-uoadWod6dlolRBm/chunklist_b2690048.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png" group-title="INFANTIL",DISNEY JR
+http://lista.digitalgroup.me:80/Irineu/123456/38441
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INFANTIL",DISNEY CHANNEL HD
+http://lista.digitalgroup.me:80/Irineu/123456/5082
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="INFANTIL",DISNEY CHANNEL
+http://lista.digitalgroup.me:80/Irineu/123456/1071
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="INFANTIL",DISCOVERY KIDS HD
+http://lista.digitalgroup.me:80/Irineu/123456/5081
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Natgeo_Kids_logo.svg/1200px-Natgeo_Kids_logo.svg.png" group-title="INFANTIL",NAT GEO KIDS HD
+http://lista.digitalgroup.me:80/Irineu/123456/11996
+ 
+########################################################## CANAIS DE FILMES  #################################################
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/885546034117697537/ZnACL_9J.jpg" group-title="CANAIS DE FILMES",CINE 24HS
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/6/62/Telecinecult.jpg/revision/latest?cb=20140518153019&path-prefix=pt-br" group-title="CANAIS DE FILMES",TELECINE CULT FHD
+http://104.160.173.2:1944/live/pt_6soPbznmWEaXtBk4L0CK59R2_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_TFEPQQ01roTE&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=a15a7edc05a2cca214d9021c2c7eeaf7
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpediabrasil/images/6/62/Telecinecult.jpg/revision/latest?cb=20140518153019&path-prefix=pt-br" group-title="CANAIS DE FILMES",TELECINE CULT
+http://104.160.173.2:1944/live/pt_6soPbznmWEaXtBk4L0CK59R2_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_TFEPQQ01roTE&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=a15a7edc05a2cca214d9021c2c7eeaf7
+ 
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156154/telecine-touch-hd.png" group-title="CANAIS DE FILMES",TELECINE TOUCH HD
+http://104.160.173.2:1944/live/pt_SMpJY8bBmfLw5Kaqzsgr3U1Q_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_0A9iB1j6gFAm&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=8173a620f12c7c3dad80ec2ca3ef26d2
+ 
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-264-canal-tc-pipoca-hd.png" group-title="CANAIS DE FILMES",TELECINE PIPOCA HD
+http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_6e2bc00982add83f85cc935050e80d7f6410612d/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-264-canal-tc-pipoca-hd.png" group-title="CANAIS DE FILMES",TELECINE PIPOCA
+http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/telecinepipocahd_ae7329c9_6e2bc00982add83f85cc935050e80d7f6410612d/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-62-canal-tc-action.png" group-title="CANAIS DE FILMES",TELECINE ACTION FHD
+http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_941f0f079a4f4213fcb1dcf252b5463d978f60f3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-62-canal-tc-action.png" group-title="CANAIS DE FILMES",TELECINE ACTION HD
+http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_941f0f079a4f4213fcb1dcf252b5463d978f60f3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-62-canal-tc-action.png" group-title="CANAIS DE FILMES",TELECINE ACTION
+http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/telecineactionhd_be2793cd_941f0f079a4f4213fcb1dcf252b5463d978f60f3/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/TC_FUN.jpg/revision/latest?cb=20131115104539" group-title="CANAIS DE FILMES",TELECINE FUN FHD
+http://172.105.151.177/hls/s:95.216.15.44:81/telecinefun_ae1e7198_6234c2acbc48efff5eb70b94d056dabc4802d824.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/TC_FUN.jpg/revision/latest?cb=20131115104539" group-title="CANAIS DE FILMES",TELECINE FUN HD
+http://172.105.151.177/hls/s:95.216.15.44:81/telecinefun_ae1e7198_6234c2acbc48efff5eb70b94d056dabc4802d824.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-4v5YG02wIkQ/Uy0naXP_HFI/AAAAAAAAhxg/TbM7durqJYU/s1600/tcpremium.png" group-title="CANAIS DE FILMES",TELECINE PREMIUM FHD
+http://104.160.173.2:1944/live/pt_rGNKj8wgdokTI0x2lReVs1mh_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_bE0jKU3dUGXx&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=1d4c13476b35cc910c190a9f6c063f51
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-4v5YG02wIkQ/Uy0naXP_HFI/AAAAAAAAhxg/TbM7durqJYU/s1600/tcpremium.png" group-title="CANAIS DE FILMES",TELECINE PREMIUM HD
+http://104.160.173.2:1944/live/pt_rGNKj8wgdokTI0x2lReVs1mh_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_bE0jKU3dUGXx&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=1d4c13476b35cc910c190a9f6c063f51
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-4v5YG02wIkQ/Uy0naXP_HFI/AAAAAAAAhxg/TbM7durqJYU/s1600/tcpremium.png" group-title="CANAIS DE FILMES",TELECINE PREMIUM
+http://104.160.173.2:1944/live/pt_rGNKj8wgdokTI0x2lReVs1mh_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_bE0jKU3dUGXx&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=1d4c13476b35cc910c190a9f6c063f51
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TNT_TV_logo.PNG" group-title="CANAIS DE FILMES",TNT FHD
+http://104.160.173.2:1944/live/pt_hrXYNmAD2GitKZdq5wlHUjJF_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=O8BcJkwzLzhK_b2ay02JjHtFz&dead_time=1571420133&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=26abe01edc7711f927ec2870b57d8a02
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/TNT_TV_logo.PNG" group-title="CANAIS DE FILMES",TNT
+http://104.160.173.2:1944/live/pt_hrXYNmAD2GitKZdq5wlHUjJF_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=O8BcJkwzLzhK_b2ay02JjHtFz&dead_time=1571420133&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=26abe01edc7711f927ec2870b57d8a02
+ 
+#EXTINF:-1 tvg-logo="http://imagem.natelinha.uol.com.br/grande/TNT_Serie.jpg" group-title="CANAIS DE FILMES",TNT SÉRIES FHD
+http://104.160.173.2:1944/live/pt_sRbp5StxJynqjZmGAElF28Br_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_hzKL1Y4zrcqD&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=c11853fdad78643b14cc9db847d61d83
+ 
+#EXTINF:-1 tvg-logo="http://imagem.natelinha.uol.com.br/grande/TNT_Serie.jpg" group-title="CANAIS DE FILMES",TNT SÉRIES HD
+http://104.160.173.2:1944/live/pt_sRbp5StxJynqjZmGAElF28Br_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_hzKL1Y4zrcqD&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=c11853fdad78643b14cc9db847d61d83
+ 
+#EXTINF:-1 tvg-logo="http://imagem.natelinha.uol.com.br/grande/TNT_Serie.jpg" group-title="CANAIS DE FILMES",TNT SÉRIES
+http://104.160.173.2:1944/live/pt_sRbp5StxJynqjZmGAElF28Br_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_hzKL1Y4zrcqD&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=c11853fdad78643b14cc9db847d61d83
+ 
+#EXTINF:-1 tvg-logo="http://horrorfuel.com/wp-content/uploads/2015/06/amc-3-e1501368052858.png" group-title="CANAIS DE FILMES",AMC FHD
+http://104.160.173.2:1944/live/pt_xRBGDPf12puWsC8kV6FAETNH_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_ujJcpkpBFgmA&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=4baca28212fbf98aabdcebbf55651dc2
+ 
+#EXTINF:-1 tvg-logo="http://horrorfuel.com/wp-content/uploads/2015/06/amc-3-e1501368052858.png" group-title="CANAIS DE FILMES",AMC HD
+http://104.160.173.2:1944/live/pt_xRBGDPf12puWsC8kV6FAETNH_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_ujJcpkpBFgmA&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=4baca28212fbf98aabdcebbf55651dc2
+ 
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/vlkdC1gZhletMdiWFvVCEMBp39c=/300x300/top/smart/hagah/d/de/studio-universal-de137897.jpg" group-title="CANAIS DE FILMES",STUDIO UNIVERSAL HD
+http://lista.digitalgroup.me:80/Irineu/123456/5094
+ 
+#EXTINF:-1 tvg-logo="https://cdn.reweb.io/hagah/image/vlkdC1gZhletMdiWFvVCEMBp39c=/300x300/top/smart/hagah/d/de/studio-universal-de137897.jpg" group-title="CANAIS DE FILMES",STUDIO UNIVERSAL
+http://lista.digitalgroup.me:80/Irineu/123456/2384
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/Universal_Channel_logo.png/revision/latest?cb=20140512125215" group-title="CANAIS DE FILMES",UNIVERSAL CHANNEL FHD
+https://live.multicanais.com/live/universalchannelsd/chunks.m3u8?md5=wfGgyiOvTXExsfeZ7Xp8Ag&expires=1571675805
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a0/Universal_Channel_logo.png/revision/latest?cb=20140512125215" group-title="CANAIS DE FILMES",UNIVERSAL CHANNEL
+https://live.multicanais.com/live/universalchannelsd/chunks.m3u8?md5=wfGgyiOvTXExsfeZ7Xp8Ag&expires=1571675805
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_IwELliRCik/VKgf-ULS2eI/AAAAAAAAkJo/jFaKYWhkDwk/s1600/cats.png" group-title="CANAIS DE FILMES",MAX UP HD
+http://lista.digitalgroup.me:80/Irineu/123456/5091
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_IwELliRCik/VKgf-ULS2eI/AAAAAAAAkJo/jFaKYWhkDwk/s1600/cats.png" group-title="CANAIS DE FILMES",MAX UP
+http://lista.digitalgroup.me:80/Irineu/123456/1005
+ 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/8Rh1MdyySf8/hqdefault.jpg" group-title="CANAIS DE FILMES",MAX PRIME
+http://lista.digitalgroup.me:80/Irineu/123456/1006
+ 
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Max-designstyle-friday-m.png" group-title="CANAIS DE FILMES",MAX FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26033
+ 
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Max-designstyle-friday-m.png" group-title="CANAIS DE FILMES",MAX HD
+http://lista.digitalgroup.me:80/Irineu/123456/5089
+ 
+#EXTINF:-1 tvg-logo="https://logos.textgiraffe.com/logos/logo-name/Max-designstyle-friday-m.png" group-title="CANAIS DE FILMES",MAX
+http://lista.digitalgroup.me:80/Irineu/123456/1007
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_bsXZbzz5bHA8rtR4J33KwPsxjIa3Sz8UBbidVTZAZttj71Q" group-title="CANAIS DE FILMES",CINEMAX FHD
+https://live.multicanais.com/live/cinemaxsd/chunks.m3u8?md5=_omjOy0PTr6APByRSXZ9Uw&expires=1571675579
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv_bsXZbzz5bHA8rtR4J33KwPsxjIa3Sz8UBbidVTZAZttj71Q" group-title="CANAIS DE FILMES",CINEMAX HD
+https://live.multicanais.com/live/cinemaxsd/chunks.m3u8?md5=_omjOy0PTr6APByRSXZ9Uw&expires=1571675579
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="CANAIS DE FILMES",HBO FHD
+http://lista.digitalgroup.me:80/Irineu/123456/1020
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="CANAIS DE FILMES",HBO HD
+http://lista.digitalgroup.me:80/Irineu/123456/1209
+ 
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-76-canal-hbo-signature.png" group-title="CANAIS DE FILMES",HBO SIGNATURE FHD
+http://lista.digitalgroup.me:80/Irineu/123456/1013
+ 
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-76-canal-hbo-signature.png" group-title="CANAIS DE FILMES",HBO SIGNATURE HD
+http://lista.digitalgroup.me:80/Irineu/123456/1013
+ 
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-76-canal-hbo-signature.png" group-title="CANAIS DE FILMES",HBO SIGNATURE
+http://lista.digitalgroup.me:80/Irineu/123456/2488
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="CANAIS DE FILMES",HBO FAMILY FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26038
+ 
+#EXTINF:-1 tvg-logo="http://static.iptv-epg.com/mx/HBOFamily.mx.png" group-title="CANAIS DE FILMES",HBO FAMILY
+http://lista.digitalgroup.me:80/Irineu/123456/1016
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS DE FILMES",HBO PLUS FHD
+http://172.105.149.61/hls/s:95.216.15.44:81/hboplus1080p_39dfc9ff_fce9db5ca10260689b91d2b9615eba0965ef153e.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS DE FILMES",HBO PLUS HD
+http://lista.digitalgroup.me:80/Irineu/123456/2467
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS DE FILMES",HBO PLUS
+http://lista.digitalgroup.me:80/Irineu/123456/1014
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/HBO_2_HD_Logo_Poland.png" group-title="CANAIS DE FILMES",HBO 2 FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26039
+ 
+#EXTINF:-1 tvg-logo="https://www.hbo.cz/siteimages/articleimages/35000/35477_-_254.jpg" group-title="CANAIS DE FILMES",HBO 2
+http://lista.digitalgroup.me:80/Irineu/123456/2489
+ 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="CANAIS DE FILMES",SPACE FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26011
+ 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/6e/bc/67/6ebc6747054e38075f835398fe5ee3c8.png" group-title="CANAIS DE FILMES",SPACE HD
+http://lista.digitalgroup.me:80/Irineu/123456/1327
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQbwNaxvaDyCHHI0WXLfIIpRcu_cjf9OIpE9V0MQC8JRiNZFAE" group-title="CANAIS DE FILMES",FX FHD
+http://lista.digitalgroup.me:80/Irineu/123456/1028
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQbwNaxvaDyCHHI0WXLfIIpRcu_cjf9OIpE9V0MQC8JRiNZFAE" group-title="CANAIS DE FILMES",FX HD
+http://lista.digitalgroup.me:80/Irineu/123456/1028
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="CANAIS DE FILMES",AXN FHD
+https://live.multicanais.com/live/axnsd/chunks.m3u8?md5=IaMQjFIDlbwU8YYm3pU2Og&expires=1571675398
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="CANAIS DE FILMES",AXN HD
+https://live.multicanais.com/live/axnsd/chunks.m3u8?md5=IaMQjFIDlbwU8YYm3pU2Og&expires=1571675398
+ 
+#EXTINF:-1 tvg-logo="http://imagem.natelinha.uol.com.br/grande/megapix.jpg" group-title="CANAIS DE FILMES",MEGAPIX
+https://live.multicanais.com/live/megapixsd/chunks.m3u8?md5=C8kOF__Nt2_aNjRgzwuEcw&expires=1571675515
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-vsHM0HKwG_Q/UA5Sr1Tc2gI/AAAAAAAAI1U/4UvxwRrxHgU/s1600/SF+logo+2012.png" group-title="CANAIS DE FILMES",SYFY FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26008
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-vsHM0HKwG_Q/UA5Sr1Tc2gI/AAAAAAAAI1U/4UvxwRrxHgU/s1600/SF+logo+2012.png" group-title="CANAIS DE FILMES",SYFY HD
+http://lista.digitalgroup.me:80/Irineu/123456/18087
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-vsHM0HKwG_Q/UA5Sr1Tc2gI/AAAAAAAAI1U/4UvxwRrxHgU/s1600/SF+logo+2012.png" group-title="CANAIS DE FILMES",SYFY
+http://lista.digitalgroup.me:80/Irineu/123456/939
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a9/Logotipo_da_WBITVP.png" group-title="CANAIS DE FILMES",WARNER CHANNEL HD
+http://104.160.173.2:1944/live/pt_dguYh1LjBTwlnKecmOPADtoN_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_8ngIGQpJuLRb&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=05cf5c32f05192f68346971cc7b726da
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a9/Logotipo_da_WBITVP.png" group-title="CANAIS DE FILMES",WARNER CHANNEL
+http://104.160.173.2:1944/live/pt_dguYh1LjBTwlnKecmOPADtoN_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_8ngIGQpJuLRb&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=05cf5c32f05192f68346971cc7b726da
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/948253623569604610/4wcd5BIp_400x400.jpg" group-title="CANAIS DE FILMES",LIFETIME FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26034
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/948253623569604610/4wcd5BIp_400x400.jpg" group-title="CANAIS DE FILMES",LIFETIME HD
+http://lista.digitalgroup.me:80/Irineu/123456/5087
+ 
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/a/e/j/xae.jpg.pagespeed.ic.reT4wOAZhl.jpg" group-title="CANAIS DE FILMES",A&E HD
+http://104.160.173.2:1944/live/pt_PwsKRjIegyASUaYBiH3ou5LT_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_3mVIRjPYXRX&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=ab58c4a2f8f3c55b01f8d63c01182637
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="CANAIS DE FILMES",TCM
+https://tvweb.xyz:25463/live/Internacional/GanhouKKKK/72.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/globaltvindonesia/images/6/68/Paramount1914.jpg/revision/latest?cb=20180605074844" group-title="CANAIS DE FILMES",PARAMOUNT HD
+http://lista.digitalgroup.me:80/Irineu/123456/2472
+ 
+#EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/foxlife.png" group-title="CANAIS DE FILMES",FOX LIFE FHD
+http://lista.digitalgroup.me:80/Irineu/123456/1038
+ 
+#EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/foxlife.png" group-title="CANAIS DE FILMES",FOX LIFE HD
+http://lista.digitalgroup.me:80/Irineu/123456/1038
+ 
+#EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/foxlife.png" group-title="CANAIS DE FILMES",FOX LIFE
+http://lista.digitalgroup.me:80/Irineu/123456/1038
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hs4nWaB.jpg" group-title="CANAIS DE FILMES",FOX PREMIUM 2 FHD
+http://lista.digitalgroup.me:80/Irineu/123456/46908
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hs4nWaB.jpg" group-title="CANAIS DE FILMES",FOX PREMIUM 2
+http://lista.digitalgroup.me:80/Irineu/123456/20816
+ 
+#EXTINF:-1 tvg-logo="http://vcfaz.tv/img/logonovo/foxpremium1.jpg" group-title="CANAIS DE FILMES",FOX PREMIUM 1 FHD
+http://lista.digitalgroup.me:80/Irineu/123456/20815
+ 
+#EXTINF:-1 tvg-logo="http://vcfaz.tv/img/logonovo/foxpremium1.jpg" group-title="CANAIS DE FILMES",FOX PREMIUM 1 HD
+http://lista.digitalgroup.me:80/Irineu/123456/2464
+ 
+#EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/FOX-HD.png" group-title="CANAIS DE FILMES",FOX HD
+http://172.105.150.112/hls/s:95.216.15.44:81/fox_5a5b0f9b_30590582a3f6f1369edc56fbec7a11b984d624ee/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://stagingcms.cignal.tv/Upload/Images/FOX-HD.png" group-title="CANAIS DE FILMES",FOX
+http://172.105.150.112/hls/s:95.216.15.44:81/fox_5a5b0f9b_30590582a3f6f1369edc56fbec7a11b984d624ee/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-HfsuUFtP71Q/UzMynrpunOI/AAAAAAAAh1I/Bt-pA3Ps75g/s1600/Sony_+novologo.png" group-title="CANAIS DE FILMES",CANAL SONY FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26012
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-HfsuUFtP71Q/UzMynrpunOI/AAAAAAAAh1I/Bt-pA3Ps75g/s1600/Sony_+novologo.png" group-title="CANAIS DE FILMES",CANAL SONY HD
+http://lista.digitalgroup.me:80/Irineu/123456/2409
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-HfsuUFtP71Q/UzMynrpunOI/AAAAAAAAh1I/Bt-pA3Ps75g/s1600/Sony_+novologo.png" group-title="CANAIS DE FILMES",CANAL SONY
+http://lista.digitalgroup.me:80/Irineu/123456/1096
+ 
+#####################################################  DOCUMENTÁRIOS  #######################################################
+ 
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/01/natgeowild.png?w=630&h=383&crop=1" group-title="DOCUMENTÁRIOS",NAT GEO WILD FHD
+http://lista.digitalgroup.me:80/Irineu/123456/18022
+ 
+#EXTINF:-1 tvg-logo="https://pmcdeadline2.files.wordpress.com/2016/01/natgeowild.png?w=630&h=383&crop=1" group-title="DOCUMENTÁRIOS",NAT GEO WILD HD
+http://lista.digitalgroup.me:80/Irineu/123456/994
+ 
+#EXTINF:-1 tvg-logo="https://dune-hd.com/resources/support/misc/tv_channels_icons/channel_48.1319735745.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26022
+ 
+#EXTINF:-1 tvg-logo="https://dune-hd.com/resources/support/misc/tv_channels_icons/channel_48.1319735745.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD HD
+http://lista.digitalgroup.me:80/Irineu/123456/2461
+ 
+#EXTINF:-1 tvg-logo="https://dune-hd.com/resources/support/misc/tv_channels_icons/channel_48.1319735745.png" group-title="DOCUMENTÁRIOS",DISCOVERY WORLD
+http://lista.digitalgroup.me:80/Irineu/123456/20808
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/Discovery_HD_Theater-logo-3BC924C166-seeklogo.com.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26023
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/Discovery_HD_Theater-logo-3BC924C166-seeklogo.com.png" group-title="DOCUMENTÁRIOS",DISCOVERY THEATER HD
+http://lista.digitalgroup.me:80/Irineu/123456/2460
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26024
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE HD
+http://lista.digitalgroup.me:80/Irineu/123456/16006
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="DOCUMENTÁRIOS",DISCOVERY SCIENCE
+http://lista.digitalgroup.me:80/Irineu/123456/20806
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1032703404328538112/6rYEqx6g_400x400.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY H&H FHD
+http://lista.digitalgroup.me:80/Irineu/123456/46905
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1032703404328538112/6rYEqx6g_400x400.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY H&H HD
+http://lista.digitalgroup.me:80/Irineu/123456/1082
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1032703404328538112/6rYEqx6g_400x400.jpg" group-title="DOCUMENTÁRIOS",DISCOVERY H&H
+http://lista.digitalgroup.me:80/Irineu/123456/2399
+ 
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/431-4311117_discovery-civilization-discovery-channel-hd-png-download.png" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26026
+ 
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/431-4311117_discovery-civilization-discovery-channel-hd-png-download.png" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION HD
+http://lista.digitalgroup.me:80/Irineu/123456/16005
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/3/38/Discovery_Civilization_1998.png/revision/latest?cb=20140513095025" group-title="DOCUMENTÁRIOS",DISCOVERY CIVILIZATION
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/105.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/800px-Animal_Planet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET FHD
+http://104.160.173.2:1944/live/pt_ZJTh6oMdeOURwWyiA9cHgYQk_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_Dsz73kCnY7ER&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=f10c6165f5d39408feab83e89c01870c
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/800px-Animal_Planet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET HD
+http://104.160.173.2:1944/live/pt_ZJTh6oMdeOURwWyiA9cHgYQk_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_Dsz73kCnY7ER&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=f10c6165f5d39408feab83e89c01870c
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/800px-Animal_Planet.png" group-title="DOCUMENTÁRIOS",ANIMAL PLANET SD
+http://104.160.173.2:1944/live/pt_ZJTh6oMdeOURwWyiA9cHgYQk_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_Dsz73kCnY7ER&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=f10c6165f5d39408feab83e89c01870c
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="DOCUMENTÁRIOS",NAT GEO FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26016
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="DOCUMENTÁRIOS",NAT GEO HD
+http://lista.digitalgroup.me:80/Irineu/123456/990
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Nat_Geo_HD.png" group-title="DOCUMENTÁRIOS",NAT GEO
+http://lista.digitalgroup.me:80/Irineu/123456/991
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="DOCUMENTÁRIOS",HISTORY CHANNEL FHD
+http://lista.digitalgroup.me:80/Irineu/123456/16216
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+http://lista.digitalgroup.me:80/Irineu/123456/5035
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL
+http://lista.digitalgroup.me:80/Irineu/123456/923
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL HD
+http://lista.digitalgroup.me:80/Irineu/123456/2410
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Discovery_HD.svg/1200px-Discovery_HD.svg.png" group-title="DOCUMENTÁRIOS",DISCOVERY CHANNEL
+http://lista.digitalgroup.me:80/Irineu/123456/1084
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2391977725/59yko289nupg9sdwzxwb_400x400.jpeg" group-title="DOCUMENTÁRIOS",DISCOVERY INVESTIGAÇÃO HD
+http://lista.digitalgroup.me:80/Irineu/123456/2469
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2391977725/59yko289nupg9sdwzxwb_400x400.jpeg" group-title="DOCUMENTÁRIOS",DISCOVERY INVESTIGAÇÃO
+http://lista.digitalgroup.me:80/Irineu/123456/1011
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/624351457152794624/kMnbxbEN_400x400.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO FHD
+http://lista.digitalgroup.me:80/Irineu/123456/5038
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/624351457152794624/kMnbxbEN_400x400.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO HD
+http://lista.digitalgroup.me:80/Irineu/123456/2411
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/624351457152794624/kMnbxbEN_400x400.png" group-title="DOCUMENTÁRIOS",DISCOVERY TURBO
+http://lista.digitalgroup.me:80/Irineu/123456/1072
+ 
+#EXTINF:-1 tvg-logo="https://prod-cdn-aenetworks-tv.s3.amazonaws.com/network-images/HISTORY2.png" group-title="DOCUMENTÁRIOS",H2 FHD
+http://lista.digitalgroup.me:80/Irineu/123456/5056
+ 
+#EXTINF:-1 tvg-logo="https://prod-cdn-aenetworks-tv.s3.amazonaws.com/network-images/HISTORY2.png" group-title="DOCUMENTÁRIOS",H2 HD
+http://lista.digitalgroup.me:80/Irineu/123456/1021
+ 
+#EXTINF:-1 tvg-logo="https://prod-cdn-aenetworks-tv.s3.amazonaws.com/network-images/HISTORY2.png" group-title="DOCUMENTÁRIOS",H2
+http://lista.digitalgroup.me:80/Irineu/123456/2486
+ 
+################################################### NOTÍCIAS  ###########################################################
+ 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61qM3F6o7zL.png" group-title="NOTÍCIAS",BBC NEWS
+http://104.160.173.2:1944/live/pt_iRKYdW4pMQjJHEho6OXvmCwq_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_5swN8CbxEctd&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=364a2c794d868c635df122ec802d8199
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGze9gwd-MHmxeh1dejp20mG3ooVRcenuw3K8A_W1Jfk9_9ClsTw" group-title="NOTÍCIAS",CANAL BRASIL HD
+http://104.160.173.2:1944/live/pt_UVrzPuTGO0BN95S7pDmtyIx8_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_Ox0I0gd0dXoF&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=09acaa0b26a4c3fe365433613fe781d0
+ 
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/64/c2/2a/64c22aa6-a5b1-e9f1-a37e-af05bf085dcf/source/512x512bb.jpg" group-title="NOTÍCIAS",BAND NEWS FHD
+http://104.160.173.2:1944/live/pt_wM1DcpyixXePdVU8F2ogE6KT_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_ebeLyks7nrIk&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=fa0a76b1d473bfe0af829544aaf46437
+ 
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/64/c2/2a/64c22aa6-a5b1-e9f1-a37e-af05bf085dcf/source/512x512bb.jpg" group-title="NOTÍCIAS",BAND NEWS HD
+http://104.160.173.2:1944/live/pt_wM1DcpyixXePdVU8F2ogE6KT_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_ebeLyks7nrIk&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=fa0a76b1d473bfe0af829544aaf46437
+ 
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/64/c2/2a/64c22aa6-a5b1-e9f1-a37e-af05bf085dcf/source/512x512bb.jpg" group-title="NOTÍCIAS",BAND NEWS
+http://104.160.173.2:1944/live/pt_wM1DcpyixXePdVU8F2ogE6KT_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_ebeLyks7nrIk&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=fa0a76b1d473bfe0af829544aaf46437
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="NOTÍCIAS",RECORD NEWS
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/100.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/vaKVjp1G5oEnuoq0g7fsw-H3U6s=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/44/92/e3e879c57a76b70c1400f7d6cd9e.png" group-title="NOTÍCIAS",NOTÍCIAS 24HS
+https://tvweb.xyz:25463/live/Inter/PerdeuKKK/97.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.culturamix.com/wp-content/gallery/historia-da-globosat-empresas-das-organizacoes-globo-4/historia-da-globosat-7.jpg" group-title="NOTÍCIAS",GLOBOSAT HD
+http://lista.digitalgroup.me:80/Irineu/123456/5088
+ 
+#EXTINF:-1 tvg-logo="https://www.culturamix.com/wp-content/gallery/historia-da-globosat-empresas-das-organizacoes-globo-4/historia-da-globosat-7.jpg" group-title="NOTÍCIAS",GLOBOSAT
+http://lista.digitalgroup.me:80/Irineu/123456/38747
+ 
+###################################################  CANAIS DE MÚSICAS  #####################################################
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/0/03/VH1_HD.png/revision/latest?cb=20140519124519" group-title="CANAIS DE MUSICAS",VH1
+http://lista.digitalgroup.me:80/Irineu/123456/898
+ 
+#EXTINF:-1 tvg-logo="http://encenese.com.br/wp-content/uploads/2015/06/bis-logo-thumb2-500x500.jpg" group-title="CANAIS PREMIUM" group-title="CANAIS DE MUSICAS",BIS FHD
+http://104.160.173.2:1944/live/pt_AHRTkrZ8VGUFaC1ctW0db5O6_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_ACUC8QOrY26&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=89216136ae8fb82b7182cde030e18464
+ 
+#EXTINF:-1 tvg-logo="http://encenese.com.br/wp-content/uploads/2015/06/bis-logo-thumb2-500x500.jpg" group-title="CANAIS PREMIUM" group-title="CANAIS DE MUSICAS",BIS HD
+http://104.160.173.2:1944/live/pt_AHRTkrZ8VGUFaC1ctW0db5O6_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_ACUC8QOrY26&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=89216136ae8fb82b7182cde030e18464
+ 
+#EXTINF:-1 tvg-logo="http://encenese.com.br/wp-content/uploads/2015/06/bis-logo-thumb2-500x500.jpg" group-title="CANAIS PREMIUM" group-title="CANAIS DE MUSICAS",BIS
+http://104.160.173.2:1944/live/pt_AHRTkrZ8VGUFaC1ctW0db5O6_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_ACUC8QOrY26&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=89216136ae8fb82b7182cde030e18464
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Multishow_logo-laranja.png" group-title="CANAIS PREMIUM" group-title="CANAIS DE MUSICAS",MULTISHOW FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26017
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Multishow_logo-laranja.png" group-title="CANAIS PREMIUM" group-title="CANAIS DE MUSICAS",MULTISHOW HD
+http://lista.digitalgroup.me:80/Irineu/123456/2385
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Multishow_logo-laranja.png" group-title="CANAIS PREMIUM" group-title="CANAIS DE MUSICAS",MULTISHOW
+http://lista.digitalgroup.me:80/Irineu/123456/38729
+ 
+#EXTINF:-1 tvg-logo="https://images.tcdn.com.br/img/img_prod/604201/mtv_music_television_1304_1_20180330151905.png" group-title="CANAIS PREMIUM" group-title="CANAIS DE MUSICAS",MTV FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26018
+ 
+#EXTINF:-1 tvg-logo="https://images.tcdn.com.br/img/img_prod/604201/mtv_music_television_1304_1_20180330151905.png" group-title="CANAIS PREMIUM" group-title="CANAIS DE MUSICAS",MTV HD
+http://lista.digitalgroup.me:80/Irineu/123456/5092
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/845289087670124545/RPoybhC9_400x400.jpg" group-title="CANAIS DE MUSICAS",MUSIC BOX BRASIL SD
+http://painel.ebanonet.com.br:25461/live/CesarPP/HcyiVCdPyY/20655.m3u8
+ 
+########################################################  CANAIS DE ESPORTE  ##################################################
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3a/Copa_Bridgestone_Libertadores_logo.png" group-title="CANAIS DE ESPORTE",COPA LIBERTADORES 2019 HD
+http://lista.digitalgroup.me:80/Irineu/123456/48114
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220" group-title="CANAIS DE ESPORTE",COMBATE FHD
+https://live.multicanais.com/live/combatehd/chunks.m3u8?md5=pNSgaasOFgai_JaRHKGT7Q&expires=1571676095
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220" group-title="CANAIS DE ESPORTE",COMBATE HD
+https://live.multicanais.com/live/combatesd/chunks.m3u8?md5=bPErbkHqz9HfqLIRK-7G-g&expires=1571676007
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a2/Premiere_combate.png/revision/latest?cb=20130519152220" group-title="CANAIS DE ESPORTE",COMBATE
+https://live.multicanais.com/live/combatesd/chunks.m3u8?md5=bPErbkHqz9HfqLIRK-7G-g&expires=1571676007
+ 
+#EXTINF:-1 tvg-logo="https://cdn140.picsart.com/266636839009212.png?r1024x1024" group-title="CANAIS DE ESPORTE",UFC 24hs
+https://live.multicanais.com/live/combatesd/chunks.m3u8?md5=z77BcbDHH7HOiSiu6Yke8A&expires=1571676162
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="CANAIS DE ESPORTE",BAND SPORTS FHD
+http://104.160.173.2:1944/live/pt_JCr0n6KJkWbSR5_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_QKcon3M7XwpL&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=c106011bb32fd3d70da8f7130b1c989f
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="CANAIS DE ESPORTE",BAND SPORTS HD
+http://104.160.173.2:1944/live/pt_JCr0n6KJkWbSR5_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_QKcon3M7XwpL&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=c106011bb32fd3d70da8f7130b1c989f
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="CANAIS DE ESPORTE",BAND SPORTS
+http://104.160.173.2:1944/live/pt_JCr0n6KJkWbSR5_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_QKcon3M7XwpL&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=c106011bb32fd3d70da8f7130b1c989f
+ 
+#EXTINF:-1 tvg-logo="http://mescla.cc/wp-content/uploads/2017/05/photo.jpg" group-title="CANAIS DE ESPORTE",FISH TV SD
+http://painel.ebanonet.com.br:25461/live/CesarPP/HcyiVCdPyY/20773.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/430750962920067072/xfNoZ7Rz_400x400.jpeg" group-title="CANAIS DE ESPORTE",ESPN BRASIL FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26045
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/430750962920067072/xfNoZ7Rz_400x400.jpeg" group-title="CANAIS DE ESPORTE",ESPN BRASIL HD
+http://lista.digitalgroup.me:80/Irineu/123456/2387
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/430750962920067072/xfNoZ7Rz_400x400.jpeg" group-title="CANAIS DE ESPORTE",ESPN BRASIL
+http://lista.digitalgroup.me:80/Irineu/123456/38415
+ 
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-espn-extra-1233.png" group-title="CANAIS DE ESPORTE",ESPN EXTRA FHD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b1835008.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-espn-extra-1233.png" group-title="CANAIS DE ESPORTE",ESPN EXTRA HD
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b1835008.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-espn-extra-1233.png" group-title="CANAIS DE ESPORTE",ESPN EXTRA
+http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b1835008.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-ESPN-2-ao-vivo-online-24-horas.png" group-title="CANAIS DE ESPORTE",ESPN 2 FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26043
+ 
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-ESPN-2-ao-vivo-online-24-horas.png" group-title="CANAIS DE ESPORTE",ESPN 2 HD
+http://lista.digitalgroup.me:80/Irineu/123456/2394
+ 
+#EXTINF:-1 tvg-logo="https://multicanais.com/wp-content/uploads/2019/05/Assistir-ESPN-2-ao-vivo-online-24-horas.png" group-title="CANAIS DE ESPORTE",ESPN 2
+http://lista.digitalgroup.me:80/Irineu/123456/38416
+ 
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/2879/8776586393_72bd79837b.jpg" group-title="CANAIS DE ESPORTE",ESPN FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26044
+ 
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/2879/8776586393_72bd79837b.jpg" group-title="CANAIS DE ESPORTE",ESPN HD
+http://lista.digitalgroup.me:80/Irineu/123456/1129
+ 
+#EXTINF:-1 tvg-logo="https://live.staticflickr.com/2879/8776586393_72bd79837b.jpg" group-title="CANAIS DE ESPORTE",ESPN
+http://lista.digitalgroup.me:80/Irineu/123456/38387
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/DAZN_LogoInBox_black.svg/768px-DAZN_LogoInBox_black.svg.png" group-title="CANAIS DE ESPORTE",DAZN FUTEBOL HD
+http://lista.digitalgroup.me:80/Irineu/123456/46925
+ 
+#EXTINF:-1 tvg-logo="https://www.paulickreport.com/wp-content/uploads/2019/01/Fox-Sports-2-logo.png" group-title="CANAIS DE ESPORTE",FOX SPORTS 2 FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26031
+ 
+#EXTINF:-1 tvg-logo="https://www.paulickreport.com/wp-content/uploads/2019/01/Fox-Sports-2-logo.png" group-title="CANAIS DE ESPORTE",FOX SPORTS 2 HD
+http://lista.digitalgroup.me:80/Irineu/123456/1031
+ 
+#EXTINF:-1 tvg-logo="https://www.paulickreport.com/wp-content/uploads/2019/01/Fox-Sports-2-logo.png" group-title="CANAIS DE ESPORTE",FOX SPORTS 2
+http://lista.digitalgroup.me:80/Irineu/123456/1717
+ 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5c/50/5e/5c505e36859f936483a675ccba45d50a.png" group-title="CANAIS DE ESPORTE",FOX SPORTS HD
+http://lista.digitalgroup.me:80/Irineu/123456/2391
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="CANAIS DE ESPORTE",SPORTV 3 FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26010
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="CANAIS DE ESPORTE",SPORTV 3 HD
+http://lista.digitalgroup.me:80/Irineu/123456/2402
+ 
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="CANAIS DE ESPORTE",SPORTV 3
+http://lista.digitalgroup.me:80/Irineu/123456/941
+ 
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-38-canal-sportv-2.png" group-title="CANAIS DE ESPORTE",SPORTV 2 HD
+http://lista.digitalgroup.me:80/Irineu/123456/2401
+ 
+#EXTINF:-1 tvg-logo="https://skytvplanos.com.br/img/channels/lg-38-canal-sportv-2.png" group-title="CANAIS DE ESPORTE",SPORTV 2
+http://lista.digitalgroup.me:80/Irineu/123456/22450
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ETSocWlS-qo/VGdm5CfDCoI/AAAAAAAAUMM/O5Q5VnPyLb4/s1600/logo-sportv.jpg" group-title="CANAIS DE ESPORTE",SPORTV FHD
+http://lista.digitalgroup.me:80/Irineu/123456/5067
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ETSocWlS-qo/VGdm5CfDCoI/AAAAAAAAUMM/O5Q5VnPyLb4/s1600/logo-sportv.jpg" group-title="CANAIS DE ESPORTE",SPORTV HD
+http://lista.digitalgroup.me:80/Irineu/123456/1203
+ 
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-ETSocWlS-qo/VGdm5CfDCoI/AAAAAAAAUMM/O5Q5VnPyLb4/s1600/logo-sportv.jpg" group-title="CANAIS DE ESPORTE",SPORTV
+http://lista.digitalgroup.me:80/Irineu/123456/47527
+ 
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/all-sport-03-logo.png" group-title="CANAIS DE ESPORTE",ALL SPORT HD
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://radiorama.com.br/marcas/premiere-fc.jpg" group-title="CANAIS DE ESPORTE",PREMIERE CLUBE FHD
+https://live.multicanais.com/mylive/premiere1hd/chunks.m3u8?md5=KzvwKjzoS8ZPwG6-QIHkDw&expires=1571676593
+ 
+#EXTINF:-1 tvg-logo="http://radiorama.com.br/marcas/premiere-fc.jpg" group-title="CANAIS DE ESPORTE",PREMIERE CLUBE HD
+https://live.multicanais.com/mylive/premiere1sd/chunks.m3u8?md5=cgsHepusYPp_FmOOZbNq4g&expires=1571676395
+ 
+#EXTINF:-1 tvg-logo="http://radiorama.com.br/marcas/premiere-fc.jpg" group-title="CANAIS DE ESPORTE",PREMIERE CLUBE
+https://live.multicanais.com/mylive/premiere1sd/chunks.m3u8?md5=cgsHepusYPp_FmOOZbNq4g&expires=1571676395
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png" group-title="CANAIS DE ESPORTE",PREMIERE FC 9
+http://lista.digitalgroup.me:80/Irineu/123456/41351
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png" group-title="CANAIS DE ESPORTE",PREMIERE FC 8 HD
+http://lista.digitalgroup.me:80/Irineu/123456/38359
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png" group-title="CANAIS DE ESPORTE",PREMIERE FC 7 HD
+http://lista.digitalgroup.me:80/Irineu/123456/30379
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png" group-title="CANAIS DE ESPORTE",PREMIERE FC 7
+http://lista.digitalgroup.me:80/Irineu/123456/30379
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png" group-title="CANAIS DE ESPORTE",PREMIERE FC 6 FHD
+http://lista.digitalgroup.me:80/Irineu/123456/18024
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png" group-title="CANAIS DE ESPORTE",PREMIERE FC 6 HD
+http://lista.digitalgroup.me:80/Irineu/123456/16211
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png" group-title="CANAIS DE ESPORTE",PREMIERE FC 6
+http://lista.digitalgroup.me:80/Irineu/123456/25757
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png" group-title="CANAIS DE ESPORTE",PREMIERE FC 5 FHD
+http://lista.digitalgroup.me:80/Irineu/123456/5064
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png" group-title="CANAIS DE ESPORTE",PREMIERE FC 5 HD
+http://lista.digitalgroup.me:80/Irineu/123456/1216
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png" group-title="CANAIS DE ESPORTE",PREMIERE FC 5
+http://lista.digitalgroup.me:80/Irineu/123456/25242
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png" group-title="CANAIS DE ESPORTE",PREMIERE FC 4 FHD
+http://lista.digitalgroup.me:80/Irineu/123456/1215
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png" group-title="CANAIS DE ESPORTE",PREMIERE FC 4 HD
+http://lista.digitalgroup.me:80/Irineu/123456/38794
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png" group-title="CANAIS DE ESPORTE",PREMIERE FC 3 FHD
+https://live.multicanais.com/mylive/premiere3sd/chunks.m3u8?md5=323zpwCdxYe1Jv_EwLk7Uw&expires=1571676265
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png" group-title="CANAIS DE ESPORTE",PREMIERE FC 3 HD
+https://live.multicanais.com/mylive/premiere3sd/chunks.m3u8?md5=323zpwCdxYe1Jv_EwLk7Uw&expires=1571676265
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png" group-title="CANAIS DE ESPORTE",PREMIERE FC 3
+http://lista.digitalgroup.me:80/Irineu/123456/25238
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png" group-title="CANAIS DE ESPORTE",PREMIERE FC 2 FHD
+http://lista.digitalgroup.me:80/Irineu/123456/5062
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png" group-title="CANAIS DE ESPORTE",PREMIERE FC 2 HD
+http://lista.digitalgroup.me:80/Irineu/123456/1213
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png" group-title="CANAIS DE ESPORTE",PREMIERE FC 2
+http://lista.digitalgroup.me:80/Irineu/123456/25254
+ 
+##########################################################  VARIADOS  #################################################
+ 
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/226x170xus-bloomberg-tv-europe.jpg.pagespeed.ic.DS9OzbRt-r.jpg" group-title="VARIADOS",BLOOMBERG
+http://104.160.173.2:1944/live/pt_G0RLUgT7yJwcFtzfOrWVXj8N_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_vWJiavmWBYx8&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=36557b1d653574d7314a4a5755cee3f0
+ 
+#EXTINF:-1 tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/TLCHD.png" group-title="VARIADOS",TLC HD
+http://lista.digitalgroup.me:80/Irineu/123456/5097
+ 
+#EXTINF:-1 tvg-logo="https://static.telus.com/common/cms/images/tv/satellite/new-channel-logos/TLCHD.png" group-title="VARIADOS",TLC
+http://lista.digitalgroup.me:80/Irineu/123456/922
+ 
+#EXTINF:-1 tvg-logo="https://sigaband.files.wordpress.com/2013/11/8502a-arte_1_logo-svg.png" group-title="VARIADOS",ARTE 1 HD
+http://104.160.173.2:1944/live/cyp_ozc7SQ9BcRT2MOBhxmpk_480p.ts?user_id=8740992&dev_id=956d7b725dad5f4240c202a0e7541e63&trans_id=b4AA9OnRF9oa_mJrHs33txVLu&dead_time=1571420403&app_id=com.mobile.brasiltvmobile&host=104.160.173.2:1944&app_ver=20903&client_ip=186.221.160.115&auth_id=8740992m&dev_limit=1&token=5acdbb1e701314c7648d9a044a408587
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-afg4AA1ihZs/WacphiEZsKI/AAAAAAAA-Nk/tH6tqCqmT3A-i8e7mn6EtQBIZ0FTYqBrgCLcBGAs/s640/curta.png" group-title="VARIADOS",CURTA!
+https://tvweb.xyz:25463/live/Inter/GanhouKKKK/92.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQutl7rEq3D83yfrOXG0AKdm0MO55B490Q1q2JWB3gNs0C3QNQr" group-title="VARIADOS",FOOD NETWORK FHD
+http://lista.digitalgroup.me:80/Irineu/123456/26041
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQutl7rEq3D83yfrOXG0AKdm0MO55B490Q1q2JWB3gNs0C3QNQr" group-title="VARIADOS",FOOD NETWORK HD
+http://lista.digitalgroup.me:80/Irineu/123456/5084
+ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQutl7rEq3D83yfrOXG0AKdm0MO55B490Q1q2JWB3gNs0C3QNQr" group-title="VARIADOS",FOOD NETWORK
+http://lista.digitalgroup.me:80/Irineu/123456/1049
+ 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-feHzefEvdiE/WQ986xkBehI/AAAAAAAA4iY/RoxBwHDgMUMRUdWmLSStCNzbtfqPLejvwCLcB/s640/off.PNG" group-title="VARIADOS",CANAL OFF HD
+http://lista.digitalgroup.me:80/Irineu/123456/2471
+ 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-feHzefEvdiE/WQ986xkBehI/AAAAAAAA4iY/RoxBwHDgMUMRUdWmLSStCNzbtfqPLejvwCLcB/s640/off.PNG" group-title="VARIADOS",CANAL OFF
+http://lista.digitalgroup.me:80/Irineu/123456/28420
+ 
+#EXTINF:-1 tvg-logo="http://nicholasanthony.com/blog/wp-content/uploads/2014/12/287854-comedy-central.jpg" group-title="VARIADOS",COMEDY CENTRAL FHD
+http://lista.digitalgroup.me:80/Irineu/123456/46902
+ 
+#EXTINF:-1 tvg-logo="http://nicholasanthony.com/blog/wp-content/uploads/2014/12/287854-comedy-central.jpg" group-title="VARIADOS",COMEDY CENTRAL HD
+http://lista.digitalgroup.me:80/Irineu/123456/16004
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1145744502398652417/CBsTjFYg_400x400.png" group-title="VARIADOS",E!
+https://tvweb.xyz:25463/live/Internacional/GanhouKKKK/95.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://faleconosco.net.br/wp-content/uploads/2018/05/GNT-contato.jpg" group-title="VARIADOS",GNT FHD
+http://lista.digitalgroup.me:80/Irineu/123456/46910
+ 
+#EXTINF:-1 tvg-logo="https://faleconosco.net.br/wp-content/uploads/2018/05/GNT-contato.jpg" group-title="VARIADOS",GNT HD
+http://lista.digitalgroup.me:80/Irineu/123456/2466
+ 
+#EXTINF:-1 tvg-logo="https://faleconosco.net.br/wp-content/uploads/2018/05/GNT-contato.jpg" group-title="VARIADOS",GNT
+http://lista.digitalgroup.me:80/Irineu/123456/24290
+ 
+#EXTINF:-1 tvg-logo="https://www.tvjamie.com/wp-content/uploads/2017/11/TBS.jpg" group-title="VARIADOS",TBS HD
+http://lista.digitalgroup.me:80/Irineu/123456/2473
+ 
+#EXTINF:-1 tvg-logo="https://ler9.files.wordpress.com/2012/03/canal_viva_logo.png" group-title="VARIADOS",VIVA FHD
+http://lista.digitalgroup.me:80/Irineu/123456/48796
+ 
+#EXTINF:-1 tvg-logo="https://ler9.files.wordpress.com/2012/03/canal_viva_logo.png" group-title="VARIADOS",VIVA HD
+http://lista.digitalgroup.me:80/Irineu/123456/2476
+ 
+#EXTINF:-1 tvg-logo="https://ler9.files.wordpress.com/2012/03/canal_viva_logo.png" group-title="VARIADOS",VIVA
+http://lista.digitalgroup.me:80/Irineu/123456/23984
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/2583554872/s7c23bso0t4dawky6wk9_400x400.jpeg" group-title="VARIADOS",CINE SKY
+https://tvweb.xyz:25463/live/Milao/Juventus/45.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="VARIADOS",TV CULTURA
+http://stream.tvitarare.com.br/hls/site/site.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_XGn-mWQCm6I/Rw_Io_uO7eI/AAAAAAAAC_k/wi1V6CPygus/s400/tv-escola.jpg" group-title="VARIADOS",TV ESCOLA
+https://tinyurl.com/yxpzxc77
+ 
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-GnSERiwoI_4/V-23Y8if0iI/AAAAAAAACcM/oLW_QF8pmxM3jfhm-eHsiv5rdciEDX3TwCLcB/s1600/photo.jpg" group-title="VARIADOS",ARIRANG TV
+http://painel.ebanonet.com.br:25461/live/CesarPP/HcyiVCdPyY/4407.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79-DE92UAiatA9n-ImXceh2Gaw4_J_rot8WMw=s400-c-k-c0xffffffff-no-rj-mo" group-title="VARIADOS",WOOHOO HD
+http://lista.digitalgroup.me:80/Irineu/123456/16214
