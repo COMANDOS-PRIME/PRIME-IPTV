@@ -1,0 +1,7 @@
+# EXTM3U
+#PLAYLISTV: pltv-logo = "https://ap.imagensbrasil.org/images/2019/10/22/CAPA-PLAYLISTV.jpg" pltv-name = "TÍTULO DA LISTA" pltv-description = "Lista IPTV" pltv-cover = "XXX CAPA DA LISTA XXX" pltv -author = "COMANDOS PRIME" pltv-site = "XXX SITE CASO HOUVER XXX" pltv-email = "fuzileirolopes@hotail.com"
+#
+#EXTINF: -1 group-title = "Canais Abertos" pltv-subgrupo = "CAB" tvg-logo = "http://i65.tinypic.com/33p7vox.png", Agro Canal
+https://5c49cd60dfe56.streamlock.net:6443/agrocanal/live/playlist.m3u8
+#EXTINF: -1 group-title = "Canais Abertos" pltv-subgrupo = "CAB" tvg-logo = "http://i66.tinypic.com/dp926u.png", AgroBrasilTV
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
