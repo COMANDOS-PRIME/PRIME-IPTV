@@ -13,3 +13,12 @@ avi,SERIE: Gotham S04 E16,http://main.icontv.in:80/series/COMANDOS/PIME285/39147
 avi,SERIE: Gotham S04 E17,http://main.icontv.in:80/series/COMANDOS/PIME285/39146.mp4
 avi,SERIE: Gotham S04 E18,http://main.icontv.in:80/series/COMANDOS/PIME285/39145.mp4
 avi,SERIE: Gotham S04 E19,http://main.icontv.in:80/series/COMANDOS/PIME285/39144.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: Frontier S02 E05" tvg-logo="http://main.icontv.in:80/images/mhIeCeYgG4WJHNzaw2EyRpvmGX8_small.jpg" group-title="SERIES",SERIE: Frontier S02 E05
+http://main.icontv.in:80/series/COMANDOS/PIME285/25791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: Frontier S02 E06" tvg-logo="http://main.icontv.in:80/images/mhIeCeYgG4WJHNzaw2EyRpvmGX8_small.jpg" group-title="SERIES",SERIE: Frontier S02 E06
+http://main.icontv.in:80/series/COMANDOS/PIME285/25790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: Frontier S03 E01" tvg-logo="http://main.icontv.in:80/images/msxXLleUk32IgIT8eQZiNhm9Z08_small.jpg" group-title="SERIES",SERIE: Frontier S03 E01
+http://main.icontv.in:80/series/COMANDOS/PIME285/50692.mkv
+#EXTINF:-1 tvg-id="" tvg-name="SERIE: Frontier S03 E02" tvg-logo="http://main.icontv.in:80/images/jD09jbNMcXROcrIayknPBzv8GLf_small.jpg" group-title="SERIES",SERIE: Frontier S03 E02
+http://main.icontv.in:80/series/COMANDOS/PIME285/50693.mkv
