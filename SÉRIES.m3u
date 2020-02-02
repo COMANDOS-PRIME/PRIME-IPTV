@@ -1,613 +1,1351 @@
 #EXTM3U
- 
-####################################################################################################################################
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/cone-icon-transparent.png" group-title="INFORMAÇÕES",💜❤💛💚💙📺🎬 SÉRIES 🎬📺💙💚💛❤💜
+
+#####################################################################################################################################
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/0194002fc029bc9c95.png" group-title="INFORMAÇÕES",💜❤💛💚💙📺🎬 SÉRIES 🎬📺💙💚💛❤💜
 https://ap.imagensbrasil.org/images/2019/10/17/2018_Ready_Player_One_4K_HD_Movies_1366x768.jpg
  
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/media_player_classic.png" group-title="INFORMAÇÕES",💜❤💛💚💙📺📽 AS  MELHORES  SÉRIES  EM  SUAS  MÃOS 📽📺💙💚💛❤💜
-http://impromptu.sul21.com.br/wp-content/uploads/2016/11/series-1.jpg
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/02.png" group-title="INFORMAÇÕES",💜❤💛💚💙📺📽 AS  MELHORES  SÉRIES  EM  SUAS  MÃOS 📽📺💙💚💛❤💜
+http://impromptu.sul21.com.br/wp-content/uploads/2016/11/series-1.jpg 
 #####################################################################################################################################
+###################################################### PUBLICIDADE - OFERTAS & PRODUTOS
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/0170588226fb2dbc96.png"group-title="PUBLICIDADE - OFERTAS & PROMOÇÕES",MANDE SUA PROPAGANDA ( PARA LHE AJUDAR )
+https://ap.imagensbrasil.org/images/2019/12/04/Imagem-destacada-1.jpg
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/PIZZARIA-SOBEL.jpg"group-title="PUBLICIDADE - OFERTAS & PROMOÇÕES",PIZZARIA SOBEL ( GOSTOSO COMO UM BEIJO )
+https://ap.imagensbrasil.org/images/2020/01/06/SOBEL-PIZZA-02.jpg
+
+######################################################  ##########  ##################################################
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
+
 ######################################################  AAAAAAAAAA  ##################################################
- 
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
+
 ######################################################  BBBBBBBBBB  ##################################################
-########################  BREAKING BAD ###############
+###################################################### ( BREAKING BAD )
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD.jpg" group-title="BREAKING BAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 01 - Piloto
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT01EP01.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD.jpg" group-title="BREAKING BAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 02 - Ressurreição
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT01EP02.mp4
- 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD.jpg" group-title="BREAKING BAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 03 - Dúvida
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD.jpg" group-title="BREAKING BAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 03 - Dúvida 
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT01EP03.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD.jpg" group-title="BREAKING BAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 04 - Homem com Câncer
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT01EP04.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD.jpg" group-title="BREAKING BAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 05 - Matéria Cinzenta
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT01EP05.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD.jpg" group-title="BREAKING BAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 06 - O Grande Blefe
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT01EP06.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD.jpg" group-title="BREAKING BAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 07 - Um Trato Sem Dificuldades
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT01EP07.mp4
-################################################################
+
+###################################################### (2)
+
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 01 - 07:37
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP01.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 02 - Grelhado
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP02.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 03 - Picado Por Uma Abelha Morta
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP03.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 04 - Abaixo
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP04.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 05 - Ruptura
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP05.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 06 - Esconde-esconde
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP06.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 07 - Preto e Azul
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP07.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 08 - Melhor Chamar Saul
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP08.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 09 - 4 Dias Fora
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP09.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 10 - Sobre
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP10.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 11 - Mandala
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP11.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 12 - Fênix
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP12.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 13 - ABQ
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP13.mp4
-###############################################################
+
+###################################################### (3)
+
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 01 - Não Mas
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP01.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 02 - Caballo Sin Nombre
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP02.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 03 - I.F.T
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP03.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 04 - Luz Verde
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP04.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 05 - Mas
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP05.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 06 - Pôr do Sol
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP06.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 07 - Um Minuto
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP07.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 08 - Vejo Você
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP08.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 09 - Kafkiano
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP09.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 10 - Voar
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP10.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 11 - Abiquiu
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP11.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 12 - Meias Medidas
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP12.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 13 - Medidas Completa
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP13.mp4
-#################################################################
+
+###################################################### (4)
+
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 01 - Estilete
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP01.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 02 - Trinta e Oito Arrebitado
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP02.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 03 - Casa Aberta
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP03.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 04 - Pontos de Bala
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP04.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 05 - Espingarda
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP05.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 06 - Encurralado
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP06.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 07 - Cão Problema
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP07.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 08 - Irmãos
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP08.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 09 - Defeito
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP09.mp4
- 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-
-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 10 - Saúde
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 10 - Saúde
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP10.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 11 - Espaço do Rastejamento
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP11.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 12 - Fim dos Tempos
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP12.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 13 - Cara Fora
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP13.mp4
-################################################################
+
+###################################################### (5)
+
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 01 - Ao Vivo Livre ou Morrer
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT05EP01.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 02 - Madrigal
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT05EP02.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 03 - Subsídio de Risco
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT05EP03.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 04 - Cinquenta e Um
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT05EP04.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 05 - Frete Morto
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT05EP05.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 06 - PDV
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT05EP06.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 07 - Diga Meu Nome
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT05EP07.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 08 - Pairando Sobre Tudo
 http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT05EP08.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 09 - Dinheiro de Sangue
 http://cdnfe3.azureedge.net/RCServer07/ondemand/BBT05EP09.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 10 - Enterrado
 http://cdnfe3.azureedge.net/RCServer07/ondemand/BBT05EP10.mp4
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 11 - Confissões
 http://cdnfe3.azureedge.net/RCServer07/ondemand/BBT05EP11.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 12 - Cão Raivoso
 http://cdnfe3.azureedge.net/RCServer07/ondemand/BBT05EP12.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 13 - To'hajiilee
 http://cdnfe3.azureedge.net/RCServer07/ondemand/BBT05EP13.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 14 - Ozymandias
 http://cdnfe3.azureedge.net/RCServer07/ondemand/BBT05EP14.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 15 - Estado de granito
 http://cdnfe3.azureedge.net/RCServer07/ondemand/BBT05EP15.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 16 - Felina
 http://cdnfe3.azureedge.net/RCServer07/ondemand/BBT05EP16.mp4
- 
+
 ######################################################  CCCCCCCCCC  ##################################################
- 
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
 ######################################################  DDDDDDDDDD  ##################################################
- 
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
 ######################################################  EEEEEEEEEE  ##################################################
- 
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
 ######################################################  FFFFFFFFFF  ##################################################
- 
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
 ######################################################  GGGGGGGGGG  ##################################################
-###################  GAME OF THRONES  ################
+###################################################### ( GAME OF THRONES )
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES.jpg" group-title="GAME OF THRONES" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 01 - O Inverno Está Chegando
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT01EP01.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES.jpg" group-title="GAME OF THRONES" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 02 - A Estrada Real
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT01EP02.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES.jpg" group-title="GAME OF THRONES" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 03 - Senhor da Neve
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT01EP03.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES.jpg" group-title="GAME OF THRONES" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 04 - Aleijados Bastardos e Coisas Quebradas
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT01EP04.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES.jpg" group-title="GAME OF THRONES" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 05 - O Lobo e o Leão
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT01EP05.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES.jpg" group-title="GAME OF THRONES" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 06 - Uma Coroa Dourada
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT01EP06.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES.jpg" group-title="GAME OF THRONES" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 07 - É Vencer ou Morrer
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT01EP07.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES.jpg" group-title="GAME OF THRONES" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 08 - O Ponto Final
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT01EP08.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES.jpg" group-title="GAME OF THRONES" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 09 - Baelor
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT01EP09.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES.jpg" group-title="GAME OF THRONES" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 10 - Fogo e Sangue
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT01EP10.mp4
-#################################################################
+
+###################################################### (2)
+
 #EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/420/098/full/GAME_OF_THRONES_2.jpg?1571111917" group-title="GAME OF THRONES" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 01 - O Norte Se Lembra
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT02EP01.mp4
- 
 #EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/420/098/full/GAME_OF_THRONES_2.jpg?1571111917" group-title="GAME OF THRONES" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 02 - As Terras da Noite
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT02EP02.mp4
- 
 #EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/420/098/full/GAME_OF_THRONES_2.jpg?1571111917" group-title="GAME OF THRONES" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 03 - O Que Está Morto Nunca Pode Morrer
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT02EP03.mp4
- 
 #EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/420/098/full/GAME_OF_THRONES_2.jpg?1571111917" group-title="GAME OF THRONES" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 04 - Jardim dos Ossos
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT02EP04.mp4
- 
 #EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/420/098/full/GAME_OF_THRONES_2.jpg?1571111917" group-title="GAME OF THRONES" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 05 - O Espírito de Harrenhal
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT02EP05.mp4
- 
 #EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/420/098/full/GAME_OF_THRONES_2.jpg?1571111917" group-title="GAME OF THRONES" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 06 - Os Deuses Antigos e Novos
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT02EP06.mp4
- 
 #EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/420/098/full/GAME_OF_THRONES_2.jpg?1571111917" group-title="GAME OF THRONES" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 07 - Um Homem Sem Honra
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT02EP07.mp4
- 
 #EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/420/098/full/GAME_OF_THRONES_2.jpg?1571111917" group-title="GAME OF THRONES" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 08 - O Príncipe de Winterfell
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT02EP08.mp4
- 
 #EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/420/098/full/GAME_OF_THRONES_2.jpg?1571111917" group-title="GAME OF THRONES" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 09 - A Água Negra
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT02EP09.mp4
- 
 #EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/420/098/full/GAME_OF_THRONES_2.jpg?1571111917" group-title="GAME OF THRONES" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 10 - Valar Morghulis
 http://cdnfe2.azureedge.net/RCServer01/videos/GMOFTRT02EP10.mp4
-###############################################################
+
+###################################################### (3)
+
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-3.jpg" group-title="GAME OF THRONES" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 01 - Valar Dohaeris
 http://cdnfe2.azureedge.net/RCServer04/ondemand/GMOFTRT03EP01.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-3.jpg" group-title="GAME OF THRONES" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 02 - Asas Escuras Palavras Escuras
 http://cdnfe2.azureedge.net/RCServer04/ondemand/GMOFTRT03EP02.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-3.jpg" group-title="GAME OF THRONES" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 03 - Passeio da Punição
 http://cdnfe2.azureedge.net/RCServer04/ondemand/GMOFTRT03EP03.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-3.jpg" group-title="GAME OF THRONES" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 04 - E Agora Seu Relógio é Encerrado
 http://cdnfe2.azureedge.net/RCServer04/ondemand/GMOFTRT03EP04.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-3.jpg" group-title="GAME OF THRONES" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 05 - Kissed Por Fogo
 http://cdnfe2.azureedge.net/RCServer04/ondemand/GMOFTRT03EP05.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-3.jpg" group-title="GAME OF THRONES" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 06 - A Subida
 http://cdnfe2.azureedge.net/RCServer05/ondemand/GMOFTRT03EP06.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-3.jpg" group-title="GAME OF THRONES" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 07 - O Urso e a Bela Donzela
 http://cdnfe2.azureedge.net/RCServer05/ondemand/GMOFTRT03EP07.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-3.jpg" group-title="GAME OF THRONES" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 08 - Segundos Filhos
 http://cdnfe2.azureedge.net/RCServer05/ondemand/GMOFTRT03EP08.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-3.jpg" group-title="GAME OF THRONES" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 09 - As Chuvas de Castamere
 http://cdnfe2.azureedge.net/RCServer05/ondemand/GMOFTRT03EP09.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-3.jpg" group-title="GAME OF THRONES" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 10 - Mhysa
 http://cdnfe2.azureedge.net/RCServer05/ondemand/GMOFTRT03EP10.mp4
-#####################################################################
+
+###################################################### (4)
+
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-4.jpg" group-title="GAME OF THRONES" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 00 - Gelo e Fogo um Prenúncio
 http://cdnfe2.azureedge.net/RCServer06/ondemand/GMOFTRS04EP00.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-4.jpg" group-title="GAME OF THRONES" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 01 - Duas Espadas
 http://cdnfe3.azureedge.net/RCServer07/ondemand/GMOFTRT04EP01.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-4.jpg" group-title="GAME OF THRONES" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 02 - O Leão e a Rosa
 http://cdnfe3.azureedge.net/RCServer07/ondemand/GMOFTRT04EP02.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-4.jpg" group-title="GAME OF THRONES" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 03 - Quebra das Correntes
 http://cdnfe3.azureedge.net/RCServer07/ondemand/GMOFTRT04EP03.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-4.jpg" group-title="GAME OF THRONES" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 04 - Oathkeeper
 http://cdnfe3.azureedge.net/RCServer07/ondemand/GMOFTRT04EP04.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-4.jpg" group-title="GAME OF THRONES" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 05 - Primeiro do Seu Nome
 http://cdnfe3.azureedge.net/RCServer07/ondemand/GMOFTRT04EP05.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-4.jpg" group-title="GAME OF THRONES" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 06 - As Leis de Deuses e dos Homens
 http://cdnfe3.azureedge.net/RCServer08/ondemand/GMOFTRT04EP06.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-4.jpg" group-title="GAME OF THRONES" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 07 - Harpia
 http://cdnfe3.azureedge.net/RCServer08/ondemand/GMOFTRT04EP07.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-4.jpg" group-title="GAME OF THRONES" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 08 - A Montanha e o Víbora
 http://cdnfe3.azureedge.net/RCServer08/ondemand/GMOFTRT04EP08.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-4.jpg" group-title="GAME OF THRONES" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 09 - Os Vigilantes na Parede
 http://cdnfe3.azureedge.net/RCServer08/ondemand/GMOFTRT04EP09.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/GAME-OF-THRONES-4.jpg" group-title="GAME OF THRONES" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 10 - As Crianças
 http://cdnfe3.azureedge.net/RCServer08/ondemand/GMOFTRT04EP10.mp4
-####################################################################
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/18/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 00 - Um Dia na Vida
+
+###################################################### (5)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 00 - Um Dia na Vida
 http://cdnfe3.azureedge.net/RCServer09/ondemand/GMOFTRS05EP00.mp4
- 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/18/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 01 - As Guerras Que Virão
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 01 - As Guerras Que Virão
 http://cdnfe3.azureedge.net/RCServer09/ondemand/GMOFTRT05EP01.mp4
- 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/18/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 02 - A Casa do Preto e Branco
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 02 - A Casa do Preto e Branco
 http://cdnfe3.azureedge.net/RCServer09/ondemand/GMOFTRT05EP02.mp4
- 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/18/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 03 - Alto Pardal
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 03 - Alto Pardal
 http://cdnfe3.azureedge.net/RCServer09/ondemand/GMOFTRT05EP03.mp4
- 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/18/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 04 - Os Filhos da Harpia
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 04 - Os Filhos da Harpia
 http://cdnfe3.azureedge.net/RCServer09/ondemand/GMOFTRT05EP04.mp4
- 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/18/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 05 - Mate o Garoto
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 05 - Mate o Garoto
 http://cdnfe3.azureedge.net/RCServer09/ondemand/GMOFTRT05EP05.mp4
- 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/18/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 06 - Insubmissos Não Curvados Não Quebrados
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 06 - Insubmissos Não Curvados Não Quebrados
 http://cdnfe3.azureedge.net/RCServer09/ondemand/GMOFTRT05EP06.mp4
- 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/18/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 07 - A Dádiva
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 07 - A Dádiva
 http://cdnfe3.azureedge.net/RCServer09/ondemand/GMOFTRT05EP07.mp4
- 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/18/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 08 - Durolar
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 08 - Durolar
 http://cdnfe3.azureedge.net/RCServer09/ondemand/GMOFTRT05EP08.mp4
- 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/18/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 09 - A Dança dos Dragões
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 09 - A Dança dos Dragões
 http://cdnfe3.azureedge.net/RCServer09/ondemand/GMOFTRT05EP09.mp4
- 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/18/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 10 - Misericórdia da Mãe
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/GAME-OF-THRONES-5.jpg" group-title="GAME OF THRONES" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 10 - Misericórdia da Mãe
 http://cdnfe3.azureedge.net/RCServer09/ondemand/GMOFTRT05EP10.mp4
-#####################################################################
+
+###################################################### (6)
+
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-6.jpg" group-title="GAME OF THRONES" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 01 - A Dama de Vermelho
 http://cdnfe3.azureedge.net/RCServer10/ondemand/GMOFTRT06EP01.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-6.jpg" group-title="GAME OF THRONES" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 02 - Casa
 http://cdnfe3.azureedge.net/RCServer10/ondemand/GMOFTRT06EP02.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-6.jpg" group-title="GAME OF THRONES" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 03 - Traidor
 http://cdnfe3.azureedge.net/RCServer10/ondemand/GMOFTRT06EP03.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-6.jpg" group-title="GAME OF THRONES" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 04 - Livro do Estranho
 http://cdnfe3.azureedge.net/RCServer10/ondemand/GMOFTRT06EP04.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-6.jpg" group-title="GAME OF THRONES" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 05 - A Porta
 http://cdnfe3.azureedge.net/RCServer10/ondemand/GMOFTRT06EP05.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-6.jpg" group-title="GAME OF THRONES" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 06 - Sangue do Meu Sangue
 http://cdnfe3.azureedge.net/RCServer10/ondemand/GMOFTRT06EP06.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-6.jpg" group-title="GAME OF THRONES" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 07 - O Homem Quebrado
 http://cdnfe3.azureedge.net/RCServer10/ondemand/GMOFTRT06EP07.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-6.jpg" group-title="GAME OF THRONES" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 08 - Ninguém
 http://cdnfe3.azureedge.net/RCServer10/ondemand/GMOFTRT06EP08.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-6.jpg" group-title="GAME OF THRONES" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 09 - A Batalha dos Desgraçados
 http://cdnfe3.azureedge.net/RCServer10/ondemand/GMOFTRT06EP09.mp4
- 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-6.jpg" group-title="GAME OF THRONES" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 10 - Os Ventos do Inverno
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-6.jpg" group-title="GAME OF THRONES" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 10 - Os Ventos do Inverno 
 http://cdnfe3.azureedge.net/RCServer10/ondemand/GMOFTRT06EP10.mp4
-#######################################################################
+
+###################################################### (7)
+
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-7.jpg" group-title="GAME OF THRONES" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 01 - Pedra do Dragão
 http://cdnfe2.azureedge.net/RCServer05/ondemand/GMOFTRT07EP01.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-7.jpg" group-title="GAME OF THRONES" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 02 - Nascida da Tormenta
 http://cdnfe2.azureedge.net/RCServer05/ondemand/GMOFTRT07EP02.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-7.jpg" group-title="GAME OF THRONES" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 03 - A Justiça da Rainha
 http://cdnfe2.azureedge.net/RCServer05/ondemand/GMOFTRT07EP03.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-7.jpg" group-title="GAME OF THRONES" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 04 - Os Despojos da Guerra
 http://cdnfe3.azureedge.net/RCServer09/ondemand/GMOFTRT07EP04.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-7.jpg" group-title="GAME OF THRONES" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 05 - Atalaialeste
 http://cdnfe3.azureedge.net/RCServer09/ondemand/GMOFTRT07EP05.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-7.jpg" group-title="GAME OF THRONES" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 06 - Além da Muralha
 http://cdnfe3.azureedge.net/RCServer09/ondemand/GMOFTRT07EP06.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-7.jpg" group-title="GAME OF THRONES" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 07 - O Dragão e o Lobo
 http://cdnfe3.azureedge.net/RCServer09/ondemand/GMOFTRT07EP07.mp4
-############################################################################
+
+###################################################### (8)
+
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-8.jpg" group-title="GAME OF THRONES" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 01 - Winterfell
 http://cdnfe2.azureedge.net/RCServer06/ondemand/GMOFTRT08Ep01.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-8.jpg" group-title="GAME OF THRONES" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 02 - Uma Cavaleira do Sete Reinos
 http://cdnfe2.azureedge.net/RCServer06/ondemand/GMOFTRT08EP02.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-8.jpg" group-title="GAME OF THRONES" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 03 - Batalha dos Mortos
 http://cdnfe2.azureedge.net/RCServer06/ondemand/GMOFTRT08EP03.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-8.jpg" group-title="GAME OF THRONES" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 04 - Inimigos no Norte
 http://cdnfe2.azureedge.net/RCServer06/ondemand/GMOFTRT08EP04.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-8.jpg" group-title="GAME OF THRONES" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 05 - A Guerra dos Tronos
 http://cdnfe2.azureedge.net/RCServer06/ondemand/GMOFTRT08EP05.mp4
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/GAME-OF-THRONES-8.jpg" group-title="GAME OF THRONES" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 06 - Um Sonho de Primavera
 http://cdnfe2.azureedge.net/RCServer06/ondemand/GMOFTRT08EP06.mp4
- 
+
 ######################################################  HHHHHHHHHH  ##################################################
- 
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
 ######################################################  IIIIIIIIII  ##################################################
- 
+###################################################### ( IRMÃOS FREITAS )
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/IRMAOS-FREITAS-01.jpg" group-title="IRMÃOS FREITAS" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 01
+http://cdnfe2.azureedge.net/RCServer12/ondemand/IRMSFRTST01EP01.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/IRMAOS-FREITAS-01.jpg" group-title="IRMÃOS FREITAS" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 02
+http://cdnfe2.azureedge.net/RCServer12/ondemand/IRMSFRTST01EP02.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/IRMAOS-FREITAS-01.jpg" group-title="IRMÃOS FREITAS" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
+
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
 ######################################################  JJJJJJJJJJ  ##################################################
- 
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
 ######################################################  KKKKKKKKKK  ##################################################
- 
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
 ######################################################  LLLLLLLLLL  ##################################################
- 
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
 ######################################################  MMMMMMMMMM  ##################################################
- 
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
 ######################################################  NNNNNNNNNN  ##################################################
- 
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
 ######################################################  OOOOOOOOOO  ##################################################
- 
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
+
 ######################################################  PPPPPPPPPP  ##################################################
- 
+###################################################### ( PRISON BREAK )
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 01 - Em Busca da Verdade (Piloto)
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP01.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 02 - Acerto de Contas
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP02.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 03 - Teste do Celular
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP03.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 04 - A Volta de Sucre
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP04.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 05 - A Transferência
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP05.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 06 - A Rebelião 1ª Parte
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP06.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 07 - A Rebelião 2ª Parte
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP07.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 08 - Perseguição
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP08.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 09 - Um Novo Chefe
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP09.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 10 - De Volta ao Plano de Fuga
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP10.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 11 - 7 é Demais
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP11.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 12 - Perdão Fatal
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP12.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 13 - O Fim do Tunel
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP13.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 14 - O Rato
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP14.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 15 - O Adiamento
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP15.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 16 - O Guardião do Irmão
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP16.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 17 - O Surto
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP17.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 18 - O Blefe
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP18.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 19 - A Chave
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP19.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 20 - A Segunda Fuga
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP20.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 21 - A Noite da Fuga
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP21.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK.jpg" group-title="PRISON BREAK" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 22 - A Reta Final
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT01EP22.mp4
+
+###################################################### (2)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 01 - Caçada Humana
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP01.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 02 - Tentativa de Resgate
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP02.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 03 - Perseguição
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP03.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 04 - Primeiro a Morrer
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP04.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 05 - Mapa 1213
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP05.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 06 - Subdivisão
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP06.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 07 - Enterrado
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP07.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 08 - Armadilha Mortal
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP08.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 09 - Desenterrado
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP09.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 10 - Ponto de Encontro
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP10.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 11 - Bolshoi Booze
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP11.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 12 - Separação
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP12.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 13 - Encurralados
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP13.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 14 - João Ninguém
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP14.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 15 - A Mensagem
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP15.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 16 - Chicago
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP16.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 17 - Sangue Ruim
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP17.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 18 - O Acordo
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP18.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 19 - Doce Caroline
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP19.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 20 - Panamá
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP20.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 21 - Fim do Caminho
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP21.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-2.jpg" group-title="PRISON BREAK" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 22 - A Volta
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT02EP22.mp4
+
+###################################################### (3)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-3.jpg" group-title="PRISON BREAK" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 01 - Orientação (Sona)
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP01.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-3.jpg" group-title="PRISON BREAK" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 02 - Fogo e Água
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP02.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-3.jpg" group-title="PRISON BREAK" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 03 - O Telefonema
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP03.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-3.jpg" group-title="PRISON BREAK" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 04 - A Cerca
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP04.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-3.jpg" group-title="PRISON BREAK" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 05 - Interferência
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP05.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-3.jpg" group-title="PRISON BREAK" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 06 - As Fotos
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP06.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-3.jpg" group-title="PRISON BREAK" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 07 - A Fuga
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP07.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-3.jpg" group-title="PRISON BREAK" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 08 - Tentativa de Fuga
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP08.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-3.jpg" group-title="PRISON BREAK" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 09 - Tentativa Frustrada
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP09.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-3.jpg" group-title="PRISON BREAK" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 10 - Por Um Fio
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP10.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-3.jpg" group-title="PRISON BREAK" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 11 - Fuga Noturna
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP11.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-3.jpg" group-title="PRISON BREAK" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 12 - Inferno ou Alto-Mar
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP12.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-3.jpg" group-title="PRISON BREAK" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 13 - A Arte de Negociar
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT03EP13.mp4
+
+###################################################### (4)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 01/02 - Scylla / A Invasão
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP01-02.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 03 - A Busca Continua
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP03.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 04 - Águias e Anjos
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP04.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 05 - Sã e Salva
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP05.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 06 - O Erro
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP06.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 07 - O Quinto Cartão
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP07.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 08 - O Preço
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP08.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 09 - Resultado Inesperado
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP09.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 10 - A Planta
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP10.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 11 - Rebelião Silenciosa
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP11.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 12 - Altruísmo
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP12.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 13 - O Trato
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP13.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 14 - Apenas Negócios
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP14.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 15 - Experiência de Vida e Morte
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP15.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 16 - O Estado Ensolarado
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP16.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 17 - Traição
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP17.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 18 - VS
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP18.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 19 - A Conferência
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP19.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 20 - Mocinhos e Bandidos
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP20.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 21 - A Troca
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP21.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 22 - A Verdade Revelada
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP22.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/01/PRISON-BREAK-4.jpg" group-title="PRISON BREAK" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 23/24 - A Velha Esfera / Cadeia e Livres
+http://cdnfe2.azureedge.net/RCServer01/videos/PRBKT04EP23-24.mp4
+
+###################################################### (5)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/PRISON-BREAK-5.jpg" group-title="PRISON BREAK" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 01 - Ogygia
+http://cdnfe3.azureedge.net/RCServer11/ondemand/PRBKT05EP01.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/PRISON-BREAK-5.jpg" group-title="PRISON BREAK" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 02 - Kaniel Outis
+http://cdnfe3.azureedge.net/RCServer11/ondemand/PRBKT05EP02.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/PRISON-BREAK-5.jpg" group-title="PRISON BREAK" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 03 - A Mentira
+http://cdnfe3.azureedge.net/RCServer11/ondemand/PRBKT05EP03.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/PRISON-BREAK-5.jpg" group-title="PRISON BREAK" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 04 - O Dilema do Prisioneiro
+http://cdnfe3.azureedge.net/RCServer11/ondemand/PRBKT05EP04.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/PRISON-BREAK-5.jpg" group-title="PRISON BREAK" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 05 - Contingência
+http://cdnfe3.azureedge.net/RCServer11/ondemand/PRBKT05EP05.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/PRISON-BREAK-5.jpg" group-title="PRISON BREAK" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 06 - Fuga Pelo Deserto
+http://cdnfe2.azureedge.net/RCServer12/ondemand/PRBKT05EP06.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/PRISON-BREAK-5.jpg" group-title="PRISON BREAK" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 07 - Mar Negro
+http://cdnfe2.azureedge.net/RCServer12/ondemand/PRBKT05EP07.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/PRISON-BREAK-5.jpg" group-title="PRISON BREAK" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 08 - Descendência
+http://cdnfe2.azureedge.net/RCServer12/ondemand/PRBKT05EP08.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/PRISON-BREAK-5.jpg" group-title="PRISON BREAK" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 09 - Atrás dos Olhos
+http://cdnfe2.azureedge.net/RCServer12/ondemand/PRBKT05EP09.mp4
+
 ######################################################  QQQQQQQQQQ  ##################################################
- 
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
 ######################################################  RRRRRRRRRR  ##################################################
- 
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
 ######################################################  SSSSSSSSSS  ##################################################
-####################  SEAL TEAM  #####################
+###################################################### ( SEAL TEAM )
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 01 - Ponta da lança
 https://playseries.online/drive//hls/a6177c85c760efaf7bdf4527a6b659f1/a6177c85c760efaf7bdf4527a6b659f1.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 02 - Outras Vidas
 https://playseries.online/drive//hls/5a6421ef0fd3fbba615edcf027e810a4/5a6421ef0fd3fbba615edcf027e810a4.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 03 - Embarque
 https://playseries.online/drive//hls/833ebf75d98b14cb1cf7a238391157d9/833ebf75d98b14cb1cf7a238391157d9.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 04 - Fantasmas do futuro do Natal
 https://playseries.online/drive//hls/7a4cc6d970f8b65cbc59a2a9a9667adb/7a4cc6d970f8b65cbc59a2a9a9667adb.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 05 - Reduzir
 https://playseries.online/drive//hls/c432cda7753f4b1979f00c8eee6b090f/c432cda7753f4b1979f00c8eee6b090f.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 06 - A Roda Giratória
 https://playseries.online/drive//hls/45a519ea39c6aa8d0ec3fb8f2b678328/45a519ea39c6aa8d0ec3fb8f2b678328.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 07 - Borderlines
 https://playseries.online/drive//hls/85d52098fde7b9aee5752f74b2cce700/85d52098fde7b9aee5752f74b2cce700.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 08 - A troca
 https://playseries.online/drive//hls/d8170c144cdaf062098e3aa86f7d20be/d8170c144cdaf062098e3aa86f7d20be.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 09 - Rolling Dark
 https://playseries.online/drive//hls/c51ce36403f4a9f1fc43b26a9b207416/c51ce36403f4a9f1fc43b26a9b207416.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 10 - Padrão de Vida
 https://playseries.online/drive//hls/1f005d3f3dc825fa68b846b4fe2c922f/1f005d3f3dc825fa68b846b4fe2c922f.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 11 - Contenção
 https://playseries.online/drive//hls/39ccbe5843cbf5efd727f21ed9e5c6e4/39ccbe5843cbf5efd727f21ed9e5c6e4.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 12 - De cabeça para baixo
 https://playseries.online/drive//hls/1dc4db09c0b4c114c0be2bfd73cb1fcd/1dc4db09c0b4c114c0be2bfd73cb1fcd.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 13 - Dia da fuga
 https://playseries.online/drive//hls/f23c2a7e8fb0a7d28fac65dd52ff0b2c/f23c2a7e8fb0a7d28fac65dd52ff0b2c.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 14 - Chamar
 https://playseries.online/drive//hls/98082a3b0ded3214be04b0f779730b7d/98082a3b0ded3214be04b0f779730b7d.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 15 - Terra de ninguém
 https://playseries.online/drive//hls/d1d4729f3abd361f8a36ecc954988918/d1d4729f3abd361f8a36ecc954988918.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 16 - Nunca saia do barco
 https://playseries.online/drive//hls/206a9796c0a1b378f96a73d7e82684ed/206a9796c0a1b378f96a73d7e82684ed.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 17 - Somente em nome
 https://playseries.online/drive//hls/2ba8eae037bb2ec65dff83549937c046/2ba8eae037bb2ec65dff83549937c046.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 18 - Ameaça credível
 https://playseries.online/drive//hls/31484bc9be837a31cb2fe0f53f29070e/31484bc9be837a31cb2fe0f53f29070e.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 19 - Retirada
 https://playseries.online/drive//hls/3322a3ae2ce748dc20fee00540c114c8/3322a3ae2ce748dc20fee00540c114c8.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 20 - Inimigo do meu inimigo
 https://playseries.online/drive//hls/b90becc27333bb213857de214f83612d/b90becc27333bb213857de214f83612d.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 21 - O cemitério dos impérios
 https://playseries.online/drive//hls/d8975aaec63f7bd3afa656b2f0286400/d8975aaec63f7bd3afa656b2f0286400.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/15/SEAL-TEAM-1.jpg" group-title="SEAL TEAM" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 22 - O custo de fazer negócios
 https://playseries.online/drive//hls/48c3f65583e035989a890e7c0cd5489f/48c3f65583e035989a890e7c0cd5489f.m3u8
-#########################################################################
+
+###################################################### (2)
+
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 01 - Fratura
 https://playseries.online/drive//hls/399fb6ff179fdaf260132161de7b1b9a/399fb6ff179fdaf260132161de7b1b9a.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 02 - Nunca diga morra
 https://playseries.online/drive//hls/734bec06a38198bc53addea9eb1aa575/734bec06a38198bc53addea9eb1aa575.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 03 - As piores condições
 https://playseries.online/drive//hls/d9cec0ee830996e2da1bd52bfcf35d5a/d9cec0ee830996e2da1bd52bfcf35d5a.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 04 - Tudo que importa
 https://playseries.online/drive//hls/d3be0fc75b97383c33e7fadef6f0c37c/d3be0fc75b97383c33e7fadef6f0c37c.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 05 - Diga novamente o seu último
 https://playseries.online/drive//hls/c2723ed117dc2dd23c10892f9e4baacc/c2723ed117dc2dd23c10892f9e4baacc.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 06 - Segure o que você tem
 https://playseries.online/drive//hls/1d376bc098315e9fb91624de38eac51b/1d376bc098315e9fb91624de38eac51b.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 07 - Fora do fio
 https://playseries.online/drive//hls/5b04372e4358fb3e4096900f3907421c/5b04372e4358fb3e4096900f3907421c.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 08 - Paralaxe
 https://playseries.online/drive//hls/97243ddf3987ff54e75486a01ae23828/97243ddf3987ff54e75486a01ae23828.m3u8
- 
 #EXTINF: -1 tvg-logo= "https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title = "SEAL TEAM" pltv-subgroup = "2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 09 - Santa Morte
 https://playseries.online/drive//hls/bd512d1be524ca51c26560d8cb6a95b7/bd512d1be524ca51c26560d8cb6a95b7.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 10 - Dilema do Prisioneiro
 https://playseries.online/drive//hls/c741a8b13e63e12f42e29150dbed432b/c741a8b13e63e12f42e29150dbed432b.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 11 - Para trás em saltos altos
 https://playseries.online/drive//hls/564c58d491ccec02a9698c4ef83efbf3/564c58d491ccec02a9698c4ef83efbf3.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 12 - Coisas não vistas
 https://playseries.online/drive//hls/c77b5c84ba0f8abb47ec7bb198440213/c77b5c84ba0f8abb47ec7bb198440213.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 13 - Hora de brilhar
 https://playseries.online/drive//hls/d89ee1ab37f97b2f755a16b8c634785d/d89ee1ab37f97b2f755a16b8c634785d.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 14 - O que parece ser
 https://playseries.online/drive//hls/c7fbd4fade4ed1f4d26a9c3bf5c41716/c7fbd4fade4ed1f4d26a9c3bf5c41716.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 15 - Você só morre uma vez
 https://playseries.online/drive//hls/9f7a671ea9576a4ae22261fbce0600f8/9f7a671ea9576a4ae22261fbce0600f8.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 16 - Sujeira Gucci Sujeira
 https://playseries.online/drive//hls/abf479a7ecb1deeb78ef8b4ffed5f100/abf479a7ecb1deeb78ef8b4ffed5f100.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 17 - Paraíso Perdido
 https://playseries.online/drive//hls/f69ded3bbc8f88098a7acf3974c373eb/f69ded3bbc8f88098a7acf3974c373eb.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 18 - Payback
 https://sv4.letsupload.co/qsU2/SEAL.Team.S02E18.Leg_-_www.TheSeriesDubladas.Tv.mp4?download_token=84f9555eb9694959392bb7c4bd3ae71969a9db37af1ef80af5b6504c2f618a71
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 19 - Medicar e isolar
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 20 - Rock Bottom
 https://sv4.letsupload.co/e5gi/SEAL.Team.S02E20.Leg_-_www.TheSeriesDubladas.Tv.mp4?download_token=45871d08eb77cf888433ad799e00f62de055e55998a8c8bf4ef62e21390c57c2
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 21 - Minha vida pela sua
 https://sv4.letsupload.co/e95g/SEAL.Team.S02E21.Leg_-_www.TheSeriesDubladas.Tv.mp4?download_token=08c3f9b9a2d4776e909487695a491b34453b869f8bb158a153d478ec9e389fb3
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 22 - Nunca Fora da Luta
 https://sv4.letsupload.co/64vn/SEAL.Team.S02E22.Leg_-_www.theseriesdubladas.tv.mp4?
-############################################################
+
+###################################################### (3)
+
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/21/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 01 - Bem-vindo ao refúgio
 https://playseries.online/drive//hls/e85800732e4d8215e140020772afa3b4/e85800732e4d8215e140020772afa3b4.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/21/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 02 - Ignorar e substituir
 https://playseries.online/drive//hls/9b365f34f44d26c8859d10f870433aed/9b365f34f44d26c8859d10f870433aed.m3u8
- 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/21/SEAL-TEAM-3.jpg" group-title="SEAL TEAM" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 03 -
- 
+
+###################################################### ( SOBRENATURAL )
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 01 - Piloto
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP01.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 02 - Wendigo
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP02.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 03 - A Morte na Água
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP03.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 04 - O Viajante Fantasma
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP04.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 05 - Bloody Mary
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP05.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 06 - Pele
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP06.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 07 - Homem Gancho
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP07.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 08 - Insetos
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP08.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 09 - Volta ao Lar
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP09.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 10 - Asilo
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP10.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 11 - Espantalho
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP11.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 12 - Fé
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP12.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 13 - Rota 666
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP13.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 14 - Pesadelo
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP14.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 15 - A Família Bender
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP15.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 16 - Sombra
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP16.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 17 - Casa do Inferno
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP17.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 18 - Alguma Coisa Malígna
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP18.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 19 - Procedência
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP19.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 20 - Sangue do Morto
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP20.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 21 - Salvação
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP21.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-1.jpg" group-title="SOBRENATURAL" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 22 - Armadilha do Diabo
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT01EP22.mp4?attachment=true
+
+###################################################### (2)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 01 - Na Hora da Minha Morte
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP01.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 02 - Todos Amam o Palhaço
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP02.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 03 - Sede de Sangue
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP03.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 04 - Crianças não devem Brincar com Coisas Mortas
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP04.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 05 - Simon Disse
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP05.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 06 - Sem Saída
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP06.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 07 - Os Suspeitos Habituai
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP07.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 08 - O Blues da Encruzilhada
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP08.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 09 - Croatoan
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP09.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 10 - Caçado
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP10.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 11 - Brinquedos
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP11.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 12 - Caminhante Noturno
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP12.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 13 - Casas do Sagrado
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP13.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 14 - Nascido num Signo Ruim
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP14.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 15 - Exagerado
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP15.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 16 - O Fantasma da Estrada
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP16.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 17 - Dolorosa Missão
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP17.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 18 - Assombração em Hollywood
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP18.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 19 - No Xadrez
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP19.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 20 - Apenas um Sonho
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP20.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 21 - Demônios à Solta (Parte 1)
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP21.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-2.jpg" group-title="SOBRENATURAL" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 22 - Demônios à Solta (Parte 2)
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT02EP22.mp4?attachment=true
+
+###################################################### (3)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-3.jpg" group-title="SOBRENATURAL" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 01 - Os Sete Magníficos
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT03EP01.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-3.jpg" group-title="SOBRENATURAL" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 02 - Tudo Bem Com As Crianças
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT03EP02.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-3.jpg" group-title="SOBRENATURAL" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 03 - Dia Ruim em Black Rock
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT03EP03.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-3.jpg" group-title="SOBRENATURAL" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 04 - Cidade do Pecado
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT03EP04.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-3.jpg" group-title="SOBRENATURAL" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 05 - Histórias Para Dormir
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT03EP05.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-3.jpg" group-title="SOBRENATURAL" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 06 - Céu Vermelho
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT03EP06.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-3.jpg" group-title="SOBRENATURAL" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 07 - Sangue Fresco
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT03EP07.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-3.jpg" group-title="SOBRENATURAL" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 08 - Um Natal Muito Sobrenatural
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT03EP08.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-3.jpg" group-title="SOBRENATURAL" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 09 - Magia Negra
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT03EP09.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-3.jpg" group-title="SOBRENATURAL" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 10 - Sonhe Comigo
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT03EP10.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-3.jpg" group-title="SOBRENATURAL" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 11 - Local Misterioso
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT03EP11.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-3.jpg" group-title="SOBRENATURAL" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 12 - Terror na Delegacia
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT03EP12.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-3.jpg" group-title="SOBRENATURAL" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 13 - O Fantasma Bissexto
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT03EP13.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-3.jpg" group-title="SOBRENATURAL" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 14 - O Interurbano
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT03EP14.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-3.jpg" group-title="SOBRENATURAL" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 15 - O Tempo Está do Meu Lado
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT03EP15.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/02/SOBRENATURAL-3.jpg" group-title="SOBRENATURAL" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 16 - Enfrentando o Capeta
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT03EP16.mp4?attachment=true
+
+###################################################### (4)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 01 - A Ressurreição de Lázaro
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP01.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 02 - Deus Está? Sou Eu Dean Winchester
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP02.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 03 - No Inicio
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP03.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 04 - Metamorfóse
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP04.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 05 - Filme de Monstro
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP05.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 06 - Febre Amarela
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP06.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 07 - Dia das Bruxas
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP07.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 08 - A Fonte dos Desejos
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP08.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 09 - Eu Sei o que Você Fez no Verão Passado
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP09.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 10 - Céu e Inferno
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP10.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 11 - Vestígios de Família
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP11.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 12 - Criss Angel é um Idiota
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP12.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 13 - Especial Depois da Aula
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP13.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 14 - Sexo e Violência
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP14.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 15 - A Morte Tira Férias
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP15.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 16 - Na Cabeça do Alfinete
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP16.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 17 - Que Vida Terrível
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP17.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 18 - Monstro no Final do Livro
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP18.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 19 - O Irmão
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP19.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 20 - A Forma de um Anjo
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP20.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 21 - Quando Se Rompe a Represa
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP21.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-4.jpg" group-title="SOBRENATURAL" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 22 - A Ascensão de Lucifer
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT04EP22.mp4?attachment=true
+
+###################################################### (5)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 01 - Simpatia Para o Diabo
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP01.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 02 - Fiquem Com Deus
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP02.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 03 - Livres Para Voar
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP03.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 04 - Fim 
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP04.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 05 - Ídolos Caídos
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP05.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 06 - As Crianças São o Futuro
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP06.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 07 - O Curioso Caso de Dean Winchester
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP07.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 08 - Trocando de Canal
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP08.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 09 - Os Verdadeiros Caça-Fantasmas
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP09.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 10 - Abandone a Esperança
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP10.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 11 - Sam Interrompido
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP11.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 12 - Troca de Corpos
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP12.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 13 - Sempre a Mesma Canção
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP13.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 14 - Amores Sangrentos
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP14.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 15 - Os Mortos Pedem Vingança
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP15.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 16 - O Lado Escuro da Lua
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP16.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 17 - 99 Problemas
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP17.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 18 - Caminho Sem Volta
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP18.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 19 - O Martelo dos Deuses
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP19.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 20 - O Diabo Conhecido
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP20.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 21 - Dois Minutos Para a Meia-Noite
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP21.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/03/SOBRENATURAL-5.jpg" group-title="SOBRENATURAL" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 22 - Canção do Cisne
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT05EP22.mp4?attachment=true
+
+###################################################### (6)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 01 - Exílio na Rua Principa
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP01.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 02 - Dois Homens e Meio
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP02.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 03 - O Terceiro Homem
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP03.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 04 - Fim de Semana com Bobby
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP04.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 05 - Viva Na Boa ou Na Dureza
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP05.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 06 - Você Não Pode Lidar com a Verdade
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP06.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 07 - Negócios de Família
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP07.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 08 - Todos os Cães Vão Para o Céu
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP08.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 09 - Bata Palmas Se Você Acredita
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP09.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 10 - Calor Em Gaiolas
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP10.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 11 - Compromisso em Samarra
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP11.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 12 - Como uma Virgem
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP12.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 13 - Imperdoados
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP13.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 14 - Manequim 3 O Acerto de Contas
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP14.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 15 - O Erro Francês
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP15.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 16 - ...E Então Não Havia Mais Ninguém
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP16.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 17 - Meu Coração Vai Continuar
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP17.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 18 - Terra da Fronteira
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP18.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 19 - Querida Mamãe
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP19.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 20 - O Homem Que Seria Rei
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP20.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 21 - Deixe Sangrar
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP21.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/SOBRENATURAL-6.jpg" group-title="SOBRENATURAL" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 22 - O Homem Que Sabia Demais
+http://cdnfe2.azureedge.net/RCServer01/videos/SPNT06EP22.mp4?attachment=true
+###################################################### (7)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 01 - Conheça o Novo Chefe
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SPNT07EP01.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA )  Episódio 02 - Olá Mundo Cruel
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SPNT07EP02.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 03 - A Garota Da Porta ao Lado
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SPNT07EP03.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 04 - Defendendo a Sua Vida
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SPNT07EP04.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 05 - Cale a Boca Dr. Phil
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SPNT07EP05.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 06 - Ficção de Corte
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SPNT07EP06.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 07 - Os Mentalistas
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SPNT07EP07.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 08 - Sétima Temporada Hora de Casar!
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SPNT07EP08.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 09 - Como Ganhar Amigos e Influenciar Pessoas
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SPNT07EP09.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 10 - Portas da Morte
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SPNT07EP10.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 11 - Aventuras Com A Babá
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SPNT07EP11.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 12 - Tempo Depois de Tempo Depois de Tempo
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SPNT07EP12.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 13 - As Garotas Fatiadas
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SPNT07EP13.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 14 - Valente Magia de Flauta Irlandesa Menagerie
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SPNT07EP14.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 15 - Homem Repo
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SPNT07EP15.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 16 - Fora Com O Velho
+http://cdnfe2.azureedge.net/RCServer04/ondemand/SPNT07EP16.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 17 - A Identidade Nascida de Novo
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 18 - Na Festa Garth
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 19 - De Grave Importância
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 20 - A Garota com a Tatuagem da Caverna do Dragão
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 21 - Leitura é Fundamental
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 22 - Haverá Sangue 
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/05/SOBRENATURAL-7.jpg" group-title="SOBRENATURAL" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 23 - Sobrevivência do Mais Apto
+
+###################################################### (8)
+
+#EXTINF: -1 tvg-logo="" group-title="SOBRENATURAL" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA )
+
 ######################################################  TTTTTTTTTT  ##################################################
- 
+###################################################### ( THE WALKING DEAD )
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD.jpg" group-title="THE WALKING DEAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 01 - Adeus Longos Dias
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT01EP01.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD.jpg" group-title="THE WALKING DEAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 02 - Entranhas
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT01EP02.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD.jpg" group-title="THE WALKING DEAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 03 - Diga Isso Aos Sapos
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT01EP03.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD.jpg" group-title="THE WALKING DEAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 04 - Vatos
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT01EP04.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD.jpg" group-title="THE WALKING DEAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 05 - Fogo Selvagem
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT01EP05.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD.jpg" group-title="THE WALKING DEAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 06 - TS-19
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT01EP06.mp4
+
+###################################################### (2)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 01 - O Que Está a Frente
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT02EP01.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 02 - Derramamento de Sangue
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT02EP02.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 03 - Salve o Último
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT02EP03.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 04 - Cherokee Rose
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT02EP04.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 05 - Chupacabra
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT02EP05.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 06 - Segredos
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT02EP06.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 07 - Praticamente Morto
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT02EP07.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 08 - Nebraska
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT02EP08.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 09 - Dedo no Gatilho
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT02EP09.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 10 - 18 Miles Out
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT02EP10.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 11 - Juiz Júri Carrasco
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT02EP11.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 12 - Melhores Anjos
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT02EP12.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 13 - Ao Lado do Fogo Moribundo
+http://cdnfe2.azureedge.net/RCServer01/videos/TWDT02EP13.mp4
+
+###################################################### (3)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-3.jpg" group-title="THE WALKING DEAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 01 - Semente
+http://cdnfe2.azureedge.net/RCServer04/ondemand/TWDT03EP01.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-3.jpg" group-title="THE WALKING DEAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 02 - Insanidade
+http://cdnfe2.azureedge.net/RCServer04/ondemand/TWDT03EP02.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-3.jpg" group-title="THE WALKING DEAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 03 - O Governador
+http://cdnfe2.azureedge.net/RCServer04/ondemand/TWDT03EP03.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-3.jpg" group-title="THE WALKING DEAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 04 - Assassino Interno
+http://cdnfe2.azureedge.net/RCServer04/ondemand/TWDT03EP04.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-3.jpg" group-title="THE WALKING DEAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 05 - Diga a Palavra
+http://cdnfe2.azureedge.net/RCServer04/ondemand/TWDT03EP05.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-3.jpg" group-title="THE WALKING DEAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 06 - Perseguido
+http://cdnfe2.azureedge.net/RCServer04/ondemand/TWDT03EP06.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-3.jpg" group-title="THE WALKING DEAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 07 - A Marca da Maldade
+http://cdnfe2.azureedge.net/RCServer04/ondemand/TWDT03EP07.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-3.jpg" group-title="THE WALKING DEAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 08 - Feitos para Sofrer
+http://cdnfe2.azureedge.net/RCServer04/ondemand/TWDT03EP08.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-3.jpg" group-title="THE WALKING DEAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 09 - O Rei Suícida
+http://cdnfe2.azureedge.net/RCServer04/ondemand/TWDT03EP09.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-3.jpg" group-title="THE WALKING DEAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 10 - Lar
+http://cdnfe2.azureedge.net/RCServer04/ondemand/TWDT03EP10.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-3.jpg" group-title="THE WALKING DEAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 11 - Eu Não Sou Um Judas
+http://cdnfe2.azureedge.net/RCServer04/ondemand/TWDT03EP11.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-3.jpg" group-title="THE WALKING DEAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 12 - Livre
+http://cdnfe2.azureedge.net/RCServer04/ondemand/TWDT03EP12.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-3.jpg" group-title="THE WALKING DEAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 13 - Saída
+http://cdnfe2.azureedge.net/RCServer04/ondemand/TWDT03EP13.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-3.jpg" group-title="THE WALKING DEAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 14 - Dia do Caçador
+http://cdnfe2.azureedge.net/RCServer04/ondemand/TWDT03EP14.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-3.jpg" group-title="THE WALKING DEAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 15 - Por Uma Vida Infeliz
+http://cdnfe2.azureedge.net/RCServer04/ondemand/TWDT03EP15.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-3.jpg" group-title="THE WALKING DEAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 16 - Bem Vindo as Tumbas
+http://cdnfe2.azureedge.net/RCServer04/ondemand/TWDT03EP16.mp4
+
+###################################################### (4)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-4.jpg" group-title="THE WALKING DEAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 01 - 30 Dias Sem Acidentes
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TWDT04EP01.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-4.jpg" group-title="THE WALKING DEAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 02 - Infectado
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TWDT04EP02.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-4.jpg" group-title="THE WALKING DEAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 03 - Isolamento
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TWDT04EP03.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-4.jpg" group-title="THE WALKING DEAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 04 - Indiferença
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TWDT04EP04.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-4.jpg" group-title="THE WALKING DEAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 05 - Internamento
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TWDT04EP05.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-4.jpg" group-title="THE WALKING DEAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 06 - Isca Viva
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TWDT04EP06.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-4.jpg" group-title="THE WALKING DEAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 07 - Peso Morto
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TWDT04EP07.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-4.jpg" group-title="THE WALKING DEAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 08 - Foi Longe Demais
+http://cdnfe2.azureedge.net/RCServer05/ondemand/TWDT04EP08.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-4.jpg" group-title="THE WALKING DEAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 09 - Após
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TWDT04EP09.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-4.jpg" group-title="THE WALKING DEAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 10 - Detentos
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TWDT04EP10.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-4.jpg" group-title="THE WALKING DEAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 11 - Alegou
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TWDT04EP11.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-4.jpg" group-title="THE WALKING DEAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 12 - Ainda
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TWDT04EP12.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-4.jpg" group-title="THE WALKING DEAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 13 - Sozinho
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TWDT04EP13.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-4.jpg" group-title="THE WALKING DEAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 14 - O Bosque
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TWDT04EP14.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-4.jpg" group-title="THE WALKING DEAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 15 - Nos
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TWDS04EP15.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/02/THE-WALKING-DEAD-4.jpg" group-title="THE WALKING DEAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 16 - Uma
+http://cdnfe3.azureedge.net/RCServer07/ondemand/TWDT04EP16.mp4
+
+###################################################### (5)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-5.jpg" group-title="THE WALKING DEAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 01 - Não Há Santuário
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT05EP01.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-5.jpg" group-title="THE WALKING DEAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 02 - Estranhos
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT05EP02.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-5.jpg" group-title="THE WALKING DEAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 03 - Quatro Paredes e um Telhado
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT05EP03.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-5.jpg" group-title="THE WALKING DEAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 04 - Na Boca do Lixo
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT05EP04.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-5.jpg" group-title="THE WALKING DEAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 05 - Auto-ajuda
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT05EP05.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-5.jpg" group-title="THE WALKING DEAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 06 - Consumido
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT05EP06.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-5.jpg" group-title="THE WALKING DEAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 07 - Cruzados
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT05EP07.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-5.jpg" group-title="THE WALKING DEAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 08 - O Resgate
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT05EP08.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-5.jpg" group-title="THE WALKING DEAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 09 - O Que Aconteceu e o Que Está Acontecendo
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT05EP09.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-5.jpg" group-title="THE WALKING DEAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 10 - Eles
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT05EP10.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-5.jpg" group-title="THE WALKING DEAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 11 - A Distância
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT05EP11.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-5.jpg" group-title="THE WALKING DEAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 12 - Lembre-se
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT05EP12.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-5.jpg" group-title="THE WALKING DEAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 13 - Esqueça
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT05EP13.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-5.jpg" group-title="THE WALKING DEAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 14 - Gastar
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT05EP14.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-5.jpg" group-title="THE WALKING DEAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 15 - Tente
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT05EP15.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-5.jpg" group-title="THE WALKING DEAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 16 - Conquistar
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT05EP16.mp4
+
+###################################################### (6)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-6.jpg" group-title="THE WALKING DEAD" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 01 - Primeira Vez Outra Vez
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT06EP01.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-6.jpg" group-title="THE WALKING DEAD" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 02 - JSS
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT06EP02.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-6.jpg" group-title="THE WALKING DEAD" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 03 - Obrigado
+http://cdnfe3.azureedge.net/RCServer09/ondemand/TWDT06EP03.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-6.jpg" group-title="THE WALKING DEAD" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 04 - Aqui Não é Aqui
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TWDT06EP04.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-6.jpg" group-title="THE WALKING DEAD" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 05 - Agora
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TWDT06EP05.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-6.jpg" group-title="THE WALKING DEAD" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 06 - Sempre Responsável
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TWDT06EP06.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-6.jpg" group-title="THE WALKING DEAD" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 07 - Cabeça Erguida
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TWDT06EP07.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-6.jpg" group-title="THE WALKING DEAD" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 08 - Do Início ao Fim
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TWDT06EP08.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-6.jpg" group-title="THE WALKING DEAD" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 09 - Sem Saída
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TWDT06EP09.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-6.jpg" group-title="THE WALKING DEAD" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 10 - O Próximo Mundo
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TWDT06EP10.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-6.jpg" group-title="THE WALKING DEAD" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 11 - Nós Desatados
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TWDT06EP11.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-6.jpg" group-title="THE WALKING DEAD" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 12 - Amanhã Ainda Não
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TWDT06EP12.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-6.jpg" group-title="THE WALKING DEAD" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 13 - O Mesmo Barco
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TWDT06EP13.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-6.jpg" group-title="THE WALKING DEAD" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 14 - Duas Vezes Mais Longe
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TWDT06EP14.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-6.jpg" group-title="THE WALKING DEAD" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 15 - Leste
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TWDT06EP15.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-6.jpg" group-title="THE WALKING DEAD" pltv-subgroup="6ª TEMPORADA", ( 6ª TEMPORADA ) Episódio 16 - Último Dia na Terra
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TWDT06EP16.mp4
+
+###################################################### (7)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-7.jpg" group-title="THE WALKING DEAD" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA )Episódio 01 - Chegará o Dia em Que Você Não Estará
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TWDT07EP01.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-7.jpg" group-title="THE WALKING DEAD" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 02 - O Poço
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TWDT07EP02.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-7.jpg" group-title="THE WALKING DEAD" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 03 - A Cela
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TWDT07EP03.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-7.jpg" group-title="THE WALKING DEAD" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 04 - Serviço
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TWDT07EP04.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-7.jpg" group-title="THE WALKING DEAD" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 05 - Ativos
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TWDT07EP05.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-7.jpg" group-title="THE WALKING DEAD" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 06 - Jure
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TWDT07EP06.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-7.jpg" group-title="THE WALKING DEAD" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 07 - Cante-me uma Música
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TWDT07EP07.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-7.jpg" group-title="THE WALKING DEAD" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 08 - Corações Ainda Batendo
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TWDT07EP08.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-7.jpg" group-title="THE WALKING DEAD" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 09 - Pedra na Estrada
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TWDT07EP09.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-7.jpg" group-title="THE WALKING DEAD" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 10 - Novos Melhores Amigos
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TWDT07EP10.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-7.jpg" group-title="THE WALKING DEAD" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 11 - Inimigos e Calamidades
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TWDT07EP11.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-7.jpg" group-title="THE WALKING DEAD" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 12 - Diga Sim
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TWDT07EP12.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-7.jpg" group-title="THE WALKING DEAD" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 13 - Enterre-me Aqui
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TWDT07EP13.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-7.jpg" group-title="THE WALKING DEAD" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 14 - O Outro Lado
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TWDT07EP14.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-7.jpg" group-title="THE WALKING DEAD" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 15 - Algo Que Eles Precisam
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TWDT07EP15.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/THE-WALKING-DEAD-7.jpg" group-title="THE WALKING DEAD" pltv-subgroup="7ª TEMPORADA", ( 7ª TEMPORADA ) Episódio 16 - O Primeiro Dia do Resto da Sua Vida
+http://cdnfe3.azureedge.net/RCServer11/ondemand/TWDT07EP16.mp4
+
+###################################################### (8)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-8-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 00 - A Viagem Até Agora
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDS08EP00.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-8-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 01 - Misericórdia
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT08EP01.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-8-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 02 - Os Condenados
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT08EP02.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-8-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 03 - Monstros
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT08EP03.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-8-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 04 - Um Cara Qualquer
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT08EP04.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-8-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 05 - O Grande e Assustador Você
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT08EP05.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-8-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 06 - O Rei a Viúva e Rick
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT08EP06.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-8-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 07 - É Hora do Depois
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT08EP07.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-8-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 08 - Como Deve Ser
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT08EP08.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-8-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 09 - Honra
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT08EP09.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-8-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 10 - Os Perdidos e os Saqueadores
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT08EP10.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-8-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 11 - Mortos ou Vivos
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT08EP11.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-8-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 12 - A Chave
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT08EP12.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-8-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 13 - Que Não Nos Desviemos
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT08EP13.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-8-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 14 - Ainda Tem Que Significar Algo
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT08EP14.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-8-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 15 - Valer a Pena
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT08EP15.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-8-2.jpg" group-title="THE WALKING DEAD" pltv-subgroup="8ª TEMPORADA", ( 8ª TEMPORADA ) Episódio 16 - Ira
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT08EP16.mp4
+
+###################################################### (9)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-9.jpg" group-title="THE WALKING DEAD" pltv-subgroup="9ª TEMPORADA", ( 9ª TEMPORADA ) Episódio 01 - Um Novo Começo
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TWDT09EP01.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-9.jpg" group-title="THE WALKING DEAD" pltv-subgroup="9ª TEMPORADA", ( 9ª TEMPORADA ) Episódio 02 - A Ponte
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TWDT09EP02.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-9.jpg" group-title="THE WALKING DEAD" pltv-subgroup="9ª TEMPORADA", ( 9ª TEMPORADA ) Episódio 03 - Sinais de Aviso
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TWDT09EP03.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-9.jpg" group-title="THE WALKING DEAD" pltv-subgroup="9ª TEMPORADA", ( 9ª TEMPORADA ) Episódio 04 - O Agradecimento
+http://cdnfe3.azureedge.net/RCServer10/ondemand/TWDT09EP04.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-9.jpg" group-title="THE WALKING DEAD" pltv-subgroup="9ª TEMPORADA", ( 9ª TEMPORADA ) Episódio 05 - O Que Vem a Seguir
+http://cdnfe3.azureedge.net/RCServer07/ondemand/TWDT09EP05.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-9.jpg" group-title="THE WALKING DEAD" pltv-subgroup="9ª TEMPORADA", ( 9ª TEMPORADA ) Episódio 06 - Quem é Você Agora
+http://cdnfe3.azureedge.net/RCServer07/ondemand/TWDT09EP06.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-9.jpg" group-title="THE WALKING DEAD" pltv-subgroup="9ª TEMPORADA", ( 9ª TEMPORADA ) Episódio 07 - Stradivarius
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TWDT09EP07.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-9.jpg" group-title="THE WALKING DEAD" pltv-subgroup="9ª TEMPORADA", ( 9ª TEMPORADA ) Episódio 08 - Evolução
+http://cdnfe3.azureedge.net/RCServer08/ondemand/TWDT09EP08.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-9.jpg" group-title="THE WALKING DEAD" pltv-subgroup="9ª TEMPORADA", ( 9ª TEMPORADA ) Episódio 09 - Adaptação
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TWDT09EP09.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-9.jpg" group-title="THE WALKING DEAD" pltv-subgroup="9ª TEMPORADA", ( 9ª TEMPORADA ) Episódio 10 - Ômega
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TWDT09Ep10.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-9.jpg" group-title="THE WALKING DEAD" pltv-subgroup="9ª TEMPORADA", ( 9ª TEMPORADA ) Episódio 11 - Recompensa
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TWDT09EP11.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-9.jpg" group-title="THE WALKING DEAD" pltv-subgroup="9ª TEMPORADA", ( 9ª TEMPORADA ) Episódio 12 - Guardiões
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TWDT09EP12.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-9.jpg" group-title="THE WALKING DEAD" pltv-subgroup="9ª TEMPORADA", ( 9ª TEMPORADA ) Episódio 13 - Ponto de Sufoco
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TWDT09EP13.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-9.jpg" group-title="THE WALKING DEAD" pltv-subgroup="9ª TEMPORADA", ( 9ª TEMPORADA ) Episódio 14 - Cicatrizes
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TWDT09EP14.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-9.jpg" group-title="THE WALKING DEAD" pltv-subgroup="9ª TEMPORADA", ( 9ª TEMPORADA ) Episódio 15 - Momentos de Calmaria
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TWDT09EP15.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-9.jpg" group-title="THE WALKING DEAD" pltv-subgroup="9ª TEMPORADA", ( 9ª TEMPORADA ) Episódio 16 - A Tempestade
+http://cdnfe2.azureedge.net/RCServer06/ondemand/TWDT09EP16.mp4
+
+###################################################### (10)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-10.jpg" group-title="THE WALKING DEAD" pltv-subgroup="10ª TEMPORADA", ( 10ª TEMPORADA ) Episódio 01 - Caminhos Que Cruzamos
+http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP01.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-10.jpg" group-title="THE WALKING DEAD" pltv-subgroup="10ª TEMPORADA", ( 10ª TEMPORADA ) Episódio 02 - Nós Somos o Fim do Mundo
+http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP02.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-10.jpg" group-title="THE WALKING DEAD" pltv-subgroup="10ª TEMPORADA", ( 10ª TEMPORADA ) Episódio 03 - Fantasmas
+http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP03.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-10.jpg" group-title="THE WALKING DEAD" pltv-subgroup="10ª TEMPORADA", ( 10ª TEMPORADA ) Episódio 04 - Silencie os Sussurradores
+http://cdnfe2.azureedge.net/RCServer12/ondemand/TWDT10EP04.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-10.jpg" group-title="THE WALKING DEAD" pltv-subgroup="10ª TEMPORADA", ( 10ª TEMPORADA ) Episódio 05 - O Que Sempre É
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT10EP05.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-10.jpg" group-title="THE WALKING DEAD" pltv-subgroup="10ª TEMPORADA", ( 10ª TEMPORADA ) Episódio 06 - Ossos
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDT10EP06.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-10.jpg" group-title="THE WALKING DEAD" pltv-subgroup="10ª TEMPORADA", ( 10ª TEMPORADA ) Episódio 07 - Abra Seus Olhos
+http://cdnfe2.azureedge.net/RCServer13/ondemand/TWDS10EP07.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/THE-WALKING-DEAD-10.jpg" group-title="THE WALKING DEAD" pltv-subgroup="10ª TEMPORADA", ( 10ª TEMPORADA ) Episódio 08 - O Mundo de Antes
+
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) 
+
 ######################################################  UUUUUUUUUU  ##################################################
- 
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
 ######################################################  VVVVVVVVVV  ##################################################
- 
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
+
 ######################################################  WWWWWWWWWW  ##################################################
- 
+###################################################### ( WATCHMEN )
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/WATCHMEN-01.jpg" group-title="WATCHMEN" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 01 - É Verão E Estamos Ficando Sem Gelo
+http://cdnfe2.azureedge.net/RCServer12/ondemand/WTCHMNT01EP01.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/WATCHMEN-01.jpg" group-title="WATCHMEN" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 02 - Talentos Marciais Da Equitação Comanche
+http://cdnfe2.azureedge.net/RCServer12/ondemand/WTCHMNT01EP02.mp4
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/WATCHMEN-01.jpg" group-title="WATCHMEN" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 03 - Ela Foi Morta Por Lixo Espacia
+http://cdnfe2.azureedge.net/RCServer13/ondemand/WTCHMNT01EP03.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/WATCHMEN-01.jpg" group-title="WATCHMEN" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 04 - Se Você Não Gosta Da Minha História, Escreva A Sua Própria
+http://cdnfe2.azureedge.net/RCServer13/ondemand/WTCHMNT01EP04.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/WATCHMEN-01.jpg" group-title="WATCHMEN" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 05 - Pouco Medo De Relâmpago
+http://cdnfe2.azureedge.net/RCServer13/ondemand/WTCHMNT01EP05.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/WATCHMEN-01.jpg" group-title="WATCHMEN" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 06 - Este Ser Extraordinário
+http://cdnfe2.azureedge.net/RCServer13/ondemand/WTCHMNT01EP06.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/WATCHMEN-01.jpg" group-title="WATCHMEN" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 07 - Uma Admiração Quase Religiosa
+http://cdnfe3.azureedge.net/RCServer08/ondemand/WTCHMNT01EP07.mp4?attachment=true
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/WATCHMEN-01.jpg" group-title="WATCHMEN" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 08 - Um Deus Entra Em Um Bar
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/WATCHMEN-01.jpg" group-title="WATCHMEN" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 09 - Veja Como Eles Voam
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/04/WATCHMEN-01.jpg" group-title="WATCHMEN" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) 
+
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
+
 ######################################################  XXXXXXXXXX  ##################################################
- 
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
 ######################################################  YYYYYYYYYY  ##################################################
- 
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
 ######################################################  ZZZZZZZZZZ  ##################################################
- 
-#########################################################  EXIT  ####################################################################
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
+
 ####################################################  COMANDOS PRIME  ###############################################################
