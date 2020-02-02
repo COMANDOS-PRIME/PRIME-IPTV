@@ -1,564 +1,1216 @@
 #EXTM3U
  
 ###############################################################################################################################
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/395/040/full/all-about-3d-tv.png?1570142817" group-title="INFORMAÇÕES",❤💜💛💚💙📺📡 CANAIS  ABERTOS 📡📺💙💚💛💜❤
-https://guigames.com.br/wp-content/uploads/2019/08/iptv-002.jpg
- 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/an-msdn-tv-logo.png" group-title="INFORMAÇÕES", ❤💜💛💚💙📺📡 O  MELHOR  DO  CONTEÚDO  NACIONAL  EM  SUAS  MÃOS 📡📺💙💚💛💜❤
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/71CTzm4GSvL.md.png" group-title="INFORMAÇÕES",❤💜💛💚💙📺📡 CANAIS ABERTOS 📡📺💙💚💛💜❤
+https://ap.imagensbrasil.org/images/2019/11/14/01.jpg
+
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/an-msdn-tv-logo.png" group-title="INFORMAÇÕES",❤💜💛💚💙📺📡 O MELHOR DO CONTEÚDO NACIONAL EM SUAS MÃOS 📡📺💙💚💛💜❤
 https://ap.imagensbrasil.org/images/2019/10/17/DeU8w5_XUAEAkRf.jpg
 ###############################################################################################################################
- 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y55thzwr" group-title="CANAIS ABERTOS",💚💛🔰 LIVE COM PRESIDENTE DO BRASIL 🔰💛💚 - TODA QUINTA FEIRA ÀS 19:00HS.
-https://cdn-istoe-ssl.akamaized.net/wp-content/uploads/sites/14/2019/02/bolsoanro-tv.jpg
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CUCgLmo.png?1" group-title="CANAIS ABERTOS",TV MANCHETE
-https://tinyurl.com/tvmanchete
- 
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-7LbdShGEuwk/VmbbgTjmO2I/AAAAAAAABpk/vFCW7XlKgPw/s1600/RECORD.png" group-title="CANAIS ABERTOS",RECORD HD
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,7572,c63dc860710b549f2a9f80342cd54418;base64np;Du4aOVgIM5Bl8fI!/amlst:Du7iIEVDNpF6sX6G/chunklist_b2690048.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/aa/Rede_Record_logo_2012.png" group-title="CANAIS ABERTOS",RECORD SD
-http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,7572,c63dc860710b549f2a9f80342cd54418;base64np;Du4aOVgIM5Bl8fI!/amlst:Du7iIEVDNpF6sX6G/chunklist_b475136.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png"group-title="CANAIS ABERTOS",RECORD NEWS HD
-https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_da_TV_A_Cr%C3%ADtica.png"group-title="CANAIS ABERTOS",RECORD - TV A CRÍTICA (AM)
-https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8
- 
-#EXTINF:-1 tvg-logo="https://famososnaweb.com/wp-content/uploads/2015/03/globo-rio.png" group-title="CANAIS ABERTOS",GLOBO RJ SD
-http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_bb63786766516d98c98e746d6ef80405d6c721f7/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://famososnaweb.com/wp-content/uploads/2015/03/globo-rio.png" group-title="CANAIS ABERTOS",GLOBO RJ HD
-http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_bb63786766516d98c98e746d6ef80405d6c721f7/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://famososnaweb.com/wp-content/uploads/2015/03/globo-rio.png" group-title="CANAIS ABERTOS",GLOBO RJ FHD
-http://edge.aovivo.club/hls/s:95.216.15.44:81/globorj_bc15c774_bb63786766516d98c98e746d6ef80405d6c721f7/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.bastidoresdatv.com.br/wp-content/uploads/2016/04/globosp.png" group-title="CANAIS ABERTOS",GLOBO SP SD
-http://edge.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_431fad5b9fc2d1c2464d0b8dfc30ff1396749ebb/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.bastidoresdatv.com.br/wp-content/uploads/2016/04/globosp.png" group-title="CANAIS ABERTOS",GLOBO SP HD
-http://edge.aovivo.club/hls/s:95.216.15.44:81/globosp_cfe21c68_431fad5b9fc2d1c2464d0b8dfc30ff1396749ebb/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://static.otvfoco.com.br/2017/07/Globo-Nordeste-1.jpg"group-title="CANAIS ABERTOS",GLOBO NORDESTE
-http://edge.aovivo.club/hls/s:95.216.15.44:81/globonordeste_acf10f2c_80256f5dac749deb67da7e015974b1e96d5d5473.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",SBT HD
+####################################################### PUBLICIDADE - OFERTAS & PRODUTOS
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/04/08.png"group-title="PUBLICIDADE - OFERTAS & PROMOÇÕES",MANDE SUA PROPAGANDA ( PARA LHE AJUDAR )
+https://ap.imagensbrasil.org/images/2019/12/04/Imagem-destacada-1.jpg
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/PIZZARIA-SOBEL.jpg"group-title="PUBLICIDADE - OFERTAS & PROMOÇÕES",PIZZARIA SOBEL ( GOSTOSO COMO UM BEIJO )
+https://ap.imagensbrasil.org/images/2020/01/06/SOBEL-PIZZA-02.jpg
+
+####################################################### CANAIS 24HS
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/Untitled-design-7.png" group-title="CANAIS 24HS" pltv-subgroup="",CINE 24HS
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/02.png" group-title="CANAIS 24HS" pltv-subgroup="",TOP FILMES
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?LISTASDAGLAU
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS 24HS" pltv-subgroup="",SBT HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w431368380.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS 24HS" pltv-subgroup="",SBT HD 2
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS ABERTOS",SBT PE HD
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/18/08.png" group-title="CANAIS 24HS" pltv-subgroup="",SBT ( TV DIFUSORA )
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w1161769886.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/Rede-TV-HD.png" group-title="CANAIS 24HS" pltv-subgroup="",REDE TV SP
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/chunklist_w1871270156.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/03.jpg" group-title="CANAIS 24HS" pltv-subgroup="",RETRO MUSIC HD
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/18/04.jpg" group-title="CANAIS 24HS" pltv-subgroup="",MELODY CHANNEL
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?extension=m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/artworks-000075371270-cof0z9-t500x500.jpg" group-title="CANAIS 24HS" pltv-subgroup="",M20 TV MUSIC
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/04.png" group-title="CANAIS 24HS" pltv-subgroup="",TV CÂMARA HD
+http://stream2.camara.gov.br:8134/tv1/manifest.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="CANAIS 24HS" pltv-subgroup="",
+
+#################################################### ACRE
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/24/download.png" group-title="ACRE",TV BNO - AC
+https://59f2354c05961.streamlock.net:1443/bonner/_definst_/bonner/chunklist_w558740421.m3u8
+
+#################################################### ALAGOAS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CUCgLmo.png?1" group-title="ALAGOAS",TV MANCHETE - AL
+https://tinyurl.com/tvmanchete
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-uUV36dAswik8_4ussEhXLHXzemGfVwxpUXw=s900-c-k-c0xffffffff-no-rj-mo" group-title="ALAGOAS",TV MAR - AL
+https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w1007758976.m3u8
+
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/24/01.png" group-title="ALAGOAS",TV RIO LARGO - AL
+https://stmv6.srvstm.com/tvriolargo/tvriolargo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-mar-alagoas_m.png" group-title="ALAGOAS",TV MACEIÓ - AL
+http://173.236.10.10:1935/toptv/toptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cnagitos.com/img/portfolio/circus.png" group-title="ALAGOAS",TV CN AGITOS - AL
+https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8?wowzasessionid=504915064
+
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/24/02.jpg" group-title="ALAGOAS",TV COM MACEIÓ - AL
+https://5a7d54e35f9d2.streamlock.net/z883-live/stream/chunklist_w2074221627.m3u8
+
+###################################################### AMAZONAS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_da_TV_A_Cr%C3%ADtica.png"group-title="AMAZONAS",TV A CRÍTICA - AM
+https://v4-slbps-sambavideos.akamaized.net/live/3256%2C7930%2C679f501d2054fc8514ea1fc28fe5f167%3Bbase64np%3BS52I5Up2XHDMC-c%21/amlst%3AS51w_Fc9WXHTS2s2/chunklist_b1155072.m3u8
+
+###################################################### BAHIA
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/0360913ddca888530e.jpg" group-title="BAHIA",TV ARATU - BA
+https://cdn.jmvstream.com/live/hls/lv_5347/LV5347_oKO9R0jr5Y.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/765961733819207681/qh_Sb1eg_400x400.jpg"group-title="BAHIA",TV J.SID - BA
+https://stmv3.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1696726725
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7aK7yPQAexHPo3vsvpHsJrJ99oknm8oDJ5xn7v3dtOSDiXvXM" group-title="BAHIA",TVE - BA
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYtzQbNey4AXraAyDpVjgQLfrQKZpjMfSUFTVDvy3bEi0SdXGL"group-title="BAHIA",TV BAIANA - BA
+http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cavaleiroadvogados.pt/wp-content/uploads/2015/05/Logo_tvi_v4.png"group-title="BAHIA",WEBTV IMAGEM DE CAETANO - BA
+https://stmv4.srvstm.com/tvimagemdecaetano/tvimagemdecaetano/playlist.m3u8?wowzasessionid=931404566
+
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/01.jpg" group-title="BAHIA",TV NOVO MILÊNIO - BA
+http://wz5.dnip.com.br/mileniotv/mileniotv.sdp/chunklist_w1226494781.m3u8
+
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/02.png" group-title="BAHIA",TV A CARA DA BAHIA - BA
+http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/chunklist_w341393226.m3u8
+
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/02.jpg" group-title="BAHIA",TV GERAL - BA
+https://cdn.jmvstream.com/w/redegeral/_definst_/redegeral/chunklist_w1847805982.m3u8
+
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/03.png" group-title="BAHIA",TV ESTADO - BA
+https://cdn.jmvstream.com/w/estado/_definst_/estado/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/26/04.png" group-title="BAHIA",INFO BAHIA - BA
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/tvinforbahia/chunklist_w147238720.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/05/05c47964294fe1397d.png" group-title="BAHIA" pltv-subgroup="",TV ASSEMBLÉIA BAHIA - BA
+https://digilab.cds.ebtcvd.net/live-tvalba/stream/chunklist.m3u8
+
+####################################################### CEARÁ
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg" group-title="CEARÁ" pltv-subgroup="",TV ARACATI - CE
+https://srv1.zcast.com.br/tvaracati/tvaracati/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://imagem.band.com.br/f_73390.jpg" group-title="CEARÁ" pltv-subgroup="",TV JANGADEIRO - CE
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1263330763_b216000_sleng.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Rsmt5bn.png" group-title="CEARÁ" pltv-subgroup="",TV DA GENTE - CE
+https://595b85410a151.streamlock.net/tvdagenteoficial/tvdagenteoficial/chunklist_w1870775582.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metrópole.png" group-title="CEARÁ" pltv-subgroup="",TV METROPOLE - CE
+https://serv1.videovox.pw/eduardo2183/eduardo2183/playlist.m3u8?wowzasessionid=677141595
+
+#EXTINF: -1 tvg-logo="http://www.maedasdoresjuazeiro.com/portal/backend/_lib/file/img_diversas/tvpecricero.jpeg" group-title="CEARÁ" pltv-subgroup="",TV PADRE CICERO - CE
+https://59f2354c05961.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero.smil/chunklist_w1421773133_b1300000.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.uniaoplay.com.br/images/logo.png?v=nFCfxr4HGlt8xP2f4trL3f3QL9uPlnte8WeholE5B3Q" group-title="CEARÁ" pltv-subgroup="",TV UNIÃO - CE
+http://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c4406674-dbea-46d7-94ac-54446403fed4-profile_image-300x300.jpg" group-title="CEARÁ" pltv-subgroup="",TV ASBC - CE
+https://tinyurl.com/yxtgsodn
+
+#EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnN0bXZpZGVvLndlYnR2Lm1hcnR0dm1hcnRpbm9wb2xlX2ljb25fMTU0MzgzMzc3M18wNjA/icon.png?w=170&fakeurl=1" group-title="CEARÁ" pltv-subgroup="",MART TV MART - CE
+https://srv1.zcast.com.br/adautogomes4150/adautogomes4150/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://s3-sa-east-1.amazonaws.com/projetos-artes/fullsize%2F2011%2F10%2F25%2F15%2FWDL-Logo-8534_25813_041615942_2022323939.jpg" group-title="CEARÁ" pltv-subgroup="",TV GUARANY - CE
+http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8?wowzasessionid=1726642621
+
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/media/DfZWaFHX0AAR0az.jpg" group-title="CEARÁ" pltv-subgroup="",LITORAL TV - CE
+https://596639ebdd89b.streamlock.net/8048/8048/chunklist_w762329219.m3u8
+
+#EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/917/full/TV_O_Povo.png?1571014212" group-title="CEARÁ" pltv-subgroup="",TV O POVO - CE
+https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w735649382.m3u8
+
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwy-QI4goJOD4mRDQWr8PircSn-hS2XElIprUV4NdVTy9Qv8rg" group-title="CEARÁ" pltv-subgroup="",TV MAIS - CE
+https://596639ebdd89b.streamlock.net:443/8040/8040/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/01.png" group-title="CEARÁ" pltv-subgroup="",TV JAGUAR - CE
+https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/chunklist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/02.png" group-title="CEARÁ" pltv-subgroup="",TV ASSEMBLÉIA - CE
+https://5a7d54e35f9d2.streamlock.net/z404-live/stream/chunklist_w492731324.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/screen-0.jpgfakeurl1type.jpg" group-title="CEARÁ" pltv-subgroup="",TV FÉ EM DEUS - CE
+https://59f1cbe63db89.streamlock.net:1443/riberto/_definst_/riberto/chunklist_w2136918764.m3u8
+
+####################################################### DISTRITO FEDERAL
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1115975506887835649/InIYPEoz.png" group-title="DISTRITO FEDERAL" pltv-subgroup="",TV BRASIL 2 - DF
+http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/chunklist_b1056768.m3u8
+
+#EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/886/full/allsports_Logo_Large.jpg?1571012890" group-title="DISTRITO FEDERAL" pltv-subgroup="",ALL SPORTS - DF
+https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.malhariaeggoscohab.com.br/images/tvn2.gif" group-title="DISTRITO FEDERAL" pltv-subgroup="",TVN BRASIL - DF
+http://painelvj.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/04.png" group-title="DISTRITO FEDERAL" pltv-subgroup="",LN TV - DF
+https://59f2354c05961.streamlock.net:1443/intv02/_definst_/intv02/chunklist_w597825225.m3u8
+
+#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-DLnE1Pscp7w/Tl7iQuBI86I/AAAAAAAAAJo/DidwBxXRY1Q/TV%252520Senado%252520HDD.jpg" group-title="DISTRITO FEDERAL" pltv-subgroup="",TV SENADO - DF
+http://tvmpf.mpf.mp.br:1935/event455/event455.stream/live.m3u8
+
+#EXTINF: -1 tvg-logo="https://appsgeyser.io/public/239/2391047/4169459/thumbs/LN_TV_4169459_screenshot_2.png" group-title="DISTRITO FEDERAL" pltv-subgroup="",LN TV WEB 2 - DF
+https://59f2354c05961.streamlock.net:1443/intv02/_definst_/intv02/chunklist_w2065630066.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/RADIO-ESPORTES-BRASILIA.png" group-title="DISTRITO FEDERAL" pltv-subgroup="",RADIO ESPORTES BRASÍLIA - DF
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w1499632805.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/017e6c644fb309ba08.png" group-title="DISTRITO FEDERAL" pltv-subgroup="",TV CÂMARA - DF
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/02.jpg" group-title="DISTRITO FEDERAL" pltv-subgroup="",TV COMUNITÁRIA DE BRASÍLIA - DF
+https://5b7f3c45ab7c2.streamlock.net/8008/ngrp:8008_all/chunklist_w571161562_b1122304_DVR.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/Logo_UnB_TV.png" group-title="DISTRITO FEDERAL" pltv-subgroup="",UNB TV - DF
+https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FdRzg2GbdM0)r(TOqkzw)a(ut2kCQ)p(d(Ujo)k(l0g)m(qFS62wa-bk4ltACeavazTA)n(a(mrIIRA)s(M6E)'a(Kr85Iw)s(_Kk)'a(equkDA)s(Y8M)))s(s(_yQ)b(KGrY0oaOYYpXCqW4IQmVE01XdIGDE1tdl3CyT0XKoLwRuz4gRtuQ_VpFO3S6wFBUTT-YacDsH1Sf9ajW7g)'s(NgA)b(q6O321fTdPCEk07Vx52SBsWDoHGbedVhGvjSecZ_-UAL72CoS_WPS2wPqXfflAHjUWdajs6C33BZolEE5LDTG9-9HHLfXXekiA9zCAId)'s(v0A)b(yN9Qe4o7))m(0))/unb_index.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/0274a289168075ad53.png" group-title="DISTRITO FEDERAL" pltv-subgroup="",RÁDIO REDENTOR - DF
+http://62.138.8.15:1935/redentor/redentor/chunklist_w1385701199.m3u8
+
+####################################################### ESPÍRITO SANTO
+#EXTINF: -1 tvg-logo="http://recordtv.r7.com/emissoras-record/files/2015/12/ES_TV-VITORIA.png" group-title="ESPÍRITO SANTO" pltv-subgroup="",TV VITÓRIA - ES
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/754/full/TV_SIM.png?1571007061" group-title="ESPÍRITO SANTO" pltv-subgroup="",SIM TV ( RECORD NEWS ) - ES
+https://stmv1.srvsite.com/recordnews/recordnews/playlist.m3u8?wowzasessionid=1148069173
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/0163ba7a78ff89bd9a.png" group-title="ESPÍRITO SANTO" pltv-subgroup="",GV NEWS - ES
+http://173.236.10.10:1935/gvnews/gvnews/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/910/full/TV_AMBIENTAL.jpg?1571014018" group-title="ESPÍRITO SANTO" pltv-subgroup="",TV AMBIENTAL - ES
+https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1091858751.m3u8
+
+####################################################### GOIÁS
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsl2IPkKQTW3f18IP_oc1UgNbbJHZHLPcaPLxkHMJPdaZlJx1w" group-title="GOIÁS" pltv-subgroup="",TV PAI ETERNO - GO
+https://59fb88a1b1108.streamlock.net/paieterno/aovivo/chunklist_w819512769.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/03cab22b6db6902578.png" group-title="GOIÁS" pltv-subgroup="",FONTE TV - GO
+http://wowza.softhost.com.br:1935/fonte/fontetv/chunklist_w766999145.m3u8
+
+#EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/815/full/Puc-TV.jpg?1571009734" group-title="GOIÁS" pltv-subgroup="",PUC TV - GO
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/01824e39efa176a9c5.png" group-title="GOIÁS" pltv-subgroup="",TBC ( TV CULTURA ) - GO
+http://rsync.com.br:8081/rtsp/tbc/chunks.m3u8?nimblesessionid=8326052
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/02773c3ba3a33c7623.png" group-title="GOIÁS" pltv-subgroup="",CANAL PROMESSAS - GO
+https://hls.brasilstream.com.br/live/canalprom/canalprom/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/03.jpg" group-title="GOIÁS" pltv-subgroup="",UFG TV - GO
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w192386926_b1544100_sleng.m3u8
+
+####################################################### MARANHÃO
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="MARANHÃO" pltv-subgroup="",TV GUARÁ - MA
+https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/chunklist_w1339250363.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/6/61/20180904225302%21Logotipo_da_TV_Difusora_Sul.png" group-title="MARANHÃO" pltv-subgroup="",TV DIFUSORA SUL - MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1030661937.m3u8
+
+#EXTINF: -1 tvg-logo="http://4.bp.blogspot.com/-_VMlniBouzc/UxotskNhB6I/AAAAAAAAIDw/dyMPiv7Evcg/s1600/DIFUSORA+ok.png" group-title="MARANHÃO" pltv-subgroup="",DIFUSORA ( SBT ) - MA
+http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w2128671445.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/01.gif" group-title="MARANHÃO" pltv-subgroup="",TV ALTERNATIVA ( GAZETA ) - MA
+https://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8?wowzasessionid=1267836556
+
+####################################################### MATO GROSSO
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/0156f169f51e5ad683.png" group-title="MATO GROSSO" pltv-subgroup="",TV BAND - MT
+https://video01.kshost.com.br/rbatv121/rbatv121/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/01fbe0c0dc7abcc02f.png" group-title="MATO GROSSO" pltv-subgroup="",WEB TV AGUA BOA - MT
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1570412051.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/0211b0560a3769ff0c.png" group-title="MATO GROSSO" pltv-subgroup="",Tv CENTRO OESTE (SBT - MT)
+https://5b7f3c45ab7c2.streamlock.net/tvcentro/tvcentro/chunklist_w1575652952_DVR.m3u8
+
+####################################################### MATO GROSSO DO SUL
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CINE%2B_-_LOGO.png/1200px-CINE%2B_-_LOGO.png" group-title="MATO GROSSO DO SUL" pltv-subgroup="",CINE+ - MS
+https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w345979517.m3u8
+
+#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/-7goHLt_GUT4/AAAAAAAAAAI/AAAAAAAAAAA/WYzGwTryx-o/c-k-no/photo.jpg" group-title="MATO GROSSO DO SUL" pltv-subgroup="",VIA MORENA - MS
+https://cdn-cleuza-734.ciclano.io:1443/cleuza-734/cleuza-734/chunklist_w401792325.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/03b8b8549f6c56aabe.jpg" group-title="MATO GROSSO DO SUL" pltv-subgroup="",TV PANTANAL - MS
+https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w448045675.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="MATO GROSSO DO SUL" pltv-subgroup="",CANAL DO BOI - MS
+https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w266793576.m3u8
+
+#EXTINF: -1 tvg-logo="http://lagartocomoeuvejo.com.br/wp-content/uploads/2013/09/AgroCanal.png" group-title="MATO GROSSO DO SUL" pltv-subgroup="",AGRO CANAL - MS
+https://5c49cd60dfe56.streamlock.net:6443/agrocanal/live/chunklist_w777973748.m3u8
+
+#EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/773/full/TV_IMACULADA.png?1571008107" group-title="MATO GROSSO DO SUL" pltv-subgroup="",TV IMACULADA CONCEIÇÃO - MS
+http://69.46.0.170:1935/ric_tvimaculada/ric.stream/chunklist_w1535256702.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/01997f25f51373f6c3.png" group-title="MATO GROSSO DO SUL" pltv-subgroup="",AGRO BRASIL - MS
+http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/chunklist_w1084977414.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/02fc77cb822f03a497.png" group-title="MATO GROSSO DO SUL" pltv-subgroup="",TVE - MS
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/01.jpg" group-title="MATO GROSSO DO SUL" pltv-subgroup="",CONEXÃO BR - MS
+https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w1444922442.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/024c1050bd4e08ed8c.jpg" group-title="MATO GROSSO DO SUL" pltv-subgroup="",TV ALMS - MS
+https://cdn.jmvstream.com/live/hls/lv_6769/LV6769_Q7AKXnL6Bn.m3u8
+
+####################################################### MINAS GERAIS
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSU9Y59ly35S2bonrBY05V9VBMcfDTD5zkCv2KE2AgqWrBc0vq" group-title="MINAS GERAIS" pltv-subgroup="",REDE MINAS - MG
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w1518072814.m3u8
+
+#EXTINF: -1 tvg-logo="https://tvpocos.com.br/wp-content/uploads/2017/02/logo_redonda-2.png" group-title="MINAS GERAIS" pltv-subgroup="",TV POÇOS - MG
+https://rtmp.cdn.upx.net.br/00084/myStream.sdp/chunklist.m3u8?d20b8bbed68871b0d6dcc9d15017a82d
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/0hZQTQI9.jpg" group-title="MINAS GERAIS" pltv-subgroup="",TV ATIVIDADE - MG
+https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w759723346.m3u8
+
+#EXTINF: -1 tvg-logo="http://img.new.livestream.com/events/00000000003dd82f/2a5cd9fe-7a67-424d-8e8b-717fdf63e284.png" group-title="MINAS GERAIS" pltv-subgroup="",REDE SUPER - MG
+https://5a7bcfb834235.streamlock.net/zw9009/stream/chunklist_w1756927416.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/01c164f8b5696781fe.png" group-title="MINAS GERAIS" pltv-subgroup="",TV RENASCER GOSPEL - MG
+https://stmv1.srvstm.com/dinalva9388/dinalva9388/playlist.m3u8?wowzasessionid=946072889
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/03196af9fd74ed100c.jpg" group-title="MINAS GERAIS" pltv-subgroup="",NTV - MG
+http://srv02.brasilstream.com.br:8080/live/ntv/ntv/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/04.jpg" group-title="MINAS GERAIS" pltv-subgroup="",TV CANDIDÉS - MG
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist_b2146304.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/05.jpg" group-title="MINAS GERAIS" pltv-subgroup="",WTJ TV MINAS - MG
+https://5c64355d4b57c.streamlock.net:1936/tvwtjtvminas/tvwtjtvminas/chunklist_w1856622433.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/03.png" group-title="MINAS GERAIS" pltv-subgroup="",TV RIO PRETO - MG
+https://5c64355d4b57c.streamlock.net:1936/8304/8304/chunklist_w302826706.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/06.jpg" group-title="MINAS GERAIS" pltv-subgroup="",TV PLAN - MG
+http://rtmp.cdn.upx.net.br/723b/myStream.sdp/chunklist.m3u8?06df12dc4b15c4ad4dca89530e2ad2f4
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/07.jpg" group-title="MINAS GERAIS" pltv-subgroup="",TV SETE LAGOAS - MG
+http://wz4.dnip.com.br/tvsetelagoas/tvsetelagoas.sdp/chunklist_w1695818921.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/042fe678c9c37b3837.png" group-title="MINAS GERAIS" pltv-subgroup="",TV CARAVELAS - MG
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://zipzapnetdotcomdotbr.files.wordpress.com/2016/06/tv-vic3a7osa-logotipo-ok-curvas.png?w=563" group-title="MINAS GERAIS" pltv-subgroup="",TV VIÇOSA - MG
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/chunklist_w38773543.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/05.png" group-title="MINAS GERAIS" pltv-subgroup="",TV SUL - MG
+https://rtmp.cdn.upx.net.br/00046/myStream.sdp/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLndlYnR2dWFpX3NjcmVlbl8wX2FjYWk4aWsw/screen-0.jpg?fakeurl=1&type=.jpg" group-title="MINAS GERAIS" pltv-subgroup="",TV UAI - MG
+http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/06.png" group-title="MINAS GERAIS" pltv-subgroup="",VIN TV - MG
+https://5b7f3c45ab7c2.streamlock.net/8044/ngrp:8044_all/chunklist_w842834138_b1362944.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/07.png" group-title="MINAS GERAIS" pltv-subgroup="",TVU UBERLÂNDIA - MG
+https://video-rvd-df-gw-4-1.rnp.br/live/ocp(t(FdTFfLdgePg)r(TOqkzw)a(ut2kCQ)p(d(Ujo)k(l0g)m(VvQS9XH6fiK8ng6z5Fy9yw)n(a(Xw1PPA)s(CcA)'a(Mb8s-A)s(xKA)'a(eatO-A)s(z2Q)))s(s(ZGE)b(LoZu8GszVDqAC7N43x7acSLMUd8sLrJXzXfcKQ3yY6Jnaz2Wzd2dFDu1tBbOSaW3R-iMGduRriDesyo9Rg)'s(uTo)b(YeTYXN0rMZxFo6ZaJbWtcj8FiC1N1BnyMTTt8BvTMiLkYnFh5BAoueE00_0TMPzNM3K9LUVrzFyx_cYBeiyDTertbcVstChYwgRZwBk2)'s(E7s)b(KvaIa4HI))m(0))/1_index.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/08fb6490e658d9d2fd.png" group-title="MINAS GERAIS" pltv-subgroup="",TV REINO - MG
+https://5c64355d4b57c.streamlock.net:1936/tvreino/tvreino/chunklist_w1952141539.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/09.png" group-title="MINAS GERAIS" pltv-subgroup="",TV ANDRADAS - MG
+http://69.46.0.170:1935/tvandradas/antv.stream/chunklist_w431769504.m3u8
+
+####################################################### PARÁ
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1557962804/logomarca.jpg" group-title="PARÁ" pltv-subgroup="",RBATV (BAND) - PA
+https://video01.kshost.com.br/rbatv121/rbatv121/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="PARÁ" pltv-subgroup="",TV CULTURA - PA
+http://stream.tvitarare.com.br/hls/site/site.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/01374642addb159040.jpg" group-title="PARÁ" pltv-subgroup="",TV MARAJOARA - PA
+https://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8?wowzasessionid=1367217602
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/18/01.png" group-title="PARÁ" pltv-subgroup="",TV BRASIL PARAENCE
+http://rtmp.cdn.upx.net.br/723b/myStream.sdp/chunklist.m3u8?73cf7ba432b12ec30120b300085d1d1d
+
+####################################################### PARAÍBA
+#EXTINF: -1 tvg-logo="https://www.tvarapuan.com.br/2019/images/site/logo.png" group-title="PARAÍBA" pltv-subgroup="",TV ARAPUAN (REDE TV) - PB
+https://5b7f3c45ab7c2.streamlock.net/9010/ngrp:9010_all/chunklist_w1077546410_b481072_DVR.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/04.jpg" group-title="PARAÍBA" pltv-subgroup="",TV DIÁRIO DO SERTÃO - PB
+http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w155831820.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/032c549f52b9c88a63.png" group-title="PARAÍBA" pltv-subgroup="",TV TAMBAÚ - PB
+https://hls.portalt5.com.br/abr_tvtambau/aovivo/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://1.bp.blogspot.com/-OJVd05mFhz4/T7POIHMi1LI/AAAAAAAAAEk/ab4I_4BL3M0/s400/TV+Master.png" group-title="PARAÍBA" pltv-subgroup="",TV MASTER - PB
+http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/014a5054bea44dc1f6.jpg" group-title="PARAÍBA" pltv-subgroup="",CARIRI TV - PB
+https://59f1cbe63db89.streamlock.net:1443/cariritv/_definst_/cariritv/chunklist_w929707076.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/01.png" group-title="PARAÍBA" pltv-subgroup="",TV SOL - PB
+http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/chunklist_w1146757709.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/02.jpg" group-title="PARAÍBA" pltv-subgroup="",REDE CIDADE VIVA - PB
+http://rtmp.cdn.upx.net.br/kwjqp/smil:cidadeviva.smil/chunklist_b2130000.m3u8?7fdb2b8cebc124e7a6ecba9372079941
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/03.jpg" group-title="PARAÍBA" pltv-subgroup="",TV ASSEMBLÉIA - PB
+http://tv.al.pb.leg.br/hls/tvalpb.m3u8
+
+####################################################### PARANÁ
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/01.jpg" group-title="PARANÁ" pltv-subgroup="",TV EVANGELIZAR - PR
+http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w996687347.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/026bf3d29350db4083.png" group-title="PARANÁ" pltv-subgroup="",TVCI - PR
+http://flash8.crossdigital.com.br/2306/2306/chunklist_w1232555327.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/0141c4fd6ae3e38542.jpg" group-title="PARANÁ" pltv-subgroup="",TV CATVE - PR
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1070656754.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/05.jpg" group-title="PARANÁ" pltv-subgroup="",1001 NOITES - PR
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1601536.m3u8
+
+#EXTINF: -1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/paranaeducativa.png" group-title="PARANÁ" pltv-subgroup="",TV ÉPARANÁ (CULTURA) - PR
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/03.png" group-title="PARANÁ" pltv-subgroup="",RTV CANAL 38 - PR
+https://cdn.jmvstream.com/live/hls/lv_2824/LV2824_4v2y74MLaN.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/screen-0.jpgfakeurl1type.jpg" group-title="PARANÁ" pltv-subgroup="",TV VIANA - PR
+https://01.paineldevideo.com/tvviana/tvviana/playlist.m3u8?wowzasessionid=493448987
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/06.jpg" group-title="PARANÁ" pltv-subgroup="",TV EVANGELIZAR 2 - PR
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@667536/index_150_av-p.m3u8?sd=6&rebase=on
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/07.jpg" group-title="PARANÁ" pltv-subgroup="",TV ESPÍRITA - PR
+https://stmv1.srvstm.com/rodney1666/rodney1666/playlist.m3u8?wowzasessionid=1520835713
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/08.jpg" group-title="PARANÁ" pltv-subgroup="",TV VILA VELHA - PR
+https://cdn.jmvstream.com/live/hls/lv_6820/LV6820_32yJNqgKKB.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/09.jpg" group-title="PARANÁ" pltv-subgroup="",TV WEB PARANÁ - PR
+https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/chunklist_w910700699.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/04.png" group-title="PARANÁ" pltv-subgroup="",MUNDO TV - PR
+https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w601125261.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/18/0162435a0e2930514c.png" group-title="PARANÁ" pltv-subgroup="",TV TRANSAMÉRICA - PR
+http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/05.png" group-title="PARANÁ" pltv-subgroup="",TV CAIUÁ - PR
+https://cdn.jmvstream.com/w/LVW-8087/LVW8087_1qebbs4Prx/chunklist_w1010092713.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/06.png" group-title="PARANÁ" pltv-subgroup="",MASTER TV - PR
+http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w545368532.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/10.jpg" group-title="PARANÁ" pltv-subgroup="",TV ANTARES - PR
+https://stmv6.srvstm.com/9696/9696/playlist.m3u8?wowzasessionid=2012069706
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/bVlRgDMi.jpg" group-title="PARANÁ" pltv-subgroup="",TV BELTRÃO 2 - PR
+https://59f1cbe63db89.streamlock.net:1443/tvbeltrao2/_definst_/tvbeltrao2/chunklist_w960383373.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/11.jpg" group-title="PARANÁ" pltv-subgroup="",TV UP - PR
+http://caikron.com.br:1935/unipar/tvup/chunklist_w1410350879.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/07.png" group-title="PARANÁ" pltv-subgroup="",CANAL 10 (F.IGUAÇU) - PR
+http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/chunklist_w1194322201.m3u8
+
+####################################################### PERNAMBUCO
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="PERNAMBUCO" pltv-subgroup="",SBT (HD) - PE
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png"group-title="CANAIS ABERTOS",SBT-(PE)
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="PERNAMBUCO" pltv-subgroup="",SBT (SD) - PE
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2020510264_b131000_sleng.m3u8
- 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-bG58OVpFNs4/Wm8C09AARWI/AAAAAAAAxTA/1v7CqrY6yzcFE2eQA8s8ZYJkflMAloEYwCLcBGAs/s1600/Logotipo_TV_Jornal.jpg"group-title="CANAIS ABERTOS",SBT - TV JORNAL (PE)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/18/01.jpg" group-title="PERNAMBUCO" pltv-subgroup="",TV JORNAL (HD) - PE
+https://evpp.mm.uol.com.br/ne10/ne10_720.sdp/chunklist_w1341355352.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/18/01.jpg" group-title="PERNAMBUCO" pltv-subgroup="",TV JORNAL (HD) 2 - PE
 https://evpp.mm.uol.com.br/ne10/ne10_720.sdp/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/937747985731063814/_TaaBguI_400x400.jpg"group-title="CANAIS ABERTOS",REDE TV
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1863882509.m3u8
- 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/Rede-TV-HD.png" group-title="CANAIS ABERTOS",REDE TV
-https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1738905660.m3u8
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599687295/Logo.jpg"group-title="CANAIS ABERTOS",BAND
-https://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
- 
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/18/01.jpg" group-title="PERNAMBUCO" pltv-subgroup="",TV JORNAL (CARUARU) - PE
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/chunklist_w1751643361.m3u8
+
+#EXTINF: -1 tvg-logo="https://4.bp.blogspot.com/-7EBxlNt9qig/UuEl723w8nI/AAAAAAAABy4/h0qXySCAyDY/w1200-h630-p-k-no-nu/LOGO+DA+RBC+TV.png" group-title="PERNAMBUCO" pltv-subgroup="",REDE BRASIL DE COMUNICAÇÃO - PE
+https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w441236726_b1096000.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98f2c63bd8626875fa4b533767d074ff.png" group-title="PERNAMBUCO" pltv-subgroup="",TV CARUARU - PE
+https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/07.png" group-title="PERNAMBUCO" pltv-subgroup="",TVU RECIFE - PE
+http://150.161.93.220/hls/480/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/08.png" group-title="PERNAMBUCO" pltv-subgroup="",TV BOA ESPERANÇA - PE
+https://stmv3.srvstm.com/16692/16692/playlist.m3u8?wowzasessionid=80767743
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/09.png" group-title="PERNAMBUCO" pltv-subgroup="",TV CIDADE CUPIRA - PE
+https://5cf4a2c2512a2.streamlock.net/livretv/livretv/chunklist_w2046999347.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/10.png" group-title="PERNAMBUCO" pltv-subgroup="",TV 40 GRAUS - PE
+https://5d23bdca513db.streamlock.net/40graustv/40graustv/chunklist_w662335199.m3u8
+
+####################################################### PIAUÍ
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/11142d3a7f99eb7d65.png" group-title="PIAUÍ" pltv-subgroup="",TV CIDADE VERDE (SBT) - PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1548339379.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/01b3870f0bcb8d25c5.png" group-title="PIAUÍ" pltv-subgroup="",TV VERDES CAMPOS SAT - PI
+https://596639ebdd89b.streamlock.net/8124/8124/chunklist_w352605834.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/02815754e9262fc04e.png" group-title="PIAUÍ" pltv-subgroup="",TV MEIO NORTE - PI
+https://playback2.akamaized.net/streams/3332377_8867750_lsi3kurdtxg82z49du5_1/exp=1573382767~acl=%2f*~data=hdntl~hmac=bd4bccb0e6376ae79478e2498583f97fa1b0c2d99bbd230ddfae02fa0a0e063f/media/3332377_8867750_lsi3kurdtxg82z49du5_1@446000p.m3u8?dw=14400&ts=1573293600
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/03c49a72eb50601760.png" group-title="PIAUÍ" pltv-subgroup="",TV JORNAL MEIO NORTE - PI
+https://playback2.akamaized.net/streams/3332377_8878619_lsi9lilvxbppwsf5bdp_1/exp=1573382865~acl=%2f*~data=hdntl~hmac=6675111c42140f0704662ce93c1a3dba906d871435a8b6fb63d3ad263de6112d/media/3332377_8878619_lsi9lilvxbppwsf5bdp_1@596000p.m3u8?dw=14400&ts=1573293600
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/01b0071c1be5c89132.jpg" group-title="PIAUÍ" pltv-subgroup="",TV ASSEMBLEIA - PI
+https://59e4b6c1beddc.streamlock.net/ronaldoalepi/ronaldoalepi/chunklist_w2138694069.m3u8
+
+####################################################### RIO DE JANEIRO
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/01ea2b6d345d8e19bf.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",TV CARIOCA - RJ
+https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w884743616.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/011f47a23d0339a098.png" group-title="RIO DE JANEIRO" pltv-subgroup="",CANAL FUTURA - RJ
+http://caikron.com.br:1935/unipar/tvup/chunklist_w437192828.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/02.png" group-title="RIO DE JANEIRO" pltv-subgroup="",CARIOCA TV - RJ
+http://wse01.logicahost.com.br:1935/cariocainterativo/cariocainterativo/chunklist_w24405928.m3u8
+
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/652833020668461056/NUCFnJCh_400x400.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",TV METROPOLITANA - RJ
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w2034603958.m3u8
+
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/937747985731063814/_TaaBguI_400x400.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",REDE TV - RJ
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w832368873.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/02.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",MARICÁ TV - RJ
+https://5abdf4edae5bf.streamlock.net/maricatvstation/maricatvstation/chunklist_w639913130.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/03.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",TV MEGA BRASIL - RJ
+https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio.smil/chunklist_w1735600045_b1300000.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/04.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",CANAL TV RIO - RJ
+https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio/chunklist_w1183518051.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png" group-title="RIO DE JANEIRO" pltv-subgroup="",REDE BOAS NOVAS - RJ
+https://59f1cbe63db89.streamlock.net:1443/boasnovas/_definst_/boasnovas/chunklist_w1488996674.m3u8
+
+#EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/1542629891/logo_litoralnews_ok_op3_copy.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",REDE LITORAL NEWS - RJ
+https://cdn.jmvstream.com/w/LVW-8414/LVW8414_tDit99EAtY/chunklist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/05.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",TV CIDADE CARIOCA - RJ
+https://5b7f3c45ab7c2.streamlock.net/8002/8002/chunklist_w683682602.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/03.png" group-title="RIO DE JANEIRO" pltv-subgroup="",TVC 16 - RJ
+https://stmv3.srvstm.com/tvc16/tvc16/playlist.m3u8?wowzasessionid=2135090907
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/06.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",TV ZOOM - RJ
+https://dcunilive36-lh.akamaihd.net/i/dclive_1@667493/index_150_av-p.m3u8?sd=6&rebase=on
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/04.png" group-title="RIO DE JANEIRO" pltv-subgroup="",REDE TV MAIS - RJ
+https://5abdf4edae5bf.streamlock.net/tvarthdtv/tvarthdtv/chunklist_w1532068714.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/07.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",TERÊ TV - RJ
+https://5b7f3c45ab7c2.streamlock.net/8158/8158/chunklist_w1232277267.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/01.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",ALX TV - RJ
+https://stmv1.srvstm.com/yeeaah/yeeaah/playlist.m3u8?wowzasessionid=536365421
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/05.png" group-title="RIO DE JANEIRO" pltv-subgroup="",TERCEIRA VIA TV - RJ
+https://cdn.jmvstream.com/live/hls/lv_7877/LV7877_KeBFLMSUF4.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/08.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",CAXIAS TV - RJ
+https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w115144359.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/09.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",IGREJA EVANGÉLICA CRISTO VIVE - RJ
+https://5a57bda70564a.streamlock.net/tvcristo/tvcristo.sdp/chunklist_w1364526445.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/10.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",RADIO AVELA WEB - RJ
+https://video1.earthcam.com/myearthcamclips/_definst_/MP4:20180920/d76371d13cdb1eee7a8d4198272b23cd.mp4/chunklist_w1892578101.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/11.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",TVC RIO - RJ
+https://59f1cbe63db89.streamlock.net:1443/tvcrio/_definst_/tvcrio/chunklist_w1306276361.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/06.png" group-title="RIO DE JANEIRO" pltv-subgroup="",LUAU TV - RJ
+https://hls.brasilstream.com.br/live/luautv/luautv/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/12.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",TV OPÇÃO - RJ
+https://cdn.jmvstream.com/live/hls/lv_1227/LV1227_nfB8txwI7j.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/13.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",BEM MAIS TV - RJ
+https://uhsakamai-a.akamaihd.net/sao01/sao01-uhs-omega02/live/23603848/1578675776303/plain/uhs/6/chunk_1578166537_6011cdb3f4.m4v
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/07.png" group-title="RIO DE JANEIRO" pltv-subgroup="",TV INES - RJ
+https://v4-slbps-sambavideos.akamaized.net/live/348%2C1651%2Ce37b831f59f42c649056321149991c7e%3Bbase64np%3BzDdrADxYcjubiM0%21/amlst%3AzDeTGSETdzqEyEG2/chunklist_b884736.m3u8?sts=st=1572563194~exp=1572569794~acl=/*~hmac=e22230316e86e04233238ef82cee023e536f97b6d942f0cc24f92ad95e39e1e5
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/14.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",STUDYO FM - RJ
+https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/Cr4EZk5xj7Vc3j2Jp12enIIe2qSsDECVTKO-wLaVVfFbRO2uwobgFeLw1YokGB1nBrc8Qx4NTfF-ekOpj-57T8bFU1SsanuYSkckN_jd15cbqR9_Qi1y6soArKLCH4pRuLN5_chZYrds9jmh3KnYmad-UqThZMusZpwS2arNeNqGdJQ_WeJXlVE4HrIvaHC7jn5gPWODaL4s-cVdAH0sDy0FIbBjnhFoHq7S6ZA1J5hRofsl_KM6igNJ7GKl6jMq2dnuHarxZ13XlNbzsRp3ckriVGwngHweYMdUQShaCzp9wninrKFZoMVHs25zQSwe0YYn18kIcndMh2VfGYnXzPROCkL9Jatxh6CA6kFvCyLq3MmmZ28yIk5OY1ju_woXMmrOhK-Lr5AOxfDfKwHC4JHF-tPzQ5G-1tgDyGmQFVgp1uUJlAmt4ilvJ5zFIrhBeor0CqUJJUqeJRl1IaMaJKGANGirqsqayWViCNRbcGes2ynQqHhH7u_GFqjdlk5eGJ0haQP_r3D2tHev9rnqkG_99JrkopOkq-hk4Hqr6cBaPI8YLPUs3CDCWOI-6PPJPhHkIA8cRdnyrGi1ezX19dTUSh7AKuYdHlO5bstZ7wThlOVTys6cohBLOsV_3GmTM2LLgWvo4du93xYPNVzvlPkQo4cMSz43zOBEZhDrrUx4NSy3FrFhlL3xPYYmzKJpXsQPnuEsHjkbxld1yFMB4wI8uCR8WGwNq85ATAzOceo3YftX7raYhshrbGZLFtr8_BIQYCMW3p7twKIg5bYSXB980hoM7c_sjMOpxWxgQ_WQ.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/08.png" group-title="RIO DE JANEIRO" pltv-subgroup="",ASHOW! TV - RJ
+http://uhs-akamai.ustream.tv/sao01/sao01-uhs-omega02/live/23603848/1573235588260/plain/uhs/9/chunk_1573272324_e980c4c35a.m4a
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/15.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",TV MAIS MARICÁ - RJ
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/chunklist_w2035424288.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/09.png" group-title="RIO DE JANEIRO" pltv-subgroup="",CANAL SAÚDE - RJ
+https://video-rvd-lmg.rnp.br/live/ocp(t(FdXo23NEp6c)r(TOqkzw)a(ut2kCQ)p(d(Ujo)k(l0k)m(znLsYS6dDh6V1BqKIp6dQw)n(a(-C6qfg)s(lpU)'a(SgO7eg)s(3b0)))s(s(9aM)b(c9ee3kI0or0KkVxrTQpiCtm3ZXb5MRiTauHEmjDjlQB0s8eehddwRtM-OEfEvQrZbmuidFz3N6nS)'s(BEk)b(LDtiiwNrvk5mwsosndWg3hnsSmI7uj02NZpz3ug23WM9RcFmUCjBNMQWoOoHbuf1mYuZDxPu7IVkTHusK5LWFx7JYegUlxoeoqFW)'s(B38)b(YewuIco9))m(0))/stream_index.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/16.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",MULTI RIO - RJ
+http://187.111.97.45:1935/webtv/webtv/chunklist_w1204145488.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/17.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",RIO TV CÂMARA - RJ
+http://199.189.86.19:1935/camararj/_definst_/aovivo/chunklist_w1805367916.m3u8
+
+####################################################### RIO GRANDE DO NORTE
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/08.jpg" group-title="RIO GRANDE DO NORTE" pltv-subgroup="",TV UNIÃO DE NATAL - RN
+https://5ca42828c3a79.streamlock.net/tvuniao/_definst_/tvuniao/chunklist_w1477203188.m3u8
+
+#EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/828/full/TV_TCM.png?1571010228" group-title="RIO GRANDE DO NORTE" pltv-subgroup="",TV CABO MOSSORÓ - RN
+http://live.tcm10.com.br/tcm10.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/TV-NATAL.png" group-title="RIO GRANDE DO NORTE" pltv-subgroup="",TV NATAL - RN
+https://stmv6.srvstm.com/antonioflavio9466/antonioflavio9466/playlist.m3u8?wowzasessionid=43612473
+
+#EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/ILB7ZFKytC9K6lg8hC4GKhUAjBv7tSbHiIwA9lLyuJJQKtSo-i_rkUtEt3OuY2rDvh0" group-title="RIO GRANDE DO NORTE" pltv-subgroup="",TV CIDADE OESTE - RN
+http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/03b81f8a66c5a40ccd.png" group-title="RIO GRANDE DO NORTE" pltv-subgroup="",LIVRE TV - RN
+https://5cf4a2c2512a2.streamlock.net/livretv/livretv/chunklist_w1687904880.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/04501a39170a73ab9e.png" group-title="RIO GRANDE DO NORTE" pltv-subgroup="",TV FELIZ - RN
+https://59f2354c05961.streamlock.net:1443/tvfelizrn/_definst_/tvfelizrn/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/01e717b6f3e2967f74.jpg" group-title="RIO GRANDE DO NORTE" pltv-subgroup="",TV FUTURO (CULTURA) - RN
+https://streaming03.zas.media/tvfuturo/tvfuturo/chunklist_w1723510670.m3u8
+
+#EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/782/full/TV_GRANDE_NATAL.jpg?1571008741" group-title="RIO GRANDE DO NORTE" pltv-subgroup="",TV GRANDE NATAL - RN
+http://tvgrandenatalhd.duckdns.org/hls/live.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/02cfa2f3b89095003f.jpg" group-title="RIO GRANDE DO NORTE" pltv-subgroup="",NOSSA TV (TV CULTURA) - RN
+https://cdn.jmvstream.com/w/sadrak/_definst_/sadrak/chunklist_w2086264313.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/03d830c4ce16f2c0d9.jpg" group-title="RIO GRANDE DO NORTE" pltv-subgroup="",TV ASSEMBLÉIA - RN
+https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w101832890.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/04d7283b5884df3963.jpg" group-title="RIO GRANDE DO NORTE" pltv-subgroup="",WEB TV FRONTEIRA - RN
+https://stmv4.srvstm.com/aguiberto6360/aguiberto6360/playlist.m3u8?wowzasessionid=527641763
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/056ba9cdd9662d10cb.th.png" group-title="RIO GRANDE DO NORTE" pltv-subgroup="",TV ASSEMBLÉIA DE DEUS MOSSORÓ - RN
+https://cdn.jmvstream.com/live/hls/lv_435/LV435_vhX7cShN23.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/05a180c89f1825c263.jpg" group-title="RIO GRANDE DO NORTE" pltv-subgroup="",WEB TV SANTANA - RN
+http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-p.m3u8?sd=10&rebase=on
+
+####################################################### RIO GRANDE DO SUL
+#EXTINF: -1 tvg-logo="http://i.imgur.com/yUW5BKa.jpg" group-title="RIO GRANDE DO SUL" pltv-subgroup="",TV PAMPA - RS
+https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/0283335f5b3579f12b.png" group-title="RIO GRANDE DO SUL" pltv-subgroup="",TV A PLATÉIA - RS
+https://srv-rs1.sisdera.com:30443/hls/1/tvap/1_720p/chunks.m3u8?nimblesessionid=941509
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/0658664ca5837277cd.png" group-title="RIO GRANDE DO SUL" pltv-subgroup="",TV URBANA - RS
+https://5c64355d4b57c.streamlock.net:1936/8298/8298/chunklist_w692619683.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/0771bb07b30a930238.png" group-title="RIO GRANDE DO SUL" pltv-subgroup="",TVE - RS
+http://streaming.procergs.com.br:1935/tve/stve/chunklist_w1765629719.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/0823ab62207d1b3238.png" group-title="RIO GRANDE DO SUL" pltv-subgroup="",TV CAMPUS UFSM - RS
+https://farol.ufsm.br/conteudo/hls/wnd2h0c_record1.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/06b50b14ae7af1ed83.jpg" group-title="RIO GRANDE DO SUL" pltv-subgroup="",BAH TV - RS
+https://cdn.jmvstream.com/w/LVW-8203/ngrp:LVW8203_AH1TDAiC85_all/chunklist_b1628000.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/079c0c29fe68044539.jpg" group-title="RIO GRANDE DO SUL" pltv-subgroup="",RDC TV - RS
+https://5a7d54e35f9d2.streamlock.net/rdctv/smil:rdctv.smil/chunklist_w322411791_b350000.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/09a9a58fee3b4934ec.png" group-title="RIO GRANDE DO SUL" pltv-subgroup="",TV CIDADE 10 - RS
+http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/chunklist_b1056768.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/35/Logotipo_da_TV_Ponta_Negra.png" group-title="RIO GRANDE DO SUL" pltv-subgroup="",PONTA DA SERRA - RS
+https://stmv4.srvstm.com/tvpontadaserra/tvpontadaserra/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/11.png" group-title="RIO GRANDE DO SUL" pltv-subgroup="",FURG TV - RS
+https://stream.furg.br/hls/furgtv_480p.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/103e8e8c4224e15b39.th.jpg" group-title="RIO GRANDE DO SUL" pltv-subgroup="",TV CÂMARA (CAXIAS DO SUL) - RS
+http://187.63.179.171:1935/live/_definst_/smil:multibitrate.smil/manifest_w893646471.mpd
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/10.png" group-title="RIO GRANDE DO SUL" pltv-subgroup="",VALE TV PLAY - RS
+https://v7.ciclano.io:1443/valetv/_definst_/valetv/chunklist_w603090287.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/12.png" group-title="RIO GRANDE DO SUL" pltv-subgroup="",TV CACHOEIRA - RS
+http://stream.novotempo.com/tv/smil:TvNovoTempoCom.smil/chunklist_w466127460_b1128000_slpor.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/13.png" group-title="RIO GRANDE DO SUL" pltv-subgroup="",LAGOA TV - RS
+https://v7.ciclano.io:1443/lagoafm/_definst_/lagoafm/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/14.th.png" group-title="RIO GRANDE DO SUL" pltv-subgroup="",REDE RCT - RS
+http://173.236.10.10:1935/rederct/rederct/chunklist_w1930634424.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/01f787fb5009dcce10.jpg" group-title="RIO GRANDE DO SUL" pltv-subgroup="",TV ASSEMBLÉIA - RS
+http://stream.al.rs.gov.br:8001/live/tval/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/1sgtDGhC.md.png" group-title="RIO GRANDE DO SUL" pltv-subgroup="",TV CIDADE FARROUPILHA - RS
+http://209.126.127.101:1935/tvcidade/tvcidade/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/013ab0c774c4188469.png" group-title="RIO GRANDE DO SUL" pltv-subgroup="",TV SÃO LEO - RS
+https://v7.ciclano.io:1443/valetv/_definst_/valetv/chunklist_w96170885.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/022fef624889d1f9a7.jpg" group-title="RIO GRANDE DO SUL" pltv-subgroup="",UNITV - RS
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/02e1042839b53074d8.th.png" group-title="RIO GRANDE DO SUL" pltv-subgroup="",TV NOVOS HORIZONTES - RS
+https://v3.ciclano.io:1443/novoshorizontes/_definst_/novoshorizontes/chunklist_w1485118126.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/VIzJV24C.md.jpg" group-title="RIO GRANDE DO SUL" pltv-subgroup="",UPF TV - RS
+https://video-rvd-lmg.rnp.br/live/ocp(t(FdXyjDPDBoM)r(TOqkzw)a(ut2kCQ)p(d(Ujo)k(l0k)m(U8uLgGAOLiyjdl9C6u3ezg)n(a(_oyF7A)s(Q5Y)'a(xjPFig)s(Alc)))s(s(7RM)b(ZkIQIEKRYtB5LFTWVHmdWFmPXLXcXJ6MIvkEd1uEP8XWoZxDY8umQ4jAK_u4ANLS654fAmBONJAsKNknAg)'s(wII)b(oWSY5biF720OGwaNu4VFYH1qbguUi47NllPAcOd4YMORDTd1WA1770_AvZAFMs82uSxjGdAv86y0B35OrgpZSCD78gdHS5DY60h0wqvH)'s(Wr0)b(tjkKbt2e))m(0))/11_index.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/0387ece39b6ff4adc8.png" group-title="RIO GRANDE DO SUL" pltv-subgroup="",TV IMAGENS - RS
+http://stmv1.caxiashost.com.br/caxiashost/caxiashost/playlist.m3u8?wowzasessionid=1090463670
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/04a6fd73cdfc0e5eb5.png" group-title="RIO GRANDE DO SUL" pltv-subgroup="",UNISC TV - RS
+http://tv.unisc.br/hls/test.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/036821005967eeb36e.jpg" group-title="RIO GRANDE DO SUL" pltv-subgroup="",TV MENORAH - RS
+http://www.voxelz.tv/stream/live/47qjxxmvpvpyivpvzv8vp.mp4
+
+####################################################### RONDÔNIA
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/012583096a856bcd7c.jpg" group-title="RONDÔNIA" pltv-subgroup="",TV DO POVO - RO
+https://5b6d86cbca7b3.streamlock.net/tvdopovo/tvdopovo/chunklist_w2104400834.m3u8
+
+####################################################### RORAIMA
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/01a12913e3a7c1f75b.png" group-title="RORAIMA" pltv-subgroup="",UFRR - RR
+https://video-rvd-lmg.rnp.br/live/ocp(t(FdX2XTIk6f4)r(TOqkzw)a(ut2kCQ)p(d(Ujo)k(l0k)m(wRKahSR7cPJCk6SsSqFK8g)n(a(1jaHiQ)s(wy0)'a(uKgkrw)s(W24)))s(s(1yo)b(kH28KXzd4dprFifSprid8fWIXQKsws_ZTsO6sDaljVOK9hv0293iB7ofaW2W3YrqXjohgyNXWzJg-Bm9gA)'s(5zU)b(PwVuhh4Nf5t34bm8EzkKszpFiJLMft8yN0tYfD8amgpsdAFSCHSCAKaStvot8Y0afprxzxkkXBSoY-sboigafwG5Fccn6jndfz8HMf1m)'s(fEw)b(ZNjFMW7U))m(0))/5_index.m3u8
+
+####################################################### SANTA CATARINA
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/01146dd4311a67e22d.jpg" group-title="SANTA CATARINA" pltv-subgroup="",TV GALEGA - SC
+https://cdn.jmvstream.com/live/hls/lv_769/LV769_GdOsetvPVQ.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/02.png" group-title="SANTA CATARINA" pltv-subgroup="",TV LITORAL PANORAMA - SC
+http://streaming03.zas.media:1935/panorama/panorama/chunklist_w1494615880.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/03.jpg" group-title="SANTA CATARINA" pltv-subgroup="",TV GIDEÕES - SC
+https://streaming01.zas.media/gideoes/programacao_360p/chunklist_w1525300652.m3u8
+
+#EXTINF: -1 tvg-logo="http://cooptotoral.com/wp-content/uploads/2016/11/logo-canal-24.png" group-title="SANTA CATARINA" pltv-subgroup="",CANAL 24HS - SC
+http://stream02.canal24horastv.com:1935/live/Canal24Horas/chunklist_w560997554.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/037c235bdaea915c66.png" group-title="SANTA CATARINA" pltv-subgroup="",PREMIER TV - SC
+http://18.228.14.226/hls/primertv360/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/040a4d0e997ee60a44.jpg" group-title="SANTA CATARINA" pltv-subgroup="",TV TUBÁ - SC
+http://69.46.0.171:1935/rcr_tuba/tv.stream/chunklist_w1939900714.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/02a2c2b89336a5e02b.jpg" group-title="SANTA CATARINA" pltv-subgroup="",TV FLORIPA - SC
+http://hls.fm1.com.br:8080/hls/tvfloripa.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/NbcWKyFTW5E7CwmcuneV6fX_EItHExvxizAV97ZVLPMKdbKJO20Ef7iSxlpGq2LAJeU.md.png" group-title="SANTA CATARINA" pltv-subgroup="",NOVA ERA TV - SC
+http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w572005142.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/urban_tv_franchising_logo.png" group-title="SANTA CATARINA" pltv-subgroup="",URBAN TV BRASIL - SC
+https://5cf4a2c2512a2.streamlock.net/urbantv/urbantv/chunklist_w1363637166.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/0456ece56f6f560bb6.png" group-title="SANTA CATARINA" pltv-subgroup="",GEN TV - SC
+http://wse5.player.tv.br:1935/aovivo/aovivo/chunklist_w1289660256.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/05917a7dbcb7d6d6bb.jpg" group-title="SANTA CATARINA" pltv-subgroup="",NGP TV - SC
+https://5a0c3936c25c8.streamlock.net/8278/8278/chunklist_w69756681.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/06177818d262639239.jpg" group-title="SANTA CATARINA" pltv-subgroup="",TV UFSC - SC
+http://150.162.188.10:8080/hls/1_hi.m3u8
+
+####################################################### SÃO PAULO
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/Rede-TV-HD.png" group-title="SÃO PAULO" pltv-subgroup="",REDE TV - SP
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w743775646.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV IGREJA MUNDIAL DO PODER DE DEUS - SP
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w344000070_b1096000.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="SÃO PAULO" pltv-subgroup="",RECORD NEWS - SP
+https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w2119333144.m3u8
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="SÃO PAULO" pltv-subgroup="",REDE VIDA - SP
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/01443362d01cf5239a.th.jpg" group-title="SÃO PAULO" pltv-subgroup="",SBT INTERIOR - SP
+https://5a1c76baf08c0.streamlock.net/z343-live/stream/chunklist_w969939489.m3u8
+
+#EXTINF: -1 tvg-logo="https://seeklogo.com/images/T/top-tv-logo-5999E0BF67-seeklogo.com.png" group-title="SÃO PAULO" pltv-subgroup="",TOP TV - SP
+https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w924755108.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.tvnailha.com.br/img/2097311829.png" group-title="SÃO PAULO" pltv-subgroup="",TV NA ILHA - SP
+http://wowv.gadi.com.br/tvnailha/tvnailha/playlist.m3u8?wowzasessionid=1284434096
+
+#EXTINF: -1 tvg-logo="http://assistirtv.xyz/wp-content/uploads/2019/02/filmesgospel-185x200.png" group-title="SÃO PAULO" pltv-subgroup="",GOSPEL MOVIE TV - SP
+https://stmv3.srvstm.com/gospelf/gospelf/playlist.m3u8?wowzasessionid=1556782610
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/0216c4fec55d67266d.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV REDE GOSPEL - SP
+rtmp://media1.igospel.org.br/live/redegospel
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="SÃO PAULO" pltv-subgroup="",TV UNIVERSAL - SP
+https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_1080_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/y3yq88sr" group-title="SÃO PAULO" pltv-subgroup="",TV GAZETA - SP
+https://tinyurl.com/y2ltvzo8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/0301334e773709ba89.jpg" group-title="SÃO PAULO" pltv-subgroup="",MEGA TV - SP
+http://www.megatv.com.br/u/2018/01/04/stone-in-box-1-30_657a660.mp4
+
+#EXTINF: -1 tvg-logo="http://3.bp.blogspot.com/-FWv58xh2EDo/TYdQLxceQcI/AAAAAAAAAX0/lzGHTe4wuIs/s1600/878.png" group-title="SÃO PAULO" pltv-subgroup="",TV JORNAL DE LIMEIRA - SP
+http://flash1.crossdigital.com.br:1935/1998/1998/chunklist_w1513750983.m3u8
+
+#EXTINF: -1 tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/c/2/csm_7061-1071_company_import_0e756a7155.png" group-title="SÃO PAULO" pltv-subgroup="",TV JOVEM PAN - SP
+https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="http://royaltimes.net/wp-content/uploads/2017/06/TVC.png" group-title="SÃO PAULO" pltv-subgroup="",CAPITAL 777 - SP
+http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/2St8Ans.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV DIGITAL BIRIGUI - SP
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1805078074.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/05.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV SANTA CECÍLIA - SP
+https://5829cb6b64c3c.streamlock.net/2063/2063/chunklist_w1335494998.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/06.png" group-title="SÃO PAULO" pltv-subgroup="",RIVIERA SUMMER TV - SP
+http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w452256422.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/06.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV DESTAKE - SP
+http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/chunklist_w1777063213.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/07.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV JAPI - SP
+https://5d2c98775bafe.streamlock.net/8220/8220/chunklist_w1408488800.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/07.png" group-title="SÃO PAULO" pltv-subgroup="",TV INTERNALTA - SP
+https://srv1.zcast.com.br/luiseduardo7379/luiseduardo7379/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/08101152859efd2a6a.jpg" group-title="SÃO PAULO" pltv-subgroup="",CONECT TV - SP
+http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w1739046624.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/01ddb2f04e074d1542.png" group-title="SÃO PAULO" pltv-subgroup="",REDE FAMÍLIA - SP
+https://cdn0.showcase.com.br/hls/redefamilia/vid.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/3_DP2a5X.md.png" group-title="SÃO PAULO" pltv-subgroup="",TV8 - SP
+https://cdn.jmvstream.com/w/LVW-8215/ngrp:LVW8215_fL5vRbpRn1_all/chunklist_b2596000.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/02e10b9a8abeec71d6.png" group-title="SÃO PAULO" pltv-subgroup="",TV NOVO TEMPO - SP
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+
+#EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/743/full/TV_VOTORANTIM.jpg?1571006584" group-title="SÃO PAULO" pltv-subgroup="",TV VOTORANTIM - SP
+http://tv.tvalphanet.com.br:1935/tvvotorantim/tvvotorantim/chunklist_w1525152757.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/03305e871aaf00413b.png" group-title="SÃO PAULO" pltv-subgroup="",TV CÂMARA - SP
+http://wpc.c1d19.systemcdn.net/24C1D19/live_tvcamara/perfil720.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/042d91d04106b7f19a.png" group-title="SÃO PAULO" pltv-subgroup="",TV ITAPETININGA - SP
+http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/chunklist_w1077614950.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/05be0ee37b13c83444.png" group-title="SÃO PAULO" pltv-subgroup="",TV RIO PRETO - SP
+http://186.227.165.118:1935/insatv/livestream/chunklist_w1299556032.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/04dee3941e6490d233.jpg" group-title="SÃO PAULO" pltv-subgroup="",REDE TVT - SP
+https://stream-02.nyc.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4Gz4_qqW38D-E7YwGgMRotJw)/dm/3/x6ph7x7/s/live-3.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/09.png" group-title="SÃO PAULO" pltv-subgroup="",TV ABERTA - SP
+http://v8.ciclano.io:1935/canalpaulo/canalpaulo/chunklist_w377950848.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/09.jpg" group-title="SÃO PAULO" pltv-subgroup="",ECO TV - SP
+https://stmv4.srvstm.com/ecotv/ecotv/playlist.m3u8?wowzasessionid=1769756748
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/10.jpg" group-title="SÃO PAULO" pltv-subgroup="",CANAL 10 FERNANDOPOLIS - SP
+http://wowza.acessaradios.com.br:1935/canaldez/canaldez/chunklist_w911380812.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/fba81f19d13ccbb969cf7dd7d2236c1d.png" group-title="SÃO PAULO" pltv-subgroup="",TV CINEC - SP
+https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/11.jpg" group-title="SÃO PAULO" pltv-subgroup="",ITU TV (ITV) - SP
+http://wse01.logicahost.com.br:1935/itutv/_definst_/itutv/chunklist_w80210123.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/08.png" group-title="SÃO PAULO" pltv-subgroup="",TV VIANNEY - SP
+http://wse7.player.tv.br:1935/iolandomauriciodasilva800/iolandomauriciodasilva800/chunklist_w1784894009.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/10.png" group-title="SÃO PAULO" pltv-subgroup="",TOP MIX TV - SP
+https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_w710853838.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/12.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV GUARULHOS - SP
+http://stream19.streamingdevideo.com.br:1935/tvguarulhos/tvguarulhos/chunklist_w1466746683.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/11.png" group-title="SÃO PAULO" pltv-subgroup="",TV CÂMARA DE MOGI DAS CRUZES - SP
+http://streamingbr.com:1935/app-3292/smil:app-3292.smil/chunklist_w372228121_b914000_sleng.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/12.png" group-title="SÃO PAULO" pltv-subgroup="",IMPERIAL TV - SP
+https://5b7f3c45ab7c2.streamlock.net/8002/8002/chunklist_w1015976550.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/13.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV GRANDE ABC - SP
+https://cdn.jmvstream.com/w/jornalab/_definst_/jornalab/chunklist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/14.jpg" group-title="SÃO PAULO" pltv-subgroup="",TVÍDEO NEWS - SP
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w36598006.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/15.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV CIDADE MARÍLIA - SP
+https://5abdf4edae5bf.streamlock.net/tvcidademariliatv/tvcidademariliatv/chunklist_w1787432547.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/16.png" group-title="SÃO PAULO" pltv-subgroup="",TV COM SANTOS - SP
+https://cdn.jmvstream.com/live/hls/lv_566/LV566_oubev6Pcf0.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/25.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV AMARAL - SP
+https://5d2c98775bafe.streamlock.net/8222/8222/chunklist_w617637433.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/16.jpg" group-title="SÃO PAULO" pltv-subgroup="",CEAK TV - SP
+https://stmv3.srvstm.com/ceak/ceak/playlist.m3u8?wowzasessionid=2133170860
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/17.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV MOGI - SP
+https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CokEDZZMgGIVTAgQ8yPTKq59BleHhmZgSq80G8fP0aRAi_8hURPThtvT3B4CgWW2Lrq0mEBLqhtexqnCbdCOep9qcCXIgr5ck53CftJbIkpHSHQggDEVqwe-2dWzOdfNXPxLwP1BkV-3I-YBmDfAusWZoxJCv597W-ybrq2n3yF8vhS1G-yxAif_acy2mEgnTz1yMRgHxFy_cQeLG2ilmki4cR8q2eBWtUefH5Zs-osJz6u4PeNc6G7rAo1fn840gSWXxKHcEmnaQ4HpgSj_UiPtFVRAfZrsm-iD9pyAe__1qNkGDBWZOqDHIpasSNuj-2kInEPDsme3K2xNon3pWnPkMD6qysp6HpfkiIrElN5UhVP6ku7li5Gaty-G9ds8mA0mTKkSWl-PXIsCZT6m119c6H4ckvmIeH2Lp6VFzGmRh9TBxibfBR-n7ICEz5WaeUBIzjnMAVw-pmH5dQAoKhSNjRNZwfwrFCYooaoeXbW1rrvWx7rqw6ec3Clzb2umi2YaR6cXG2GQ3g1_Sw5crUNeQYi-lDzFT6v6U4KagHtNNUs-d5021DhZjguZu-FN_KSdCUiM7pQ2jy2J3UhOZ5vzDX5-tC2LvrgpzQR9KLK0Wq-4bnKAft4hFoX1Pl2893wjR2KGXg5zG4LU3quVNZxVjpMnqMoa6zeRp3c6zlpCsn9fSn--UfOnkzgSEEmLu2lJlbgxoCIIkJb4EGgaDMacteZBYAIYGnvA2Q.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/18.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV ALVORADA ESPIRITA - SP
+https://5b6d86cbca7b3.streamlock.net/tvalvorada/tvalvorada/chunklist_w840932109.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/17.png" group-title="SÃO PAULO" pltv-subgroup="",CANAL 25 JUNDIAÍ - SP
+http://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+
+#EXTINF: -1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/890/full/TV_CLIMA.png?1571013099" group-title="SÃO PAULO" pltv-subgroup="",TV  CLIMA - SP
+http://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8?wowzasessionid=853872102
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/logo-da-tv.png" group-title="SÃO PAULO" pltv-subgroup="",TV CLIC BRASIL - SP
+https://dcunilive38-lh.akamaihd.net/i/dclive_1@692593/index_150_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/18.png" group-title="SÃO PAULO" pltv-subgroup="",REDE PREMIUM TV - SP
+https://slbps-sambatech.akamaized.net/live/3410%2C8879%2C12263efc906e7f003af8490bfe3c4941%3Bbase64np%3BeUxpdAC7dOnee8E%21/amlst%3AeUyRbR3wcejBO03M/chunklist_b1667072.m3u8?sts=st=1573557252~exp=1573563852~acl=/*~hmac=9d83725442a7331eec4ae6c8e179894b3475ac3fd1c4141d1570696e0d6d4dcc
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/19.png" group-title="SÃO PAULO" pltv-subgroup="",VEM E VÊ TV 1 - SP
+https://srv-rs1.sisdera.com/vvtv/vvtv/vvtv-0/vvtv_480p/chunks_dvr.m3u8?nimblesessionid=995127
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/20.jpg" group-title="SÃO PAULO" pltv-subgroup="",NOVA TV FRANCA - SP
+https://5b7f3c45ab7c2.streamlock.net/8124/8124/chunklist_w1495060863_DVR.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/21.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV CANAL 8 - SP
+https://5c483b9d1019c.streamlock.net/8126/8126/chunklist_w1073713300.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/20.png" group-title="SÃO PAULO" pltv-subgroup="",NOVA TV VALE - SP
+https://5b7f3c45ab7c2.streamlock.net/8016/8016/chunklist_w1343360230.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/22.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV UNISANTOS - SP
+http://rtmp.cdn.upx.net.br/7550/myStream.sdp/chunklist.m3u8?0f38b101968adc9ee316db52aed23df0
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/21.png" group-title="SÃO PAULO" pltv-subgroup="",TV SERRA AZUL - SP
+http://stmv2.srvstm.com/tvserrazuladm/tvserrazuladm/playlist.m3u8?wowzasessionid=1845444560
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/23.jpg" group-title="SÃO PAULO" pltv-subgroup="",BLUE TV - SP
+http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/chunklist_w1226094486.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/22.png" group-title="SÃO PAULO" pltv-subgroup="",TV OSASCO - SP
+https://stmv3.srvstm.com/luisantonio1763/luisantonio1763/playlist.m3u8?wowzasessionid=1925521822
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/23.png" group-title="SÃO PAULO" pltv-subgroup="",TV VERBO DIVINO - SP
+https://5c64355d4b57c.streamlock.net:1936/verbodivinorcc/verbodivinorcc/chunklist_w1482245482.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/24.jpg" group-title="SÃO PAULO" pltv-subgroup="",REDE VOCÊ TV - SP
+https://stmv1.ifantasy.com.br/redevocetv/redevocetv/playlist.m3u8?wowzasessionid=913130115
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/24.png" group-title="SÃO PAULO" pltv-subgroup="",CANAL CBB TV - SP
+https://stmv6.srvstm.com/lindenberg7331/lindenberg7331/playlist.m3u8?wowzasessionid=421706032
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/screen-0.jpgfakeurl1type.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV A CAMINHO DA LUZ - SP
+http://wse01.logicahost.com.br:1935/tvacaminhodaluz/_definst_/tvacaminhodaluz/chunklist_w1690376115.m3u8
+
+#EXTINF: -1 tvg-logo="https://tinyurl.com/y5s4h3gs" group-title="SÃO PAULO" pltv-subgroup="",TV MACKENZIE - SP
+https://player.internetaovivo.com:8443/live_tvmackenzie/tvmackenzie/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/18/43.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV CLARET - SP
+http://rtmp.cdn.upx.net.br/5ec3_2/myStream.sdp/chunklist.m3u8?05f9d15c94cd9c69965d63cb1b3d05fb
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/26.jpg" group-title="SÃO PAULO" pltv-subgroup="",ALPHA CHANNEL TV - SP
+http://streamingbr.com:1935/st87-live/smil:alphachannel.smil/chunklist_w1872675401_b1364000_sleng.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/27.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV CÂMARA JACAREÍ - SP
+http://179.109.16.5:1935/tvcamarajacarei/aovivo/chunklist_w1191119343.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/26.png" group-title="SÃO PAULO" pltv-subgroup="",TV ONIX - SP
+https://cdn-candiano-1114.ciclano.io:1443/candiano-1114/candiano-1114/chunklist_w53321697.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/512x512bb.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV FAAP - SP
+http://midia.faap.br/faaplatamlive-live/stream_720/chunklist_w171216889.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/27.png" group-title="SÃO PAULO" pltv-subgroup="",GOSTEI GOSPEL TV - SP
+https://59f1cbe63db89.streamlock.net:1443/redegostei/redegostei/chunklist_w944190271.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/28.png" group-title="SÃO PAULO" pltv-subgroup="",TV KIDMAIS - SP
+http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/chunklist_w1277796910.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/28.jpg" group-title="SÃO PAULO" pltv-subgroup="",OESTE TV - SP
+https://5b7f3c45ab7c2.streamlock.net/9004/9004/chunklist_w35461665.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/29.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV RP - SP
+https://5b7f3c45ab7c2.streamlock.net/8042/8042/chunklist_w32119499_DVR.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/30.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV HORA 1 - SP
+https://59f1cbe63db89.streamlock.net:1443/hotflix/_definst_/hotflix/chunklist_w1099588290.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/29.png" group-title="SÃO PAULO" pltv-subgroup="",TV MOL - SP
+https://5abdf4edae5bf.streamlock.net/tvmoltvstation/tvmoltvstation/chunklist_w1059580007.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/31.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV DAS ARTES - SP
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/chunklist_w747736133.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/32.jpg" group-title="SÃO PAULO" pltv-subgroup="",MKK WEB - SP
+http://wse01.logicahost.com.br:1935/mkkweb/_definst_/mkkweb/chunklist_w526421337.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/33.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV UNESP - SP
+https://video.unesp.br/live/indoor.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/0W4OnClYZOqLm9D0G5T1C0XfE6y9YvfXZl-OaKu9mt1cI7UbF_KKvbytLYjKP1RqKsg.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV COM BRASIL - SP
+https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w1825570773.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/34.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV PRODUTO - SP
+https://v7.ciclano.io:1443/tvproduto/_definst_/tvproduto/chunklist_w689273699.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/35.jpg" group-title="SÃO PAULO" pltv-subgroup="",REDE CIDADE LIVRE - SP
+http://tvcidadelivre.com.br/live/tvcl.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/30.png" group-title="SÃO PAULO" pltv-subgroup="",CEAK CAMPINAS - SP
+https://stmv3.srvstm.com/ceak/ceak/playlist.m3u8?wowzasessionid=1796092041
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/36.jpg" group-title="SÃO PAULO" pltv-subgroup="",VV8 TV - SP
+http://servidor.vv8.tv.br:1935/live/myStream1/chunklist_w1923651602.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/31.png" group-title="SÃO PAULO" pltv-subgroup="",CANAL DE SÃO PAULO - SP
+http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/chunklist_w633849259.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/37.jpg" group-title="SÃO PAULO" pltv-subgroup="",CANAL RICOS - SP
+http://video01.kshost.com.br/canalricos548/canalricos548/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/32.png" group-title="SÃO PAULO" pltv-subgroup="",VEM E VÊ TV  2 - SP
+https://srv-rs1.sisdera.com/vvtv/vvtv/vvtv-0/vvtv_480p/chunks_dvr.m3u8?nimblesessionid=996129
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/38.jpg" group-title="SÃO PAULO" pltv-subgroup="",REDE RVC - SP
+http://flash1.crossdigital.com.br:1935/ponto82/redervc/chunklist_w121018171.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/33.png" group-title="SÃO PAULO" pltv-subgroup="",CANAL EXECUTIVO IASD - SP
+http://stream.novotempo.com:1935/tv/executivo.smil/chunklist_w767465560_b1128000_slpor.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/39.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV MISSÃO - SP
+http://wse7.player.tv.br:1935/tvmissao/mp4:tvmissao/chunklist_w913425014.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/40.jpg" group-title="SÃO PAULO" pltv-subgroup="",TV INTERLAGOS - SP
+http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/chunklist_w1471485767.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/41.jpg" group-title="SÃO PAULO" pltv-subgroup="",VEM E VÊ TV 3 - SP
+https://srv-rs1.sisdera.com/vvtv/vvtv/vvtv-0/vvtv_480p/chunks_dvr.m3u8?nimblesessionid=996272
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/42.jpg" group-title="SÃO PAULO" pltv-subgroup="",CANAL REPÓRTER - SP
+https://v7.ciclano.io:1443/tvproduto/_definst_/tvproduto/chunklist_w1228425706.m3u8
+
+####################################################### SERGIPE
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/TV-ALESE.png" group-title="SERGIPE" pltv-subgroup="",TV ALESE - SE
+https://digilab.cds.ebtcvd.net/live-tvalese/stream1/chunklist.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/01.jpg" group-title="SERGIPE" pltv-subgroup="",TV LIBERDADE - SE
+http://hls.fm1.com.br:8080/hls/tvliberdade.m3u8
+
+#####################################################################################################################
+
 #EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2013/08/redebrasil.jpg"group-title="CANAIS ABERTOS",RBTV - Rede Brasil de Televisão
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w2116565669.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/be677f392b634453f48ef4e0819c7532.jpg"group-title="CANAIS ABERTOS",Tv ARACATI - (CE)
-https://srv1.zcast.com.br/tvaracati/tvaracati/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CINE%2B_-_LOGO.png/1200px-CINE%2B_-_LOGO.png"group-title="CANAIS ABERTOS",CINE + (MS)
-https://5c49cd60dfe56.streamlock.net:6443/cinemais/live/chunklist_w345979517.m3u8
- 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-OTZ7_0OuWng/W0YoAmQ1r9I/AAAAAAAAZEc/LprlzVVoFUA8Qi3JioESVCoq3h082k7yACLcBGAs/s1600/dp.jpg"group-title="CANAIS ABERTOS",TV EVANGELIZAR - (PR)
-http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w996687347.m3u8
- 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-7goHLt_GUT4/AAAAAAAAAAI/AAAAAAAAAAA/WYzGwTryx-o/c-k-no/photo.jpg"group-title="CANAIS ABERTOS",VIA MORENA - (MS)
-https://cdn-cleuza-734.ciclano.io:1443/cleuza-734/cleuza-734/chunklist_w401792325.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png"group-title="CANAIS ABERTOS",REDE VIDA - (SP)
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
- 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/top-tv-logo-5999E0BF67-seeklogo.com.png"group-title="CANAIS ABERTOS",TOP TV - (SP)
-https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w924755108.m3u8
- 
-#EXTINF:-1 tvg-logo="http://recordtv.r7.com/emissoras-record/files/2015/12/ES_TV-VITORIA.png"group-title="CANAIS ABERTOS", RECORD - TV VITÓRIA (ES)
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://www.meioemensagem.com.br/wp-content/uploads/2016/02/futura-canal.jpg"group-title="CANAIS ABERTOS",CANAL FUTURA - (RJ)
 http://caikron.com.br:1935/unipar/tvup/chunklist_w719595372.m3u8
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1169002502743830528/7QEpfnW-_400x400.jpg"group-title="CANAIS ABERTOS",WORLD SURF LEAGUE - apenas nos Campeonatos
-https://www.surfer.com/wp-content/uploads/2015/03/WP-Toth-Hank.jpg
- 
-#EXTINF:-1 tvg-logo="http://assistirtv.xyz/wp-content/uploads/2019/02/filmesgospel-185x200.png"group-title="CANAIS ABERTOS",GOSPEL MOVIES TV - (SP)
-https://stmv3.srvstm.com/gospelf/gospelf/playlist.m3u8?wowzasessionid=1556782610
- 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/yxs7zol3" group-title="CANAIS ABERTOS",TVP TV POPULAR
-https://5c483b9d1019c.streamlock.net:443/8076/8076/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSU9Y59ly35S2bonrBY05V9VBMcfDTD5zkCv2KE2AgqWrBc0vq" group-title="CANAIS ABERTOS",REDE MINAS
-https://59f1cbe63db89.streamlock.net:1443/redeatividade/_definst_/redeatividade/chunklist_w1518072814.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/6/61/20180904225302%21Logotipo_da_TV_Difusora_Sul.png" group-title="CANAIS ABERTOS",TV DIFUSORA SUL
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w1030661937.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.ma10.com.br/wp-content/uploads/2016/09/LOGO-ASSINATURA-1.png" group-title="CANAIS ABERTOS",SBT - TV DIFUSORA
-http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w1161769886.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS ABERTOS",REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
- 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c9eb6_188a3d2f73b94d3f97e09e9f86d06d7d~mv2_d_2362_2362_s_2.jpg" group-title="CANAIS ABERTOS",TV SANTA CECILIA
-https://5829cb6b64c3c.streamlock.net/2063/2063/chunklist_w1335494998.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dc/Universal_TV_Logo_2018.png" group-title="CANAIS ABERTOS",TV UNIVERSAL
-https://r7iurdgeobrhls-lh.akamaihd.net/i/r7iurdgeobrhls_1@125410/index_1080_av-b.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/5a/d1/48/5ad1486b9aa62c4603e866765a340881.png" group-title="CANAIS ABERTOS",RIVIERA SUMMER TV
-http://tv01.logicahost.com.br:1935/summertv/summertv/chunklist_w452256422.m3u8
- 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-q_qNirBi2no/VPgke2Kl8sI/AAAAAAAA8Q8/GhTwrJKYyCw/s1600/JORGE%2BCAT.png" group-title="CANAIS ABERTOS",CATVE HD
-http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OJVd05mFhz4/T7POIHMi1LI/AAAAAAAAAEk/ab4I_4BL3M0/s400/TV+Master.png" group-title="CANAIS ABERTOS",MASTER TV
-http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/886/full/allsports_Logo_Large.jpg?1571012890" group-title="CANAIS ABERTOS",ALL SPORTS HD
-https://59f1cbe63db89.streamlock.net:1443/dgrau/_definst_/dgrau/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/yUW5BKa.jpg" group-title="CANAIS ABERTOS",TV PAMPA
-https://v8.ciclano.io:1443/rafael926/_definst_/rafael926/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/890/full/TV_CLIMA.png?1571013099" group-title="CANAIS DE  MÚSICAS",TV CLIMA
-http://stmv1.srvstm.com/tvcadm/tvcadm/playlist.m3u8?wowzasessionid=853872102
- 
+
 #EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/capital.png" group-title="CANAIS ABERTOS",TV CAPITAL
 http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1160507725.m3u8
- 
+
 #EXTINF:-1 tvg-logo="http://www.assistirtvaovivo.tv/novo/logos/rbc.png" group-title="CANAIS ABERTOS",RBC TV
 https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w1518997145_b1096000.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/TVC.png" group-title="CANAIS ABERTOS",TVC
 http://stmv3.srvstm.com/tvc16/tvc16/playlist.m3u8?wowzasessionid=156463704
- 
+
 #EXTINF:-1 tvg-logo="https://www.rs21.com.br/site/aplicativos/files/2016/11/logo-aplicativos.png" group-title="CANAIS ABERTOS",REDE SÉCULO 21
 https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-p.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-logo="https://auvaromaia.com/wp-content/uploads/2016/07/TV-Serra.png" group-title="CANAIS ABERTOS",TV SERRA AZUL
-http://stmv2.srvstm.com/tvserrazuladm/tvserrazuladm/playlist.m3u8?wowzasessionid=1845444560
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS DE MÚSICAS", TV BRASIL PARAENCE
-http://rtmp.cdn.upx.net.br/723b/myStream.sdp/chunklist.m3u8?73cf7ba432b12ec30120b300085d1d1d
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/69/Esporte_Interativo_BR.png/320px-Esporte_Interativo_BR.png" group-title="CANAIS DE MÚSICAS", CARIOCA INTERATIVO TV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/69/Esporte_Interativo_BR.png/320px-Esporte_Interativo_BR.png" group-title="CANAIS ABERTOS", CARIOCA INTERATIVO TV
 http://wse01.logicahost.com.br:1935/cariocainterativo/cariocainterativo/chunklist_w306082016.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/600353545158791168/JI0QFnod.png" group-title="CANAIS ABERTOS", TV AL -(MS)
 https://cdn.jmvstream.com/live/hls/lv_6769/LV6769_Q7AKXnL6Bn.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/paranaeducativa.png" group-title="CANAIS ABERTOS", TV PARANÁ
-http://200.189.113.201/hls/tve.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.malhariaeggoscohab.com.br/images/tvn2.gif" group-title="CANAIS ABERTOS", TVN BRASIL
-http://painelvj.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y5s4h3gs" group-title="CANAIS ABERTOS",TV MACKENZIE
-https://player.internetaovivo.com:8443/live_tvmackenzie/tvmackenzie/playlist.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://www.foztv.com.br/wp-content/uploads/2018/07/foztv-novo.png" group-title="CANAIS ABERTOS",FOZ TV
 https://streamingserverbr1.septe.com.br:1936/hls/foztv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://liberate.gg/wp-content/uploads/2014/05/itv-channel-news1.jpg" group-title="CANAIS DE MÚSICAS",ITU TV
-https://59f2354c05961.streamlock.net:1443/itutv/_definst_/itutv/playlist.m3u8
- 
+
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/_RcMeXwcuzJQ/TE9i_U1H87I/AAAAAAAAAPI/127W0otbqTY/S1600-R/Logo-Blog.png" group-title="CANAIS ABERTOS",ALL TV
 https://cdn.jmvstream.com/w/infiniti/_definst_/infiniti/chunklist_w498661116.m3u8
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwy-QI4goJOD4mRDQWr8PircSn-hS2XElIprUV4NdVTy9Qv8rg" group-title="CANAIS ABERTOS",TV MAIS
-https://596639ebdd89b.streamlock.net:443/8040/8040/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="CANAIS ABERTOS",TV CULTURA HD
-http://stream.tvitarare.com.br/hls/site/site.m3u8
- 
-#EXTINF:-1 tvg-logo="http://tvcinec.com.br/images/fba81f19d13ccbb969cf7dd7d2236c1d.png" group-title="CANAIS ABERTOS",TV CINEC
-https://59f1cbe63db89.streamlock.net:1443/tvcinec/_definst_/tvcinec/playlist.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-IrcQBf_rBqg/VwPjw9ay_GI/AAAAAAAACTs/0TmrOuhvT3EF_s3wfT5_z1a0upxHvGepA/s1600/sbt-hd.png" group-title="CANAIS ABERTOS",SBT HD
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7aK7yPQAexHPo3vsvpHsJrJ99oknm8oDJ5xn7v3dtOSDiXvXM" group-title="CANAIS ABERTOS",TVE - (BA)
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://brazil.mom-rsf.org/typo3temp/_processed_/c/2/csm_7061-1071_company_import_0e756a7155.png" group-title="CANAIS ABERTOS",TV JOVEM PAN
-https://evpp.mm.uol.com.br/jovempan/tv-jp.sdp/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y4xnmaph" group-title="CANAIS ABERTOS",TV TRANSAMÉRICA
-http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/playlist.m3u8
- 
+
 #EXTINF:-1 tvg-logo="http://produtos.ne10.uol.com.br/jc360/assets/images/content/audiencia/ne10.png" group-title="CANAIS ABERTOS",SBT - NE10 (PE) HD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
- 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-mar-alagoas_m.png" group-title="CANAIS ABERTOS",TV MACEIÓ
-http://173.236.10.10:1935/toptv/toptv/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://royaltimes.net/wp-content/uploads/2017/06/TVC.png" group-title="CANAIS ABERTOS",CAPITAL 777
-http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSklKwnsya4MMMgikbengtcKjM4tYhYGBoDXo8VNfOGsgDcy-h" group-title="CANAIS ABERTOS",CINE SKY 2
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
- 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-uUV36dAswik8_4ussEhXLHXzemGfVwxpUXw=s900-c-k-c0xffffffff-no-rj-mo" group-title="CANAIS ABERTOS",TV MAR
-https://v7.ciclano.io:1443/tvmar/tvmar/chunklist_w1007758976.m3u8
- 
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Fa8YNjoDpsI/TotxkX45UqI/AAAAAAAAAJw/92TUKz3Hb6E/s1600/logo_tvcaxias.png" group-title="CANAIS ABERTOS",CAXIAS TV
 https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w8407895.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.tvnailha.com.br/img/2097311829.png" group-title="CANAIS ABERTOS",TV NA ILHA
-http://wowv.gadi.com.br/tvnailha/tvnailha/playlist.m3u8?wowzasessionid=1284434096
- 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="CANAIS ABERTOS",REDE NOVO
 http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
- 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ILB7ZFKytC9K6lg8hC4GKhUAjBv7tSbHiIwA9lLyuJJQKtSo-i_rkUtEt3OuY2rDvh0" group-title="CANAIS ABERTOS",TV CIDADE OESTE
-http://hls.cadena.com.br/live/df9e135c-df44-4fbc-8e95-d128ab1db00c/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcC5jaW5lcGx1c3R2X2ljb25fMTUyNTg2MDE5NV8wNjk/icon.png?w=170&fakeurl=1" group-title="CANAIS ABERTOS",CINE PLUS
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?ANTONYGTV
- 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png" group-title="CANAIS ABERTOS",TV APARECIDA
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w456429934.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Rsmt5bn.png" group-title="CANAIS ABERTOS",TV DA GENTE
-https://595b85410a151.streamlock.net/tvdagenteoficial/tvdagenteoficial/chunklist_w1870775582.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.diariodosertao.com.br/wp-content/uploads/2017/10/dstv-3.jpg" group-title="CANAIS ABERTOS",TV DIÁRIO DO SERTÃO
-http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w155831820.m3u8
- 
-#EXTINF:-1 tvg-logo="https://imagem.band.com.br/f_73390.jpg" group-title="CANAIS ABERTOS",TV JANGADEIRO
-https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1263330763_b216000_sleng.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/901/full/RECORD_NEWS.JPG?1571013447" group-title="CANAIS ABERTOS",RECORD NEWS HD2
 https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/chunklist_w705315891.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Bd0Jlv1UsNzZUJhaCLbTDMxLBVVDUphpwkEG94KtWc-r1vq4IqNGr8a_x3R2AY5wgaI" group-title="CANAIS ABERTOS",TV GOSPEL CARTOON
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
- 
+
 #EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/83/c1/0c/83c10c33-8078-37f9-a216-cf5f375fa7a8/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.jpeg/246x0w.jpg" group-title="CANAIS ABERTOS",FM O DIA RJ
 https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y26pa5e7" group-title="CANAIS ABERTOS",FOX NEWS 23
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l79gXIYNq1hLGP_5jQY8_DuE0eldn0eyA5tRBg=s900-c-k-c0xffffffff-no-rj-mo" group-title="CANAIS ABERTOS",CANCAO NOVA
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/index_1080_av-b.m3u8?iptv2018?sd=10&rebase=on
- 
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS", TV ZERO
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/910/full/TV_AMBIENTAL.jpg?1571014018" group-title="CANAIS ABERTOS",TV AMBIENTAL
-https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1091858751.m3u8
- 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/917/full/TV_O_Povo.png?1571014212" group-title="CANAIS ABERTOS",TV O POVO
-https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w735649382.m3u8
- 
-#EXTINF:-1 tvg-logo="https://zipzapnetdotcomdotbr.files.wordpress.com/2016/06/tv-vic3a7osa-logotipo-ok-curvas.png?w=563" group-title="CANAIS ABERTOS", TV VIÇOSA
-http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/chunklist_w38773543.m3u8
- 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image/Y29tLmFwcGxpY2F0aW9uLndlYnR2dWFpX3NjcmVlbl8wX2FjYWk4aWsw/screen-0.jpg?fakeurl=1&type=.jpg" group-title="CANAIS ABERTOS", TV UAI
-http://tv01.logicahost.com.br:1935/tvuai/tvuai/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-oQ-WEj4Nv0ImdYSrHbzmNkEV9h5NJwDC8Pw=s900-c-k-c0xffffffff-no-rj-mo" group-title="CANAIS ABERTOS", TV SANTANA
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-oQ-WEj4Nv0ImdYSrHbzmNkEV9h5NJwDC8Pw=s900-c-k-c0xffffffff-no-rj-mo" group-title="CANAIS ABERTOS",TV SANTANA
 http://tv02.logicahost.com.br:1935/santana01/santana01/live.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.tvfronteira.com.br/app/img/logo.png" group-title="CANAIS ABERTOS", TV FRONTEIRA
+
+#EXTINF:-1 tvg-logo="http://www.tvfronteira.com.br/app/img/logo.png" group-title="CANAIS ABERTOS",TV FRONTEIRA
 http://stmv4.euroti.com.br:1935/aguiberto6360/aguiberto6360/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-DLnE1Pscp7w/Tl7iQuBI86I/AAAAAAAAAJo/DidwBxXRY1Q/TV%252520Senado%252520HDD.jpg" group-title="CANAIS ABERTOS",TV SENADO
-http://tvmpf.mpf.mp.br:1935/event455/event455.stream/live.m3u8
- 
+
 #EXTINF:-1 tvg-logo="http://www.globalhub.com.br/wp-content/uploads/2015/03/Logo-TV-BAND-HD.png" group-title="CANAIS ABERTOS",BAND HD SP
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
- 
-#EXTINF:-1 tvg-logo="http://recordtv.r7.com/emissoras-record/files/2015/12/ES_TV-VITORIA.png" group-title="CANAIS ABERTOS", TV VITÓRIA
+
+#EXTINF:-1 tvg-logo="http://recordtv.r7.com/emissoras-record/files/2015/12/ES_TV-VITORIA.png" group-title="CANAIS ABERTOS",TV VITÓRIA
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://myrealdomain.com/images/retro-tv-logo-5.png" group-title="CANAIS ABERTOS",TV RETRO
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8?ANTONYGTV
- 
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",TV APARECIDA
 http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w404485210.m3u8
- 
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",REDE VIDA HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
- 
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",REDE RC
 http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
- 
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",REDE BRASIL OESTE
 https://cdn.jmvstream.com/live/hls/lv_623/LV623_BvxLE6l1S8.m3u8
- 
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",TV SOBRENATURAL
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS DE MÚSICAS",RÁDIO 105 TV
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",RÁDIO 105 TV
 http://fms.105.net:1935/live/105Test1/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS DE MÚSICAS",RÁDIO MONTE CARLO
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",RÁDIO MONTE CARLO
 http://wow01.105.net/live/rmc1/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS DE MÚSICAS",MUSIC RETRO HD
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",MUSIC RETRO HD
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
- 
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",CANÇÃO NOVA
 http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
- 
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",REDE GOSPEL
 http://media.igospel.com.br:1935/live/redegospel/waldo_paes.m3u8
- 
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",REDE GOSPEL 2
 http://media01.s12.com.br:1935/live/redegospel/livestream.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",TV NOVO TEMPO
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
- 
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",CGTN DOCUMENTARY
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",TELESUR 480P
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",TELESU 2
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
- 
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720p_av-p.m3u8?sd=10&rebase=on
- 
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",TV ALJAZEERA
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index4147.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",INFO BAHIA
-https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/tvinforbahia/chunklist_w147238720.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",GV NEWS
-http://173.236.10.10:1935/gvnews/gvnews/playlist.m3u8?PEDROJUNIORTUTORIAIS
- 
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
- 
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",KTV SPORT
 https://svs.itworkscdn.net/ktvsportslive/ksports.smil/playlist.m3u8
- 
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",TELEROMAGNA SPORT
 http://livetr.teleromagna.it/sport/live/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",TVE BAHIA HD
-http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",MKK
-http://wse01.logicahost.com.br:1935/mkkweb/_definst_/mkkweb/chunklist_w526421337.m3u8
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",MEGA TV
-http://www.megatv.com.br/u/2018/01/04/stone-in-box-1-30_657a660.mp4
- 
+
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",REDE SÉCULO 21
 https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-b.m3u8?sd=10&rebase=on
- 
-#EXTINF:-1 tvg-logo="" group-title="CANAIS DE MÚSICAS",MPB MUSICALIDADE
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",MPB MUSICALIDADE
 http://192.99.150.31:8775/stream
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_Canal_do_Boi_-_PNG.png" group-title="CANAIS ABERTOS",CANAL DO BOI
-https://5c49cd60dfe56.streamlock.net:6443/canaldoboi/live/chunklist_w266793576.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg"group-title="CANAIS ABERTOS",TV Igreja Mundial do Poder de Deus - IMPD TV
-https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/chunklist_w344000070_b1096000.m3u8
- 
-#EXTINF:-1 tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/11/tvcaricoca.png"group-title="CANAIS ABERTOS",TV CARIOCA
-https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w884743616.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRLMA5CZwYGLtFJ93FEnzL7Is9kpY4OCOqOzIION9AXA9sTIt"group-title="CANAIS ABERTOS",REDE PLENITUDE - SP
 https://5a7d54e35f9d2.streamlock.net/iaptdbr/smil:iaptdbr.smil/chunklist_w1825681574_b2400000.m3u8
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1115975506887835649/InIYPEoz.png"group-title="CANAIS ABERTOS",TV BRASIL 2
-http://ebctvbrasil-rtmp.adaptive.level3.net/egress/bhandler/ebcremuxlive/tvbrasil/chunklist_b1056768.m3u8
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1557962804/logomarca.jpg" group-title="CANAIS ABERTOS",RBATV (BAND - PA)
-https://video01.kshost.com.br/rbatv121/rbatv121/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/y3yq88sr"group-title="CANAIS ABERTOS",TV GAZETA - SP
-https://tinyurl.com/y2ltvzo8
- 
-#EXTINF:-1 tvg-logo="https://tvpocos.com.br/wp-content/uploads/2017/02/logo_redonda-2.png"group-title="CANAIS ABERTOS",TV POÇOS - MG
-https://rtmp.cdn.upx.net.br/00084/myStream.sdp/chunklist.m3u8?d20b8bbed68871b0d6dcc9d15017a82d
- 
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-ms-hd_m.png"group-title="CANAIS ABERTOS",TV PANTANAL - MS
-https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w448045675.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.tvarapuan.com.br/2019/images/site/logo.png"group-title="CANAIS ABERTOS",TV ARAPUAN - REDE TV (PB)
-https://5b7f3c45ab7c2.streamlock.net/9010/ngrp:9010_all/chunklist_w1264318838_b2793472_DVR.m3u8
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/765961733819207681/qh_Sb1eg_400x400.jpg"group-title="CANAIS ABERTOS",TV J.SID
-https://stmv3.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=1696726725
- 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-FWv58xh2EDo/TYdQLxceQcI/AAAAAAAAAX0/lzGHTe4wuIs/s1600/878.png"group-title="CANAIS ABERTOS",TV JORNAL DE LIMEIRA - SP
-http://flash1.crossdigital.com.br:1935/1998/1998/chunklist_w1513750983.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/92/Logotipo_da_TV_Metrópole.png"group-title="CANAIS ABERTOS",TV METROPOLE - CE
-https://serv1.videovox.pw/eduardo2183/eduardo2183/playlist.m3u8?wowzasessionid=677141595
- 
+
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y2og3nmf"group-title="CANAIS ABERTOS",TV TERRA VIVA
 https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w845432168.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.cavaleiroadvogados.pt/wp-content/uploads/2015/05/Logo_tvi_v4.png"group-title="CANAIS ABERTOS",WEBTV IMAGEM DE CAETANO
-https://stmv4.srvstm.com/tvimagemdecaetano/tvimagemdecaetano/playlist.m3u8?wowzasessionid=931404566
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsl2IPkKQTW3f18IP_oc1UgNbbJHZHLPcaPLxkHMJPdaZlJx1w"group-title="CANAIS ABERTOS",TV PAI ETERNO - GO
-https://59fb88a1b1108.streamlock.net/paieterno/aovivo/chunklist_w819512769.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2St8Ans.jpg"group-title="CANAIS ABERTOS",TV DIGITAL BIRIGUI - SP
-http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1805078074.m3u8
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/652833020668461056/NUCFnJCh_400x400.jpg"group-title="CANAIS ABERTOS",TV METROPOLITANA - RJ
-https://59f1cbe63db89.streamlock.net:1443/caxiastv/_definst_/caxiastv/chunklist_w1544562476.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png"group-title="CANAIS ABERTOS",TV GUARA - MA
-https://59f2354c05961.streamlock.net:1443/guaratv/_definst_/guaratv/chunklist_w1339250363.m3u8
- 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7EBxlNt9qig/UuEl723w8nI/AAAAAAAABy4/h0qXySCAyDY/w1200-h630-p-k-no-nu/LOGO+DA+RBC+TV.png"group-title="CANAIS ABERTOS",REDE BRASIL DE COMUNICAÇÃO - PE
-https://5a1e323a9ae38.streamlock.net/rbc/smil:rbc.smil/chunklist_w441236726_b1096000.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png"group-title="CANAIS ABERTOS",TV CIDADE VERDE - PI
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w392072680.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_gZqUnhh0DEJ0bHJvsHbwa8k9LRxUVKi0WBeB5bx01I9nL_k"group-title="CANAIS ABERTOS",1001 NOITES - PR
 https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_w1047064168_b1601536.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.maedasdoresjuazeiro.com/portal/backend/_lib/file/img_diversas/tvpecricero.jpeg"group-title="CANAIS ABERTOS",TV PADRE CICERO - CE
-https://59f2354c05961.streamlock.net:1443/tvpadrecicero/_definst_/tvpadrecicero.smil/chunklist_w1421773133_b1300000.m3u8
- 
-#EXTINF:-1 tvg-logo="http://lagartocomoeuvejo.com.br/wp-content/uploads/2013/09/AgroCanal.png"group-title="CANAIS ABERTOS",AGRO CANAL
-https://5c49cd60dfe56.streamlock.net:6443/agrocanal/live/chunklist_w777973748.m3u8
- 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYtzQbNey4AXraAyDpVjgQLfrQKZpjMfSUFTVDvy3bEi0SdXGL"group-title="CANAIS ABERTOS",TV BAIANA - BA
-http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://canalrural.uol.com.br/wp-content/uploads/2018/08/canal_rural.png"group-title="CANAIS ABERTOS",CANAL RURAL
 https://evpp.mm.uol.com.br/canal_rural/aovivo.sdp/chunklist_w742766855.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-paraiba_m.png"group-title="CANAIS ABERTOS",TV NOVA PARAÍBA - PB
 https://stmv1.srvstm.com/miguel8553/miguel8553/playlist.m3u8?wowzasessionid=934174638
- 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98f2c63bd8626875fa4b533767d074ff.png"group-title="CANAIS ABERTOS",TV CARUARU
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
- 
-#EXTINF:-1 tvg-logo="https://maricainfo.com/wp-content/uploads/2015/11/marica-tv.jpg"group-title="CANAIS ABERTOS",MARICÁ TV
-https://5abdf4edae5bf.streamlock.net/maricatvstation/maricatvstation/chunklist_w639913130.m3u8
- 
-#EXTINF:-1 tvg-logo="http://listaiptvbrasil.com/canais/wp-content/uploads/2018/03/Rede-Fonte.png"group-title="CANAIS ABERTOS",FONTE TV
-http://wowza.softhost.com.br:1935/fonte/fontetv/chunklist_w766999145.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/80ae09e4f7e162f0972cbcfb6c45877d.png"group-title="CANAIS ABERTOS",TV GIDEÕES - SC
-https://streaming01.zas.media/gideoes/programacao_360p/chunklist_w1525300652.m3u8
- 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7_DK33bFGmtmdjOTptxKOSKGnhvS6_ZtxDmhQ=s900-c-k-c0xffffffff-no-rj-mo"group-title="CANAIS ABERTOS",TV DESTAKE - SP
-http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/chunklist_w1777063213.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/430750962920067072/xfNoZ7Rz_400x400.jpeg"group-title="CANAIS ABERTOS",ESPN BRASIL SD
 https://tinyurl.com/yya2lgd6
- 
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS ABERTOS",ESPN EXTRA HD
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b1835008.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/nUXk-A-y880/maxresdefault_live.jpg"group-title="CANAIS ABERTOS",TV ALMS
-https://cdn.jmvstream.com/live/hls/lv_6769/LV6769_Q7AKXnL6Bn.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png"group-title="CANAIS ABERTOS",BAND 2
 https://evpp.mm.uol.com.br/bandpracas/bandtv_pp/playlist.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-WK2zFaEvuzHDKV5BvLjLIJcDulfpcKqFbhw=s288-c-k-c0xffffffff-no-rj-mo"group-title="CANAIS ABERTOS",TV É-PARANÁ (PR)
 http://200.189.113.201/hls/tve.m3u8
- 
+
 #EXTINF:-1 tvg-logo="http://www.campustv.ac/addons/shared_addons/themes/campustv/img/ctv.png"group-title="CANAIS ABERTOS",TV CAMPUS UFSM
 https://farol.ufsm.br/conteudo/hls/wnd2h0c_record1_source/index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c4406674-dbea-46d7-94ac-54446403fed4-profile_image-300x300.jpg"group-title="CANAIS ABERTOS",TV ASBC - CE
-https://tinyurl.com/yxtgsodn
- 
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-zPvdDariesg/XFuNdn1JA0I/AAAAAAAAJeE/Nb2xEOaGRscbtdImXWL3TSL65SF6n9nKACLcBGAs/s1600/JB4KPbpL.jpg"group-title="CANAIS ABERTOS",YEEAAH!-TEEN
 https://stmv1.srvstm.com/yeeaah/yeeaah/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://www.tvinternauta.com.br/home/images/Imagens/Logo-tv-face.png"group-title="CANAIS ABERTOS",TV INTERNALTA
-https://srv1.zcast.com.br/luiseduardo7379/luiseduardo7379/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://appsgeyser.io/public/239/2391047/4169459/thumbs/LN_TV_4169459_screenshot_2.png"group-title="CANAIS ABERTOS",LNTV - DF
-https://59f2354c05961.streamlock.net:1443/intv02/_definst_/intv02/chunklist_w2065630066.m3u8
- 
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-_VMlniBouzc/UxotskNhB6I/AAAAAAAAIDw/dyMPiv7Evcg/s1600/DIFUSORA+ok.png"group-title="CANAIS ABERTOS",DIFUSORA - MA
-http://difusorama.zoeweb.tv:1935/z437-live/stream/chunklist_w2128671445.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Tvu_logo.png"group-title="CANAIS ABERTOS",TVU - RS
 https://5c64355d4b57c.streamlock.net:1936/8298/8298/chunklist_w1326833672.m3u8
- 
+
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_XGn-mWQCm6I/Rw_Io_uO7eI/AAAAAAAAC_k/wi1V6CPygus/s400/tv-escola.jpg"group-title="CANAIS ABERTOS",TV ESCOLA
 https://tinyurl.com/yxpzxc77
- 
-#EXTINF:-1 tvg-logo="https://informa.com/Global/Media%20Centre/Press%20releases/TM2014-web.jpg"group-title="CANAIS ABERTOS",CONECT TV - SP
-http://stream02.msolutionbrasil.com.br:1935/conectv/live/chunklist_w1739046624.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Rede_Boas_Novas.png"group-title="CANAIS ABERTOS",REDE BOAS NOVAS - RJ
-https://59f1cbe63db89.streamlock.net:1443/boasnovas/_definst_/boasnovas/chunklist_w1488996674.m3u8
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1542629891/logo_litoralnews_ok_op3_copy.jpg"group-title="CANAIS ABERTOS",REDE LITORAL NEWS - RJ
-https://cdn.jmvstream.com/live/hls/lv_7612/LV7612_1j0ubcRkbm.m3u8
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DfZWaFHX0AAR0az.jpg"group-title="CANAIS ABERTOS",LITORAL TV - CE
-https://596639ebdd89b.streamlock.net/8048/8048/chunklist_w762329219.m3u8
- 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/35/Logotipo_da_TV_Ponta_Negra.png"group-title="CANAIS ABERTOS",TV PONTA DA SERRA - RS
-https://stmv4.srvstm.com/tvpontadaserra/tvpontadaserra/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://image.winudf.com/v2/image1/Y29tLnN0bXZpZGVvLndlYnR2Lm1hcnR0dm1hcnRpbm9wb2xlX2ljb25fMTU0MzgzMzc3M18wNjA/icon.png?w=170&fakeurl=1"group-title="CANAIS ABERTOS",MART TV MART - CE
-https://srv1.zcast.com.br/adautogomes4150/adautogomes4150/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://www.uniaoplay.com.br/images/logo.png?v=nFCfxr4HGlt8xP2f4trL3f3QL9uPlnte8WeholE5B3Q"group-title="CANAIS ABERTOS",TV UNIÃO - CE
-http://stmv1.ifantasy.com.br/tvu/tvu/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="http://cooptotoral.com/wp-content/uploads/2016/11/logo-canal-24.png"group-title="CANAIS ABERTOS",CANAL 24HS - SC
-http://stream02.canal24horastv.com:1935/live/Canal24Horas/chunklist_w560997554.m3u8
- 
-#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/4dc13a_c0d81b36c133452195827eda11da3b2c~mv2.jpg"group-title="CANAIS ABERTOS",TV JAPI - SP
-https://5d2c98775bafe.streamlock.net/8220/8220/chunklist_w1408488800.m3u8
- 
-#EXTINF:-1 tvg-logo="http://img.new.livestream.com/events/00000000003dd82f/2a5cd9fe-7a67-424d-8e8b-717fdf63e284.png"group-title="CANAIS ABERTOS",REDE SUPER - MG
-https://5a7bcfb834235.streamlock.net/zw9009/stream/chunklist_w1756927416.m3u8
- 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/743/full/TV_VOTORANTIM.jpg?1571006584"group-title="CANAIS ABERTOS", TVV - TV VOTORANTIM ( SP )
-http://tv.tvalphanet.com.br:1935/tvvotorantim/tvvotorantim/chunklist_w1525152757.m3u8
- 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/754/full/TV_SIM.png?1571007061"group-title="CANAIS ABERTOS", SIM TV (Record News) - ES
-https://stmv1.srvsite.com/recordnews/recordnews/playlist.m3u8?wowzasessionid=1148069173
- 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/763/full/TV_ALESE.png?1571007632"group-title="CANAIS ABERTOS", TV Alese - ES
-https://digilab.cds.ebtcvd.net/live-tvalese/stream1/chunklist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/773/full/TV_IMACULADA.png?1571008107"group-title="CANAIS ABERTOS", TV Imaculada Conceição - MS
-http://69.46.0.170:1935/ric_tvimaculada/ric.stream/chunklist_w1535256702.m3u8
- 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/782/full/TV_GRANDE_NATAL.jpg?1571008741"group-title="CANAIS ABERTOS", TV GRANDE NATAL - RN
-http://tvgrandenatalhd.duckdns.org/hls/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://movie.ipb.org.br/uploads/ipbtv-1.jpg"group-title="CANAIS ABERTOS", IPB TV - SP
+
+#EXTINF:-1 tvg-logo="https://movie.ipb.org.br/uploads/ipbtv-1.jpg"group-title="CANAIS ABERTOS",IPB TV - SP
 https://player.internetaovivo.com:8443/live_ipbtv/ipbtv1/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/815/full/Puc-TV.jpg?1571009734"group-title="CANAIS ABERTOS", PUC TV - GO
-http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://uploaddeimagens.com.br/images/002/416/828/full/TV_TCM.png?1571010228"group-title="CANAIS ABERTOS", TCM- TV Cabo Mossoró ( RN )
-http://live.tcm10.com.br/tcm10.m3u8
- 
-#EXTINF:-1 tvg-logo="https://s3-sa-east-1.amazonaws.com/projetos-artes/fullsize%2F2011%2F10%2F25%2F15%2FWDL-Logo-8534_25813_041615942_2022323939.jpg"group-title="CANAIS ABERTOS", TV Guarany - CE
-http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8?wowzasessionid=1726642621
+
+###################################################### COMANDOS PRIME ###########################################################
