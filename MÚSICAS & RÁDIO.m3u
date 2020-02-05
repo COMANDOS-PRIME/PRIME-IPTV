@@ -219,23 +219,9 @@ http://139.59.166.48:8081/live/live3/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-tus1ndtVccE/UghYMC-yImI/AAAAAAAABPE/VoF0nQelHso/viva+tv+live.png" group-title="CANAIS DE CLIPES MUSICAIS",VIVA
 https://hls.myvideocontent.ru/hls2/vivapolska/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://www.broadcastingcable.com/.image/t_share/MTU1MzU4MzIxNTM1MTAwNjEw/vh1-logo.png" group-title="CANAIS DE CLIPES MUSICAIS",VH1 ace 2
-8cb69525386533f81c042f9e02d254f01b71d00c
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/VH1_Classic_UK.svg/1200px-VH1_Classic_UK.svg.png" group-title="CANAIS DE CLIPES MUSICAIS",VH1 CLASSIC
-http://176.67.211.6:8400/udp/239.1.1.71:22071
-
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LOGO_VH1_CLASSIC.svg/1200px-LOGO_VH1_CLASSIC.svg.png" group-title="CANAIS DE CLIPES MUSICAIS",VH1 CLASSIC ace
-185ee5f2e98278437e946fc09e26ecee75b446fd
-
 #EXTINF: -1 tvg-logo="https://img.radios.com.br/radio/xl/radio32453_1478179163.JPG" group-title="CANAIS DE CLIPES MUSICAIS",VERDES MARES
 http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
 ###################################################### (W)
-#EXTINF: -1 tvg-logo="https://iptv.live/images/logo/channel/crops/a2375bf4df6fa9c505994fb0198eac67.png" group-title="CANAIS DE CLIPES MUSICAIS",WOW 80
-http://185.236.230.12:8080/play/a0f8
-
-#EXTINF: -1 tvg-logo="https://iptv.live/images/logo/channel/crops/ca4a9c9fedf328e857847284f6e010aa.png" group-title="CANAIS DE CLIPES MUSICAIS",WOW 90
-http://185.236.230.12:8080/play/a0d6
 ###################################################### (X)
 ###################################################### (Y)
 ###################################################### (Z)
