@@ -120,17 +120,25 @@ http://188.35.9.5:10007/stolen/200b/parasite.install
 http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8
 
 ###################################################### (E)
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",EBC1 TV
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/chunklist_w967658508.m3u8
+
 ###################################################### (F)
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",FOLX TV
 http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
 
 ###################################################### (G)
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",GANJE HOZOOR
+http://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8
+
 ###################################################### (H)
 #EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnBsYXlob3RtdXNpY19zY3JlZW5fN18xNTEyNjYzOTYwXzA4Nw/screen-7.jpg?fakeurl=1&type=.jpg" group-title="CANAIS DE CLIPES MUSICAIS",HOT MUSIC
 http://wow01.105.net/live/rmc1/playlist.m3u8
+
 ###################################################### (I)
 #EXTINF: -1 tvg-logo="http://resources.wimpmusic.com/images/bd0c33b8/7dc4/4a8e/a3ed/57450ca2c9d4/640x640.jpg" group-title="CANAIS DE CLIPES MUSICAIS",IBIZA HITS
 https://www.djing.com/tv/d-28957-03.m3u8
+
 ###################################################### (J)
 ###################################################### (K)
 ###################################################### (L)
@@ -170,6 +178,10 @@ http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/
 
 #EXTINF: -1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/mezzo_tv.png?itok=fGKpsxjz" group-title="CANAIS DE CLIPES MUSICAIS",MEZZO 2
 http://ott-cdn.ucom.am/s35/index.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",MTC
+http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist_w1589381311.m3u8
+
 ###################################################### (N)
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/05/169px-Nrj.png" group-title="CANAIS DE CLIPES MUSICAIS",NRJ HITS TV
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w1591012100_b2588672.m3u8
