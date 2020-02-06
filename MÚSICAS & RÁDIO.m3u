@@ -141,6 +141,9 @@ https://www.djing.com/tv/d-28957-03.m3u8
 
 ###################################################### (J)
 ###################################################### (K)
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",KRAL MUZIK
+https://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
+
 ###################################################### (L)
 ###################################################### (M)
 #EXTINF: -1 tvg-logo="https://weddingsmashers.com/wp-content/uploads/2018/02/mtv-logo-color.jpg" group-title="CANAIS DE CLIPES MUSICAIS",MTV NORUEGA
@@ -188,6 +191,12 @@ https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w159101
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/05/GdAVtX7AU8834RaKoUC4c3itv2A_R1k8XATBf26G_IgQKnvxEtAew0cJOr_kWOpWkpY.jpg" group-title="CANAIS DE CLIPES MUSICAIS",NAGO TV
 https://stream-01.nyc.dailymotion.com/sec(YrrUAJd7Mkrt71XkqWdXrRp6FVv2F6hlB-r-Z_vSoh8)/dm/3/x72rkvx/s/live-3.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",NUMBER 1 DANCE
+https://stream-02.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDJK6OwzViTTbaO3n0XyPv1g)/dm/3/x67chco/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",NUMBER 1
+https://stream-04.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDGE50jxf2nMaTZ9a9IT4_T8)/dm/3/x67c77j/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 ###################################################### (O)
 #EXTINF: -1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/3xi9Zr64-720.jpg" group-title="CANAIS DE CLIPES MUSICAIS",OCKO TV
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8
@@ -203,6 +212,9 @@ http://85.143.202.116/hls/viva.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",PMC
 https://agvc16s4pwkfym0tbram-cbmusw.p5cdn.com/BRJfxvDlyaXTF3GrxB1i/index.m3u8?md5=ziC_fYcIc5K5DcvHnQAlWA&expires=1581039979
+
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",PARNIAN TV
+https://live2.parnian.tv/hls/live/play.m3u8
 ###################################################### (Q)
 ###################################################### (R)
 #EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71wt09PGuAL._SX425_.jpg" group-title="CANAIS DE CLIPES MUSICAIS",RETRO MUSIC HD
@@ -240,6 +252,9 @@ http://fms.105.net:1935/live/105Test1/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="http://retromusic.cz/wp-content/uploads/2017/08/retro-logo.png" group-title="CANAIS DE CLIPES MUSICAIS",RETRO TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w381000196_b750000.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",RADIO JAVAN TV
+https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1636114189_b746000.m3u8
 ###################################################### (S)
 #EXTINF: -1 tvg-logo="https://thewildernessroad.files.wordpress.com/2014/03/tv-standby.jpg" group-title="CANAIS DE CLIPES MUSICAIS",STAND BY TV
 http://176.31.226.78:1935/standbytvlive/stream1.sdp/playlist.m3u8
@@ -270,6 +285,12 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 
 #EXTINF: -1 tvg-logo=""https://vignette.wikia.nocookie.net/tvfanon6528/images/8/8a/Trace_Mziki_%282016-.n.v.%29.png/revision/latest/scale-to-width-down/2000?cb=20180118192013" group-title="CANAIS DE CLIPES MUSICAIS",TRACE MZIKI
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",TIN TV
+https://unirtmp.tulix.tv/tintv/tintv/chunklist_w1759468974.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",TAPESH
+http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 ###################################################### (U)
 ###################################################### (V)
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/05/06.png" group-title="CANAIS DE CLIPES MUSICAIS",VIBEE
