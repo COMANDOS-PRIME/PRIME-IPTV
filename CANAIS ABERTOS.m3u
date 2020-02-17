@@ -14,22 +14,28 @@ https://ap.imagensbrasil.org/images/2019/12/04/Imagem-destacada-1.jpg
 https://ap.imagensbrasil.org/images/2020/01/06/SOBEL-PIZZA-02.jpg
 
 ####################################################### CANAIS 24HS
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/Untitled-design-7.png" group-title="CANAIS 24HS" pltv-subgroup="",CINE 24HS
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/Untitled-design-7.png" group-title="CANAIS 24HS",CINE 24HS
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/02.png" group-title="CANAIS 24HS" pltv-subgroup="",TOP FILMES
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/02.png" group-title="CANAIS 24HS",TOP FILMES
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?LISTASDAGLAU
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS 24HS" pltv-subgroup="",SBT HD
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/Untitled-design-7.png" group-title="CANAIS 24HS",CINEMA 24HS
+http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8?LISTASDAGLAU
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS 24HS",SBT SD
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w431368380.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS 24HS" pltv-subgroup="",SBT HD 2
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS 24HS",SBT SD 2
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/18/08.png" group-title="CANAIS 24HS" pltv-subgroup="",SBT ( TV DIFUSORA )
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS 24HS",SBT HD
+https://m.youtube.com/watch?feature=youtu.be&v=9z_8k1Ir-6U
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/18/08.png" group-title="CANAIS 24HS",SBT ( TV DIFUSORA )
 http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w1161769886.m3u8
 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/Rede-TV-HD.png" group-title="CANAIS 24HS" pltv-subgroup="",REDE TV SP
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/Rede-TV-HD.png" group-title="CANAIS 24HS",REDE TV SP
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/chunklist_w1871270156.m3u8?PEDROJUNIORTUTORIAIS
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/03.jpg" group-title="CANAIS 24HS" pltv-subgroup="",RETRO MUSIC HD
@@ -44,7 +50,7 @@ http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/04.png" group-title="CANAIS 24HS" pltv-subgroup="",TV CÂMARA HD
 http://stream2.camara.gov.br:8134/tv1/manifest.m3u8
 
-#EXTINF: -1 tvg-logo="" group-title="CANAIS 24HS" pltv-subgroup="",
+#EXTINF: -1 tvg-logo="" group-title="CANAIS 24HS",
 
 #################################################### ACRE
 #EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/24/download.png" group-title="ACRE",TV BNO - AC
@@ -1186,9 +1192,6 @@ https://evpp.mm.uol.com.br/canal_rural/aovivo.sdp/chunklist_w742766855.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-paraiba_m.png"group-title="CANAIS ABERTOS",TV NOVA PARAÍBA - PB
 https://stmv1.srvstm.com/miguel8553/miguel8553/playlist.m3u8?wowzasessionid=934174638
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/430750962920067072/xfNoZ7Rz_400x400.jpeg"group-title="CANAIS ABERTOS",ESPN BRASIL SD
-https://tinyurl.com/yya2lgd6
-
 #EXTINF:-1 tvg-logo=""group-title="CANAIS ABERTOS",ESPN EXTRA HD
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b1835008.m3u8
 
@@ -1208,7 +1211,7 @@ https://stmv1.srvstm.com/yeeaah/yeeaah/playlist.m3u8
 https://5c64355d4b57c.streamlock.net:1936/8298/8298/chunklist_w1326833672.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_XGn-mWQCm6I/Rw_Io_uO7eI/AAAAAAAAC_k/wi1V6CPygus/s400/tv-escola.jpg"group-title="CANAIS ABERTOS",TV ESCOLA
-https://tinyurl.com/yxpzxc77
+
 
 #EXTINF:-1 tvg-logo="https://movie.ipb.org.br/uploads/ipbtv-1.jpg"group-title="CANAIS ABERTOS",IPB TV - SP
 https://player.internetaovivo.com:8443/live_ipbtv/ipbtv1/playlist.m3u8
