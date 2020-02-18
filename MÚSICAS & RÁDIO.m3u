@@ -17,14 +17,17 @@ https://ap.imagensbrasil.org/images/2020/01/06/SOBEL-PIZZA-02.jpg
 ###################################################### (#)
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",4FUN TV
 https://edge6.popler.tv/popler_publishlive/4funtv/chunklist.m3u8?nimblesessionid=5326803&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjAgMTI6NDA6MDkgQU0maGFzaF92YWx1ZT1VWFo3MzBKeEttUGhIUG9LWTFBWHZRPT0mdmFsaWRtaW51dGVzPTU=&expires=1580949909&ip=186.221.170.6&secure=zHY9bc2anL1fe4oLraAd_g
+
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",4FUN DANCE
 https://edge9.popler.tv/popler_publishlive/tvdisco/chunklist.m3u8?nimblesessionid=3482411&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjAgMTI6NDQ6MzcgQU0maGFzaF92YWx1ZT1scjZlcUlBN0YwNnJUMUdBS2U0ZldBPT0mdmFsaWRtaW51dGVzPTU=&expires=1580950177&ip=186.221.170.6&secure=K3E5-th_-OGxWnFxofYNBA
+
 ###################################################### (A)
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",ALB MUSIC
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/chunklist_w2035782086.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",AFN TV
 https://unirtmp.tulix.tv/tintv2/tintv2//chunklist_w2136651189.m3u8
+
 ###################################################### (B)
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png" group-title="CANAIS DE CLIPES MUSICAIS",BOX UP FRONT
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxupfront-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxupfront%2f
@@ -58,6 +61,7 @@ http://plmgr-bridgemedia.cdnvideo.ru/bridge_classic/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/e/eb/Bridge_TV_Dance_%282017%2C_%D1%87%D1%91%D1%80%D0%BD%D1%8B%D0%B5_%D0%B1%D1%83%D0%BA%D0%B2%D1%8B%29.png/revision/latest?cb=20170908141940&path-prefix=ru" group-title="CANAIS DE CLIPES MUSICAIS",BRIDGE TV DANCE
 http://plmgr-bridgemedia.cdnvideo.ru/bridge_dance/playlist.m3u8
+
 ###################################################### (C)
 #EXTINF: -1 tvg-logo="https://www.radiocompany.com/wp-content/uploads/2018/04/20180420-promo-company-tv-splash.jpg" group-title="CANAIS DE CLIPES MUSICAIS",COMPANY TV
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
@@ -73,6 +77,7 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w1359150011.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",CALTEX MUSIC TV
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
+
 ###################################################### (D)
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg" group-title="CANAIS DE CLIPES MUSICAIS",DJING TV
 https://www.djing.com/tv/28957-04.m3u8
@@ -197,12 +202,14 @@ https://stream-02.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDJK6OwzViTTbaO3n0X
 
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",NUMBER 1
 https://stream-04.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDGE50jxf2nMaTZ9a9IT4_T8)/dm/3/x67c77j/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
 ###################################################### (O)
 #EXTINF: -1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/3xi9Zr64-720.jpg" group-title="CANAIS DE CLIPES MUSICAIS",OCKO TV
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",OTTO FM TV
 http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?sessId=14888
+
 ###################################################### (P)
 #EXTINF: -1 tvg-logo="https://img1.apk.tools/300/7/2/e/com.radio.pfm.png" group-title="CANAIS DE CLIPES MUSICAIS",PORTAL FOX MIX
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
@@ -215,6 +222,7 @@ https://agvc16s4pwkfym0tbram-cbmusw.p5cdn.com/BRJfxvDlyaXTF3GrxB1i/index.m3u8?md
 
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",PARNIAN TV
 https://live2.parnian.tv/hls/live/play.m3u8
+
 ###################################################### (Q)
 ###################################################### (R)
 #EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71wt09PGuAL._SX425_.jpg" group-title="CANAIS DE CLIPES MUSICAIS",RETRO MUSIC HD
@@ -255,9 +263,11 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w381000196_b7500
 
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",RADIO JAVAN TV
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1636114189_b746000.m3u8
+
 ###################################################### (S)
 #EXTINF: -1 tvg-logo="https://thewildernessroad.files.wordpress.com/2014/03/tv-standby.jpg" group-title="CANAIS DE CLIPES MUSICAIS",STAND BY TV
 http://176.31.226.78:1935/standbytvlive/stream1.sdp/playlist.m3u8
+
 ###################################################### (T)
 #EXTINF: -1 tvg-logo="https://tvtopsound.com/media/siteConfig/system/topsound-social.jpg" group-title="CANAIS DE CLIPES MUSICAIS",TOP SOUND SÉRVIA
 https://cdn.tvtopsound.com:1443/TopSoundTV/stream/TopSoundTV/live_720/chunks.m3u8?nimblesessionid=5636830
@@ -291,6 +301,7 @@ https://unirtmp.tulix.tv/tintv/tintv/chunklist_w1759468974.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",TAPESH
 http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
+
 ###################################################### (U)
 ###################################################### (V)
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/05/06.png" group-title="CANAIS DE CLIPES MUSICAIS",VIBEE
@@ -301,6 +312,7 @@ https://hls.myvideocontent.ru/hls2/vivapolska/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://img.radios.com.br/radio/xl/radio32453_1478179163.JPG" group-title="CANAIS DE CLIPES MUSICAIS",VERDES MARES
 http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
+
 ###################################################### (W)
 ###################################################### (X)
 ###################################################### (Y)
@@ -314,57 +326,81 @@ http://ss1.domint.net:2300/yv_str/yuna/chunklist.m3u8
 ###################################################### ( RÁDIOS-ADULTO CONTEPORÂNEAS )
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO MOTEL
 http://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ALPHA FM
 https://f6.fabricahost.com.br/alphafm1017?f=1580348032NaHR0cHM6Ly9mNi5mYWJyaWNhaG9zdC5jb20uYnIvJjE4Ni4yMjEuMTcwLjYmTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc5LjAuMzk0NS4xMzAgU2FmYXJpLzUzNy4zNiZodHRwczovL3R1bmVpbi5jb20vcmFkaW9hbHBoYWZtLw==
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO JB FM
 http://14993.live.streamtheworld.com/JBFMAAC1_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gender=m&ua=RadioTime&ttag=RadioTime
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ALVORADA FM
 http://14843.live.streamtheworld.com/RADIO_ALVORADAAAC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6I
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO GFM (SALVADOR)
 http://r6.ciclano.io:10009/stream
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO NOVA FM (CAMPINAS)
 http://20283.live.streamtheworld.com/NOVA_CAMPINAS_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gender=m&ua=RadioTime&ttag=RadioTime
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO CDL
 http://9595.brasilstream.com.br/stream
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ITAPEMA (FLORIANÓPOLIS)
 https://47809y.ha.azioncdn.net/primary/ita_fln.sdp/chunklist_d8f3cba7-d62c-4705-b1d5-8687708f2f43.m3u8
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO 102.3 FM
 https://1192747t.ha.azioncdn.net/primary/ita_poa.sdp/chunklist_ee413426-6c96-4fc5-99d7-542b22a2b002.m3u8
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO OURO VERDE FM
 https://f4.fabricahost.com.br/ouroverdefmcuritiba?f=1580350428NaHR0cHM6Ly9mNC5mYWJyaWNhaG9zdC5jb20uYnIvJjE4Ni4yMjEuMTcwLjYmTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc5LjAuMzk0NS4xMzAgU2FmYXJpLzUzNy4zNiZodHRwczovL3R1bmVpbi5jb20vcmFkaW8vUmRpby1PdXJvLVZlcmRlLUZNLTEwNTUtczEwOTY2Lw==
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ELDORADO FM
 https://estadaohls-lh.akamaihd.net/i/estadaohls_1@301351/index_200_a-p.m3u8?sd=10&rebase=on
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO A TARDE FM
 http://sh.upx.com.br:8084/stream
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ATLÂNTICO SUL FM
 http://142.44.230.74:9026/stream
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO TRANSAMERICA (SALVADOR)
 http://transamerica.crossradio.com.br:9128/live.aac
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO TEMPO FM
 http://r13.ciclano.io:8609/live
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
 
 ###################################################### ( RÁDIOS-POP INTERNACIONAL )
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",RÁDIO JOVEM POP FM
 https://stream.radiojovempop.com/top40/stream_external
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",RÁDIO LATINA BRASIL
 http://latinabrasil.crossradio.com.br:12002/stream/1;
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",RÁDIO HUNTER FM - HITZ
 https://live.hunter.fm/live
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",RÁDIO ESTAÇÃO TOP
 http://147.135.76.139:13487/stream
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",BEST RÁDIO BRASIL
 http://best.viaflux.com/radio/8000/tunein128
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",RÁDIO METROPOLITANA POP
 http://paineldj4.com.br:8510/stream
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",RÁDIO SOUND POP
 https://cloud1.cdnseguro.com:2124/;
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",RÁDIO YES!
 http://cast4.audiostream.com.br:8441/yes
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
 
 ###################################################### ()
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-",
+
 ###################################################### (#)
 #EXTINF:-1 tvg-logo="http://rewind80sband.com/wp-content/uploads/rewind-80s-logo.png"group-title="RÁDIO",80's
 https://ice55.securenetsystems.net/DASH7
@@ -380,6 +416,7 @@ http://streams.80s80s.de/web/mp3-192/radiode/
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/18/86/e7/1886e7c645e11421bba94855b3228ab9.jpg"group-title="RÁDIO",80s TOP HITS
 http://stream1.laut.fm/move_on?_hdr=0
+
 ###################################################### (A)
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81KEgTBkHXL._SL1500_.jpg"group-title="RÁDIO",ABSOLUTE CHILLOUT
 http://54.38.43.201:8006/stream-128kmp3-AbsoluteChillout
@@ -428,6 +465,7 @@ http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-163/chunkli
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nTGxIjv.jpg"group-title="RÁDIO",Alternative MC
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-014/chunklist.m3u8
+
 ###################################################### (B)
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s299525g.png"group-title="RÁDIO",bigFM Sunset
 http://streams.bigfm.de/bigfm-sunsetlounge-128-mp3?usid=0-0-H-A-D-02
@@ -440,6 +478,7 @@ http://sc-b280s.1.fm:6950
 
 #EXTINF:-1 tvg-logo="https://www.allgigs.co.uk/images/object/artist/85102/Hits_Radio_Live-1-200-200-100-crop.png"group-title="RÁDIO",Brits + Hits
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-154/chunklist.m3u8
+
 ###################################################### (C)
 #EXTINF:-1 tvg-logo="https://static.radio.pt/images/broadcasts/86/fd/16612/1/c300.png"group-title="RÁDIO",COSTA DEL MAR
 http://stream.cdm-chillout.com:8020/stream-mp3-Chill
@@ -458,12 +497,14 @@ http://mcrscast.mcr.iol.pt/cidadefm
 
 #EXTINF:-1 tvg-logo="http://valeriethuillier.com/wp-content/uploads/2013/06/Fete-musique.jpg"group-title="RÁDIO",CLUB ZONE
 http://virtualdjradio.com:8000/channel1.mp3
+
 ###################################################### (D)
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bf/96/f4/bf96f4c13cf52ab13c739470649cc064.jpg"group-title="RÁDIO",Disco Ball 70s-80s
 http://sc-disco.1.fm:7020
 
 #EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/qEBwZSLYtqDNYxYAL3_yHLcak20=/0x0:1280x960/1200x800/filters:focal(0x0:1280x960)/cdn.vox-cdn.com/uploads/chorus_image/image/48548907/11696297_110805642596790_1890661725509849814_o.0.0.jpg"group-title="RÁDIO",Dance / EDM
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-013/chunklist.m3u8
+
 ###################################################### (E)
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8N2egzkjYA4/XO9FnF1YgyI/AAAAAAAAQt4/ozvwi5t2D8U85ERleNQHZOv-pD6yCFXSwCEwYBhgL/s1600/super-radio-tupi-fm-rio-de-janeiro.png"group-title="RÁDIO",Estúdio 96.5 FM Rio de Janeiro - RJ
 http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8
@@ -482,12 +523,14 @@ http://sc-eldo90s.newmedia.lu/;*.mp3
 
 #EXTINF:-1 tvg-logo="https://d31fr2pwly4c4s.cloudfront.net/d/e/4/1110789_0_2kool4u-80s-night_400.jpg"group-title="RÁDIO",Energy80s
 http://energy80s.ice.infomaniak.ch/energy80s-high.mp3
+
 ###################################################### (F)
 #EXTINF:-1 tvg-logo="https://www.sccpre.cat/mypng/detail/34-345215_marca-a-festa-logo-de-festas-png.png"group-title="RÁDIO",Festa
 http://6d9a.webradio.upx.net.br:9070/stream
 
 #EXTINF:-1 tvg-logo="https://previews.123rf.com/images/articular/articular1606/articular160600031/68957980-summer-holiday-illustration-on-a-music-and-party-theme-with-speakers-and-sunglasses-on-blue-backgrou.jpg"group-title="RÁDIO",FM UK Top 40
 http://relay.181.fm:8070/;
+
 ###################################################### (G)
 ###################################################### (H)
 #EXTINF:-1 tvg-logo="https://www.santaterezatem.com.br/wp-content/uploads/2017/03/bau-de-hist-300x268.png"group-title="RÁDIO",HISTORINHA INFANTIL
@@ -510,6 +553,7 @@ http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-005/chunkli
 
 #EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/33ca35a4-ebff-48e7-99fc-a6f381278cca.png"group-title="RÁDIO",Hit List
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-002/chunklist.m3u8
+
 ###################################################### (I)
 ###################################################### (J)
 #EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/108575/resized/180x172c/rodykle.jpg"group-title="RÁDIO",Jazz Lounge
@@ -520,12 +564,14 @@ http://agnes.torontocast.com:8106/stream
 
 #EXTINF:-1 tvg-logo="https://i.ebayimg.com/images/g/1TQAAOSwd3xcTx8x/s-l300.jpg"group-title="RÁDIO",JUST 80s
 http://stream.laut.fm/just80s
+
 ###################################################### (K)
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/46/Logotipo_da_Kiss_FM.png/200px-Logotipo_da_Kiss_FM.png"group-title="RÁDIO",Kiss FM Algarve
 http://162.210.196.217:8070/stream.mp3?1526653362498
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/46/Logotipo_da_Kiss_FM.png/200px-Logotipo_da_Kiss_FM.png"group-title="RÁDIO",Kiss FM 🇪🇸
 http://kissfm.kissfmradio.cires21.com/kissfm.mp3
+
 ###################################################### (L)
 #EXTINF:-1 tvg-logo="https://static.radio.pt/images/broadcasts/db/d9/8785/c300.png"group-title="RÁDIO",Lounge Motion FM
 http://199.58.160.66/motionthree_aacp
@@ -547,6 +593,7 @@ http://relay.181.fm:8048/;
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4iQ8WASlw7XXQULdGInqZGZI_lIYe7f5C6ODE9A7Ts5qL0qfy7Q"group-title="RÁDIO",Love Songs
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-049/chunklist.m3u8
+
 ###################################################### (M)
 #EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s260087/images/logog.png?t=154342"group-title="RÁDIO",Monte Carlo Lounge
 http://node-28.zeno.fm/953wvvz4gseuv?rj-ttl=5&rj-token=AAABbY9-MzsrHaHXrcDB_KrtUH8sI5PBR4D2RUlFtqd3sm8rr9NVWg
@@ -574,6 +621,7 @@ http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-015/chunkli
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/nTGxIjv.jpg"group-title="RÁDIO",Music Choice Max
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-050/chunklist.m3u8
+
 ###################################################### (N)
 #EXTINF:-1 tvg-logo="http://www.lesplumeseditions.fr/image/cache/category_75/logo-metal-new-rock-original-4-7cm-m-pla-cal-14137-yrmgexvl-1841-500x550_0.jpg"group-title="RÁDIO",New Rock
 http://6d9a.webradio.upx.net.br:8028/stream
@@ -583,9 +631,11 @@ http://centova.radios.pt:9478/stream/1/
 
 #EXTINF:-1 tvg-logo="https://nove3cinco.pt/sv/wp-content/uploads/2018/01/Normal_semfundo.png"group-title="RÁDIO",Nove3cinco
 http://centova.radios.pt:9522/stream/1/
+
 ###################################################### (O)
 #EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/Esta%C3%A7%C3%A3o-Orbital-101.9-FM-R%C3%A1dio.png"group-title="RÁDIO",ORBITAL
 http://195.23.85.126:8401/stream/1/
+
 ###################################################### (P)
 #EXTINF:-1 tvg-logo="http://www.pulsradio.com/img/logo-lounge.png"group-title="RÁDIO",Puls Radio Lounge
 http://87.98.129.202/relaxHD.mp3
@@ -610,6 +660,7 @@ http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-047/chunkli
 
 #EXTINF:-1 tvg-logo="https://content.hungama.com/audio%20album/display%20image/300x300%20jpeg/1948085210.jpg"group-title="RÁDIO",Pop Hits
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-029/chunklist.m3u8
+
 ###################################################### (Q)
 ###################################################### (R)
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s16221g.png"group-title="RÁDIO",RFI
@@ -734,6 +785,7 @@ http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-024/chunkli
 
 #EXTINF:-1 tvg-logo="https://image.freepik.com/vetores-gratis/logotipo-da-musica-rock_23-2147889170.jpg"group-title="RÁDIO",Rock
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-044/chunklist.m3u8
+
 ###################################################### (S)
 #EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s229616g.png"group-title="RÁDIO",STUDIO DO AMOR
 http://192.99.150.31:8962/stream?
@@ -746,6 +798,7 @@ http://mcrscast.mcr.iol.pt/smoothfm
 
 #EXTINF:-1 tvg-logo="https://minharadioonline.net/sites/radiotransmundial.com.br/images/destaque/user_1206850739.jpg"group-title="RÁDIO",Salsa
 http://streaming.radionomy.com/Salsa-de-la-mata-SER
+
 ###################################################### (T)
 #EXTINF:-1 tvg-logo="https://www.trilhasalacarte.com.br/arquivos/i2.jpg"group-title="RÁDIO",Trilhas Sonoras
 http://6d9a.webradio.upx.net.br:9896/stream
@@ -758,12 +811,14 @@ http://173.236.60.186:8020/stream
 
 #EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20190516/original/pngtree-vector-summer-time-holiday-typographic-illustrationwith-surf-boards-on-vintage-wood-png-image_4201384.jpg"group-title="RÁDIO",The Heart (Love Songs)
 http://relay.181.fm:8006/;
+
 ###################################################### (U)
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71JTc0yqAZL._SX425_.jpg"group-title="RÁDIO",UK 80s
 http://sc2b-sjc.1.fm:7032/
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/84/52/74/84527422acd6be9ec4175baee07b6a71.jpg"group-title="RÁDIO",UK (80e)
 http://sc-b280s.1.fm:6950/
+
 ###################################################### (V)
 #EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/images/virgin.png"group-title="RÁDIO",Virgin Radio
 http://radio.virginradio.co.uk/stream
@@ -776,13 +831,13 @@ http://mcrscast.mcr.iol.pt/vodafone
 
 #EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/download-1c3db4324649ccdd8.jpg"group-title="RÁDIO",VIVA 80s
 http://listen.radionomy.com/viva80
+
 ###################################################### (W)
 ###################################################### (X)
 ###################################################### (Y)
 ###################################################### (Z)
 
-#EXTINF: -1 group-title="RÁDIO" pltv-subgrupo="" tvg-logo="",
-#EXTINF: -1 group-title="CANAIS DE CLIPES MUSICAIS" pltv-subgroup="" tvg-logo="",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIO",
 
 ###################################################### AMBIENTE GOSPEL ###########################################################
 ###################################################### (A)
@@ -795,27 +850,27 @@ https://ia601408.us.archive.org/32/items/asmelhoresdeantoniobicudo_202001/as%20m
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/05/ANTONIO-BICUDO---O-ESTRANGEIRO.jpg" group-title="AMBIENTE GOSPEL" pltv-subgroup="GOSPEL MUSIC",ANTONIO BICUDO - O ESTRANGEIRO ( CD COMPLETO ) Nº 228
 https://ia601509.us.archive.org/27/items/antoniobicudooestrangeirocdcompletono228/Antonio%20Bicudo%20-%20o%20Estrangeiro%20%20-%20cd%20completo%20-%20n%C2%BA%20228.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL" pltv-subgroup="GOSPEL MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
 ###################################################### (B)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL" pltv-subgroup="GOSPEL MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
 ###################################################### (C)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL" pltv-subgroup="GOSPEL MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
 ###################################################### (D)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL" pltv-subgroup="GOSPEL MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
 ###################################################### (E)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL" pltv-subgroup="GOSPEL MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
 ###################################################### (F)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL" pltv-subgroup="GOSPEL MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
 ###################################################### (G)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL" pltv-subgroup="GOSPEL MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
 ###################################################### (H)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL" pltv-subgroup="GOSPEL MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
 ###################################################### (I)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL" pltv-subgroup="GOSPEL MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
 ###################################################### (J)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL" pltv-subgroup="GOSPEL MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
 ###################################################### (K)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL" pltv-subgroup="GOSPEL MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
 ###################################################### (L)
 #EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL" pltv-subgroup="GOSPEL MUSIC",
 ###################################################### (M)
@@ -1161,9 +1216,9 @@ https://ia601500.us.archive.org/0/items/nighttimeramenjazzybeatslofihiphopmix/Ni
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/03/14.jpg" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",85 Again A Disco Synthwave Mix [ Retrowave Synthwave Chillwave Mix]
 https://ia803100.us.archive.org/20/items/85againadiscosynthwavemixretrowavesynthwavechillwavemix/%2785%20Again%20-%20A%20Disco%20Synthwave%20mix%20%20%5BRetrowave%20-%20Synthwave%20-%20Chillwave%20mix%5D.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (A)
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (B)
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/03/1175b01efbd26d3b36.jpg" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",Best Of Relaxing Synthwave Mix
 https://ia803103.us.archive.org/29/items/bestofrelaxingsynthwavemix/Best%20of%20Relaxing%20Synthwave%20Mix.mp4
@@ -1171,7 +1226,7 @@ https://ia803103.us.archive.org/29/items/bestofrelaxingsynthwavemix/Best%20of%20
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/03/12c4cb6c6280f2fb34.jpg" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",Best Of Synthwave Out Run Mix 🏎️ Nightride
 https://ia803102.us.archive.org/13/items/bestofsynthwaveoutrunmixnightride/Best%20Of%20Synthwave_OutRun%20Mix%20%20%F0%9F%8F%8E%EF%B8%8F%20Nightride.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (C)
 #EXTINF: -1 group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP" tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/04.jpg",Chillstep Mix 2019 [ 2 Hours]
 https://ia801404.us.archive.org/24/items/chillstepmix20192hours/Chillstep%20Mix%202019%20%5B2%20Hours%5D.mp4
@@ -1185,10 +1240,10 @@ https://ia803103.us.archive.org/7/items/citylightsretrowavesynthwavechillwavemix
 #EXTINF: -1 group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP" tvg-logo="https://ap.imagensbrasil.org/images/2019/10/23/0474dd08819c79d08a.jpg",Chillstep Mix 2018 [ 2 Hours]
 https://ia601503.us.archive.org/33/items/chillstepmix20182hours/Chillstep%20Mix%202018%20%5B2%20Hours%5D.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (D)
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (E)
 #EXTINF: -1 group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP" tvg-logo="https://ap.imagensbrasil.org/images/2019/10/22/03.jpg",Epic Chillstep Collection 2017 [2 Hours]
 https://ia601500.us.archive.org/19/items/abovethefijiislandsaerialnaturerelaxationtm4kuhdambientfilmwmusicforstressrelief/Epic%20Chillstep%20Collection%202017%20%5B2%20Hours%5D.mp4
@@ -1199,7 +1254,7 @@ https://ia801405.us.archive.org/13/items/evergreenbeautifulchillstepmix22/%27Eve
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/19/09.jpg" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",Epic Gaming Mix 2014
 https://ia801508.us.archive.org/4/items/epicgamingmix2014/Epic%20Gaming%20Mix%202014.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (F)
 #EXTINF:-1 group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP" tvg-logo="https://ap.imagensbrasil.org/images/2019/10/22/01.jpg",Falling Emotional Chillstep And Melodic Dubstep Mix
 https://ia601403.us.archive.org/34/items/fallingemotionalchillstepandmelodicdubstepmix/Falling%20-%20Emotional%20Chillstep%20and%20Melodic%20Dubstep%20Mix.mp4
@@ -1207,40 +1262,40 @@ https://ia601403.us.archive.org/34/items/fallingemotionalchillstepandmelodicdubs
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/07.jpg" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",Farewell' Ambient & Chillstep Mix
 https://ia801409.us.archive.org/35/items/farewellambientchillstepmix/%27Farewell%27%20Ambient%20%26%20Chillstep%20Mix.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (G)
 #EXTINF: -1 group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP" tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/03.jpg",Glimmer' Beautiful Chillstep Mix
 https://ia801401.us.archive.org/18/items/glimmerbeautifulchillstepmix/%27Glimmer%27%20Beautiful%20Chillstep%20Mix.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (H)
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (I)
 #EXTINF: -1 group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP" tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/05.jpg",In The End Emotional Chill & Chillstep Mix
 https://ia601503.us.archive.org/11/items/intheendemotionalchillchillstepmix/In%20The%20End%20-%20%20Emotional%20Chill%20%26%20Chillstep%20Mix.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (J)
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (K)
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (L)
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (M)
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (N)
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/03/159b607b2b2faca7ba.jpg" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",N I G H T D R I V E ~ A Synthwave Music Video Mix [ Chillwave Retrowave]
 https://ia803100.us.archive.org/17/items/nightdriveasynthwavemusicvideomixchillwaveretrowave/~%20N%20I%20G%20H%20T%20D%20R%20I%20V%20E%20~%20A%20Synthwave%20Music%20Video%20Mix%20%5BChillwave%20-%20Retrowave%5D.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (O)
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (P)
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (Q)
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (R)
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (S)
 #EXTINF: -1 group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP" tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/024c554db6b05f74bf.jpg",Slow Down' Beautiful Chillstep Mix
 https://ia601507.us.archive.org/30/items/slowdownbeautifulchillstepmix/%27Slow%20Down%27%20Beautiful%20Chillstep%20Mix.mp4
@@ -1254,264 +1309,283 @@ https://ia803106.us.archive.org/4/items/bestofskelerwavemix/Best%20Of%20Skeler%2
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/17467725c021eac74e.jpg" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",Skeler BEST OF (original Video) 2019
 https://ia601509.us.archive.org/20/items/skelerbestoforiginalvideo2019/Skeler%20%20BEST%20OF%20%28original%20video%29%202019.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (T)
 #EXTINF: -1 group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP" tvg-logo="https://ap.imagensbrasil.org/images/2019/10/22/00.jpg",'The Road' Beautiful Chillstep Mix #19
 https://archive.org/download/abovethefijiislandsaerialnaturerelaxationtm4kuhdambientfilmwmusicforstressrelief/%27The%20Road%27%20Beautiful%20Chillstep%20Mix%20%2319.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (U)
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (V)
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (W)
 #EXTINF: -1 group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP" tvg-logo="https://purzynth.com/wp-content/uploads/2018/12/Chillwave-Mix-by-Odysseus.jpg",Waves A Chillwave Mix
 https://ia601501.us.archive.org/30/items/wavesachillwavemix/Waves%20-%20A%20Chillwave%20Mix.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (X)
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (Y)
 #EXTINF: -1 group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP" tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/011567e09661752751.jpg",You're Alive' Beautiful Chillstep Mix # 15
 https://ia601506.us.archive.org/21/items/yourealivebeautifulchillstepmix15/%27You%27re%20Alive%27%20Beautiful%20Chillstep%20Mix%20%2315.mp4
 
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (Z)
 
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 
 ###################################################### CLASSIC MUSIC ###########################################################
 ###################################################### (#)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
+
 ###################################################### (A)
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/01.jpg" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",ALPHA FM 101.7 SÃ O PAULO Sequência De Classe
-https://ia601405.us.archive.org/28/items/alphafm101.7saopaulosequenciadeclasse/ALPHA%20FM%20-%20101.7%20-%20S%C3%83O%20PAULO%20-%20Sequ%C3%AAncia%20de%20Classe.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/02.jpg" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",ALPHA FM 101.7 SÃ O PAULO Sequência De Classe 2
-https://ia601408.us.archive.org/6/items/alphafm101.7saopaulosequenciadeclasse2/ALPHA%20FM%20-%20101.7%20-%20S%C3%83O%20PAULO%20-%20Sequ%C3%AAncia%20de%20Classe_2.mp4
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/02/18/01.jpg" group-title="CLASSIC MUSIC",ALPHA FM 101.7 SÃO PAULO Sequência De Classe
+https://ia601507.us.archive.org/15/items/alphafm101.7saopaulosequenciadeclasse02/ALPHA%20FM%20-%20101.7%20-%20S%C3%83O%20PAULO%20-%20Sequ%C3%AAncia%20de%20Classe%2002.mp4
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/02/18/02.jpg" group-title="CLASSIC MUSIC",ALPHA FM 101.7 SÃO PAULO Sequência De Classe 02
+https://ia801409.us.archive.org/20/items/alphafm101.7saopaulosequenciadeclasse_202002/ALPHA%20FM%20-%20101.7%20-%20S%C3%83O%20PAULO%20-%20Sequ%C3%AAncia%20de%20Classe.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",Acoustic Classic Rock 60s 70s 80s Classic Rock Greatest Hits Playlist
+https://ia601406.us.archive.org/21/items/acousticclassicrock60s70s80sclassicrockgreatesthitsplaylist/Acoustic%20Classic%20Rock%2060s%2070s%2080s%20-%20Classic%20Rock%20Greatest%20Hits%20Playlist.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",Antena 1 Só Música Top II
+https://ia601500.us.archive.org/30/items/antena1somusicatopii/Antena%201%20-%20S%C3%B3%20M%C3%BAsica%20Top%20II.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",Aspen Classic Clásicos Pop Vol. 1
+https://ia601409.us.archive.org/33/items/aspenclassicclasicospopvol.1/Aspen%20Classic%20-%20Cl%C3%A1sicos%20pop%20Vol.1.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (B)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",Baladas Rock Para Ouvir Na Estrada
+https://ia601408.us.archive.org/3/items/baladasrockparaouvirnaestrada/Baladas%20Rock%20para%20ouvir%20na%20estrada.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",Baladas Rock Para Ouvir Na Estrada II
+https://ia601502.us.archive.org/1/items/baladasrockparaouvirnaestradaii/Baladas%20Rock%20para%20ouvir%20na%20estrada%20II.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (C)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (D)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (E)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (F)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (G)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (H)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (I)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (J)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (K)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (L)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (M)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (N)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (O)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (P)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (Q)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (R)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (S)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (T)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (U)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (V)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (W)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (X)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (Y)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (Z)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC" pltv-subgroup="CLASSIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 
 ###################################################### ELETRONIC MUSIC ###########################################################
 ###################################################### (#)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (A)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (B)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (C)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (D)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (E)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (F)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (G)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (H)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (I)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (J)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (K)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (L)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (M)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (N)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (O)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (P)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (Q)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (R)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (S)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (T)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (U)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (V)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (W)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (X)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (Y)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 ###################################################### (Z)
-#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC" pltv-subgroup="ELETRONIC MIX",
+#EXTINF: -1 tvg-logo="" group-title="ELETRONIC MUSIC",
 
 ###################################################### FORRÓ - SERTANEJO ###########################################################
 ###################################################### (#)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (A)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (B)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (C)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (D)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (E)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (F)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (G)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (H)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (I)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (J)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (K)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (L)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (M)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (N)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (O)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (P)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (Q)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (R)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (S)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (T)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (U)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (V)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (W)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (X)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (Y)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 ###################################################### (Z)
-#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO" pltv-subgroup="FORRÓ MIX",
+#EXTINF: -1 tvg-logo="" group-title="FORRÓ - SERTANEJO",
 
 ###################################################### FUNCK ###########################################################
 ###################################################### (#)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (A)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (B)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (C)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (D)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (E)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (F)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (G)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (H)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (I)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (J)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (K)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (L)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (M)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (N)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (O)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (P)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (Q)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (R)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (S)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (T)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (U)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (V)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (W)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (X)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (Y)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 ###################################################### (Z)
-#EXTINF: -1 tvg-logo="" group-title="FUNK" pltv-subgroup="FUNK MIX",
+#EXTINF: -1 tvg-logo="" group-title="FUNK",
 
 ######################################################## HITS - ENERGY ############################################################
 ###################################################### (A)
-#EXTINF: -1 tvg-logo="" group-title="HITS - ENERGY" pltv-subgroup="ENERGY",
+#EXTINF: -1 tvg-logo="" group-title="HITS - ENERGY",
 ###################################################### (B)
 #EXTINF: -1 tvg-logo="" group-title="HITS - ENERGY" pltv-subgroup="ENERGY",
 ###################################################### (C)
