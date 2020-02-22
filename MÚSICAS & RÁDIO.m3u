@@ -397,7 +397,88 @@ https://cloud1.cdnseguro.com:2124/;
 http://cast4.audiostream.com.br:8441/yes
 
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
 
+###################################################### ( RÁDIOS-POP NACIONAL )
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO FOLHA
+http://streaming09.hstbr.net:8230/live?1582402914696
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO TROPICAL ORIGINAL
+http://suaradio2.dyndns.ws:10632/stream?1582404074478
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO MELODIA FM
+http://server01.ouvir.radio.br:8033/stream?1582404203943
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO TROPICAL
+http://solid55.streamupsolutions.com:30080/;?1582404352565
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CACHOEIRO
+http://ice44f.crossradio.com.br:8212/live.aac?1582404503922
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO SOM DAS GERAIS
+https://s27.maxcast.com.br:8228/live?1582404609412
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO INCONFIDÊNCIA
+http://srv39.brasilstream.com.br:8446/stream?1582404778323
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO NOVA BRASIL
+https://20823.live.streamtheworld.com/NOVABRASIL_SPAAC.aac?1582404966906
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO TRIBUNA
+http://cast.midiaip.com.br:6060/stream?1582405308983
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO USP
+http://flow.emm.usp.br:8007/radiousp-128.mp3?1582405429993
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO TOM BRASIL
+http://centova.radioempresabrasil.com.br:8209/stream?1582405583755
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CIDADE
+http://cast61.sitehosting.com.br:8510/live?1582405689033
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO ATITUDE POPULAR
+http://stm4.painelvox.com:8160/;?1582405823901
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO NOVA IGUAÇU
+http://cast2.hoost.com.br:8687/stream?1582405908028
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO UNIVERSITÁRIA
+http://150.161.93.221/hls/stream/index.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO BRAZILIAN FM
+https://s17.maxcast.com.br:8228/live?1582406120022
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO PACATUBA EM FOCO
+http://cast3.hoost.com.br:8477/stream?1582406246806
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO FM 104
+http://cast42.sitehosting.com.br:8878/stream?1582406395534
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO ALDEIAS
+http://midia.ac.gov.br:8000/aldeiafm?1582406526934
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO AMIGA FM
+http://stm12.sejaguia.com.br:9250/stream?1582406614767
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO APERIPÊ
+http://midia.aperipefm.infonet.com.br:1947/live/aperipefm/chunklist_w260121953.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
 ###################################################### ()
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-",
 
