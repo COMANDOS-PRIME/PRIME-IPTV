@@ -324,19 +324,19 @@ http://ss1.domint.net:2300/yv_str/yuna/chunklist.m3u8
 
 ################################################################ RÁDIOS ##############################################################
 ###################################################### ( RÁDIOS-ADULTO CONTEPORÂNEAS )
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO MOTEL
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO MOTEL - MG
 http://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ALPHA FM
-https://f6.fabricahost.com.br/alphafm1017?f=1580348032NaHR0cHM6Ly9mNi5mYWJyaWNhaG9zdC5jb20uYnIvJjE4Ni4yMjEuMTcwLjYmTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc5LjAuMzk0NS4xMzAgU2FmYXJpLzUzNy4zNiZodHRwczovL3R1bmVpbi5jb20vcmFkaW9hbHBoYWZtLw==
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ALPHA FM - SP
+https://f6.fabricahost.com.br/alphafm1017?f=1582598856NaHR0cHM6Ly9mNi5mYWJyaWNhaG9zdC5jb20uYnIvJjE4Ni4yMjEuMTcwLjYmTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzgwLjAuMzk4Ny4xMTYgU2FmYXJpLzUzNy4zNiZodHRwczovL3d3dy5yYWRpb3MuY29tLmJyL2Fvdml2by9yYWRpby1hbHBoYS0xMDE3LWZtLzkwMTU=
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO JB FM
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO JB FM - RJ
 http://14993.live.streamtheworld.com/JBFMAAC1_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gender=m&ua=RadioTime&ttag=RadioTime
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ALVORADA FM
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ALVORADA FM - MG
 http://14843.live.streamtheworld.com/RADIO_ALVORADAAAC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6I
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO GFM (SALVADOR)
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO GFM - BA
 http://r6.ciclano.io:10009/stream
 
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO NOVA FM (CAMPINAS)
@@ -357,7 +357,7 @@ https://f4.fabricahost.com.br/ouroverdefmcuritiba?f=1580350428NaHR0cHM6Ly9mNC5mY
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ELDORADO FM
 https://estadaohls-lh.akamaihd.net/i/estadaohls_1@301351/index_200_a-p.m3u8?sd=10&rebase=on
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO A TARDE FM
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO A TARDE FM - BA
 http://sh.upx.com.br:8084/stream
 
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ATLÂNTICO SUL FM
@@ -369,9 +369,99 @@ http://transamerica.crossradio.com.br:9128/live.aac
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO TEMPO FM
 http://r13.ciclano.io:8609/live
 
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO HITS FM - RJ
+http://shout35.crossradio.com.br:14016/1;?1582599229215
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",BONS TEMPOS FM - BRASIL
+http://server01.ouvir.radio.br:8050/stream?1582599310636
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO LEVE - SP
+https://s09.maxcast.com.br:8098/live?1582599405836
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ESTÂNCIA FM - MG
+http://144.217.192.196:8452/live?1582599481227
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",LIGHT FM - RJ
+http://cast01.wscast.com:8618/stream?1582599557238
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO LIGHT FM - RJ
+http://srv05.brasilstream.com.br:9959/stream?1582599635118
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO RBN DIGITAL - BA
+http://69.162.102.91:8646/live?1582599697181
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO INSIGHT - SP
+https://s08.maxcast.com.br:8102/live?1582599969659
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO WEBGIO - GO
+http://servidor34.brlogic.com:8080/live?1582600043886
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",ACESITA FM - MG
+http://170.254.33.29:8080/stream?1582600262249
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO CIDADE ITAJUBÁ LIGHT - MG
+http://cast3.zadax.com.br:9532/live?1582600472618
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",FLASH DISCO DANCE - SP
+http://stm1.ifantasy.com.br:21764/stream?1582600549904
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO TRANSAMÉRICA - MG
+http://transamerica.crossradio.com.br:9136/stream?1582600628441
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO TRANSAMÉRICA - RJ
+http://transamerica.crossradio.com.br:9112/stream?1582600866033
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",FLASH DISCO DANCE 80 - SP
+http://stm1.ifantasy.com.br:6676/stream?1582600950756
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO CABO FRIO - RJ
+http://12.stmip.net:8252/stream?1582601064976
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO LIGHT - PR
+http://transamerica.crossradio.com.br:9120/stream?1582601142909
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO SAUDADE - SP
+http://r16.ciclano.io:9039/site?1582601203522
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO SUPER - MG
+http://icecast2.mobradio.com.br:8000/917fm-bh-web.mp3?1582601272198
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO TRANSAMÉRICA - PR
+http://transamerica.crossradio.com.br:9116/stream?1582601361695
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO CIDADE - SP
+http://stm8.stmsrv.com:8040/stream?1582601505367
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO GIGANTE - SE
+http://216.245.194.244:8298/live?1582601578782
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO PANORAMA - RJ
+http://hts03.kshost.com.br:8510/stream?1582601658153
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO DIMENSIONE SUONO DUE - ITÁLIA
+https://stream.dimensionesuonosoft.radio/audio/dssn.stream_aac/chunklist.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO RAI - ITÁLIA
+http://icestreaming.rai.it/1.mp3?1582601936930
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO MONUMENTAL - COSTA RICA
+http://radios-cr.cdn.nedmedia.io/radios/monumental.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
 
 ###################################################### ( RÁDIOS-POP INTERNACIONAL )
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",RÁDIO JOVEM POP FM
 https://stream.radiojovempop.com/top40/stream_external
 
@@ -396,12 +486,24 @@ https://cloud1.cdnseguro.com:2124/;
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",RÁDIO YES!
 http://cast4.audiostream.com.br:8441/yes
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",RÁDIO JOVEM PAN - SP
+https://14553.live.streamtheworld.com/JP_SP_FM_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gender=m&ua=RadioTime&ttag=RadioTime
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",RÁDIO 98 FM - BH
+https://9554.brasilstream.com.br/stream
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",RÁDIO JOVEM PAN - BH
+https://sc4s.cdn.upx.com:8036/stream.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",RÁDIO MIX FM - RJ
+https://18813.live.streamtheworld.com/MIXRIO_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gender=m&ua=RadioTime&ttag=RadioTime
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",RÁDIO ATLÂNTIDA FM
+https://1852747t.ha.azioncdn.net/primary/atl_poa.sdp/chunklist_de0d1324-def2-4515-9bd4-7fb31ce8e2d0.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",RÁDIO DUMONT FM
+https://rrdns-dumont.webnow.com.br/dumont.mp3
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
@@ -410,78 +512,446 @@ http://cast4.audiostream.com.br:8441/yes
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP INTERNACIONAL",
 
 ###################################################### ( RÁDIOS-POP NACIONAL )
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO FOLHA
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO FOLHA - RJ
 http://streaming09.hstbr.net:8230/live?1582402914696
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO TROPICAL ORIGINAL
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO TROPICAL ORIGINAL - RJ
 http://suaradio2.dyndns.ws:10632/stream?1582404074478
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO MELODIA FM
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO MELODIA FM - MG
 http://server01.ouvir.radio.br:8033/stream?1582404203943
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO TROPICAL
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO TROPICAL - PT
 http://solid55.streamupsolutions.com:30080/;?1582404352565
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CACHOEIRO
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CACHOEIRO - ES
 http://ice44f.crossradio.com.br:8212/live.aac?1582404503922
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO SOM DAS GERAIS
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO SOM DAS GERAIS - MG
 https://s27.maxcast.com.br:8228/live?1582404609412
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO INCONFIDÊNCIA
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO INCONFIDÊNCIA - MG
 http://srv39.brasilstream.com.br:8446/stream?1582404778323
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO NOVA BRASIL
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO NOVA BRASIL - SP
 https://20823.live.streamtheworld.com/NOVABRASIL_SPAAC.aac?1582404966906
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO TRIBUNA
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO TRIBUNA - ES
 http://cast.midiaip.com.br:6060/stream?1582405308983
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO USP
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO USP - SP
 http://flow.emm.usp.br:8007/radiousp-128.mp3?1582405429993
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO TOM BRASIL
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO TOM BRASIL - SP
 http://centova.radioempresabrasil.com.br:8209/stream?1582405583755
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CIDADE
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CIDADE - RN
 http://cast61.sitehosting.com.br:8510/live?1582405689033
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO ATITUDE POPULAR
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO ATITUDE POPULAR - CE
 http://stm4.painelvox.com:8160/;?1582405823901
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO NOVA IGUAÇU
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO NOVA IGUAÇU - BA
 http://cast2.hoost.com.br:8687/stream?1582405908028
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO UNIVERSITÁRIA
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO UNIVERSITÁRIA - PE
 http://150.161.93.221/hls/stream/index.m3u8
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO BRAZILIAN FM
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO BRAZILIAN FM - MG
 https://s17.maxcast.com.br:8228/live?1582406120022
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO PACATUBA EM FOCO
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO PACATUBA EM FOCO - CE
 http://cast3.hoost.com.br:8477/stream?1582406246806
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO FM 104
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO FM 104 - RN
 http://cast42.sitehosting.com.br:8878/stream?1582406395534
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO ALDEIAS
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO ALDEIAS - AC
 http://midia.ac.gov.br:8000/aldeiafm?1582406526934
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO AMIGA FM
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO AMIGA FM - MG
 http://stm12.sejaguia.com.br:9250/stream?1582406614767
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO APERIPÊ
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO APERIPÊ - SE
 http://midia.aperipefm.infonet.com.br:1947/live/aperipefm/chunklist_w260121953.m3u8
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
-###################################################### ()
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO ARARAS - SP
+http://suaradio1.dyndns.ws:10841/stream?1582580120534
 
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO ATLÂNTICO SUL FM - CE
+http://142.44.230.74:9026/live?1582580247796
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO BAND VALE FM - SP
+http://162.244.80.106:11011/;?1582580354180
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO BETA FM - SP
+http://23.235.255.26:8541/stream?1582580879104
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO BRASIL ATUAL - SP
+http://142.44.217.210:10217/stream?1582580975670
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CABO BRANCO - PB
+http://audio.cabobranco.tv.br:8000/cbfm?1582581096772
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CÂMARA FM - DF
+http://stream3.camara.gov.br/radiocamara1t64/manifest.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CARUÁ FM - PB
+http://servidor34.brlogic.com:8112/live?1582581482123
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CIDADE - SP
+http://srv1.raizstore.com.br:7122/stream?1582581835152
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CIDADE NOVA - MG
+http://sh.upx.com.br:9090/;?1582581968609
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CLARETIANA - SP
+http://209.126.127.123:8038/live?1582582084612
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CLARETIANA 02 - SP
+http://sc1.cdn.upx.com:8212/stream?1582582166933
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO COR FM - MG
+http://stm22.apogeuhost.com.br:7792/stream?1582582250555
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CRUZEIRO - SP
+http://st1.midaweb.com.br:9820/stream?1582582337087
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CULTURA - SP
+https://tvcultura.com.br/_radio/streaming.php?radio=fm&1582582407058
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CULTURA - PI
+http://04.stmip.in:29120/stream?1582582473043
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CULTURA - MT
+http://sc4.dnip.com.br:11260/;?1582582540706
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CULTURA BRASIL - SP
+https://tvcultura.com.br/_radio/streaming.php?radio=am&1582584719753
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO CULTURAL - RS
+http://01.stmip.net:8096/live?1582584870103
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO DA UNIVERSIDADE - RS
+http://143.54.213.50:8000/stream.mp3?1582584982207
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO EDUCADORA - BA
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/audio/audio.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO EDUCATIVA FM - SP
+http://streaming.ima.sp.gov.br:8000/educativa.mp3?1582585163533
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO EDUCATIVA 02 - SP
+http://streaming15.hstbr.net:8132/live?1582585269694
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO EDUCATIVA ( SÃO JOSÉ DO RIO PRETO ) - SP
+https://radioeducativa.riopreto.sp.gov.br:8443/radioeducativa?1582585363476
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO EDUCATIVA - RJ
+http://167.114.103.39:8755/stream?1582585460800
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO EDUCATIVA - AL
+http://209.133.210.226:9370/stream?1582585548206
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO EDUCATIVA UDESC - SC
+http://sysrad.net:33560/play?1582585829685
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO EDUCATIVA UDESC 02 - SC
+http://sysrad.net:33540/stream?1582585940891
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO EDUCATIVA UDESC 03 - SC
+http://sysrad.net:30070/play?1582586070377
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO ESTAÇÃO - RJ
+https://audio8.cmaudioevideo.com:10098/stream?1582586159197
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO ESTAÇÃO CULTURA - MG
+http://centova14.ciclanohost.com.br:8200/;?1582586230753
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO ESTRELA FM - SP
+http://cast61.sitehosting.com.br:8490/live?1582586323484
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO FEDERAL - RS
+http://icecast.ufpel.edu.br:8080/live?1582586440885
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO FM CULTURA - RS
+http://streaming.procergs.com.br:1935/fmcultura/sfmcultura/chunklist_w330518194.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO FORÇA AÉREA FM - DF
+http://ice1.crossradio.com.br:8290/live.aac?1582586632980
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO FORTALEZA FM - CE
+http://cast62.sitehosting.com.br:8342/live?1582586734479
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO FUTURA FM - MG
+http://media.projesom.com.br:15033/futurafm?1582587108222
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO ITAPEMA - RS
+https://1192747t.ha.azioncdn.net/primary/ita_poa.sdp/chunklist_803f9153-988e-44e7-8124-2899525336f9.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO ITAPEMA - SC
+https://47809y.ha.azioncdn.net/primary/ita_fln.sdp/chunklist_7b10adfe-9a08-4b8e-99ce-a56cf6b19355.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO JOINVILLE CULTURAL - SC
+http://sysrad.net:33480/stream?1582587652633
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO MAIS - MG
+http://minha.webradio.srv.br:8235/stream?1582587750033
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO MARINHA DO BRASIL - RN
+http://ingest3sc.cdn.upx.com:9191/stream.mp3?1582587846764
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO MARINHA - MS
+http://ingest3sc.cdn.upx.com:9191/stream.mp3?1582587938586
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO MARINHA - RJ
+http://ingest3sc.cdn.upx.com:9191/stream.mp3?1582588028720
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO MEC - RJ
+https://22722d.ha.azioncdn.net/hls-radio/STsEBCECFM/index.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO MORENA - BA
+http://192.99.150.31:9407/stream?1582588445734
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO NACIONAL - DF
+https://22722d.ha.azioncdn.net/hls-radio/STsEBCRNDF/index.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO NOROESTE - SP
+http://serv4.hostca.com.br:7678/stream?1582588687719
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO NOVA BRASIL - BA
+https://20833.live.streamtheworld.com/NOVABRASIL_SSAAAC.aac?1582588764062
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO NOVA BRASIL - AL
+https://14553.live.streamtheworld.com/NOVABRASIL_MACAAC.aac?1582588903244
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO NOVA BRASIL - CE
+https://20283.live.streamtheworld.com/NOVABRASIL_FORAAC.aac?1582588988551
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO NOVA BRASIL - SE
+https://20823.live.streamtheworld.com/NOVABRASIL_ARACAJUAAC.aac?1582589045542
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO NOVA BRASIL - PE
+https://20823.live.streamtheworld.com/NOVABRASIL_RECAAC.aac?1582589098674
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO NOVA BRASIL - SP
+https://20823.live.streamtheworld.com/NOVABRASIL_SPAAC.aac?1582589158444
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO NOVA BRASIL - DF
+https://20833.live.streamtheworld.com/NOVABRASIL_BSBAAC.aac?1582589217883
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO OURO VERDE - PA
+http://230.stm-ip.com:9234/stream?1582589374383
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO PARANÁ EDUCATIVA - PR
+http://200.189.113.201/stream/educativaam.mp3?1582589449825
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO PARANÁ EDUCATIVA 02 - PR
+http://200.189.113.201/stream/educativafm.mp3?1582589553267
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO SÃO LUIZ - RS
+http://radios.onehost.com.br:7042/stream?1582589641874
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO SENADO - DF
+https://www12.senado.leg.br/radiosenado/fmaac/chunklist_w662493266.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO SUL FLUMINENSE - RJ
+http://euroticast5.euroti.com.br:8142/;?1582589844073
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO SULAMÉRICA PARADISO - RJ
+https://14923.live.streamtheworld.com/SULAMERICAAAC.aac?1582589932241
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO TRIBUNA - ES
+http://cast.midiaip.com.br:6060/1?1582590004640
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO UCP FM - RJ
+http://199.201.89.15:9300/stream?1582590080739
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO UCS FM - RS
+https://play.radio.br:8089/ucsfmbento/ucsfmbento/icecast.audio?1582590149350
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO UESB - BA
+http://200.128.67.125:8001/stream?1582590223455
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO UFMG - MG
+http://150.164.63.210:8000/stream?1582590323197
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO UFS - SE
+http://radio.ufs.br:8000/stream?1582590397343
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO UFSCAR - SP
+http://www.radio.ufscar.br:8000/radioufscar.ogg?1582590654316
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO UNIARA FM - SP
+http://radio.uniara.com.br:88/broadwavehigh.mp3?1582590776252
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO UNIVERSIDADE - RS
+http://stream.furg.br:8000/FURGFM?1582590914420
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO UNIVERSIDADE - MA
+http://streaming21.hstbr.net:8280/live?1582591009223
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO UNIVERSIDADE - RS
+http://farol.ufsm.br/conteudo/hls/6u7t9o6_record1_high/index.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO UNIVERSITÁRIA - PR
+http://186.233.153.151:8000/;?1582591544268
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO UNIVERSITÁRIA - MG
+http://webradio.dr.ufu.br:8000/live?1582591650919
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO UNIVERSITÁRIA - GO
+http://200.137.217.155:8010/radiouniversitaria?1582591743776
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO UNIVERSITÁRIA - RN
+http://radio.fmu.ufrn.br:8000/live.aac?1582591820564
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO UNIVERSITÁRIA UNESP - SP
+http://200.145.152.130:8060/unespfm.mp3?1582591898660
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO VENUS - RS
+http://209.126.127.123:8238/live?1582591991184
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO XANGRI-LÁ - RS
+http://cast4.audiostream.com.br:8659/mp3?1582592078659
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO ALTERNATIVA CLASSE A - AL
+http://stm14.xcast.com.br:11686/stream?1582592174831
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",MARCHINHAS DE CARNAVAL - BRASIL
+http://server01.ouvir.radio.br:8003/stream?1582592281011
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",ÁREA WEB RÁDIO - SP
+http://stm7.stream.agenciasjc.com.br:9946/;?1582592356407
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO BOCA LIVRE - GO
+http://radio.maxicast.com.br:8217/;?1582592632588
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO BRASIL FM - RJ
+https://radiobox.us/medias/musicas/MPB/PAULATOLLERANOITESONHEICONTIGO.mp3?1582592788756
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",BREGA ROMÂNTICO - RJ
+http://server01.ouvir.radio.br:8060/stream?1582592871149
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",C&G RÁDIO NEWS - ES
+http://node-24.zeno.fm/mbduxb92geruv?1582592954935=&rj-tok=AAABcHnt9dwAfbs0sx35AucSQA&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",CAMPEÕES DO SUCESSO - SP
+http://server01.ouvir.radio.br:8050/stream?1582593053767
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",CULTURA WEB RÁDIO - MG
+http://stm2.srvstm.com:22342/stream?1582593133712
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",DIVERSIDADE FM - CE
+http://streaming06.hstbr.net:8044/live?1582593208381
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",ENGPESC RÁDIO WEB - BA
+http://ip1.stm-ip.com:7376/stream?1582593278814
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",ESOTÉRICA FM - SP
+http://148.72.150.53:8030/stream?1582593361101
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",ETERNAMENTE MECÃO - RN
+http://server01.ouvir.radio.br:8060/stream?1582593432554
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",EXCELSIOR WEB PELOTAS - RS
+http://143.208.11.104:8040/stream?1582593508984
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",FABIO SOM WEB RÁDIO - SE
+http://euroticast5.euroti.com.br:8002/;?1582593615795
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",FICTOP FLASHBACK WEB RÁDIO - RN
+http://199.233.234.34:25216/live?1582593683089
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",GERAÇÃO MPB - SP
+http://stream.geracaoradios.com:8070/radio?1582593881560
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",IGS WEB - PE
+http://215.stm-ip.com:9778/stream?1582593962999
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",IN CONCERT WEB RÁDIO - PI
+http://10.stmip.in:28640/live?1582594044902
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",INDIE MPB - SP
+https://streamingv2.shoutcast.com/indie-mpb?1582594117733
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",JBT FM - RJ
+https://s44.maxcast.com.br:8130/live?1582594215232
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",JP MPB - SP
+http://ingest1sc.cdn.upx.com:8034/stream?1582594274021
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",KARATIS WEB RÁDIO - CE
+http://216.144.247.99:8310/live?1582594338508
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",MEGA RÁDIO MPB - SP
+http://node-14.zeno.fm/qmzeqfznxeruv.aac?1582594465316=&rj-tok=AAABcHoFBd4Az54nYU8PanNjbQ&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",MIX WEB RÁDIO - SE
+http://stm2.xcast.com.br:7310/stream?1582594543821
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",RÁDIO MPB TROPICAL WEB - RJ
+http://server01.ouvir.radio.br:8091/stream?1582594612208
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",MPB & FLASHBACK LAGOS ON LINE - RJ
+http://centova8.ipstm.net:10024/live?1582594687440
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",MPB BRASIL ONLINE - RJ
+http://centova8.ipstm.net:10051/live?1582595422973
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",MPB FM - SP
+http://server01.ouvir.radio.br:8091/stream?1582595486683
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",MPB FUTEBOL CLUBE - RJ
+http://suaradio2.dyndns.ws:10328/stream?1582598246331
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",MPB SP
+http://centova8.ipstm.net:10056/stream?1582598313641
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",ONDA PIRATA - SP
+http://server01.ouvir.radio.br:8050/stream?1582598468107
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",ÓTIMA WEB - PE
+http://stm3.painelvox.com:8078/stream?1582598541988
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",PARADA MPB - RJ
+http://199.233.234.34:9896/stream?1582598628958
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
+
+###################################################### ( CHILL OUT & LOUNGE )
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",WEB RÁDIO LA MUSIKE - SP
+http://216.245.220.172:8220/live?1582602289827
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",1A RÁDIO CHILLOUT - ALEMANHA
+https://1a-chillout.radionetz.de/1a-chillout.mp3?1582602550595
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",89 HIT FM ( EAZY FM ) - ALEMANHA
+http://stream.hitfm.de:9050/eazyfm?1582602766079
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",ANTENNE BAYERN CHILLOUT - ALEMANHA
+https://mp3channels.webradio.antenne.de/chillout?1582602973391
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
+
+###################################################### ()
 ###################################################### (#)
 #EXTINF:-1 tvg-logo="http://rewind80sband.com/wp-content/uploads/rewind-80s-logo.png"group-title="RÁDIO",80's
 https://ice55.securenetsystems.net/DASH7
