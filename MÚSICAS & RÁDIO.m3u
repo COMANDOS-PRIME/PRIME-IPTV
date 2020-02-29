@@ -22,6 +22,7 @@ https://edge6.popler.tv/popler_publishlive/4funtv/chunklist.m3u8?nimblesessionid
 https://edge9.popler.tv/popler_publishlive/tvdisco/chunklist.m3u8?nimblesessionid=3482411&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjAgMTI6NDQ6MzcgQU0maGFzaF92YWx1ZT1scjZlcUlBN0YwNnJUMUdBS2U0ZldBPT0mdmFsaWRtaW51dGVzPTU=&expires=1580950177&ip=186.221.170.6&secure=K3E5-th_-OGxWnFxofYNBA
 
 ###################################################### (A)
+
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",ALB MUSIC
 http://albmusic.dyndns.tv:1935/albuk/albmus.stream/chunklist_w2035782086.m3u8
 
@@ -29,6 +30,7 @@ http://albmusic.dyndns.tv:1935/albuk/albmus.stream/chunklist_w2035782086.m3u8
 https://unirtmp.tulix.tv/tintv2/tintv2//chunklist_w2136651189.m3u8
 
 ###################################################### (B)
+
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png" group-title="CANAIS DE CLIPES MUSICAIS",BOX UP FRONT
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxupfront-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxupfront%2f
 
@@ -63,6 +65,7 @@ http://plmgr-bridgemedia.cdnvideo.ru/bridge_classic/playlist.m3u8
 http://plmgr-bridgemedia.cdnvideo.ru/bridge_dance/playlist.m3u8
 
 ###################################################### (C)
+
 #EXTINF: -1 tvg-logo="https://www.radiocompany.com/wp-content/uploads/2018/04/20180420-promo-company-tv-splash.jpg" group-title="CANAIS DE CLIPES MUSICAIS",COMPANY TV
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
 
@@ -79,6 +82,7 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w1359150011.m3u8
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
 
 ###################################################### (D)
+
 #EXTINF: -1 tvg-logo="https://pbs.twimg.com/profile_images/753627557917065216/G_-_PzF9_400x400.jpg" group-title="CANAIS DE CLIPES MUSICAIS",DJING TV
 https://www.djing.com/tv/28957-04.m3u8
 
@@ -125,32 +129,39 @@ http://188.35.9.5:10007/stolen/200b/parasite.install
 http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8
 
 ###################################################### (E)
+
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",EBC1 TV
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/chunklist_w967658508.m3u8
 
 ###################################################### (F)
+
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",FOLX TV
 http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
 
 ###################################################### (G)
+
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",GANJE HOZOOR
 http://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8
 
 ###################################################### (H)
+
 #EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnBsYXlob3RtdXNpY19zY3JlZW5fN18xNTEyNjYzOTYwXzA4Nw/screen-7.jpg?fakeurl=1&type=.jpg" group-title="CANAIS DE CLIPES MUSICAIS",HOT MUSIC
 http://wow01.105.net/live/rmc1/playlist.m3u8
 
 ###################################################### (I)
+
 #EXTINF: -1 tvg-logo="http://resources.wimpmusic.com/images/bd0c33b8/7dc4/4a8e/a3ed/57450ca2c9d4/640x640.jpg" group-title="CANAIS DE CLIPES MUSICAIS",IBIZA HITS
 https://www.djing.com/tv/d-28957-03.m3u8
 
 ###################################################### (J)
 ###################################################### (K)
+
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",KRAL MUZIK
 https://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
 
 ###################################################### (L)
 ###################################################### (M)
+
 #EXTINF: -1 tvg-logo="https://weddingsmashers.com/wp-content/uploads/2018/02/mtv-logo-color.jpg" group-title="CANAIS DE CLIPES MUSICAIS",MTV NORUEGA
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=10&rebase=on
 
@@ -191,6 +202,7 @@ http://ott-cdn.ucom.am/s35/index.m3u8
 http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist_w1589381311.m3u8
 
 ###################################################### (N)
+
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/05/169px-Nrj.png" group-title="CANAIS DE CLIPES MUSICAIS",NRJ HITS TV
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w1591012100_b2588672.m3u8
 
@@ -204,6 +216,7 @@ https://stream-02.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDJK6OwzViTTbaO3n0X
 https://stream-04.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDGE50jxf2nMaTZ9a9IT4_T8)/dm/3/x67c77j/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
 ###################################################### (O)
+
 #EXTINF: -1 tvg-logo="https://assets-jpcust.jwpsrv.com/thumbs/3xi9Zr64-720.jpg" group-title="CANAIS DE CLIPES MUSICAIS",OCKO TV
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8
 
@@ -211,6 +224,7 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b26
 http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?sessId=14888
 
 ###################################################### (P)
+
 #EXTINF: -1 tvg-logo="https://img1.apk.tools/300/7/2/e/com.radio.pfm.png" group-title="CANAIS DE CLIPES MUSICAIS",PORTAL FOX MIX
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
@@ -225,6 +239,7 @@ https://live2.parnian.tv/hls/live/play.m3u8
 
 ###################################################### (Q)
 ###################################################### (R)
+
 #EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71wt09PGuAL._SX425_.jpg" group-title="CANAIS DE CLIPES MUSICAIS",RETRO MUSIC HD
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
@@ -265,10 +280,12 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w381000196_b7500
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1636114189_b746000.m3u8
 
 ###################################################### (S)
+
 #EXTINF: -1 tvg-logo="https://thewildernessroad.files.wordpress.com/2014/03/tv-standby.jpg" group-title="CANAIS DE CLIPES MUSICAIS",STAND BY TV
 http://176.31.226.78:1935/standbytvlive/stream1.sdp/playlist.m3u8
 
 ###################################################### (T)
+
 #EXTINF: -1 tvg-logo="https://tvtopsound.com/media/siteConfig/system/topsound-social.jpg" group-title="CANAIS DE CLIPES MUSICAIS",TOP SOUND SÉRVIA
 https://cdn.tvtopsound.com:1443/TopSoundTV/stream/TopSoundTV/live_720/chunks.m3u8?nimblesessionid=5636830
 
@@ -304,6 +321,7 @@ http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 
 ###################################################### (U)
 ###################################################### (V)
+
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/05/06.png" group-title="CANAIS DE CLIPES MUSICAIS",VIBEE
 http://139.59.166.48:8081/live/live3/chunks.m3u8
 
@@ -316,6 +334,7 @@ http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
 ###################################################### (W)
 ###################################################### (X)
 ###################################################### (Y)
+
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",YUNA VISION
 http://ss1.domint.net:2300/yv_str/yuna/chunklist.m3u8
 
@@ -928,7 +947,7 @@ http://199.233.234.34:9896/stream?1582598628958
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-POP NACIONAL",
 
-###################################################### ( CHILL OUT & LOUNGE )
+###################################################### ( RÁDIOS-CHILL OUT & LOUNGE )
 
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",WEB RÁDIO LA MUSIKE - SP
 http://216.245.220.172:8220/live?1582602289827
@@ -951,7 +970,226 @@ https://mp3channels.webradio.antenne.de/chillout?1582602973391
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
 
-###################################################### ()
+###################################################### ( RÁDIOS-GOSPEL & EVANGÉLICAS )
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO GOSPEL LIFE - SP
+https://s15.maxcast.com.br:8296/live?1582928322338
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO PERFEITO LOUVOR - DF
+http://perfeitolouvor.com.br:8000/stream?1582928635639
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO SEMEANDO O AMOR DE DEUS - MS
+http://sv11.hdradios.net:7618/;?1582928747381
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO BETEL FM - RJ
+http://149.56.85.6:8028/;?1582928837248
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO SINAI WEB GOSPEL - SP
+http://10.fm5.com.br:8208/stream?1582928997193
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO LOUVARTE - BA
+http://server03.stmsg.com.br:23318/stream?1582929037485
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",PORTAL WEB GOSPEL - SP
+http://centova2.euroti.com.br:8131/stream?1582930077471
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO MELODIA - RJ
+http://bizon.effy.com.br:8000/different.m4a?1582931225159
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO NACIONAL GOSPEL - SP
+http://184.107.161.115:9998/;?1582931291827
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO CANÁ DA GALILÉIA - CE
+https://servidor28.brlogic.com:8336/live?1582931430606
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO GÊNESES - PE
+http://hts06.kshost.com.br:9174/live?1582931532265
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO WEB STUDIO D - PR
+http://stm2.xcast.com.br:6922/stream?1582931628077
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO FM GOSPEL - CE
+http://8.fm5.com.br:8362/stream?1582931721334
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO GOSPEL FM - GO
+http://radio.webav.com.br:9308/;?1582931966822
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO VIDA FM GOSPEL - PR
+http://hts06.kshost.com.br:9294/live?1582932106711
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",ATITUDE GOSPEL - PA
+https://s14.maxcast.com.br:8044/live?1582932208197
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",NOVA WEB RÁDIO FAMÍLIA DE DEUS - SP
+https://s01.maxcast.com.br:8042/live?1582932280644
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO LIBERTAÇÃO E DOUTRINA - SC
+http://stm24.srvaudio.com.br:10838/;?1582932383863
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO MINAS GOSPEL - MG
+http://servidor31.brlogic.com:8948/live?1582932469781
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO MISSIONÁRIA FILADÉLFIA - SP
+http://74.63.241.108:8686/live?1582932654395
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",SARA VARGINHA - MG
+https://server01.ouvir.radio.br:8000/stream?1582932797661
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO SEM LIMITES GOSPEL - RJ
+http://stm27.srvstm.com:11322/;?1582932934899
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",YOUNGOSPEL WEB STATION - SP
+http://184.107.161.115:9982/;?1582933075411
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO CORDEIRO DE DEUS - SP
+http://paineldj5.com.br:20520/live?1582933157482
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO BR GOSPEL - SP
+http://74.63.250.83:8098/live?1582933221827
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO MUSICAL GOSPEL - GO
+http://109.169.23.22:13541/;?1582933480745
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO RPC - RJ
+https://s18.maxcast.com.br:8272/live?1582933583677
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO SOL NASCENTE - DF
+http://centova3.fm5.com.br:5631/stream?1582933677185
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO WEB ÁGUA VIVA DE JUAZEIRO - BA
+http://suaradio1.dyndns.ws:13548/stream?1582933774149
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO RG GOSPEL - RN
+http://hts06.kshost.com.br:9174/;?1582933897027
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO H'ORA FM - MS
+http://45.43.200.50:10342/stream?1582933971467
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO EVANGÉLICA ADONAY - SP
+http://stm2.xcast.com.br:11766/;?1582934103659
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO ESTAÇÃO GOSPEL - PI
+http://node-12.zeno.fm/2ae8a7zf1mruv?1582934220999=&rj-tok=AAABcI5FSwoAUjwRA_WI5B6KMA&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO GOSPEL ADORAÇÃO - MG
+http://srv4.ipstm.net:15610/;?1582934348433
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO PORTAL NET - PE
+http://hts02.kshost.com.br:9180/stream?1582934564884
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO SOUND GOSPEL - AP
+http://centova10.ipstm.net:14006/;?1582934642846
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO WEB 90 - ES
+http://cast4.hoost.com.br:9329/stream?1582934739531
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",VITROLA WEB - CE
+http://live3.livemus.com.br:6914/stream?1582934824626
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO GOSPEL GERAÇÃO ADORADORA - PORTUGAL
+http://server01.stmsg.com.br:28072/stream?1582934910589
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO IDENTIDADE GOSPEL - ESTADOS UNIDOS
+http://01.stmip.in:27086/stream?1582935024270
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",NOSSA RÁDIO - RS
+http://streaming04.hstbr.net:8210/live?1582935172844
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO SOU MAIS 101 FM - MG
+http://170.238.68.4:9326/;?1582935254498
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO 104.9 FM - MG
+http://170.238.68.4:9306/;?1582935361373
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO ITAPEVA - SP
+https://f4.fabricahost.com.br/104fmitapeva?f=1582935522NaHR0cHM6Ly9mNC5mYWJyaWNhaG9zdC5jb20uYnIvJjE4Ni4yMjEuMTcwLjYmTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzgwLjAuMzk4Ny4xMjIgU2FmYXJpLzUzNy4zNiZodHRwczovL3d3dy5yYWRpb3MuY29tLmJyL2Fvdml2by9yYWRpby0xMDQtaXRhcGV2YS1mbS81NTg0Ng==
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO FM 106 - SC
+http://65.182.104.113:30210/stream?1582935595671
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO FM 107 - MG
+http://stream.izap.com.br:443/107fm?1582935675986
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO FM 107.5 - SC
+http://stm40.srvstm.com:13304/stream?1582935769591
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO FM 88 - RJ
+http://svrstream1.svreua.com:8188/;stream.mp3?1582935862940
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO 880 - MG
+https://16613.live.streamtheworld.com/SP_STUDIOC.mp3?1582935977840
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO 91 FM - PR
+http://c2.fabricahost.com.br:8037/stream?1582936077703
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",RÁDIO 93 FM - RJ
+http://14623.live.streamtheworld.com/FM93AAC.aac?1582936162436
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-GOSPEL & EVANGÉLICAS",
+
+###################################################### ( RÁDIOS-NEW AGE & INSTRUMENTAL )
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",ALPHA NEW AGE BRASIL - SP
+http://alphanewagebrazil.ddns.net:7000/;?1582936451482
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",ESOTÉRICA FM - SP
+http://192.99.247.236:8080/;?1582936721201
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",ESOTÉRICA FM CANTO GREGORIANO - SP
+http://192.99.247.236:8040/stream?1582936801454
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",ESOTÉRICA FM MANTRAS - SP
+http://148.72.150.53:8060/stream?1582936890166
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",MISTICA FM - SP
+http://cast2.hoost.com.br:8935/stream?1582936968074
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",NAPHTALI WEB RÁDIO - RJ
+http://69.162.122.46:8272/live?1582937043506
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",NSC - MG
+http://server02.ouvir.radio.br:8045/stream?1582937202565
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO DE BEM COM A VIDA - PR
+http://74.63.250.86:8148/live?1582937272393
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO ESOTÉRICA - SP
+http://server02.ouvir.radio.br:8050/stream?1582937387208
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO EU SOU - SE
+http://stm8.painelcast.com:7132/;?1582937472830
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO JOLI RELAX - SP
+http://node-01.zeno.fm/xnmdfs0cd3quv?1582937558051=&rj-tok=AAABcI54RB0AuYmM2DM_ihvmQA&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO JP WEB ZEN - SP
+http://6d9a.webradio.upx.net.br:8024/stream?1582937670173
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO MAGIA DE AVALON - RS
+https://s30.maxcast.com.br:8008/live?1582937800189
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO NATUREZEN - SC
+https://s16.maxcast.com.br:8010/live?1582937874824
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO PRISMA DIGITAL - RS
+http://server02.ouvir.radio.br:8050/stream?1582937985953
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",
+
 ###################################################### (#)
 #EXTINF:-1 tvg-logo="http://rewind80sband.com/wp-content/uploads/rewind-80s-logo.png"group-title="RÁDIO",80's
 https://ice55.securenetsystems.net/DASH7
