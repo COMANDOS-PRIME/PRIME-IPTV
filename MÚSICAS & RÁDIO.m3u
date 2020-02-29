@@ -1182,13 +1182,144 @@ https://s16.maxcast.com.br:8010/live?1582937874824
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO PRISMA DIGITAL - RS
 http://server02.ouvir.radio.br:8050/stream?1582937985953
 
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO STUDIO SOUTO NEW AGE - GO
+http://192.99.150.31:8353/stream?1582940966741
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO TRANSCENDENTAL - SP
+http://r18.ciclano.io:10024/stream?1582941112490
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO UFOBRAS - SP
+http://9.fm5.com.br:7516/stream?1582941196890
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO VERITATIS - CE
+http://server02.ouvir.radio.br:8050/stream?1582941296693
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO WEB VALE ENCANTADO - SC
+http://hts06.kshost.com.br:9674/;?1582941375443
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO XAMÃNICA - SP
+http://stm12.srvstm.com:25782/stream?1582941482431
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO NOS - CE
+http://54.38.122.65/;?1582941651569
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO NOS AMBIENT CHANNEL - CE
+http://54.38.122.65/;?1582941793220
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO NOS NEW AGE CHANNEL - CE
+http://54.38.122.65/stream/2/;?1582941865341
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",SONORA RÁDIO WEB - RJ
+http://server02.ouvir.radio.br:8070/stream?1582941932530
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",TERRAS LENDÁRIAS - PR
+http://hts01.kshost.com.br:8298/stream?1582942027288
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",WEB RÁDIO ENERGIA ASTRAL - SC
+http://server02.ouvir.radio.br:8070/stream?1582942282709
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",WEB RÁDIO ROSACRUZ - SP
+http://cast61.sitehosting.com.br:8039/live?1582942392241
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",MOUNTAIN CHILL - ESTADOS UNIDOS
+http://edge2.peta.live365.net/b58063_128mp3?1582942490267
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO MANTRA - ARGENTINA
+http://streamlky.alsolnet.com:443/mantrafm?1582942583212
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",CALM RÁDIO NATIVE - CANADÁ
+http://streams.calmradio.com:1228/stream?1582942656897
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO CINEMIX - CANADÁ
+http://94.23.51.96:8001/;?1582943003090
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",DRONE RÁDIO - ITÁLIA
+http://62.149.196.16:8070/stream?1582943106562
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",HOTMIX RÁDIO NEW - FRANÇA
+http://streaming.hotmixradio.fm:8000/hotmixradio-new-64.aac?1582943349165
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",KLASSIK RÁDIO JEAN MICHEL JARRE - ALEMANHA
+https://klassikr.streamabc.net/klr-jmjarre-mp3-192-8219853?1582943412331
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",PLENITUDE RÁDIO - FRANÇA
+http://listen.radioking.com/radio/117271/stream/159004?1582943524879
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO CELTIC SOUND - ALEMANHA
+https://celtic-sound.stream.laut.fm/celtic-sound?1582943819116
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO M2 CHILLOUT - FRANÇA
+http://live.m2stream.fr/m2chillout-128.mp3?1582943941297
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO MEGA DIGITAL NEW AGE - ARGENTINA
+http://streamlky.alsolnet.com:443/megastereocanal3?1582944050957
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",SMOOTH RIVIERA WEB RÁDIO - FRANÇA
+http://centauri.shoutca.st:8686/stream?1582944281804
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",WHISPERINGS SOLO PIANO RÁDIO - ESTADOS UNIDOS
+http://pianosolo.streamguys.net/live?1582944705758
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",ZWISCHEN WELTEN RÁDIO - ALEMANHA
+http://136.243.21.79:8000/;?1582944808502
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",APLUS RELAX - RÚSSIA
+http://shoutcast.aplus.by:9000/aplus_relax_48.aac?1582944988723
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",AMBIENT ART FOUNDATION - ROMÉNIA
+http://185.80.220.12:8154/stream?1582946220053
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",CHROMA RÁDIO NEW AGE - GRÉCIA
+http://148.251.184.14:8026/;?1582946411870
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",ECHOES NET RÁDIO - GRÉCIA
+http://85.17.75.143/;?1582946578872
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",NR HAPPYDAY NEWAGE RÁDIO - CORÉIA DO SUL
+http://newage.kr:8000/;?1582946755706
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO MILED MUSIC NEW AGE - MÉXICO
+http://192.99.34.205:8222/stream?1582946884892
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",RÁDIO NOSTALGIE NEW WAVE - BÉLGICA
+https://streamingp.shoutcast.com/NostalgieNewWave?1582946974899
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",SLEEP RÁDIO - NOVA ZELÂNDIA
+http://149.56.234.138:8169/stream?1582947094491
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",VIBRATION ZEN RELAX - SUÍÇA
+http://vibration.stream2net.eu:8220/vibrationzenrelax-128.mp3?1582947207006
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",YOGA RÁDIO - UCRÂNIA
+http://play.yogaradio.org.ua:8000/YOGAradio?1582947349570
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-NEW AGE & INSTRUMENTAL",
+
+###################################################### ( RÁDIOS-AMBIENT )
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-AMBIENT",RÁDIO CHUVA - BRASIL
+https://server02.ouvir.radio.br:8056/stream?1582947740482
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-AMBIENT",RÁDIO BRAZILIAN BIRDS - BRASIL
+http://sc-brazilianbirds.1.fm:10072/?1582947983550
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-AMBIENT",RÁDIO PET - SP
+http://streaming.ntelecom.com.br:8528/stream?1582948366832
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-AMBIENT",WEB RÁDIO FANÁTICOS - PE
+http://node-18.zeno.fm/69vs2038xbruv?1582948458420=&rj-tok=AAABcI8elsUAUarRdpu2q7lpVA&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-AMBIENT",AMBIENT RÁDIO - ITÁLIA
+http://62.149.196.16:8888/stream?1582948579546
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-AMBIENT",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-AMBIENT",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-AMBIENT",
 
 ###################################################### (#)
 #EXTINF:-1 tvg-logo="http://rewind80sband.com/wp-content/uploads/rewind-80s-logo.png"group-title="RÁDIO",80's
