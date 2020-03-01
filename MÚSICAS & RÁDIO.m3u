@@ -343,6 +343,7 @@ http://ss1.domint.net:2300/yv_str/yuna/chunklist.m3u8
 
 ################################################################ RÁDIOS ##############################################################
 ###################################################### ( RÁDIOS-ADULTO CONTEPORÂNEAS )
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO MOTEL - MG
 http://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream
 
@@ -478,6 +479,47 @@ http://radios-cr.cdn.nedmedia.io/radios/monumental.m3u8
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
+
+###################################################### ( RÁDIOS-FLASHBACK & ROMÂNTICAS )
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",RÁDIO TERRA - MS
+http://stm15.aplicativopararadio.com:22068/stream?1583023375409
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",RÁDIO ALTERNATIVA - MS
+http://cc5.streammaximum.com:9087/stream?1583023456998
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
 
 ###################################################### ( RÁDIOS-POP INTERNACIONAL )
 
