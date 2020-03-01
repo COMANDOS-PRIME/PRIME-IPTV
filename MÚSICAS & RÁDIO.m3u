@@ -15,6 +15,7 @@ https://ap.imagensbrasil.org/images/2020/01/06/SOBEL-PIZZA-02.jpg
 
 ###################################################### CANAIS DE CLIPES MUSICAIS #################################################
 ###################################################### (#)
+
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",4FUN TV
 https://edge6.popler.tv/popler_publishlive/4funtv/chunklist.m3u8?nimblesessionid=5326803&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjAgMTI6NDA6MDkgQU0maGFzaF92YWx1ZT1VWFo3MzBKeEttUGhIUG9LWTFBWHZRPT0mdmFsaWRtaW51dGVzPTU=&expires=1580949909&ip=186.221.170.6&secure=zHY9bc2anL1fe4oLraAd_g
 
@@ -1362,6 +1363,138 @@ http://62.149.196.16:8888/stream?1582948579546
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-AMBIENT",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-AMBIENT",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-AMBIENT",
+
+###################################################### ( RÁDIOS-CLASSIC ROCK & NEW ROCK )
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",EMERGENCY RÁDIO ROCK - SP
+http://server02.ouvir.radio.br:8050/stream?1583094755321
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",GERAÇÃO ROCK - SP
+http://stream.geracaoradios.com:8300/radio?1583094863758
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO BSIDE - RJ
+http://stm01.virtualcast.com.br:8034/stream?1583094982592
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO MASTHER ROCK - SP
+http://node-32.zeno.fm/dsfvvtdk98quv?1583095084244=&rj-tok=AAABcJfb4N4AiELmvn43Go3kpw&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO ROTA DO ROCK - RJ
+http://node-20.zeno.fm/q5absybdyuquv?1583095165670=&rj-tok=AAABcJfdHGAA_C52AHyFjX5zZg&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO SUPERNOVA SUPERMUSIC - SP
+http://104.131.234.229:8024/stream?1583095313716
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",ROCK FREEDAY - BA
+http://centova13.ciclanohost.com.br:8390/stream?1583095384097
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",SUN 8 RÁDIO - SP
+https://streamer.radio.co/scf166751d/listen?1583095447303
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO 94X FM - ESTADOS UNIDOS
+http://srv1.hotdogradio.com:8000/CIRX?1583095579950
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO CHDI SONIC - CANADÁ
+https://rogers-hls.leanstream.co/rogers/edm1029.stream/48k/playlist.m3u8?listeningSessionID=5e5bd90aa43e2375_18058_3Wqm2jHM_MjE2LjM4LjAuMTg1OjgwMDA!_000000001ri&downloadSessionID=0
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO CHYZ - CANADÁ
+http://ecoutez.chyz.ca:8000/stream?1583095784938
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO CJZN THE ZONE - CANADÁ
+http://ais-sa1.streamon.fm/7334_48k.aac
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO FFH DIGITAL FUTURE - ALEMANHA
+http://mp3.ffh.de/radioffh/hqlivestream.aac?1583095937981
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO KEXP - ESTADUS UNIDOS
+https://kexp-mp3-128.streamguys1.com/kexp128.mp3?1583096089715
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO ROCK 95 - CANADÁ
+https://cob-ais.leanstream.co/CFJBFM-MP3?1583096176289
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",STAR FM - ALEMANHA
+http://85.25.43.55/berlin.mp3?1583096274825
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",WCKG - ESTADOS UNIDOS
+https://ice7.securenetsystems.net/WCKG?1583096331943
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",WMCX - ESTADOS UNIDOS
+http://204.152.149.19:8080/stream2?1583096442858
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",WNRN - ESTADOS UNIDOS
+http://16813.live.streamtheworld.com/WNRNFM_128.mp3?1583096536574
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",HANG 10 ROCK RÁDIO - CANADÁ
+http://158.69.227.214:8113/stream?1583096621228
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",HITRADIO ANTENNE 1 ALBUM DE WOCHE - ALEMANHA
+https://stream.antenne1.de/album/livestream2.mp3?1583096688206
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",NOCTURNA - PORTUGAL
+http://70.35.201.123:7236/stream?1583099235217
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO 21 NEU & ANGESAGT - ALEMANHA
+https://radio21.streamabc.net/radio21-naplaylist-mp3-256-9043931?1583099291077
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO REGENBOGEN MODERN ROCK - ALEMANHA
+https://streams.regenbogen.de/rr-modernrock-128-aac?1583099378648
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",ROCK ANTENNE YOUNG STARS - ALEMANHA
+https://mp3channels.webradio.rockantenne.de/young-stars?1583099571878
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",STAR FM MILENNIUM ROCK - ALEMANHA
+https://starfm-4.explodio.com/2000er_new_metal.mp3?1583099647483
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",THIRD ROCK RÁDIO - ESTADOS UNIDOS
+http://rfcmedia2.streamguys1.com/thirdrock.mp3?1583099776317
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO B ROCK - AUSTRÁLIA
+http://149.56.157.81/proxy/brockstream?mp=/stream&1583099929099
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO HARD ROCK - INDONÉSIA
+http://cloudstreaming.mramedia.com:8011/live?1583099993813
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO JAM - ISRAEL
+https://kanlivep2event-i.akamaihd.net/hls/live/749623-b/749623/kan88_mp3/chunklist.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO K ROCK - AUSTRÁLIA
+http://14093.live.streamtheworld.com/GEE_KROCKAAC.aac?1583100151882
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO MEYDAN - UCRÂNIA
+http://stream.meydan.fm:8800/meydanlow.mp3?1583100214545
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO ROCKS - UCRÂNIA
+http://online-radioroks.tavrmedia.ua/RadioROKS?1583100305944
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO ROCKS NEW ROCK - UCRÂNIA
+http://online2.radioroks.ua/RadioROKS_NewRock?1583100375237
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",RÁDIO SRF VIRUS - SUÍÇA
+http://stream.srg-ssr.ch/m/drsvirus/aacp_96?1583100472210
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",ALTERNATIVE X-ROCK RÁDIO - RÚSSIA
+http://cristina.torontocast.com:8123/stream/1/?1583100537256
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",DEVILZZ RÁDIO - LITUÂNIA
+http://188.40.135.197:8509/stream?1583100617586
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",ISKC ROCK RÁDIO - HOLANDA
+http://iskcradio.shoutcaststream.com:8072/stream?1583100691977
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",KANAL 103 FM - MACEDÔNIA
+http://radiostream.neotel.mk/kanal103?1583100759204
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",
+
+###################################################### ()
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-",
 
 ###################################################### (#)
 #EXTINF:-1 tvg-logo="http://rewind80sband.com/wp-content/uploads/rewind-80s-logo.png"group-title="RÁDIO",80's
