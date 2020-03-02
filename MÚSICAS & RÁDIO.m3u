@@ -341,6 +341,7 @@ http://ss1.domint.net:2300/yv_str/yuna/chunklist.m3u8
 
 ###################################################### (Z)
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",
 
 ################################################################ RÁDIOS ##############################################################
 ###################################################### ( RÁDIOS-ADULTO CONTEPORÂNEAS )
@@ -2502,6 +2503,7 @@ https://ia601506.us.archive.org/21/items/yourealivebeautifulchillstepmix15/%27Yo
 #EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 
 ###################################################### (A)
+
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/02/18/01.jpg" group-title="CLASSIC MUSIC",ALPHA FM 101.7 SÃO PAULO Sequência De Classe
 https://ia601507.us.archive.org/15/items/alphafm101.7saopaulosequenciadeclasse02/ALPHA%20FM%20-%20101.7%20-%20S%C3%83O%20PAULO%20-%20Sequ%C3%AAncia%20de%20Classe%2002.mp4
 
@@ -2519,14 +2521,25 @@ https://ia601409.us.archive.org/33/items/aspenclassicclasicospopvol.1/Aspen%20Cl
 
 #EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 #EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
+
 ###################################################### (B)
+
 #EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",Baladas Rock Para Ouvir Na Estrada
 https://ia601408.us.archive.org/3/items/baladasrockparaouvirnaestrada/Baladas%20Rock%20para%20ouvir%20na%20estrada.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",Baladas Rock Para Ouvir Na Estrada II
 https://ia601502.us.archive.org/1/items/baladasrockparaouvirnaestradaii/Baladas%20Rock%20para%20ouvir%20na%20estrada%20II.mp4
 
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",Baladas Rock Para Ouvir Na Estrada III
+https://ia601407.us.archive.org/1/items/baladasrockparaouvirnaestradaiii/Baladas%20Rock%20para%20ouvir%20na%20estrada%20III.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",Best Of Alternative Rock Songs Aerosmith Bon Jovi U 2 Gun's Nirvans Greatest
+https://ia601403.us.archive.org/26/items/bestofalternativerocksongsaerosmithbonjoviu2gunsnirvansgreatest/Best%20Of%20Alternative%20Rock%20Songs%20-%20Aerosmith-Bon%20Jovi-U2-Gun%27s-Nirvans%20Greatest.mp4
+
 #EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
+
 ###################################################### (C)
 #EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (D)
