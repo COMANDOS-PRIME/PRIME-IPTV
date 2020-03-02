@@ -1493,6 +1493,72 @@ http://radiostream.neotel.mk/kanal103?1583100759204
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CLASSIC ROCK & NEW ROCK",
 
+###################################################### ( RÁDIOS-HIP HOP & R&B )
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",RÁDIO 105.1 FM - SP
+https://streamingv2.shoutcast.com/radio-105-fm-e-so-alegria?1583114143678
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",BLACK IN LOVE RÁDIO - SP
+http://hts01.kshost.com.br:9890/stream?1583114286339
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",WEB RÁDIO NOVA REVOLUÇÃO 3 - SP
+http://stm21.srvaudio.com.br:11224/stream?1583114361593
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",RÁDIO CHARME - RJ
+http://stm21.srvstm.com:7636/;?1583114729770
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",BLACK C BLACK - SP
+http://stm11.conectastm.com:8612/;?1583115157459
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",BLACK SOUL MARQUES - SP
+https://s30.maxcast.com.br:8128/live?1583115219155
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",BLAZE CAST - SP
+http://server02.ouvir.radio.br:8060/stream?1583115293879
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",DJ CADU - RJ
+http://server02.ouvir.radio.br:8060/stream?1583115361695
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",GERAÇÃO HIP-HOP RAP - SP
+http://stream.geracaoradios.com:8020/radio?1583115423751
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",HOT BOOGIE RÁDIO - SP
+http://hts03.kshost.com.br:9416/stream?1583115500286
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",HOT GROOVE RÁDIO - SP
+https://servidor20-3.brlogic.com:9218/live?1583115565939
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",HUNTER FM LO-FI - DF
+https://live.hunter.fm/lofi_high?origin=/lofi
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",JBS DJ CLUB - SP
+http://server03.stmsg.top:6830/;?1583115901457
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",JUNTO E MIXADO - MG
+http://paineldj4.com.br:22550/stream?1583115977269
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",MÍDIA FM WEB - SP
+http://stm34.srvstm.com:11384/stream?1583116046286
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",MONT BLACK RS - RS
+http://s11.hstbr.net:8090/live?1583116149354
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",NEW BLACK - SP
+http://69.162.80.4:8238/live?1583116218512
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",NOVA RÁDIO NEGRALHAS - SP
+http://node-11.zeno.fm/y5m5gaere0quv?1583116306846=&rj-tok=AAABcJkfthgA0N5ldIkV4abWOQ&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",PORTAL DO GUETO - SP
+http://servidor24.brlogic.com:8592/live?1583116382244
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",RÁDIO ÁREA 14 - SP
+http://wz4.dnip.com.br/area14/area14.stream/chunklist_w1685687708.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-HIP HOP & R&B",
+
 ###################################################### ()
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-",
 
