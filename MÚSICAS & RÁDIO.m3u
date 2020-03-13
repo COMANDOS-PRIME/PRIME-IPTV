@@ -1005,10 +1005,133 @@ http://stream.hitfm.de:9050/eazyfm?1582602766079
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",ANTENNE BAYERN CHILLOUT - ALEMANHA
 https://mp3channels.webradio.antenne.de/chillout?1582602973391
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",ANTENNE NIEDERSACHSEN RELAX - ALEMANHA
+https://antennends-ais-edge-3102-fra-eco-cdn.cast.addradio.de/antennends/relax/mp3/high?ar-distributor=f0e3&1584046901109
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",ENERGY RELAX - ALEMANHA
+http://185.52.127.170/de/33057/mp3_128.mp3?1584047088143
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",KLASSIK RÁDIO HEALING - ALEMANHA
+https://klassikr.streamabc.net/klr-healing-mp3-128-2346088?1584047263720
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",MUSIC LAKE RÁDIO - ESTADOS UNIDOS
+http://50.7.68.251:7168/stream?1584047350137
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",NB RÁDIO - ITÁLIA
+http://nr6.newradio.it:9333/stream?1584047443328
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO 1 SPLASH COFFEE - ESPANHA
+http://ais-sa2.cdnstream1.com/2345_128.mp3?1584047527290
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO BADEN FM CHILLOUT - ALEMANHA
+https://badenfm.ip-streaming.net/chillout?1584047686302
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO CHILL OUT ZONE - ALEMANHA
+https://chillout.zone/chillout?1584047793215
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO CHILLKYWAY.NET - ALEMANHA
+http://sonus.fm:8000/stream/3/?1584048094443
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO CONTACT ITALY - ITÁLIA
+http://sirius.shoutca.st:9510/stream?1584048235007
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO FANTASY LOUNGE - ALEMANHA
+http://stream.fantasy.de/Fantasy-Lounge.mp3?1584048344182
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO GONG RELAXED - ALEMANHA
+http://radiogong-ais-edge-3004.fra-eco.cdn.addradio.net/radiogong/channel02/mp3/high?1584050487551
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO MILANO LOUNGE - ITÁLIA
+http://antares.dribb.com:5080/autodj?1584050747157
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO MONTE CARLO BUDDHA BAR - ITÁLIA
+https://icy.unitedradio.it/rmcweb002?1584050848941
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO MYHITMUSIC SENZA CHILL - ALEMANHA
+http://151.80.43.143:8044/-aac.mp3?1584051029914
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO ON CHILLOUT - ALEMANHA
+https://0n-chillout.radionetz.de/0n-chillout.mp3?1584051517432
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO SINE MUSIC - ALEMANHA
+https://sine-music.stream.laut.fm/sine-music?1584051663067
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",SKYLAB RÁDIO
+http://198.245.60.88:8128/stream?1584051830854
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",SMOOTH LOUNGE RÁDIO CHANNEL - ITÁLIA
+https://smoothlounge.radioca.st/stream?1584052061992
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",SPECTRUM CHILL OUT - ESPANHA
+https://eu8.fastcast4u.com/proxy/spectrumchill?mp=/1&1584052210934
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",THE NETWORK RÁDIO LOUNGE - ITÁLIA
+http://95.110.207.5:8000/lounge.mp3?1584054185399
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO POWER XL - TURQUIA
+http://listen.powerapp.com.tr/powerextralounge/abr/powerextralounge/128/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",CHILLOUT RÁDIO - RÚSSIA
+http://mp3stream4.abradio.cz/chillout128.mp3?1584054401233
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",CHILLSTEP RÁDIO - ALBÂNIA
+http://chillstep.info:1984/listen.mp3?1584054514597
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",ELECTRO COLOMBIA RÁDIO 2 - COLOMBIA
+http://servers58.com:9342/stream?1584054646455
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO CROOZE CHILLOUT - BÉLGICA
+http://streams.crooze.fm:8006/stream128?1584054741722
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO CROOZE EASY - BÉLGICA
+http://streams.crooze.fm:8012/stream128?1584054827319
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO DFM GOOD NIGHT - RÚSSIA
+https://dfm-spoknochi.hostingradio.ru/spoknochi96.aacp?1584054929257
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO KAMCHATKA LIVE CHILLOUT - RÚSSIA
+http://radio.kamchatkalive.ru:8103/chillout?1584055020829
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO LOUNGE FM CHILL OUT - UCRÂNIA
+http://cast.loungefm.com.ua/chillout128?1584055119408
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO LOUNGE FM TERRACE - UCRÂNIA
+http://cast.loungefm.com.ua/terrace128?1584055217285
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO BITS - SP
+https://servidor21-2.brlogic.com:8296/live?1584055401362
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO MAGIA DE AVALON - RS
+https://s30.maxcast.com.br:8008/live?1584055463432
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO VINTAGE CAFÉ MUSIC - SP
+http://srv8.ipstm.net:15772/stream?1584055539599
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",SMART RÁDIO FM - ALEMANHA
+http://stream.glueckserver.de:8000/smartradio.mp3?1584055622806
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",1A RÁDIO ENTSPANNT - ALEMANHA
+https://1a-entspannt.radionetz.de/1a-entspannt.mp3?1584055714228
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",ENERGY LOUNGE - ALEMANHA
+http://185.52.127.162/de/33029/mp3_128.mp3?1584055839768
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",HITRADIO ANTENNE 1 SOFT & LAZY - ALEMANHA
+https://stream.antenne1.de/soft/livestream2.mp3?1584056506860
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",KLASSIK RÁDIO FRIENDS HOME - ALEMANHA
+https://klassikr.streamabc.net/klr-friendshome-mp3-192-1047211?1584056620238
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",KLASSIK RÁDIO LOUNGE - ALEMANHA
+https://klassikr.streamabc.net/klr-lounge-mp3-128-7848446?1584056802647
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",KLASSIK RÁDIO LOUNGE BEAT - ALEMANHA
+https://klassikr.streamabc.net/klr-loungebeat-mp3-128-6759021?1584056894198
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",KLASSIK RÁDIO SCHILLER - ALEMANHA
+https://klassikr.streamabc.net/klr-schiller-mp3-128-6043349?1584057122201
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",KLASSIK RÁDIO SMOOTH - ALEMANHA
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
