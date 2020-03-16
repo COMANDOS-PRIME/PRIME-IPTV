@@ -346,55 +346,55 @@ http://ss1.domint.net:2300/yv_str/yuna/chunklist.m3u8
 ################################################################ RÁDIOS ##############################################################
 ###################################################### ( RÁDIOS-ADULTO CONTEPORÂNEAS )
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO MOTEL - MG
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/16/01.png" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO MOTEL - MG
 http://usa11.fastcast4u.com/proxy/radiomotel?mp=/stream
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ALPHA FM - SP
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/16/01.jpg" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ALPHA FM - SP
 https://f6.fabricahost.com.br/alphafm1017?f=1582598856NaHR0cHM6Ly9mNi5mYWJyaWNhaG9zdC5jb20uYnIvJjE4Ni4yMjEuMTcwLjYmTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzgwLjAuMzk4Ny4xMTYgU2FmYXJpLzUzNy4zNiZodHRwczovL3d3dy5yYWRpb3MuY29tLmJyL2Fvdml2by9yYWRpby1hbHBoYS0xMDE3LWZtLzkwMTU=
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO JB FM - RJ
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/16/02.png" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO JB FM - RJ
 http://14993.live.streamtheworld.com/JBFMAAC1_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gender=m&ua=RadioTime&ttag=RadioTime
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ALVORADA FM - MG
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/16/02.jpg" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ALVORADA FM - MG
 http://14843.live.streamtheworld.com/RADIO_ALVORADAAAC_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&tdtok=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiIsImtpZCI6ImZTeXA4In0.eyJpc3MiOiJ0aXNydiIsInN1YiI6I
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO GFM - BA
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/16/03.jpg" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO GFM - BA
 http://r6.ciclano.io:10009/stream
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO NOVA FM (CAMPINAS)
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/16/04.jpg" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO NOVA FM (CAMPINAS)
 http://20283.live.streamtheworld.com/NOVA_CAMPINAS_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gender=m&ua=RadioTime&ttag=RadioTime
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO CDL
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/16/03.png" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO CDL
 http://9595.brasilstream.com.br/stream
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ITAPEMA (FLORIANÓPOLIS)
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/16/04.png" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ITAPEMA (FLORIANÓPOLIS)
 https://47809y.ha.azioncdn.net/primary/ita_fln.sdp/chunklist_d8f3cba7-d62c-4705-b1d5-8687708f2f43.m3u8
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO 102.3 FM
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/16/05.png" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO 102.3 FM
 https://1192747t.ha.azioncdn.net/primary/ita_poa.sdp/chunklist_ee413426-6c96-4fc5-99d7-542b22a2b002.m3u8
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO OURO VERDE FM
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/16/06.png" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO OURO VERDE FM
 https://f4.fabricahost.com.br/ouroverdefmcuritiba?f=1580350428NaHR0cHM6Ly9mNC5mYWJyaWNhaG9zdC5jb20uYnIvJjE4Ni4yMjEuMTcwLjYmTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzc5LjAuMzk0NS4xMzAgU2FmYXJpLzUzNy4zNiZodHRwczovL3R1bmVpbi5jb20vcmFkaW8vUmRpby1PdXJvLVZlcmRlLUZNLTEwNTUtczEwOTY2Lw==
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ELDORADO FM
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/16/09.jpg" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ELDORADO FM
 https://estadaohls-lh.akamaihd.net/i/estadaohls_1@301351/index_200_a-p.m3u8?sd=10&rebase=on
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO A TARDE FM - BA
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/16/05.jpg" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO A TARDE FM - BA
 http://sh.upx.com.br:8084/stream
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ATLÂNTICO SUL FM
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/16/07.png" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO ATLÂNTICO SUL FM
 http://142.44.230.74:9026/stream
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO TRANSAMERICA (SALVADOR)
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/16/06.jpg" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO TRANSAMERICA (SALVADOR)
 http://transamerica.crossradio.com.br:9128/live.aac
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO TEMPO FM
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/16/08.png" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO TEMPO FM
 http://r13.ciclano.io:8609/live
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO HITS FM - RJ
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/16/11.png" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO HITS FM - RJ
 http://shout35.crossradio.com.br:14016/1;?1582599229215
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",BONS TEMPOS FM - BRASIL
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/16/10.jpg" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",BONS TEMPOS FM - BRASIL
 http://server01.ouvir.radio.br:8050/stream?1582599310636
 
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO LEVE - SP
