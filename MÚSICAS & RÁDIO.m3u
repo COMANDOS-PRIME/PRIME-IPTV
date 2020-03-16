@@ -1152,10 +1152,35 @@ http://188.165.206.81:8110/stream?1584063540396
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO MONTE CARLO VIP LOUNGE - ITÁLIA
 https://icy.unitedradio.it/rmcweb020?1584063620644
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO REGENBOGEN SOFT & LAZY - ALEMANHA
+https://streams.regenbogen.de/rr-lounge-128-aac?1584330275852
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO RMA SALERNO - ITÁLIA
+http://167.86.86.4:8034/stream?1584330402413
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO SUNSET - CHILE
+http://167.114.219.240:8097/autodj?1584332481190
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO LOUNGE FM - UCRÂNIA
+http://cast.loungefm.com.ua/loungefm?1584332593312
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO MONTE CARLO - RÚSSIA
+http://78.140.251.2:8104/monte?1584336326437
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO C - ANGOLA
+http://node-19.zeno.fm/vmdfs29guqruv?1584336493920=&rj-tok=AAABcOHaXjQAKcXsFrEKaRqMig&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO CROOZE LOUNGE - BÉLGICA
+http://streams.crooze.fm:8008/stream128?1584336569838
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO LOUNGE FM ACOUSTIC - UCRÂNIA
+http://cast.loungefm.com.ua/acoustic128?1584337431778
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",RÁDIO MONTE CARLO 2 - RÚSSIA
+http://node-25.zeno.fm/4fx3k355puquv?rj-ttl=5&rj-tok=AAABcOHqXX8AWW5CqOJyBBnofQ
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-CHILL OUT & LOUNGE",VIBRATION ZEN RELAX - SUÍÇA
+http://vibration.stream2net.eu:8220/vibrationzenrelax-128.mp3?1584337633196
 
 ###################################################### ( RÁDIOS-GOSPEL & EVANGÉLICAS )
 
@@ -1822,6 +1847,78 @@ http://listen.radionomy.com/viva80
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-RETRO MUSIC",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-RETRO MUSIC",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-RETRO MUSIC",
+
+###################################################### ( REGGAE & REGGAETON )
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO VIBRA - ITÁLIA
+http://ice02.fluidstream.net/playstudio.mp3?1584338385535
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",ENERGY REGGAETON - ALEMANHA
+http://185.52.127.157/de/56219/mp3_128.mp3?1584338449658
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",1 FM REGGAETON CARIBBEAN POP RÁDIO - SUÍÇA
+http://strm112.1.fm/reggaeton_mobile_mp3?1584338531853
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO REGGAE 10 - MA
+https://s34.maxcast.com.br:8130/live?1584338679151
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO ROOTS REGGAE RASTA - MA
+http://streaming29.hstbr.net:8034/live?1584338788618
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO CIDADE - ES
+http://cast.midiaip.com.br:9770/stream?1584338918645
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",ALOHA WEB RÁDIO - RJ
+http://216.245.194.244:8156/live?1584338996153
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",AVMA MUSICAL FM - BA
+http://198.50.156.92:8091/;?1584339071319
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",GERAÇÃO REGGAE - SP
+http://stream.geracaoradios.com:8090/radio?1584339272278
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",LASER MUSIC REGGAE - RJ
+http://hts01.kshost.com.br:8276/stream?1584339347921
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",MCR FLORIANO - PI
+http://server02.ouvir.radio.br:8050/stream?1584339467545
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",POA SPORTS RÁDIO - RS
+https://s10.maxcast.com.br:8016/live?1584339555381
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",PORTAL ICÓ NEWS WEB RÁDIO - CE
+http://cloud1.cdnseguro.com:8498/;?1584339631683
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",PORTAL ROOTS REGGAE - MA
+http://svrstream4.svreua.com:8428/stream?1584339711411
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO 92 FM - AL
+http://stm10.xcast.com.br:7078/stream?1584339779293
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO AIRSOFT AO VIVO - SP
+http://node-07.zeno.fm/24uh9wf9xuquv?1584339897357=&rj-tok=AAABcOIOTZ8AVIy0aOoXNTOP_A&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO CONEXÃO REGGAE - AM
+http://s23.maxcast.com.br:8118/live?1584340004263
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO ESTAÇÃO MEGA LASER - PI
+http://stm11.xcast.com.br:11482/stream?1584340101366
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO ESTAÇÃO REGGAE - MA
+http://stm25.srvaudio.com.br:9834/stream?1584340190317
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO GOSPEL REGGAE - RJ
+http://server02.ouvir.radio.br:8070/stream?1584340323608
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO LNK - PB
+http://server02.ouvir.radio.br:8050/stream?1584340494373
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",
 
 ###################################################### (A)
 
