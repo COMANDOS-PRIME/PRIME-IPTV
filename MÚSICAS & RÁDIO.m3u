@@ -1913,12 +1913,112 @@ http://server02.ouvir.radio.br:8070/stream?1584340323608
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO LNK - PB
 http://server02.ouvir.radio.br:8050/stream?1584340494373
 
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO JAMAICA MARLEY WEB - PI
+http://node-01.zeno.fm/xmp0u8ws3bruv?1584401835763=&rj-tok=AAABcOW_diIAOphZWGoCIrNARA&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO JP WEB REGGAE - SP
+http://6d9a.webradio.upx.net.br:9972/stream?1584401919465
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO MARANHÃO REGGAE - MA
+http://stm21.srvaudio.com.br:10782/stream?1584402503476
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO NATAL WEB - RN
+http://server02.ouvir.radio.br:8060/stream?1584402786382
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO PLANETA REGGAE - SP
+http://hts04.painelstream.net:8316/stream?1584402923992
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO POINT DO REGGAE - BA
+https://cc5.streammaximum.com:2112/stream?1584402984668
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO RADIAÇÃO - MA
+http://s12.maxcast.com.br:8150/live?1584403057579
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO RASTA BRASIL - PI
+http://stm51.onlineradios.com.br:7092/stream?1584403126977
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO REGGAE - PI
+http://server02.ouvir.radio.br:8050/stream?1584403198747
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO REGGAE BRASIL - RJ
+http://suaradio2.dyndns.ws:10889/stream?1584403271469
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO REGGAE MIX - DF
+http://stm52.onlineradios.com.br:7140/stream?1584403358644
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO REGGAE PLAY - PI
+http://stm10.xcast.com.br:6796/stream?1584403433225
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO REGGAE RASTA - DF
+http://stm42.onlineradios.com.br:7068/;?1584406837591
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO REGGAE RECORDAÇÕES - DF
+http://node-23.zeno.fm/bgz750qxm8quv?1584406925646=&rj-tok=AAABcOYNJnIA3xlStxEIXEikiw&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO REGGAE TOTAL - MA
+http://audio1.cmaudioevideo.com:8426/stream?1584407053244
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO REGGAE.ORG - CE
+http://suaradio2.dyndns.ws:10690/stream?1584407123532
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",RÁDIO STUDIO SOUTO REGGAE - GO
+http://192.99.150.31:8715/stream?1584407257619
+
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-REGGAE & REGGAETON",
+
+###################################################### ( BREGA / TECNOBREGA & FORRÓ )
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",RÁDIO BACABAL - MA
+http://218.stm-ip.com:9684/;?1584407991112
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",RÁDIO CULTURA FM - PE
+http://209.126.127.123:8888/live?1584408333601
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",RÁDIO GRANDE RIO - PE
+http://shout35.crossradio.com.br:8058/stream?1584408458350
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",RÁDIO NOSSA FM - BA
+http://suaradio1.dyndns.ws:13403/stream?1584408546246
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",RÁDIO VALE FM - PI
+http://s2.webfrequencia.com.br:8080/vale?1584408710824
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",ALTAMIRA MUSIK - BA
+https://servidor27-4.brlogic.com:8630/live?1584408787104
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",AMIGO DA WEB RÁDIO - BA
+http://stm15.oficinadoradio.com.br:7618/stream?1584408877169
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",ARARUNA FM - MA
+http://10.stmip.net:9396/;?1584408940313
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",BREGA HITS - MG
+http://s1.svrdedicados.pw:7102/;?1584409157336
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",BREGA ROMÂNTICO - RJ
+http://server02.ouvir.radio.br:8060/stream?1584409221417
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",
+
+###################################################### ( )
 
 ###################################################### (A)
 
@@ -2313,62 +2413,6 @@ http://mcrscast.mcr.iol.pt/vodafone
 #EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
 ###################################################### (Z)
 #EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-
-###################################################### BREGA - TECNOBREGA ###########################################################
-###################################################### (#)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (A)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (B)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (C)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (D)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (E)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (F)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (G)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (H)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (I)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (J)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (K)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (L)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (M)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (N)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (O)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (P)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (Q)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (R)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (S)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (T)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (U)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (V)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (W)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (X)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (Y)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
-###################################################### (Z)
-#EXTINF: -1 tvg-logo="" group-title="BREGA - TECNOBREGA",
 
 ###################################################### BLUES - JAZZ ############################################################
 ###################################################### (A)
