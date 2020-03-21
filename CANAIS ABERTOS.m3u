@@ -1423,22 +1423,121 @@ https://d9ruw6nhj5a52.cloudfront.net/live/live/chunklist_w551424044.m3u8
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - CANADÁ",THE SHOPPING CHANNEL
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_2_av-b.m3u8?sd=10&rebase=on
 
-####################################################### ()
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
-####################################################### ()
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
-####################################################### ()
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
-####################################################### ()
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+####################################################### (CATAR)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - CATAR",AL JAZEERA ENGLISH
+https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - CATAR",AL JAZEERA DOC
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/appleman1434.m3u8
+
+####################################################### (CHILE)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - CHILE",CACHIPUM
+http://23.236.180.26/11580409776/live/chunklist_w224997579.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - CHILE",EL PINGUINO TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/chunklist_w674861882.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - CHILE",TELETRACK
+https://unlimited1-us.dps.live/sportinghd/sportinghd.smil/sportinghd/livestream1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - CHILE",TV SENADO CHILE
+http://janus-tv-ply.senado.cl/playlist/stream.m3u8?s=tvsenado-hd
+
+####################################################### (CHINA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - CHINA",CGTN DOCUMENTARY
+https://live.cgtn.com/1000d/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - CHINA",CCTV 13
+https://cctvakhwh5c-cntv.akamaized.net/live/cdrmcctv13_1/index.m3u8?BR=hd&region=beijing
+
+####################################################### (COLÔMBIA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COLÔMBIA",CALI TV
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w1262733692_tkd293emF0b2tlbmVuZHRpbWU9Jndvd3phdG9rZW5oYXNoPWxEZHZ5TFNtR1hQYThPbnNZOUFuUTBaNExHZzl4cXhBdGhGTkFmcHdWNGc9Jndvd3phdG9rZW5zdGFydHRpbWU9.m3u8?104.236.195.147
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COLÔMBIA",TELEPACÍFICO
+https://cdn.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b1200000.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COLÔMBIA",CANAL CAPITAL
+https://us-b4-p-e-cz3.cdn.mdstrm.com/live-stream/57d01d6c28b263eb73b59a5a/publish/media_500.m3u8?uid=BFF4HPNesfefZlSniwnB0lXprF4UogTc&sid=72mjGEdkZJmL68d6PCYtFP4MZnejFWNW&pid=f5RtZX1Klqhex0AloFNaiFSNEZerHnbd&ref=https%3A%2F%2Fwww.canalcapital.gov.co%2Fcontent%2Fcanal-capital-vivo&dnt=true&es=us-b4-p-e-cz3.cdn.mdstrm.com&ote=1584915885045&ot=GeDLO1Kl5oqhr2lz0zJ8WQ&proto=https&pz=us
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COLÔMBIA",TELEANTIOQUIA
+https://playback2.akamaized.net/streams/9427524_8926151_lsieiyl60hmyxam79mn_1/exp=1584916218~acl=%2f*~data=hdntl~hmac=b2ecfb7a894d819436e59f1fc5e8b9d003bbe75e79c1cfb2321bf4efb7ee78d3/media/9427524_8926151_lsieiyl60hmyxam79mn_1@2320000p.m3u8?dw=14400&ts=1584828000
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COLÔMBIA",TELE VID
+https://playback2.akamaized.net/streams/28238881_8574038_lsiiu5pdmcuktacue00_1/exp=1584916460~acl=%2f*~data=hdntl~hmac=6055ee85b38b7604cd6264efd9d96dcb7308b1621379c2b03b4859a44f61c56a/media/28238881_8574038_lsiiu5pdmcuktacue00_1@1756000p.m3u8?dw=14400&ts=1584828000
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COLÔMBIA",CANAL CNC MEDELLIN
+http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COLÔMBIA",TELEISLAS
+http://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w965641345.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COLÔMBIA",ZOOM TV
+https://stream-02.nyc.dailymotion.com/sec(_dzS961QBJLovBdWd5dVw1vrjGL38rWGC_2Q2KZWfV0)/dm/3/x7h3q6b/s/live-1.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COLÔMBIA",TVN GLOBAL
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/canaltvn.m3u8
+
+####################################################### (COSTA DO MARFIM)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COSTA DO MARFIM",RTI 1
+https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/chunklist_w1253885706_b650000_sleng.m3u8
+
+####################################################### (COSTA RICA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COSTA RICA",EXTREMA TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w834300153.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COSTA RICA",TELERED
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w931484095.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COSTA RICA",ENLACE TV
+https://playback2.akamaized.net/streams/2675843_1839332_lsi65fvhqyyfgqy0roh_1/exp=1584918134~acl=%2f*~data=hdntl~hmac=6888e2d72186bd9069246b16018517bb4dd5f34597b42b57559dd002e15300a4/media/2675843_1839332_lsi65fvhqyyfgqy0roh_1@678000p.m3u8?dw=14400&ts=1584831600
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COSTA RICA",TV REPRETEL 6
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg0OTE4MjQxLCJzZXNzaW9uIjoiMTYyLjI0My4yNDYuMTYwIiwid2hpdGVsaXN0IjpbIjE2Mi4yNDMuMjQ2LjE2MCJdfSwic2lnbmF0dXJlIjoiZjRkNTY3NTk5OThlNWU2MTk4MjE1YTFhYWJjZjJlZGUxNzEwMTQzYSJ9
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COSTA RICA",88 STEREO FM
+http://k3.usastreams.com/CableLatino/88stereo/chunklist_w1781513396.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COSTA RICA",TV REPRETEL 2
+https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg0OTE5MTQyLCJzZXNzaW9uIjoiMTYyLjI0My4yNDYuMTYwIiwid2hpdGVsaXN0IjpbIjE2Mi4yNDMuMjQ2LjE2MCJdfSwic2lnbmF0dXJlIjoiNTc2NDgwYTZmNjZkZDc5MTFmZTVjNzJjMDNjYzE4ODY3ZjM3N2M3YyJ9
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COSTA RICA",SINART CANAL 13
+https://playback2.akamaized.net/streams/1532727_8717137_lsi35ggm8tgcxailaz9_1/exp=1584919315~acl=%2f*~data=hdntl~hmac=2e872c6904e9be65b57a461bc99f27e3b2ff29a4a46f284d0b33eb4a07d04a8d/media/1532727_8717137_lsi35ggm8tgcxailaz9_1@2128000p.m3u8?dw=14400&ts=1584831600
+
+####################################################### (CUBA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - CUBA",MARTI TV
+http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-p.m3u8
 
 ####################################################### (D)
-
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 
 ####################################################### (E)
+####################################################### (EGITO)
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EGITO",TIME SPORTS EGYPT
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EGITO",ON SPORTS TV
+http://livecdnh2.tvanywhere.ae/hls/nile_sp/04.m3u8
+
+####################################################### (EL SALVADOR)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EL SALVADOR",TV X
+https://59dc4c699f574.streamlock.net/canal23/canal23/chunklist_w228350777.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EL SALVADOR",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EL SALVADOR",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EL SALVADOR",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EL SALVADOR",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EL SALVADOR",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EL SALVADOR",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EL SALVADOR",
 
 ####################################################### (F)
 
