@@ -12,7 +12,7 @@ https://ap.imagensbrasil.org/images/2019/10/17/DeU8w5_XUAEAkRf.jpg
 #EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/0170588226fb2dbc96.png"group-title="PUBLICIDADE - OFERTAS & PROMOÇÕES",MANDE SUA PROPAGANDA ( PARA LHE AJUDAR )
 https://ap.imagensbrasil.org/images/2019/12/04/Imagem-destacada-1.jpg
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/PIZZARIA-SOBEL.jpg"group-title="PUBLICIDADE - OFERTAS & PROMOÇÕES",PIZZARIA SOBEL ( GOSTOSO COMO UM BEIJO )
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/PIZZARIA-SOBEL.jpg"group-title="PUBLICIDADE - OFERTAS & PROMOÇÕES",PIZZARIA SOBEL ( GOSTOSO COMO UM BEIJO ) FAÇA SEU PEDIDO - RJ
 https://ia601509.us.archive.org/8/items/sobel_202003/SOBEL.ia.mp4
 
 ####################################################### ( CANAIS 24HS )
@@ -1366,7 +1366,6 @@ https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/Cp8E6bDKrTnEK-RLgNsV_Cy2B9D
 
 ####################################################### (B)
 ####################################################### (BÉLGICA)
-
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - BÉLGICA",NRJ HITS
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w249034990_b1974272.m3u8
 
@@ -1378,16 +1377,59 @@ https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/chunklist_w681568385.
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - BOLÍVIA",BOLIVIA TV
 http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w1879743680.m3u8
 
-####################################################### ()
+####################################################### (BÓSNIA E HERZEGÓVINA)
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
-####################################################### ()
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - BÓSNIA E HERZEGÓVINA",BN TV
+https://dns2.rtvbn.com:8080/live/index.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+####################################################### (BULGÁRIA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - BULGÁRIA",BULGARIA ON AIR
+http://edge15.cdn.bg:2006/fls/bonair.stream/chunklist_w1057226413.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - BULGÁRIA",TRAVEL TV
+http://31.13.223.104:1935/travel/travel.stream/chunklist_w685254739.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - BULGÁRIA",CITY TELEVISION
+https://tv.city.bg/play/tshls/citytv/3.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - BULGÁRIA",VIBEE TV
+https://abr.de1se01.v2beat.live/live/360p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - BULGÁRIA",TV1 CHANNEL
+https://tv1.cdn.netbadgers.com/bg060/bg061/bg061_hd1080.m3u8
 
 ####################################################### (C)
+####################################################### (CABO VERDE)
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - CABO VERDE",TCV
+https://streamer-b02.videos.sapo.pt/live/icwebtv/chunklist_w1332976437.m3u8
 
+####################################################### (CAMARÕES)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - CAMARÕES",VOX ÁFRICA
+http://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
+
+####################################################### (CANADÁ)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - CANADÁ",CPAC
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1//Assets_1572351842277/Layer3_master.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - CANADÁ",EWTN
+https://dyo5cp96eopax.cloudfront.net/p/CANE_1920x1080_4000k.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - CANADÁ",MIRACLE CHANNEL
+https://d9ruw6nhj5a52.cloudfront.net/live/live/chunklist_w551424044.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - CANADÁ",THE SHOPPING CHANNEL
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_2_av-b.m3u8?sd=10&rebase=on
+
+####################################################### ()
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+####################################################### ()
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+####################################################### ()
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+####################################################### ()
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 
 ####################################################### (D)
