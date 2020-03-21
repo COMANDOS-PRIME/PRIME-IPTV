@@ -1253,7 +1253,7 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?sd=1
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",DW ESPANHOL
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",DW ÁRABE
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",DW ARABIA
 https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",AUGSBURG TV
@@ -1262,18 +1262,124 @@ https://5dc0a45594721.streamlock.net/atv/ngrp:atv.stream_all/chunklist_w60568430
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",BR HD - BAYERISCHER RUNDFUNK
 https://br_hdslive-f.akamaihd.net/i/bfssued_worldwide@119891/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",DAS ERSTE
+https://mcdn.daserste.de/daserste/int/master_3744.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",BADEN TV
+https://cdn.icu.de/rtplive/smil:btv.smil/chunklist_w1261805908_b2224000_sldeu.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",RIC TV
+https://58b42f6c8c9bf.streamlock.net:8080/live/rictv/chunklist_w327361961.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",HEALTH TV
+http://62.67.13.53:1935/HealthTV/ghtv_live_master.stream/chunklist_w71075841.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",ALEX BERLIN
+https://alex-net-02.rosebud-media.de/bounce/alexlivetv30.smil/chunklist_b846000_slGER_t64MzYwcA==.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",SONUS FM
+http://www.sonus.fm:1935/public/stream_720p/chunklist_w733509067.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ALEMANHA",3ABN LATINO
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/HQs/chunklist.m3u8
+
+####################################################### (ANDORRA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ANDORRA",ANDORRA DIFUSIÓ
+https://videos.rtva.ad/live/web/chunklist_w1682662873.m3u8
+
+####################################################### (ANGOLA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ANGOLA",TPA INTERNACIONAL
+https://playback2.akamaized.net/streams/1181452_8865379_lsic3skzdh6ltejn38g_1/exp=1584820000~acl=%2f*~data=hdntl~hmac=674d5662bbbb77806c83045f72c4be4180fc93b49aa4b4d06338bd949793337f/segments/1181452_8865379_lsic3skzdh6ltejn38g_1@428000p/media-u7u3uf9x5_21995.ts?z=p
+
+####################################################### (ARÁBIA SAUDITA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ARÁBIA SAUDITA",DOHA QATAR CAM
+https://video2archives.earthcam.com/archives/_definst_/MP4:network/7947/2019/10/13/0800.mp4/chunklist_w369265136.m3u8
+
+####################################################### (ARGENTINA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ARGENTINA",CANAL 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w495961561_b2628000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ARGENTINA",EL TRECE
+https://stream-cdn.vaughnsoft.net/play/live_franktaylorlive.flv?s=IH0IDxfLIgPdCf3Ys1gT-w&e=1584740476
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ARGENTINA",GARAGE TV
+http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1489238825_b1296000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ARGENTINA",A24
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/2f040a32-4262-4066-9214-0cb6ef162208:MRN/variant/db2f75c921d1b46514a65a2d27b6691b/bandwidth/250000.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ARGENTINA",CANAL 9 (EL NUEVE)
+https://ar-elnueve-elnueve-live.ned.media/elnueve/smil:elnueve.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg0ODI3MDg5LCJzZXNzaW9uIjoiMTA0LjEzMS4xNzYuMjM0Iiwid2hpdGVsaXN0IjpbIjEwNC4xMzEuMTc2LjIzNCJdfSwic2lnbmF0dXJlIjoiZjQwYjE5ODliMGE5MjU5MjM4ZTljY2UyZDQ4ZjgyMjk3MGY5ZWNmNyJ9
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ARGENTINA",TELPIN TV
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w1628201226_b1344100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ARGENTINA",DIARIO 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w234446369_b2628000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ARGENTINA",CANAL 5 TELESOL
+https://cnnsanjuan.com/live/telesol/live/telesol_new2_720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ARGENTINA",TLX HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1506477227_b1828000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ARGENTINA",TV CINCO
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1187912229.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ARGENTINA",CANAL 9 SALTA
+http://panel.dattalive.com:1935/8250/8250/chunklist_w836342637.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ARGENTINA",CANAL 7 JUJUY
+https://59d52c5a5ce5e.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/chunklist_w342008454_b722944.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ARGENTINA",CANAL ORBE 21
+https://cdn2.zencast.tv:30443/orbe/orbe21smil/orbe/live_source/chunks.m3u8?nimblesessionid=89378261
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ARGENTINA",CANAL 5 TIGRE
+https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w2026108018.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ARGENTINA",TELEVISORA REGIONAL UNIMAR
+https://panel.dattalive.com/8012/8012/chunklist_w447309150.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ARGENTINA",POWER TV
+http://wowza.telpin.com.ar:1936/live-powerTV/power.stream/chunklist_w1133127643.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ARGENTINA",TV LA VOZ DEL DESIERTO
+https://cdnhd.iblups.com/hls/i4t1Brdq6W.m3u8
+
+####################################################### (ÁUSTRIA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ÁUSTRIA",KRONEHIT TV
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ÁUSTRIA",EXPO CHANNEL
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8
+
+####################################################### (AZERBAIDJÃO)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - AZERBAIDJÃO",MUZ TV AZERBAIJAN
+https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/Cp8E6bDKrTnEK-RLgNsV_Cy2B9D6OJtfA9GvYWPZPgXxpEu5l8JOWSBvIFrwHTV59rObJUxExBLsNd4xJp7PTnDVm9mPsjk0R0MAcTm_NppZuFBv0BndsTKl17gSl6uUaOW-tDzNbnjkwgy2OQ0FRI9CfxFDDiHpux09x5uQ0hqwiJSjOmVK6fOK8IoYKiFkfFGH_eT4LHR8p4X1GPjPN7rA8g6NPLLr_KHD37FHY-s0onV16Q2vpIxKx3bs3TA93NXBIXAzwzD8nuH7wm9NWTp8KCdH4Bryhw0nIKhKN-MYDXaVEdyWGiZ1DoxS813oYj_I4mf-1Z5pLb_eUYBN-jGhbU96X_nq6v6T8_w712xI67NPNwkygEv18kFkJh0W2JWBak21F0WF-9YWkXcA6ZqC1xk0tYdy5gWb7K89xCx4g2wxayCXAKCpSdyVia-5LZ_BsAJElJnzIKTKep5WYccDvt68T5Pz9qd-DQm5WBgT4zuNa2eBnC__pVjleQusHJf_E4eCgpGMCLBx2eOjQHGTDw5aKwNxcBqQhBqJJIUlmMZzQJxsAZHtc4QOkQO1mYEEWSrITd7BYklV6pxks6lXS8kB5vwVc3YNiI9lXzWSwG_dF-odX384HZYGbUQg8ozzv7gyxkpi2Pa8oCubObWGn4y6uiO2WUjFy0-ZRsSwmByRWl-oaQ6qKELmhP0NoTaKoWlIqvDK1oe2X-jvTGTzEhCSB40YQxMI8HGgj1UxYLI8GgwNlsbqNQcYL6WvkHM.m3u8
 
 ####################################################### (B)
+####################################################### (BÉLGICA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - BÉLGICA",NRJ HITS
+https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w249034990_b1974272.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - BÉLGICA",CANAL C
+https://594a365b4a1b2.streamlock.net/canalc/_definst_/live/chunklist_w681568385.m3u8
+
+####################################################### ()
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+####################################################### ()
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+####################################################### ()
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 
