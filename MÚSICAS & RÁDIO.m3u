@@ -83,6 +83,9 @@ http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w1359150011.m3u8
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/18/08.jpg" group-title="CANAIS DE CLIPES MUSICAIS",CALTEX MUSIC TV
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
 
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/21/24.png" group-title="CANAIS DE CLIPES MUSICAIS",CITY TELEVISION
+https://tv.city.bg/play/tshls/citytv/3.m3u8
+
 ###################################################### (D)
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/18/09.jpg" group-title="CANAIS DE CLIPES MUSICAIS",DJING TV
@@ -278,7 +281,10 @@ http://fms.105.net:1935/live/105Test1/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://retromusic.cz/wp-content/uploads/2017/08/retro-logo.png" group-title="CANAIS DE CLIPES MUSICAIS",RETRO TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w381000196_b750000.m3u8
 
-#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",RADIO JAVAN TV
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/21/27.png" group-title="CANAIS DE CLIPES MUSICAIS",RTI 1
+https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/chunklist_w1253885706_b650000_sleng.m3u8
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/21/16.jpg" group-title="CANAIS DE CLIPES MUSICAIS",RADIO JAVAN TV
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1636114189_b746000.m3u8
 
 ###################################################### (S)
@@ -321,6 +327,9 @@ https://unirtmp.tulix.tv/tintv/tintv/chunklist_w1759468974.m3u8
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",TAPESH
 http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/21/26.png" group-title="CANAIS DE CLIPES MUSICAIS",TVN GLOBAL
+http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/canaltvn.m3u8
+
 ###################################################### (U)
 ###################################################### (V)
 
@@ -333,15 +342,17 @@ https://hls.myvideocontent.ru/hls2/vivapolska/index.m3u8
 #EXTINF: -1 tvg-logo="https://img.radios.com.br/radio/xl/radio32453_1478179163.JPG" group-title="CANAIS DE CLIPES MUSICAIS",VERDES MARES
 http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/21/25.png" group-title="CANAIS DE CLIPES MUSICAIS",VIBEE TV
+https://abr.de1se01.v2beat.live/live/360p/chunks.m3u8
+
 ###################################################### (W)
 ###################################################### (X)
 ###################################################### (Y)
 
-#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",YUNA VISION
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/21/28.png" group-title="CANAIS DE CLIPES MUSICAIS",YUNA VISION
 http://ss1.domint.net:2300/yv_str/yuna/chunklist.m3u8
 
 ###################################################### (Z)
-#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",
 
 ################################################################ RÁDIOS ##############################################################
