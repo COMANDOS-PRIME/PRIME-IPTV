@@ -1543,11 +1543,127 @@ https://uvodscp-lh.akamaihd.net/i/mgvc19rtmp_1@460436/index_1000_av-p.m3u8
 https://rtmp.info/soltv/envivo/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EL SALVADOR",MEGAVISION CANAL 21
+https://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/index_1000_av-p.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EL SALVADOR",TELEVISION CATÓLICA
+http://infosal.ddns.net/tvca/live/chunklist_w158518091.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EL SALVADOR",MEGA NOTÍCIAS 19
 https://uvodscp-lh.akamaihd.net/i/mgvc19rtmp_1@460436/index_1000_av-p.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EL SALVADOR",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EL SALVADOR",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EL SALVADOR",ELIM TV - CANAL 27 MISIÓN CRISTIANA ELIM
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_150_av-p.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EL SALVADOR",EL CAMINO TV
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/chunklist_w1799377297.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EL SALVADOR",ORBITA TV
+https://5dcabf026b188.streamlock.net/orbitatv/livestream/chunklist_w571856656.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EL SALVADOR",AGAPE TV
+http://krakeniptv.com:47999/live/agape/Tq3zd3mzGS/5873.m3u8
+
+####################################################### (EMIRADOS ÁRABES UNIDOS)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EMIRADOS ÁRABES UNIDOS",TV DUBAI RACING
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EMIRADOS ÁRABES UNIDOS",DUBAI TV
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b4000000.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EMIRADOS ÁRABES UNIDOS",AD DRAMA TV
+http://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EMIRADOS ÁRABES UNIDOS",DUBAI ONE
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+
+####################################################### (EQUADOR)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EQUADOR",ECUADOR TV
+https://playback2.akamaized.net/streams/27228685_8710465_lsih7jh5h83myw48k4c_1/exp=1585537394~acl=%2f*~data=hdntl~hmac=e3026630bf2de84575f37c88bb3e7250dae24a9ca0ccdc59c820d32690224f1c/media/27228685_8710465_lsih7jh5h83myw48k4c_1@2128000p.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EQUADOR",TELESUR ENGLISH
+https://d7g1ebft2592.cloudfront.net/mblivev3/480p/chunklist_w597943983.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EQUADOR",ASOMAVISIÓN - CANAL DA VIDA
+https://dcunilive17-lh.akamaihd.net/i/dclive_1@585242/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1585538990~acl=%2fi%2fdclive_1%40585242*~data=hdntl~hmac=42decff5a16ea4a333350639cbf3e07c6d992b0f22241d34e81662f6ad905439
+
+####################################################### (ESLOVÁQUIA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESLOVÁQUIA",LUX TELEVISIA
+http://live.tvlux.sk:1935/lux/lux.stream_360p/chunklist.m3u8
+
+####################################################### (ESPANHA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-p.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",TVE 24H
+https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",LA 2
+https://rtvelivestream.akamaized.net/la2_dvr_4000.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",RTVE
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@117262/master.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",ANTENA 3
+https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",TELEMADRID
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",TVG - GALICIA TV AMÉRICA
+http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",TELECINCO
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",ARAGON TV
+https://streamer93.server.aranova.cloud/cls/live/aragontv_canal1/index.m3u8?vv=US&h=BSdqKEfxReZQJ1_Lqh9ZZA&e=31353835353431373337&r=4978
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",CANAL 324
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1296000.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",HISPAN TV
+https://live.hispantv.com/live/smil:live.smil/chunklist_w377888599_b644100_slen.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",CANAL EXTREMADURA
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/chunklist_b1500000_DVR.m3u8?test
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",13 TV
+https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",TV MELILLA
+https://tvmelilla-hls-rm-lw.flumotion.com/chunklist_b1088000.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",7 TV MURCIA
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",LANCELOT TELEVISIÓN
+http://62.210.141.18:1935/directo/lancelot.television/chunklist_w167309259.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",IBIZA GLOBAL TV
+https://ibgrtv.streaming-pro.com/hls/ibgrlive_240p.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",IBIZA GLOBAL RÁDIO
+https://listenssl.ibizaglobalradio.com:8024/stream
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",5TV
+http://live.gvstream.net:1935/e-tv-video/play.stream/chunklist_w1478312047.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",SAN ROQUE TV
+http://common01.todostreaming.es/live/sanroque-livestream.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",
+
+
+####################################################### ()
+####################################################### ()
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 ####################################################### (F)
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
