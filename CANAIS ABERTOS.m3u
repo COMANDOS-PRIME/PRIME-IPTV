@@ -1760,7 +1760,9 @@ https://dcs-live.apis.anvato.net/server/play/p0dr1kQiGl4gsyj1/rendition.m3u8?tra
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",TV CNB
 https://livefocamundo.com:8081/8184/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",ABC7 EYEWITNESS NEWS
+https://content-ause3.uplynk.com/channel/69246429f6744705ba4c31ee9787c478/g.m3u8?tc=1&exp=1585611823265&rn=1786496480&ct=c&oid=72750b711f704e4a94b5cfe6dc99f5e1&eid=WABCwatch&ad.flex=0&ad.kv=station%2Cwabc&platform=web&ad.tag=&ad.vast3=1&ad.v=2&ad.tfcd=0&ad.is_lat=0&ad.npa=0&ad.correlator=87641&ad=wabc_live&ad.adUnit=%2Fwabc%2Fabc7ny.com%2Fweb%2Flive-broadcast-news&ad.pp=otv-web-desktop&ad.vid=otv-503123&ad.description_url=https%3A%2F%2Fabc7ny.com%2Fwatch%2Flive%2F&ad.sz=640x480&ad.ppid=&accountID=72750b711f704e4a94b5cfe6dc99f5e1&externalID=WABCwatch&euid=_000_0_001_LF&ad.cust_params=accesslevel%3D0%26beacTyp%3Dssai%26isAuth%3D0%26aff%3Dwabc%26lang%3Den%26ait%3Dssai%26chan%3Dmisc%26objid%3D%26isAutoplay%3D1%26isDnt%3D0%26isMute%3D0%26pgtyp%3Dwatch%26vdm%3Dlive%26fb_token%3D%26plt%3Ddesktop%26stp%3Dvdms%26swid%3D%26dtci_yxbk%3D%26var%3D16x9%26vps%3D640x360%26noad%3D0%26refDomain%3Dhttps%253A%252F%252Fabc7ny.com%252Fwatch%252Flive%252F%26unid%3D&sig=3b7b6ac3ca4466aebff4e26f124f89857c4b595e52484e0efb00de65ee2bffb2&pbs=b9c4c9de6b954e0298e497b83475c085
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
 
