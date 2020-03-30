@@ -1655,12 +1655,118 @@ http://live.gvstream.net:1935/e-tv-video/play.stream/chunklist_w1478312047.m3u8
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",SAN ROQUE TV
 http://common01.todostreaming.es/live/sanroque-livestream.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",LEVANTE TV
+https://live-edge-lon-1.cdn.enetres.net/C2F6CBB67E5B4D08A16CE5FE67ABCEC9023/levante/index.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",LOGOS TV
+https://streamer1.streamhost.org/salive/logosH/chunklist_w168103485.m3u8
 
-####################################################### ()
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",TVN CANAL
+https://59c3c7bda15f4.streamlock.net:444/tvn/smil:tvn.smil/chunklist_w808056141_b2108000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",TV BARBASTRO
+https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",ONDA CÁDIZ
+https://playback2.akamaized.net/streams/22727797_7923562_lsiicsv1as2n2y1gfh8_1/exp=1585610729~acl=%2f*~data=hdntl~hmac=55c41eb3a3cf256715bf41e1103206e00bd0df97840ebcbcbd55d545442c7ea3/media/22727797_7923562_lsiicsv1as2n2y1gfh8_1@9128000p.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",BEMAD TV
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",SOLIDARIA TV
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",RTV VIDA
+https://vidartv.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",TBN ESPAÑA
+https://wowzaprod14-i.akamaihd.net/hls/live/554015/b38a5d96/b38a5d96_1_1843200/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",HIT TV
+http://www.hittv.es/hittv.mp4
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESPANHA",AFRO MUSIC CHANNEL
+http://afro-music.sapo.ao/bimages/images/videos_upload/videos/video127.mov
+
+####################################################### (ESTADOS UNIDOS)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",BLOOMBERG TV
+https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",CNN INTERNATIONAL
+https://1885446501.rsc.cdn77.org/ZENCqqzomptruqSwdlvEWA==,1585617239/LS-ATL-54548-16/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",ABC NEWS
+https://content-ause3.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be/g.m3u8?rays=hjigfedcba&ad.flex=15&ad.access_level=0&expand=drmOff&v=3&ad.adunit=/abc-news/abcnews.com/web/video&ad.vast3=1&ad.vid=$program_id&ad=abcnews_live&ad.pp=datg-live-vdms&ad.v=2&ad.is_lat=0&ad.npa=0&ad.tfcd=0&ad.description_url=https%3A%2F%2Fabcnews.go.com&ad.ppid=24AA977D763E4BD2CB79DBF33C66EFDD&ad.cust_params=chan%3Dabc%26beacTyp%3Dssai%26stp%3Dvdms%26ait%3Dssai%26vdm%3Dlive%26var%3D16x9%26accesslevel%3D0%26isAuth%3D0%26lang%3Den%26aff%3Dabc%26noad%3Dt%26swid%3D24AA977D-763E-4BD2-CB79-DBF33C66EFDD%26tag%3D%26objid%3Dabc_live11%26refDomain%3Dhttps%3A%2F%2Fabcnews.go.com%2FLive&pbs=375d27545ad047c3b8dac91a1fa6ca49
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",CBS NEWS
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/92ab4600-c09e-410c-941c-cae6cc93ce0d:MRN/variant/2aaf56a9716cc9a9f28658004cb0db29/bandwidth/3394688.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",MLB NETWORK
+http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20200327_1585316530924/3000K/3000_slide.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",NASA TV
+https://uhsakamai-a.akamaihd.net/wdc04/wdc04-uhs-omega01/live/6540154/1583475796383/plain/uhs/7/chunk_1583886606_4a2d026cb7.m4v
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",MSNBC NEWS
+https://1886592016.rsc.cdn77.org/dUkZPJoY37Jc-Tlr7By2Pg==,1585538395/LS-ATL-54548-15/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",CNBC
+https://1674331492.rsc.cdn77.org/MU8PCDcPHmtLcE3UKxYKnQ==,1585541422/LS-ATL-54548-14/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",IHOP - INTERNATIONAL HOUSE OF PRAYER
+https://storage.sardius.media/archives/-K6FGrVYzVr92SDZiDnc/events/site_0bDB39E74B/video_0.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",HOPE CHANNEL
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",FOX 35 ORLANDO
+https://dcs-live.apis.anvato.net/server/play/xADaLvVFzEBRFWrj/rendition.m3u8?track=video-2&anvsid=i177603517-n74ad7704-22e2-4b4d-96e0-d4a7ea7354cf&ts=1585533101&anvtrid=w3b45fac1a615311b8e430ad43049616
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",UNDERGROUND TV
+http://freeundergroundtv.com/Videos/TRSH/HardHunted.mp4
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",DJING - HOT HOT HOT
+https://www.djing.com/tv/h-01-fta.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",FOX 23 NEWS
+https://dcs-live.apis.anvato.net/server/play/n0MoZxkFQzxMI4Zj/2594000/prog.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",BONANZA
+http://edge-1282-ch-gv.filmon.com/live/2957.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe65f4c456ea30e0cd7af49cee0aab62825bc7c4eae6739024a4afde0f774c0171ffe2c5ffd55c2ce95a899ea5f65dc68d8c05551771bf80aa104f9edb9b98035f5be66c4bcab271eee6067415398305cc0e0e3492ada1ff7e95aa8ae11feaee1b09c5ef1c56f4e439d2eff96300537b8f2a8095638d75142bb17187ca8648a8c5bcc3f4d39e4e76c4e7835454a3bc590d
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",BBC NEWS
+https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8?id=0ad5aac39bb13fbecee0e9de22abece8480dbc7e4a45f6b7e50e8f9f7b89e962c2631aa2396c3db725eb009cf309f96e2f617942feb86249f4c7a18553809a70e8ab54c74e44bcbec5a89b6e604d91eafc9ff54da7adf050ddefc0b850f625173fe63f5b1a0f63b34f5fc8b69a49dd3424e1b2e5eebef97d3ed52ae088aa3942036e2e758d9c4931c95c995b2b8b71543a50dcc7729366ab
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",DRAMA
+https://edge-823-ch-gv.filmon.com/live/5944.low.stream/playlist.m3u8?id=0ad5aac39bb13fbebc42e2d1ee28dfea04771b9964fe09d2ad1eecdbea9f10c8ff1cc844b86602fbf6dbcec3c6ab005837a2694a2ac08ebeb83da93a364a6eb2b0ac106aac9e887f27ccfc5453c4ba32554e12a6cfa08a3fa9dd068018358de574a76425a13e64e039dc24c9d7e6aece43ea4ce9186b9f8e79b69ca69ab832001bb7ba69d519d8561d400a07336e2492b9fd9c8adf7a7bf7
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",REALLY TV
+https://edge-1192-ch-gv.filmon.com/live/2798.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeb2bdec93d099a1ed774c6bedfe366ccb79f27e9403c93a47040a9e383328d0c35a9d3fa1df7a2b4d1f35b4a5cb5c1c3a1bfafdb08b6f5c730caca8ee6e23096ea0f73f1f974a271adda9f6a4255c4c108ab5f51ea2750d2a53f17bfd4257a5e0a6e3dda1414766e94d919f0adc2e919acef900005076a4f1728e9e0fbae90b0a225ab06470a0ea62c19c1c7721ea5d5b
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",FORCES TV
+https://edge-1192-ch-gv.filmon.com/live/3386.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeed2ab12ac424b6ddac4443e3e1d8bcd447f26ef5726ac0db189e82d04a8871b292bc6cec25e4f42dbafa0136cdbb57f1e515a9210a2d39a137d91137051597658fdfe06e1e3b56ff3f25707d8fa3e2d073e90b7af8f93afda7077e0ed3e6bf62b4c5534c4c7df52b1e642c0e8e1d3ee31dd27683572854ffd1e64e5ed1381de3b36d72ac707a8fdb802c3d4cef2ea2e7
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",CHALLENGE TV
+https://edge-823-ch-gv.filmon.com/live/1036.low.stream/playlist.m3u8?id=0ad5aac39bb13fbea8b549a2a44c4117ecb344e024d8f199a08dd02dc0b5675a88f5f26170adccf89bfb62e81319e17af95f2f578d5112699e10967f1debc5fbb2017d60672a387a10083ce1151e0c4cde7a902d7c2931b32383c43aa1f5b16d7c4704f3b595c531896e4f3a1aaa6f9ee7be3be00735153c5b9adde3eeb81cbeed77448d3868bb9e8f79ce91a7e8013079d1579cbdc2b32c
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",CBSN LOS ANGELES
+https://dai.google.com/linear/hls/pa/event/TxSbNMu4R5anKrjV02VOBg/stream/0ef0f53c-1527-42a2-864c-ded2c0535e1a:CHS/variant/3b010955da464a7e8e3c4349ef80c469/bandwidth/3072960.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",KCAL9 - CBSN LOS ANGELES
+https://dai.google.com/linear/hls/pa/event/TxSbNMu4R5anKrjV02VOBg/stream/dc8bd1f9-2936-4f2d-b0e7-f7a2d4ffbfe7:MRN/variant/3b010955da464a7e8e3c4349ef80c469/bandwidth/3072960.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
+
 ####################################################### ()
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
