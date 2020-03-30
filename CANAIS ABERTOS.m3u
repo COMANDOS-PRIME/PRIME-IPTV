@@ -1748,10 +1748,18 @@ https://edge-1192-ch-gv.filmon.com/live/3386.low.stream/playlist.m3u8?id=0ad5aac
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",KCAL9 - CBSN LOS ANGELES
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",CATHOLIC TV
+http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",WFTV 9 - ABC
+https://svc-lv-cxtv-wftv.cmgvideo.com/out/u/WFTVN1_4.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",FOX 10 PHOENIX
+https://dcs-live.apis.anvato.net/server/play/p0dr1kQiGl4gsyj1/rendition.m3u8?track=video-2&anvsid=i177603438-n52a595da-2065-4478-b0f6-d9498c0630dc&ts=1585591878&anvtrid=w3b45fac1dffcd677bb748c192abb498
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",TV CNB
+https://livefocamundo.com:8081/8184/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
