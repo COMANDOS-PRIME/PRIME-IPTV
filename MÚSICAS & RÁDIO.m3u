@@ -7,6 +7,7 @@ https://ia601502.us.archive.org/25/items/08_20200327/08.mp4
 https://ia601505.us.archive.org/8/items/09_20200327/09.mp4
 ##################################################################################################################################
 ###################################################### PUBLICIDADE - OFERTAS & PRODUTOS
+
 #EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/0170588226fb2dbc96.png"group-title="PUBLICIDADE - OFERTAS & PROMOÇÕES",MANDE SUA PROPAGANDA GRÁTIS ( PARA LHE AJUDAR )
 https://ia601504.us.archive.org/16/items/03_20200326_202003/03.mp4
 
@@ -34,6 +35,9 @@ https://unirtmp.tulix.tv/tintv2/tintv2//chunklist_w2136651189.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",ANTENA 3
 https://livestartover.atresmedia.com/antena3/bitrate_4.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",AFRO MUSIC CHANNEL
+http://afro-music.sapo.ao/bimages/images/videos_upload/videos/video127.mov
 
 ###################################################### (B)
 
@@ -108,7 +112,7 @@ https://www.djing.com/tv/s-28957-03-summer-vibes.m3u8
 https://www.djing.com/tv/s-28957-03-hedonist.m3u8
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/18/10.jpg" group-title="CANAIS DE CLIPES MUSICAIS",DJING IBIZA
-http://www.djing.com/tv/ibiza.m3u8
+https://www.djing.com/tv/h-01-fta.m3u8
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/18/19.png" group-title="CANAIS DE CLIPES MUSICAIS",DJING DANCE
 https://www.djing.com/tv/d-29104-04.m3u8
