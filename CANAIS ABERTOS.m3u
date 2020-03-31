@@ -1763,6 +1763,30 @@ https://livefocamundo.com:8081/8184/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",ABC7 EYEWITNESS NEWS
 https://content-ause3.uplynk.com/channel/69246429f6744705ba4c31ee9787c478/g.m3u8?tc=1&exp=1585611823265&rn=1786496480&ct=c&oid=72750b711f704e4a94b5cfe6dc99f5e1&eid=WABCwatch&ad.flex=0&ad.kv=station%2Cwabc&platform=web&ad.tag=&ad.vast3=1&ad.v=2&ad.tfcd=0&ad.is_lat=0&ad.npa=0&ad.correlator=87641&ad=wabc_live&ad.adUnit=%2Fwabc%2Fabc7ny.com%2Fweb%2Flive-broadcast-news&ad.pp=otv-web-desktop&ad.vid=otv-503123&ad.description_url=https%3A%2F%2Fabc7ny.com%2Fwatch%2Flive%2F&ad.sz=640x480&ad.ppid=&accountID=72750b711f704e4a94b5cfe6dc99f5e1&externalID=WABCwatch&euid=_000_0_001_LF&ad.cust_params=accesslevel%3D0%26beacTyp%3Dssai%26isAuth%3D0%26aff%3Dwabc%26lang%3Den%26ait%3Dssai%26chan%3Dmisc%26objid%3D%26isAutoplay%3D1%26isDnt%3D0%26isMute%3D0%26pgtyp%3Dwatch%26vdm%3Dlive%26fb_token%3D%26plt%3Ddesktop%26stp%3Dvdms%26swid%3D%26dtci_yxbk%3D%26var%3D16x9%26vps%3D640x360%26noad%3D0%26refDomain%3Dhttps%253A%252F%252Fabc7ny.com%252Fwatch%252Flive%252F%26unid%3D&sig=3b7b6ac3ca4466aebff4e26f124f89857c4b595e52484e0efb00de65ee2bffb2&pbs=b9c4c9de6b954e0298e497b83475c085
 
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",ROBIN HOOD
+https://edge-1282-ch-gv.filmon.com/live/2972.low.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d3d6b1d229b7082cab36b2581fb0f8019f20167c79c0c21bc929302f9aab8c1385623c6729fddbf9c23d5c1eeb95a641c3a0338731699aeb968f59b29b48c1ceec1f69e38e78f11c58d4a2fca92b8a5091c199ebcddb3b3b04b815b6920f3acc894e5c453d10c8278d1eedddfe111d7a8bb42cbe4f8136ec06e7de34cfeb890938
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",WGN TV
+https://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_1200_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",FLASHBACK TV
+https://edge2.tikilive.com:8443/html5_tikilive/54822/amlst:mainstream/chunklist_w313998915_b2102228.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTU0ODIyJmNOYW1lPUZsYXNoYmFjayUyMFRWJm9JRD03NDU1NDYmb05hbWU9Rmxhc2hiYWNrVFYmc0lkPWtjbzM0MWwwcDhrajg1NGY3bXNuNWlpNXZzJnVJRD0wJnVOYW1lPUd1ZXN0ODI5OWU%3D&id=dIl_iOQw7G2sG35BCK_m
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",THE WEATHER CHANNEL
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",DJING IBIZA
+https://www.djing.com/tv/h-01-fta.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",CBN ESPAÑOL TV
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_2000_av-p.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",DAYSTAR
+https://playback2.akamaized.net/streams/28840462_8866639_lsiy5699l80nnji4754_1/exp=1585706742~acl=%2f*~data=hdntl~hmac=c84e9b5c260d9efcb43e4126e0e7e0c2b7a1a6d366431664565e6aa953f4ba0e/media/28840462_8866639_lsiy5699l80nnji4754_1@2756000p.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",247 RETRO TV
+http://hlsdpi-cdn-chqtx01.totalstream.net/dpilive/247retro/ret/dai/nimble-absolute-url-chunklist.m3u8?nimblesessionid=13013904&nimbleabsoluteurl=eUsdjm1pbYDfIQU7faSYgOWTK%2F%2F7kgIElpIUVFyb+JY88YUv+0AAwqNdgNL5Uc+deGJfZanzq3A7v70bWJE3rv3LqLyl51ExDTDRe9hbm6NcMDmeWS%2FvOK8F7ID86EwbX8otYpYk+TPeb8005svoOtc8vXMq7YshhR1WyhlAMeY=&nimbleurlhash=U8b6IGnYLXmLESYXE4pQWg==&nimbleurliv=fGsySPzKIUJcFvYCZ+MX%2Fg==
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
 
