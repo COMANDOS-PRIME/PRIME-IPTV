@@ -14,7 +14,7 @@ https://ia601504.us.archive.org/16/items/03_20200326_202003/03.mp4
 #EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/PIZZARIA-SOBEL.jpg"group-title="PUBLICIDADE - OFERTAS & PROMOÇÕES",PIZZARIA SOBEL ( GOSTOSO COMO UM BEIJO ) FAÇA SEU PEDIDO - RJ
 https://ia601509.us.archive.org/8/items/sobel_202003/SOBEL.ia.mp4
 
-####################################################### ( CANAIS 24HS )
+####################################################### ( CANAIS 24HS ) ################################################
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/Untitled-design-7.png" group-title="CANAIS 24HS",CINE 24HS
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
@@ -1224,7 +1224,7 @@ https://5c64355d4b57c.streamlock.net:1936/8298/8298/chunklist_w1326833672.m3u8
 #EXTINF:-1 tvg-logo="https://movie.ipb.org.br/uploads/ipbtv-1.jpg"group-title="CANAIS ABERTOS",IPB TV - SP
 https://player.internetaovivo.com:8443/live_ipbtv/ipbtv1/playlist.m3u8
 
-####################################################### ( CANAIS - INTERNACIONAIS )
+####################################################### ( CANAIS - INTERNACIONAIS ) ################################################
 
 ####################################################### (A)
 ####################################################### (ALBÂNIA)
@@ -1799,6 +1799,16 @@ http://hlsdpi-cdn-chqtx01.totalstream.net/dpilive/247retro/ret/dai/nimble-absolu
 
 ####################################################### (G)
 
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - GRÉCIA",ZOUGLA TV
+https://zouglacam-mdc-secure.akamaized.net/zouglastream/radio_backup9/chunks.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - GRÉCIA",SBC TV
+chrome-extension://emnphkkblegpebimobpbekeedfgemhof/player.html#https://server.tvdj.info:8222/atticatv/atticatv/chunklist_w1170370500.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - GUATEMALA",CANAL 27
+https://cdnvideo.webvideocore.net/enc4_lucniu4bef82ajsu7gk984ehnufd0ga6bmerak8ikgtiaduikv58fike17r66hu2llp2m3tn7enf4dqga33kk8k6m6h3qrtjjj28eti9r7tkplhhdvirlkobs244ep04r/index.m3u8?clip_id=35eqq0g0hk00
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 
 ####################################################### (H)
