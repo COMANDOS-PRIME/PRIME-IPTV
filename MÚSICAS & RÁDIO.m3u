@@ -98,6 +98,11 @@ https://tv.city.bg/play/tshls/citytv/3.m3u8
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",CANAL 33 MUSIC
 https://5d32e2b9b7eed.streamlock.net:4443/tv33sv/live/chunklist_w254648347.m3u8
 
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",CAMPUS TELEVISION
+http://st2.worldkast.com/8004/8004/chunklist_w97283398.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",
+
 ###################################################### (D)
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/18/09.jpg" group-title="CANAIS DE CLIPES MUSICAIS",DJING TV
@@ -180,12 +185,17 @@ https://ibgrtv.streaming-pro.com/hls/ibgrlive_240p.m3u8
 https://listenssl.ibizaglobalradio.com:8024/stream
 
 ###################################################### (J)
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",
 ###################################################### (K)
 
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",KRAL MUZIK
 https://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
 
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",KLIPKAR
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/400/prog_index.m3u8
+
 ###################################################### (L)
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",
 ###################################################### (M)
 
 #EXTINF: -1 tvg-logo="https://weddingsmashers.com/wp-content/uploads/2018/02/mtv-logo-color.jpg" group-title="CANAIS DE CLIPES MUSICAIS",MTV NORUEGA
@@ -374,6 +384,10 @@ https://abr.de1se01.v2beat.live/live/360p/chunks.m3u8
 http://ss1.domint.net:2300/yv_str/yuna/chunklist.m3u8
 
 ###################################################### (Z)
+
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",ZOUGLA TV
+https://zouglacam-mdc-secure.akamaized.net/zouglastream/radio_backup9/chunks.m3u8
+
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",
 
 ###################################################### CLASSIC MUSIC ###########################################################
