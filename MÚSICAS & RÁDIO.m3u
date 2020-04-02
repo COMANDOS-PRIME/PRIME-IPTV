@@ -2980,7 +2980,12 @@ http://mcrscast.mcr.iol.pt/vodafone
 #EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
 ###################################################### (K)
 #EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+
 ###################################################### (L)
+
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/-FlxM_0S2lA/maxresdefault.jpg" group-title="CHILLHOP - LOFI HIP HOP",lofi hip hop radio - beats to relax/study to ( TESTE )
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1585864960/ei/oAyGXrO4E9WGhwb1u56YDw/ip/104.131.66.8/id/5qap5aO4i9A.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIgcYVGm50ZNMbQIq5q8ljSFc3OrYeVUUpMLZ2lOqJ4G3kCIQCcnSzlRdRlZRO5we3ZtNIbgCJrPKnHeeRuChclg5yG9Q%3D%3D/file/index.m3u8
+
 #EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
 ###################################################### (M)
 #EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
