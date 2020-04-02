@@ -1798,12 +1798,14 @@ http://hlsdpi-cdn-chqtx01.totalstream.net/dpilive/247retro/ret/dai/nimble-absolu
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 
 ####################################################### (G)
-
+####################################################### (GRÉCIA)
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - GRÉCIA",ZOUGLA TV
 https://zouglacam-mdc-secure.akamaized.net/zouglastream/radio_backup9/chunks.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - GRÉCIA",SBC TV
 chrome-extension://emnphkkblegpebimobpbekeedfgemhof/player.html#https://server.tvdj.info:8222/atticatv/atticatv/chunklist_w1170370500.m3u8
+
+####################################################### (GUATEMALA)
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - GUATEMALA",CANAL 27
 https://cdnvideo.webvideocore.net/enc4_lucniu4bef82ajsu7gk984ehnufd0ga6bmerak8ikgtiaduikv58fike17r66hu2llp2m3tn7enf4dqga33kk8k6m6h3qrtjjj28eti9r7tkplhhdvirlkobs244ep04r/index.m3u8?clip_id=35eqq0g0hk00
