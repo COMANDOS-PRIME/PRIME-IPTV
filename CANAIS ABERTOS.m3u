@@ -1793,8 +1793,8 @@ http://hlsdpi-cdn-chqtx01.totalstream.net/dpilive/247retro/ret/dai/nimble-absolu
 ####################################################### ()
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
-####################################################### (F)
 
+####################################################### (F)
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 
 ####################################################### (G)
@@ -1810,8 +1810,8 @@ https://server.tvdj.info:8222/atticatv/atticatv/chunklist_w1108258865.m3u8
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - GUATEMALA",CANAL 27
 https://cdnvideo.webvideocore.net/enc4_lucniu4bef82ajsu7gk984ehnufd0ga6bmerak8ikgtiaduikv58fike17r66hu2llp2m3tn7enf4dqga33kk8k6m6h3qrtjjj28eti9r7tkplhhdvirlkobs244ep04r/index.m3u8?clip_id=35eqq0g0hk00
 
+####################################################### (H)
 ####################################################### (HOLANDA)
-
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HOLANDA",TV 538
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8
 
@@ -1826,16 +1826,45 @@ http://st2.worldkast.com/8004/8004/chunklist_w97283398.m3u8
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HONDURAS",DIOS TE VE
 http://amixtv.com:8080/diosteve/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HONDURAS",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HONDURAS",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HONDURAS",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HONDURAS",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HONDURAS",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HONDURAS",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HONDURAS",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HONDURAS",CCI CHANNEL
+https://5d597bfcee285.streamlock.net/cci/cci/chunklist_w1827834326.m3u8
 
-####################################################### (H)
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HONDURAS",SI TV
+http://st2.worldkast.com/8030/8030/chunklist_w940397358.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HONDURAS",CANAL 41
+https://cdn4.hostlagarto.com:8081/canal41/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HONDURAS",JEHOVA TV
+https://5790d294af2dc.streamlock.net/8224/8224/chunklist_w1588802468.m3u8
+
+####################################################### (HUNGRIA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HUNGRIA",TV ATV
+http://streamservers.atv.hu/atvliveedge/_definst_//atvstream_2_aac/chunklist_w456515108.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HUNGRIA",FIX TV
+http://fixhd.tv:8081/fix/hd.stream/chunks.m3u8?nimblesessionid=1982269
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HUNGRIA",M1 TV
+https://c201-node61-cdn.connectmedia.hu/1100/d3a37d4c9ba255ccbeb0ebae4c441fac/5e866ef1/03.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HUNGRIA",M2 TV
+https://c201-node62-cdn.connectmedia.hu/1101/c29a8b9942bcfb148b64b09966136251/5e867f62/03.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HUNGRIA",M4 TV
+https://c202-node61-cdn.connectmedia.hu/1104/08c6751e349b35fdcbc8658a075aa3be/5e868199/03.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HUNGRIA",M5 TV
+https://c202-node62-cdn.connectmedia.hu/1105/002fcc1bbc9670d8c11e81e33d6073bd/5e86812b/03.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HUNGRIA",DUNA TV
+https://c402-node62-cdn.connectmedia.hu/1102/92573d5224e42d668ea36a1143dfebd7/5e8681e9/02.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HUNGRIA",DUNA WORLD TV
+https://c401-node62-cdn.connectmedia.hu/1103/b2c55d1847caafc0ad30bcedf9bc0cc0/5e868233/03.m3u8
+
+####################################################### ()
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 
 ####################################################### (I)
