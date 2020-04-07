@@ -15,16 +15,14 @@ https://ia601504.us.archive.org/16/items/03_20200326_202003/03.mp4
 https://ia601509.us.archive.org/8/items/sobel_202003/SOBEL.ia.mp4
 
 ####################################################### ( CANAIS 24HS ) ################################################
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/4dyDxbST/P2BRAZ.jpg" group-title="CANAIS 24HS",TESTE IMG
-https://i.postimg.cc/4dyDxbST/P2BRAZ.jpg
 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/Untitled-design-7.png" group-title="CANAIS 24HS",CINE 24HS
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/gj9XSqMh/11.png" group-title="CANAIS 24HS",CINE 24HS
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/02.png" group-title="CANAIS 24HS",TOP FILMES
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Wb9vnpYm/02.png" group-title="CANAIS 24HS",TOP FILMES
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?LISTASDAGLAU
 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/Untitled-design-7.png" group-title="CANAIS 24HS",CINEMA 24HS
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/50XtL7VJ/12.png" group-title="CANAIS 24HS",CINEMA 24HS
 http://stream02.canal24horastv.com:1935/live/Canal24Horas/livestream.m3u8?LISTASDAGLAU
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS 24HS",SBT SD
@@ -1870,27 +1868,72 @@ https://c401-node62-cdn.connectmedia.hu/1103/b2c55d1847caafc0ad30bcedf9bc0cc0/5e
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 
 ####################################################### (I)
+####################################################### (IRÃ)
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - IRÃ",PRESS TV
+https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w1231189498_b644100_slen.m3u8
 
+####################################################### (IRAQUE)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - IRAQUE",RUDAW TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
+
+####################################################### ()
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 
 ####################################################### (J)
-
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+####################################################### (JAPÃO)
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - JAPÃO",NHK WORLD
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 
 ####################################################### (K)
-
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 
 ####################################################### (L)
+####################################################### (LÍBANO)
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - LÍBANO",SAT 7 KIDS
+https://unirtmp.tulix.tv/sat7kids/satkidslive-web.smil/chunklist_w683581114_b1000000.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - LÍBANO",FUTURE TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/playlist.m3u8
+
+####################################################### (LUXEMBURGO)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - LUXEMBURGO",RTL
+https://live-edge.rtl.lu/channel1/smil:channel1/chunklist_b1728000_slltz.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - LUXEMBURGO",LUX TV
+https://5a0b00d270652.streamlock.net/live/tvlux-live/chunklist_w1111332049.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - LUXEMBURGO",TV MCJ
+https://v5.ciclano.io:1443/tvmcj/_definst_/tvmcj/chunklist_w670006372.m3u8
 
 ####################################################### (M)
-
+####################################################### (M)
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 
-####################################################### (N)
+####################################################### (MOÇAMBIQUE)
 
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - MOÇAMBIQUE",TV SUCESSO
+https://dcunilive144-lh.akamaihd.net/i/dclive_1@1010155/index_150_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - MOÇAMBIQUE",TV MOÇAMBIQUE 1
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w1923364027_b714000_slpor.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - MOÇAMBIQUE",TV MOÇAMBIQUE 2
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/chunklist_w1870415906_b714000_slpor.m3u8
+
+####################################################### (MOLDÁVIA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - MOLDÁVIA",ACCENT TV
+http://video.a-tv.md/hls/accent.m3u8
+
+####################################################### (N)
+####################################################### (NEPAL)
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - NEPAL",KANTIPUR TV
+https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/chunks.m3u8
+
+####################################################### ()
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 
 ####################################################### (O)
