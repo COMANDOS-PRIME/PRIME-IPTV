@@ -16,9 +16,6 @@ https://ia601509.us.archive.org/8/items/sobel_202003/SOBEL.ia.mp4
 
 ####################################################### ( CANAIS 24HS ) ################################################
 
-#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/SLV1B5Lzy48/maxresdefault.jpg" group-title="CANAIS 24HS",[LIVE] Coronavirus Pandemic: Real Time Counter World Map News
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1586410279/ei/x16OXqKbI9a55gSax6eoBw/ip/186.221.170.6/id/SLV1B5Lzy48.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIhAKbiA6P9A9JRPtEtQLbhTE71nLYvAQxpikU7QmIj1uXhAiBmXvXpkSq4MUkIgelEwBg5dsj_LAX0-O1opRkpjV2Piw%3D%3D/file/index.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gj9XSqMh/11.png" group-title="CANAIS 24HS",CINE 24HS
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
 
@@ -1936,7 +1933,30 @@ http://video.a-tv.md/hls/accent.m3u8
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - NEPAL",KANTIPUR TV
 https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/chunks.m3u8
 
+####################################################### (NICARÁGUA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - NICARÁGUA",TELEVICENTRO - CANAL 2
+http://162.244.81.181:1935/live//Stream1/chunklist_w359569137.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - NICARÁGUA",VIVA NICARÁGUA
+https://59802217c6db4.streamlock.net/ch13/videoch13/chunklist_w464854143_DVR.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - NICARÁGUA",CANAL 2
+http://162.244.81.181:1935/live/Stream1/chunklist_w987137894.m3u8
+
+####################################################### (NIGÉRIA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - NIGÉRIA",EMMANUEL TV
+https://playback.akamaized.net/streams/23202872_7200883_lsif3zg8bcu67g99jsl_1/media/23202872_7200883_lsif3zg8bcu67g99jsl_1@4628000p.m3u8?dw=14400&ts=1586988000&hdnts=exp=1587162491~acl=/streams/23202872_7200883_lsif3zg8bcu67g99jsl_1/media*~hmac=329f486fa1a83c2b558f6c8dd66ddfd96a30c6621d8f85e4362c53bbbdadbe6c
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - NIGÉRIA",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - NIGÉRIA",
+
 ####################################################### ()
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+####################################################### ()
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 
 ####################################################### (O)
