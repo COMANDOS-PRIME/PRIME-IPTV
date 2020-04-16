@@ -1949,23 +1949,45 @@ http://162.244.81.181:1935/live/Stream1/chunklist_w987137894.m3u8
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - NIGÉRIA",EMMANUEL TV
 https://playback.akamaized.net/streams/23202872_7200883_lsif3zg8bcu67g99jsl_1/media/23202872_7200883_lsif3zg8bcu67g99jsl_1@4628000p.m3u8?dw=14400&ts=1586988000&hdnts=exp=1587162491~acl=/streams/23202872_7200883_lsif3zg8bcu67g99jsl_1/media*~hmac=329f486fa1a83c2b558f6c8dd66ddfd96a30c6621d8f85e4362c53bbbdadbe6c
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - NIGÉRIA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - NIGÉRIA",
-
-####################################################### ()
-
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
-####################################################### ()
-
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
-
 ####################################################### (O)
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 
 ####################################################### (P)
+####################################################### (PALESTINA)
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PALESTINA",AQSA TV
+https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w1909421086.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+####################################################### (PANAMÁ)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PANAMÁ",HOSANNA VISIÓN
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
+
+####################################################### (PAQUISTÃO)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PAQUISTÃO",GEO NEWS
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8
+
+####################################################### (PARAGUAI)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PARAGUAI",RPC RED PARAGUAYA DE COMUNICACION
+http://174.138.118.252/live/canal13stream_src.m3u8
+
+####################################################### (PERU)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",RETRO PLUS TV
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1692366484.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",
+
 
 ####################################################### (Q)
 
