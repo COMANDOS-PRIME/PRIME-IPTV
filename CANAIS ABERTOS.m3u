@@ -1978,16 +1978,81 @@ http://174.138.118.252/live/canal13stream_src.m3u8
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",RETRO PLUS TV
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1692366484.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",LATINA TV
+https://live-normal-internacional-hls.latina.pe/egress/bhandler/cialatina/live/chunklist_b1073152.m3u8?nva=1594843931&ttl=432000&ip=177.98.135.238&hash=0c8cc1f9c6ecff8c5817b
 
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",TV PANAMERICANA
+https://stream-01.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFuJpZdUQnH42d5vmb8iVQNI)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",ATV+
+https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg3MTU0ODg1LCJzZXNzaW9uIjoiMTA0LjEzMS42Ni44Iiwid2hpdGVsaXN0IjpbIjEwNC4xMzEuNjYuOCJdfSwic2lnbmF0dXJlIjoiNzRjMWViZDA2NGY5MzNjYjlmOGE0ZmZlZDgwNGUzNzc4YTQ4ZmEyYiJ9
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",VISION TV MÚSICA
+https://59d39900ebfb8.streamlock.net/8414/8414/chunklist_w1915363659.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",ANTARES TV
+http://173.192.105.252:1935/iptvantares/liveantarestv/chunklist_w332332672.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",QUATRO TELEVISION
+https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CpMEaVfpfS3EbvY8-celO8Q9bFpKp7jntiiWRvcn1jAzeW7VJlkdq3x0RqTgQETcPfuJ-HyM9yssKkXsS4_xdrmhAuCFCcFG4SbJSDbi9cIwDlsQLjs6tD5uz17AeEXAEMVu_UC5P7-wKUODm23WvSxq-nWwo4CtlekAZb4BaelItxor4ITYJReGX5-MnEqbco994JxA8Ulg3yXxNieZttuvybi5mpC2rq230EMN_ZYu_vUhrtaex5vDxNTNnQPUAqy83EFsEKOfFnUpGVq6neFoZU9I0FO7B7Vt5qbYrOdDnMx7lQsjbBHxljWA3i75JrTVcqpa9Wbqd1CYi-cSBu2QKb4fcaP6YJZ6XQkswf5dk8VBxK-1gXBicPQTx7JKCQoGbeO6aGSnuoa9m-wgFTULWN78N_eWzoUvPxg0Yk4XuI3nVRwDHObzXzFYOL0zZOHNmOe5wDzjPMSev3u2_foDhaY_m4DHU5-wQTEdKg-I_H8as5mDCLrqHf_QiSXggTtIpHgdbLNcZIYgJg-Yl6cv-UJvjHqhWME7VSsSaFUhiGNNHrJ7huuyvBXrUEF0WHbSSql940UYkuGi7p6aX1oKEt9y05VQsO_hkhS2PJRwIj0kciW723raNFc_461zLlQnsD3yJg_SWZgz_Lh4h-kfIyFyZqg0Oi_xPKpGWP0yNwPp3sUhUB223kQtrdAp_TO2JEQ8EhDUPrOF3uZMQotdPnJJ3bApGgyTG9aVq6b4AtsTOhk.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PERU",SOL TV
+http://wowzaserver.net:1935/vivo21/vivo21/chunklist_w2021550809.m3u8
+
+####################################################### (POLONIA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - POLONIA",4 FUN TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+
+####################################################### (PORTO RICO)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PORTO RICO",THE RETRO CHANNEL
+http://198.24.183.198:1936/theretrochannel/stream/chunklist_w622367275.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PORTO RICO",WIPR TV
+https://livestream-f.akamaihd.net/i/16550960_8600941_86553045_1@30481/index_2628_av-b.m3u8?sd=4&dw=14400&set-segment-duration=responsive&rebase=on&hdntl=exp=1587172138~acl=%2fi%2f16550960_8600941_86553045_1%4030481%2f*~data=hdntl~hmac=917f87c6c05df8150545304e80d58607e5cd5b3cca06ca9e36cf9c087251d534
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PORTO RICO",CDM INTERNACIONAL
+https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/chunklist_w171685323.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PORTO RICO",SALVACION TV
+https://www.eleden.com/livesalvatv/ngrp:livestream_all/chunklist_w401587933_b700000.m3u8
+
+####################################################### (PORTUGAL)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PORTUGAL",TVI 24
+https://video-auth5.iol.pt/live_tvi24/live_tvi24/live_tvi24/live_tvi24-3/chunks.m3u8?nimblesessionid=58475137&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDIwIDE6MjE6NTYgQU0maGFzaF92YWx1ZT1qS2JQMzBxc2VOSzNoTTI0Z1p4VmV3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MzNjMjYwYWEtNzVkNC00ZjhmLWJlYmMtYTA3NzAzMWNjNzM3
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PORTUGAL",RTP3
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/chunklist_b1290000_DVR_slpt.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PORTUGAL",PORTO CANAL
+https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w2140329641.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PORTUGAL",RTP INTERNACIONAL
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PORTUGAL",SOBRENATURAL TV
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/chunklist_w1507230661.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PORTUGAL",KURIAKOS KIDS
+http://c2.manasat.com:1935/kkids/kkids2/chunklist_w1838054314.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PORTUGAL",CANAL B
+https://59f2354c05961.streamlock.net:1443/canalb/_definst_/canalb/chunklist_w590108814.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PORTUGAL",RTP MADEIRA
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/chunklist_b640000_slpt.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PORTUGAL",AD ALMADA TV
+http://88.198.22.8:1935/adalmada_tv/ngrp:adalmada_tv_all/chunklist_w420005472_b479583.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PORTUGAL",ÁGUEDA TV
+http://www.agueda.tv:8080/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PORTUGAL",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PORTUGAL",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PORTUGAL",
 
 ####################################################### (Q)
 
