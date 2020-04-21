@@ -2182,21 +2182,121 @@ https://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",WORLD FASHION CHANNEL
 https://wfcint.mediacdn.ru/cdn/wfcint/playlist_hdhigh.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",EUROPA PLUS TV
+https://ad-hls-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/chunklist_b5128000.m3u8?md5=icrOcaC1pgL7ETe0rF7VQA&e=1588033819&hls_proxy_host=dtmf-01&zoid=web
 
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",RTR PLANETA
+https://a3569457223-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",LYUBIMOE TV
+http://live.planeta-online.tv:1935/public/smil:channel_6.smil/chunklist_w1106636698_b2628000_tkd3RlbmR0aW1lPTE1ODc1MTU5NjMmd3RoYXNoPTJtOXlxLS1hTkxfYlQ0M1NtQkJBaVU3N2thWXZ3Wm9IdmowYzhIanRrUE09.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",TV TUR
+http://live.planeta-online.tv:1935/public/smil:channel_2.smil/chunklist_w1899892229_b2628000_tkd3RlbmR0aW1lPTE1ODc1MTYzOTcmd3RoYXNoPXN5TjExV0lFRGVZenBWc19DMnpoZmNDRW44Q3c1WEk2OVpSWkZKNjAza0E9.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",PREMIERE TV
+http://live.planeta-online.tv:1935/public/smil:channel_5.smil/chunklist_w774487808_b858000_tkd3RlbmR0aW1lPTE1ODc1MTY1NzMmd3RoYXNoPTlyX2Q3R3dJRG5fQnZvR2IxaWE3LUNfWTVnVHRkT3Q5RTZqUWpvaVFKRVU9.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",FAVORITE TV
+http://live.planeta-online.tv:1935/public/smil:channel_6.smil/chunklist_w147122301_b2628000_tkd3RlbmR0aW1lPTE1ODc1MTY4MTQmd3RoYXNoPXNabmtOVkZRc2I5ZTJzaDVTQlVRTlppNXluZDN0OHJjRUc0UHg1MS1XS289.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",BEAUTY TV
+http://live.planeta-online.tv:1935/public/smil:channel_134.smil/chunklist_w139401017_b2628000_tkd3RlbmR0aW1lPTE1ODc1MTY5MTYmd3RoYXNoPXZSZXBhd0V2dnVyZS1zZUg5MTg1V0dERWt5ZDVVNEFJUDdwWEs0SGZBWDA9.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",TV DE MERGULHO
+http://live.planeta-online.tv:1935/public/smil:channel_130.smil/chunklist_w984324326_b2628000_tkd3RlbmR0aW1lPTE1ODc1MTcxNjMmd3RoYXNoPWo5Z2c5dTNBUlI2ZndsT1FKdFg3V080RVdfQzdXb0g5MFMzcV95Y253RUU9.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",RELAX TV
+http://live.planeta-online.tv:1935/public/smil:channel_3.smil/chunklist_w567375341_b858000_tkd3RlbmR0aW1lPTE1ODc1MTcyNjgmd3RoYXNoPWI2cHhtRlJhMnFvMm41MjlTbElGa3JMTUhWakVyMjhmbnI4b3RTMGlmTGs9.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",RADIO FRESH
+http://live.planeta-online.tv:1935/public/channel_13/chunklist_w1322861505_tkd3RlbmR0aW1lPTE1ODc1MTczMzcmd3RoYXNoPTdpb25Hbkg2TmVoZjh1eXNNWS04OG5kRExJVTJwakFBWGVFT190NFBQeU09.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",TV SABOROSA
+http://live.planeta-online.tv:1935/public/smil:channel_133.smil/chunklist_w425709836_b2628000_tkd3RlbmR0aW1lPTE1ODc1MTc1MDAmd3RoYXNoPW1qZEM5ZFNUSUlaTjBncXBLZXJhanlNSV9ObVhEVFljUXdrV2s2bjgyVE09.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",HITV
+https://rosshow.gcdn.co/streams/1410_287/1080n/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",43 KANAL
+http://sochinskayatrk.ru/hdtv/hls/strk_400/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",MUSIC BOX
+https://ext-strm-telia06.strm.yandex.net/kal/musicboxgold/musicboxgold0_169_240p.json/init-a1.mp4?start_chunk_ts=1587416400&adsid=d550d2bad4a5cba29f176a1513d7dfafa24c35734c71xWEBx3934x1587432889&gzip=1&imp_id=1&partner_id=412270&target_ref=https%3A%2F%2Fyastatic.net%2Fyandex-video-player-iframe-api%2Fjs%2Fvideo-player-iframe-api-loader.js&uuid=48d7dcd5cdf46c849c0ff99bcfefb7e9&lid=1501&vsid=3fa89b041ce9476067b009a72452be8f0ca4c1099503xWEBx3934x1587432889
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",O2 TV
+https://live601.vkuserlive.com/629725/kiveabr/0/49PkUzWEdlS2tjcDN1Oz0yNTE7ODAyeTM/1080p/chunks.m3u8?extra=-pel1kDnKjG-hRBFbtuLi33M6Uj3kIGinINVJjTl0_FuKC7kmFZcchBsDXmi19iO0iWMvhqgBYKX8DVWBGxU_bqwohQTpnN0bYnHSK_JIURz-qCx4o4KK-rnR7iR9_yvrDUK_s-W21f7EWEz
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",3ABN RUSSIA
+https://moiptvhls-i.akamaihd.net/hls/live/652316/secure/HQs/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",RT UK
+https://rt-uk-gd.secure2.footprint.net/1106_2500Kb.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - RÚSSIA",1HD MUSIC TELEVISION
+https://ext-strm-telia01.strm.yandex.net/kal/1hd/1hd0_169_240p.json/init-a1.mp4?start_chunk_ts=1587432600&adsid=5b6b51b2a36c9d98457c096ce7a7a27b4f078e34633cxWEBx3931x1587433602&gzip=1&imp_id=1&partner_id=256039&target_ref=https%3A%2F%2Fyastatic.net%2Fyandex-video-player-iframe-api%2Fjs%2Fvideo-player-iframe-api-loader.js&uuid=4e9e72b6a83b45dbac31e85e2dfe7eaa&lid=1501&vsid=8702a21fb2ca884bca63f7aeab5fdc618165357c1c21xWEBx3931x1587433601
 
 ####################################################### (S)
+####################################################### (SUÍÇA)
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - SUÍÇA",TELEBARN
+https://klive.kaltura.com/s/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/6000/t/TREcJqwL0O6xaJkbvg7F5w/index-s32.m3u8?__hdnea__=st=1587434292~exp=1587520692~acl=/s/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/6000/t/TREcJqwL0O6xaJkbvg7F5w/index-s32.m3u8*~hmac=c34c1cfe88fabc4920e5a36c97e2bc1a6151fd082f9860826297d4d491c79a77
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - SUÍÇA",ROUGE TV
+https://event.vedge.infomaniak.com/livecast/event.stream/chunklist_w103627019.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - SUÍÇA",LA TÉLÉ
+https://edge7.vedge.infomaniak.com/livecast/latele2/chunklist_w2018186803.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - SUÍÇA",LFM TV
+https://edge8.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w846223479_b1600000.m3u8
 
 ####################################################### (T)
+####################################################### (TURQUIA)
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",TV8
+https://tv8-tb-live.ercdn.net/tv8-geo/tv8int_480p.m3u8?e=1587486010&st=eZLnoVxxd4jrU4elQSgo2w
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",STAR TV
+https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",TRT 1 HD
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",SHOW TV
+https://ciner-live.ercdn.net/showtv-aes/showtv-aes_480p.m3u8?e=1587445267&st=yf98i-N6BEDE784ucxjP6w&tv=1
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",TRT ÇOCUK
+https://tv-trtcocuk.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",TRT MUZIK
+https://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",TRT 2 
+https://tv-trt2-ts.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",TRT WORLD
+https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",TRT HABER
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",TRT AVAZ
+https://tv-trtavaz.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",TRT ARABIC
+https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",TRT TURK
+https://tv-trtturk.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",TRT KURDI
+https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",
 
 ####################################################### (U)
 
