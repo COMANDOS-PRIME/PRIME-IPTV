@@ -1365,6 +1365,7 @@ https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/Cp8E6bDKrTnEK-RLgNsV_Cy2B9D
 
 ####################################################### (B)
 ####################################################### (BÉLGICA)
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - BÉLGICA",NRJ HITS
 https://5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w249034990_b1974272.m3u8
 
@@ -1400,6 +1401,7 @@ https://tv1.cdn.netbadgers.com/bg060/bg061/bg061_hd1080.m3u8
 
 ####################################################### (C)
 ####################################################### (CABO VERDE)
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - CABO VERDE",TCV
 https://streamer-b02.videos.sapo.pt/live/icwebtv/chunklist_w1332976437.m3u8
 
@@ -1519,6 +1521,7 @@ http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/index_0540_av-p.m3u8
 
 ####################################################### (E)
 ####################################################### (EGITO)
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - EGITO",TIME SPORTS EGYPT
 http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
@@ -1696,29 +1699,17 @@ https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",CNN INTERNATIONAL
 https://1885446501.rsc.cdn77.org/ZENCqqzomptruqSwdlvEWA==,1585617239/LS-ATL-54548-16/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",ABC NEWS
-
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",CBS NEWS
-
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",MLB NETWORK
 http://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/MLBN_FAUX_LINEAR_STREAM_1_MLBN_Linear_Stream_Friday_20200327_1585316530924/3000K/3000_slide.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",NASA TV
-
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",MSNBC NEWS
-
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",CNBC
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",IHOP - INTERNATIONAL HOUSE OF PRAYER
 https://storage.sardius.media/archives/-K6FGrVYzVr92SDZiDnc/events/site_0bDB39E74B/video_0.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",HOPE CHANNEL
 https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannel_1@571270/index_3192_av-p.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",FOX 35 ORLANDO
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",UNDERGROUND TV
 http://freeundergroundtv.com/Videos/TRSH/HardHunted.mp4
@@ -1729,24 +1720,14 @@ https://www.djing.com/tv/h-01-fta.m3u8
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",FOX 23 NEWS
 https://dcs-live.apis.anvato.net/server/play/n0MoZxkFQzxMI4Zj/2594000/prog.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",BONANZA
-
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",BBC NEWS
 https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8?id=0ad5aac39bb13fbecee0e9de22abece8480dbc7e4a45f6b7e50e8f9f7b89e962c2631aa2396c3db725eb009cf309f96e2f617942feb86249f4c7a18553809a70e8ab54c74e44bcbec5a89b6e604d91eafc9ff54da7adf050ddefc0b850f625173fe63f5b1a0f63b34f5fc8b69a49dd3424e1b2e5eebef97d3ed52ae088aa3942036e2e758d9c4931c95c995b2b8b71543a50dcc7729366ab
-
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",DRAMA
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",REALLY TV
 https://edge-1192-ch-gv.filmon.com/live/2798.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeb2bdec93d099a1ed774c6bedfe366ccb79f27e9403c93a47040a9e383328d0c35a9d3fa1df7a2b4d1f35b4a5cb5c1c3a1bfafdb08b6f5c730caca8ee6e23096ea0f73f1f974a271adda9f6a4255c4c108ab5f51ea2750d2a53f17bfd4257a5e0a6e3dda1414766e94d919f0adc2e919acef900005076a4f1728e9e0fbae90b0a225ab06470a0ea62c19c1c7721ea5d5b
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",FORCES TV
 https://edge-1192-ch-gv.filmon.com/live/3386.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeed2ab12ac424b6ddac4443e3e1d8bcd447f26ef5726ac0db189e82d04a8871b292bc6cec25e4f42dbafa0136cdbb57f1e515a9210a2d39a137d91137051597658fdfe06e1e3b56ff3f25707d8fa3e2d073e90b7af8f93afda7077e0ed3e6bf62b4c5534c4c7df52b1e642c0e8e1d3ee31dd27683572854ffd1e64e5ed1381de3b36d72ac707a8fdb802c3d4cef2ea2e7
-
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",CHALLENGE TV
-
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",CBSN LOS ANGELES
-
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",KCAL9 - CBSN LOS ANGELES
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",CATHOLIC TV
 http://catholictvhd-lh.akamaihd.net/i/ctvhd_1@88148/index_1_av-p.m3u8?sd=10&rebase=on
@@ -1787,6 +1768,26 @@ https://playback2.akamaized.net/streams/28840462_8866639_lsiy5699l80nnji4754_1/e
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",247 RETRO TV
 http://hlsdpi-cdn-chqtx01.totalstream.net/dpilive/247retro/ret/dai/nimble-absolute-url-chunklist.m3u8?nimblesessionid=13013904&nimbleabsoluteurl=eUsdjm1pbYDfIQU7faSYgOWTK%2F%2F7kgIElpIUVFyb+JY88YUv+0AAwqNdgNL5Uc+deGJfZanzq3A7v70bWJE3rv3LqLyl51ExDTDRe9hbm6NcMDmeWS%2FvOK8F7ID86EwbX8otYpYk+TPeb8005svoOtc8vXMq7YshhR1WyhlAMeY=&nimbleurlhash=U8b6IGnYLXmLESYXE4pQWg==&nimbleurliv=fGsySPzKIUJcFvYCZ+MX%2Fg==
 
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",HURRICANE DORIAN
+http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/564k/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",THE WEATHER CHANNEL
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",WFLA NEWS CHANNEL 8
+https://dcs-live.apis.anvato.net/server/play/direct/01pyagB3lV8hE83niwhw21ExLVYX9wG4/wfla@anvato-gcdn-vvrvdetwwci3iabvqpopkf67bb-us/rendition.m3u8?track=video-2&anvsid=i177602634-n40f88afc-a8df-4213-a6a3-506a807cec6d&ts=1587525276&anvtrid=w3b45fac818196a6192b78ca436f3e95
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",CBN ESPANOL TV
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_2000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",UNCION TV
+https://5c21f7ec1999d.streamlock.net/8040/8040/chunklist_w1722478180.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",FLORIPA TV
+https://videos-fms.jwpsrv.com/content/conversions/WaFRuzY2/videos/t5SX9Xbb-31802950.mp4.m3u8?token=0_5e9fe257_0xcf52e356300abe29841916d954873b7115f40a8e
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
 
@@ -1799,6 +1800,7 @@ http://hlsdpi-cdn-chqtx01.totalstream.net/dpilive/247retro/ret/dai/nimble-absolu
 
 ####################################################### (G)
 ####################################################### (GRÉCIA)
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - GRÉCIA",ZOUGLA TV
 https://zouglacam-mdc-secure.akamaized.net/zouglastream/radio_backup9/chunks.m3u8
 
@@ -1812,6 +1814,7 @@ https://cdnvideo.webvideocore.net/enc4_lucniu4bef82ajsu7gk984ehnufd0ga6bmerak8ik
 
 ####################################################### (H)
 ####################################################### (HOLANDA)
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - HOLANDA",TV 538
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q1.m3u8
 
@@ -1869,6 +1872,7 @@ https://c401-node62-cdn.connectmedia.hu/1103/b2c55d1847caafc0ad30bcedf9bc0cc0/5e
 
 ####################################################### (I)
 ####################################################### (IRÃ)
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - IRÃ",PRESS TV
 https://live2.presstv.com/liveprs/smil:liveprs.smil/chunklist_w1231189498_b644100_slen.m3u8
 
@@ -1883,6 +1887,7 @@ https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
 
 ####################################################### (J)
 ####################################################### (JAPÃO)
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - JAPÃO",NHK WORLD
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 
@@ -1891,6 +1896,7 @@ https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
 
 ####################################################### (L)
 ####################################################### (LÍBANO)
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - LÍBANO",SAT 7 KIDS
 https://unirtmp.tulix.tv/sat7kids/satkidslive-web.smil/chunklist_w683581114_b1000000.m3u8
 
@@ -1930,6 +1936,7 @@ http://video.a-tv.md/hls/accent.m3u8
 
 ####################################################### (N)
 ####################################################### (NEPAL)
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - NEPAL",KANTIPUR TV
 https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/chunks.m3u8
 
@@ -1955,6 +1962,7 @@ https://playback.akamaized.net/streams/23202872_7200883_lsif3zg8bcu67g99jsl_1/me
 
 ####################################################### (P)
 ####################################################### (PALESTINA)
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - PALESTINA",AQSA TV
 https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w1909421086.m3u8
 
@@ -2076,6 +2084,7 @@ https://streaming-live.rtp.pt/liveradio/antena280a/chunklist_DVR.m3u8
 
 ####################################################### (Q)
 ####################################################### (QUÊNIA)
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - QUÊNIA",CITIZEN TV
 https://vidcdn.vidgyor.com/citizentv-origin/liveabr/citizentv-origin/live1/chunks.m3u8
 
@@ -2084,6 +2093,7 @@ http://197.232.56.13:1935/live/_definst_/kasstv/chunklist_w1736237324.m3u8
 
 ####################################################### (R)
 ####################################################### (REINO UNIDO)
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - REINO UNIDO",IDEAL WORLD TV
 https://live-isd.simplestreamcdn.com/idealworld/3/prog_index.m3u8
 
@@ -2238,6 +2248,7 @@ https://ext-strm-telia01.strm.yandex.net/kal/1hd/1hd0_169_240p.json/init-a1.mp4?
 
 ####################################################### (S)
 ####################################################### (SUÍÇA)
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - SUÍÇA",TELEBARN
 https://klive.kaltura.com/s/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/6000/t/TREcJqwL0O6xaJkbvg7F5w/index-s32.m3u8?__hdnea__=st=1587434292~exp=1587520692~acl=/s/dc-1/live/hls/p/1719221/e/1_0mc3z57p/sd/6000/t/TREcJqwL0O6xaJkbvg7F5w/index-s32.m3u8*~hmac=c34c1cfe88fabc4920e5a36c97e2bc1a6151fd082f9860826297d4d491c79a77
 
@@ -2252,6 +2263,7 @@ https://edge8.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w846223479
 
 ####################################################### (T)
 ####################################################### (TURQUIA)
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",TV8
 https://tv8-tb-live.ercdn.net/tv8-geo/tv8int_480p.m3u8?e=1587486010&st=eZLnoVxxd4jrU4elQSgo2w
 
@@ -2303,31 +2315,72 @@ http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",TRT OKUL
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",POWER TV
+https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",TEVE 2
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",FANATIK TV
+https://mn-nl.mncdn.com/fanatik_livestream/smil:fanatik.smil/chunklist_b564000.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",TRT DIYANET
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",TMB TV
+https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CqYEWsMGpM2iGeZWEYqlwBO5Wuc5csO_87E5iA5mmG6ch-BBXcdXW1M0QryAxeg8QC3KydOtH6qXmwkAIxWc18kjiTfjj3VrbbBi419WtVFLt3vrooNTrjbJWiIxn6THJxBCoYGxCAhQCubNpHh_JMuyvxijGsG1HoZ-45XUTAeeFkPQG23ZUsH0Z4oK7M8J4hvuxNc7Ajtm4I06d1VbcyM61gmowogeqiRlqW0FUpNe3AyssdQz3xIS4YOLW3qxIDZtTVK2WcS9Jb8lZ-bgtfmeZAqGSMaJn9HWHbj97sZCTwcFmwUjtsr6aUIe5vAiy5o3mMLuZuFVo6IXBk9FCgDtICTOGHcD6zAmqef2oipqxLtV9a16hZK92YY2pIBqcw91ro1m4HWqBO1NG4gJxQECn5oj3qdAxqVMOCHlI8G_bFypMzY840Vj65SVsavMmW7fkS0nTklwxe0cwtNjIJ1UKIErv2auH4uNQVFfVQi6baZPDIHmEVNQrc1-za9_exiH3O4L6RfgxESajo15re5jfcJDh7VPdStBJV5QM21dAxgLG0xJcryLV4MLQXhdKoUKLak-oKHlNhZckfeOr4s3gcTx54owCtfHTE9eyfT4jiYed_NKOHlxlihMjJDbbMP79forkp-bdcEF1lZwm7eliCntwjOr31ML7vS6Ph8hLk0RsAyscL7KYFfzy06EQJXdulTTo0TPd_NkGFDRTqjXswlVZ-CryxIQEHjcLlzBxR52yE3R208yKRoMQf2vBin333s7gwrl.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",TRT 3 - TBMM TV
+http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/index_1200_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",TRT NEWS HD
+https://tv-trthaber.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - TURQUIA",CINE 5 TV
+http://win1.yayin.com.tr/cine5/cine5/chunklist_w1245499638.m3u8
 
 ####################################################### (U)
+####################################################### (UCRÂNIA)
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - UCRÂNIA",MUSIC BOX UA
+https://musicbox-hls5.cosmonova.net.ua/hls/musicbox_ua_low/index.m3u8?_=1587521919
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - UCRÂNIA",24 TV
+https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b5160000.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - UCRÂNIA",HOPE TV
+https://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelUkraine_1@432955/index_2000_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - UCRÂNIA",UA TV
+https://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - UCRÂNIA",FOOTBALL 2 HD
+http://s2.edem.tv/iptv/K76G52BQ47C64L/530/index.m3u8
+
+####################################################### (URUGUAI)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - URUGUAI",TNU
+https://livedelta.cdn.antel.net.uy/out,vxttoken=cGF0aFVSST0lMkZvdXQlMkZ1JTJGYXV0aF9saXZlc2lnbmFsXzgzNSUyRmhscyUyRiUyQSZleHBpcnk9MTU4NzU0NDQ0MyZyYW5kb209aHdoSzU1NmtDdyZjLWlwPTE4Ni4yMjEuMTcwLjYsZmZkN2Y1ZDY5ZmY5YzI2YTlhMzI3ZmQ2YmZkMGNkNDAzYzgyYWViYjE4Y2NhNjFmNDBiOGUyMTJjZDFjOGYxZA==/u/auth_livesignal_835/hls/auth_livesignal_835_HLSDEF6278_3.m3u8?m=1576532279
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - URUGUAI",MISION VIDA TV
+https://59825a54e4454.streamlock.net:8443/jorge854/jorge854/chunklist_w1384944987.m3u8
 
 ####################################################### (V)
+####################################################### (VENEZUELA)
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - VENEZUELA",TV TELESUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - VENEZUELA",PROMAR TV
+http://vcp1.myplaytv.com/promar/promar/chunklist_w450696455.m3u8
 
 ####################################################### (W)
-
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
-
 ####################################################### (X)
-
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
-
 ####################################################### (Y)
-
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
-
 ####################################################### (Z)
-
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 
 
