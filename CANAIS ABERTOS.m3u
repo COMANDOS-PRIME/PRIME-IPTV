@@ -1883,17 +1883,51 @@ https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawtv_chunks.m3u8
 
 ####################################################### (ITÁLIA)
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",RAI MOVIE
+https://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-p.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",RAI NEWS 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",HISTORY LAB
+https://5929b138b139d.streamlock.net/HistoryLab/livestream/chunklist_w650924703.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",TELE PADRE PIO
+https://5698c1463445c.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1054428837_b227000_slita.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",TELE PAVIA
+https://59d8c0cee6f3d.streamlock.net/telepavia/telepavia/chunklist_w1781214790.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",NAPOLI CANALE 21
+http://live.sloode.com:1935/canale21/live/chunklist_w1293795163.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",RÁDIO CAPITAL TIVÚ
+https://capital-tv-lh.akamaized.net/i/CapitalTv_1@183098/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",CANALE 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/chunklist_w312874485.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",TELETICINO
+https://edge3.vedge.infomaniak.com/livecast/smil:teleticino720ptest.smil/chunklist_w812302628_b3001080.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",CANALE 10
+http://37.187.142.147:1935/ch10live/high.stream/chunklist_w575866756.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",OTTO FM TV
+http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",SUPER TV
+http://wms.shared.streamshow.it:1935/supertv/supertv/chunklist_w38982957.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",LAZIO TV ROMA
+http://151.0.207.99:1935/live/LAZIOTV12/chunklist_w1882093412.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",REDE8 SPORT
+https://dcunilive33-lh.akamaihd.net/i/dclive_1@686832/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1588550583~acl=%2fi%2fdclive_1%40686832*~data=hdntl~hmac=72130910b59054b275341e18234853ec6f053dc2d7e79d4879aefa3f5f059471
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",RTV SAN MARINO SPORT
+https://dlxommsyqo2g0.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1692000_slita.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ITÁLIA",
@@ -2395,6 +2429,5 @@ http://vcp1.myplaytv.com/promar/promar/chunklist_w450696455.m3u8
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 ####################################################### (Z)
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
-
 
 ###################################################### COMANDOS PRIME ###########################################################
