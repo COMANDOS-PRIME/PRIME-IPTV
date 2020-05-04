@@ -18,7 +18,7 @@ https://ia601509.us.archive.org/8/items/sobel_202003/SOBEL.ia.mp4
 ###################################################### (#)
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/08/08.png" group-title="CANAIS DE CLIPES MUSICAIS",4FUN TV
-https://edge6.popler.tv/popler_publishlive/4funtv/chunklist.m3u8?nimblesessionid=5326803&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjAgMTI6NDA6MDkgQU0maGFzaF92YWx1ZT1VWFo3MzBKeEttUGhIUG9LWTFBWHZRPT0mdmFsaWRtaW51dGVzPTU=&expires=1580949909&ip=186.221.170.6&secure=zHY9bc2anL1fe4oLraAd_g
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/08/09.png" group-title="CANAIS DE CLIPES MUSICAIS",4FUN DANCE
 https://edge9.popler.tv/popler_publishlive/tvdisco/chunklist.m3u8?nimblesessionid=3482411&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjAgMTI6NDQ6MzcgQU0maGFzaF92YWx1ZT1scjZlcUlBN0YwNnJUMUdBS2U0ZldBPT0mdmFsaWRtaW51dGVzPTU=&expires=1580950177&ip=186.221.170.6&secure=K3E5-th_-OGxWnFxofYNBA
@@ -150,6 +150,9 @@ http://188.35.9.5:10007/stolen/200b/parasite.install
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/18/15.jpg" group-title="CANAIS DE CLIPES MUSICAIS",DELUXE MUSIC 2
 http://streaming-02.mivitec.net/live/smil:test.smil/chunklist_w1073861416_b879931_slDE.m3u8
 
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",DREAM TV
+https://2122248083.dogannet.tv/NP2/DREAMTV/HLS/track_4_1000/playlist.m3u8
+
 ###################################################### (E)
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/04/14/30.png" group-title="CANAIS DE CLIPES MUSICAIS",EBC1 TV
@@ -173,6 +176,9 @@ http://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/Y29tLnBsYXlob3RtdXNpY19zY3JlZW5fN18xNTEyNjYzOTYwXzA4Nw/screen-7.jpg?fakeurl=1&type=.jpg" group-title="CANAIS DE CLIPES MUSICAIS",HOT MUSIC
 http://wow01.105.net/live/rmc1/playlist.m3u8
 
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",HI TV
+https://rosshow.gcdn.co/streams/1410_287/1080n/index.m3u8
+
 ###################################################### (I)
 
 #EXTINF: -1 tvg-logo="http://resources.wimpmusic.com/images/bd0c33b8/7dc4/4a8e/a3ed/57450ca2c9d4/640x640.jpg" group-title="CANAIS DE CLIPES MUSICAIS",IBIZA HITS
@@ -193,6 +199,9 @@ https://bqgsd19q.rocketcdn.com/kralpop_360/chunklist.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",KLIPKAR
 https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream01/400/prog_index.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",KISS TV
+https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_w1433617937_b1600000.m3u8
 
 ###################################################### (L)
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",
@@ -222,8 +231,8 @@ http://unilivemtveu-lh.akamaihd.net:80/i/mtvno_1@346424/index_3500_av-p.m3u8?sd=
 #EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/ANZx0bOXnPPFvf5tB5tBiF1BodH3SeUFfgEVykbOyTNtp5miDeKZYcr6Mqy4yHoTvEc" group-title="CANAIS DE CLIPES MUSICAIS",MUSIC CHOICE
 https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/2/2d/Logo_m2o_%282012%29.png" group-title="CANAIS DE CLIPES MUSICAIS",M2O TV
-http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/2/2d/Logo_m2o_%282012%29.png" group-title="CANAIS DE CLIPES MUSICAIS",M2O MUSIC TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 #EXTINF: -1 tvg-logo="http://www.dazplayer.com/img_chh/music_top.png" group-title="CANAIS DE CLIPES MUSICAIS",MUSIC TOP
 http://live-edge01.telecentro.net.ar:80/live/msctphd-720/chunklist_w1970982040.m3u8
@@ -236,6 +245,9 @@ http://ott-cdn.ucom.am/s35/index.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",MTC
 http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist_w1589381311.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",MUSIC CHANNEL ROMANIA
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w1957132764.m3u8
 
 ###################################################### (N)
 
@@ -257,7 +269,7 @@ https://stream-04.nyc.dailymotion.com/sec(yMMZhXcH3F9vUXdVEAQnDGE50jxf2nMaTZ9a9I
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",OTTO FM TV
-http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8?sessId=14888
+http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
 
 ###################################################### (P)
 
@@ -272,6 +284,9 @@ https://agvc16s4pwkfym0tbram-cbmusw.p5cdn.com/BRJfxvDlyaXTF3GrxB1i/index.m3u8?md
 
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",PARNIAN TV
 https://live2.parnian.tv/hls/live/play.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",POWER TV
+https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
 
 ###################################################### (Q)
 ###################################################### (R)
@@ -318,10 +333,19 @@ https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/chunklist_w1253885706_b6
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/21/16.jpg" group-title="CANAIS DE CLIPES MUSICAIS",RADIO JAVAN TV
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1636114189_b746000.m3u8
 
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",ROCK TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w211948464_b1600000.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",RU TV
+https://rut-v.gcdn.co/streams/1410_1326/360n/index.m3u8
+
 ###################################################### (S)
 
 #EXTINF: -1 tvg-logo="https://thewildernessroad.files.wordpress.com/2014/03/tv-standby.jpg" group-title="CANAIS DE CLIPES MUSICAIS",STAND BY TV
 http://176.31.226.78:1935/standbytvlive/stream1.sdp/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",SI TV
+http://st2.worldkast.com/8030/8030/chunklist_w940397358.m3u8
 
 ###################################################### (T)
 
@@ -361,6 +385,9 @@ http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/21/26.png" group-title="CANAIS DE CLIPES MUSICAIS",TVN GLOBAL
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/canaltvn.m3u8
 
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",TRT MUZIK
+https://tv-trtmuzik.live.trt.com.tr/master_720.m3u8
+
 ###################################################### (U)
 ###################################################### (V)
 
@@ -376,6 +403,9 @@ http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/21/25.png" group-title="CANAIS DE CLIPES MUSICAIS",VIBEE TV
 https://abr.de1se01.v2beat.live/live/360p/chunks.m3u8
 
+#EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",VISION TV MUSICA
+https://59d39900ebfb8.streamlock.net/8414/8414/chunklist_w1915363659.m3u8
+
 ###################################################### (W)
 ###################################################### (X)
 ###################################################### (Y)
@@ -389,6 +419,190 @@ http://ss1.domint.net:2300/yv_str/yuna/chunklist.m3u8
 https://zouglacam-mdc-secure.akamaized.net/zouglastream/radio_backup9/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",
+
+###################################################### AMBIENTE GOSPEL ###########################################################
+###################################################### (A)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/04/01.jpg" group-title="AMBIENTE GOSPEL",ALINE BARROS AS MELHORES (músicas mais tocadas) [ATUALIZADA 2019]
+https://ia601402.us.archive.org/23/items/aline-barros-as-melhores-musicas-mais-tocadas-atualizada-2019-nova-lista/ALINE%20BARROS%20-%20AS%20MELHORES%20%28m%C3%BAsicas%20mais%20tocadas%29%20%5BATUALIZADA%202019%5D%20%5BNOVA%20LISTA%5D.ia.mp4
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/03/ANTONIO-BICUDO---ASSIM-SOU-EM-TUAS-MAOS.jpg" group-title="AMBIENTE GOSPEL",AS MELHORES DE ANTONIO BICUDO
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/04/ANTONIO-BICUDO---O-ESTRANGEIRO.jpg" group-title="AMBIENTE GOSPEL",ANTONIO BICUDO - O ESTRANGEIRO ( CD COMPLETO ) Nº 228
+https://ia801503.us.archive.org/10/items/antonio-bicudo-o-estrangeiro-cd-completo-no-228/Antonio%20Bicudo%20-%20o%20Estrangeiro%20%20-%20cd%20completo%20-%20n%C2%BA%20228.ia.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (B)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (C)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (D)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (E)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (F)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (G)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (H)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (I)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (J)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (K)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (L)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (M)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (N)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (O)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (P)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (Q)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (R)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (S)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (T)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (U)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (V)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (W)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (X)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (Y)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+###################################################### (Z)
+#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
+
+######################################################  RELAXING NATURE - AMBIENT MUSIC  ###################################
+###################################################### (#)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/21/24.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4 K Corsica Breathtaking Views From Above 4 K Video Ultra HD
+https://ia601509.us.archive.org/5/items/4kcorsicabreathtakingviewsfromabove4kvideoultrahd/4K%20Corsica%20-%20Breathtaking%20Views%20From%20Above%20-%204K%20Video%20Ultra%20HD.mp4
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/26/08.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4 K Video ( Ultra HD) Unbelievable Beauty
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/28/10f933c3aa18461ca8.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",3 HRS Stunning Underwater Footage + Relaxing Music French Polynesia Indonesia 4 K Upscale
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/26/09.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4 K Video Ultra HD 💚 60fps Epic Drone Footage
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/07.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",3 HOURS Of AMAZING NATURE SCENERY On Planet Earth The Best Relax Music 1080p HD # 2
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/17.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4 K Video Ultra HD Fly Away To A Tropical Island!
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/19.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4 K Video 💚 Beauty Of Nature
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/20.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4 K Video Drone Flight With Relaxing Music
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/21.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4 K Video Dreamlapse UHD Time Lapse Film Trailer Stock Footage Available
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/22.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4 K DRONE FILM Mallorca & Canary Islands (+ Spa Music) 1 HOUR Nature Relaxation™ Aerial Ambient Film
+
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+
+###################################################### (A)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/22/02.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",Above the Fiji Islands - Aerial Nature Relaxation™ 4K UHD Ambient Film w_ Music for Stress Relief
+
+###################################################### (B)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/18.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",BORA BORA By Drone The WHOLE ISLAND Long Version In 4k
+
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+
+###################################################### (C)
+
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+
+###################################################### (D)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/13/maxresdefault-7.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4K Drone Footage - Bird's Eye View of Maui Island Hawaii - 3 Hour Ambient Drone Film
+
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+
+###################################################### (E)
+
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+
+###################################################### (F)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/08/23.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",FLYING OVER OAHU [ 4 K] Hawaii Ambient Aerial Film + Music For Stress Relief Honolulu To North Shore
+https://ia801408.us.archive.org/12/items/flyingoveroahu4khawaiiambientaerialfilmmusicforstressreliefhonolulutonorthshore/FLYING%20OVER%20OAHU%20%5B4K%5D%20Hawaii%20Ambient%20Aerial%20Film%20%2B%20Music%20for%20Stress%20Relief%20-%20Honolulu%20to%20North%20Shore.mp4
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/010139d2f3e83cc2ce.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",FLYING OVER BERMUDA ( 4 K UHD Version!) Ambient Aerial Drone Film + Music By Nature Relaxation™
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/12.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",FLYING OVER NORWAY ( 4 K UHD) 1 HR Ambient Drone Film + Music By Nature Relaxation™ For Stress Relief
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/14.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",FLYING OVER KAUAI ( 4 K) Hawaii's Garden Island Ambient Aerial Film + Music For Stress Relief 1.5 HR
+
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+
+###################################################### (G)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/13/maxresdefault-5.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",Greece Aerial 4 K Bird's Eye View Of Santorini Corfu And Athens 3 HOUR Ambient Drone Film
+
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+###################################################### (H)
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+###################################################### (I)
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+###################################################### (J)
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+###################################################### (K)
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+
+###################################################### (L)
+
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/ZWiuIQcRAs0/hqdefault.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",Live Música Relaxante e Natureza ?? Paisagens Relaxar e Acalmar
+
+###################################################### (M)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/19/16.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",Música Relajante Para Tranquilizar La Mente Con Cascada Y Bosque Relajarse Y Dormir
+
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+###################################################### (N)
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+###################################################### (O)
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+###################################################### (P)
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+###################################################### (Q)
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+###################################################### (R)
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+###################################################### (S)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/19/15.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",Sleep Music Video To Fall Asleep Naturally At Sunset!
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/11.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",Super Relaxing Music With Nature Sounds 3 Hour Film ☯
+
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+###################################################### (T)
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+###################################################### (U)
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+###################################################### (V)
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+###################################################### (W)
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+###################################################### (X)
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+###################################################### (Y)
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+###################################################### (Z)
+#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
 
 ###################################################### CLASSIC MUSIC ###########################################################
 ###################################################### (#)
@@ -435,7 +649,12 @@ https://ia801507.us.archive.org/28/items/bluesrobertcraybuddyguyericclaptonbbkin
 
 #EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (C)
-#EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/04/23.jpg" group-title="CLASSIC MUSIC",Cigarettes After Sex - Private Session Live @ Paris – ARTE Concert
+https://ia601509.us.archive.org/34/items/cigarettes-after-sex-private-session-live-paris-arte-concert/Cigarettes%20After%20Sex%2C%20private%20session%20-%20live%20%40%20Paris%20%E2%80%93%20ARTE%20Concert.ia.mp4
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/04/24.jpg" group-title="CLASSIC MUSIC",Coldplay Greatest Hits The Best Of Coldplay Playlist 2018
+https://ia801507.us.archive.org/13/items/coldplay-greatest-hits-the-best-of-coldplay-playlist-2018/Coldplay%20Greatest%20Hits%20--%20The%20Best%20Of%20Coldplay%20Playlist%202018.mp4
+
 ###################################################### (D)
 #EXTINF: -1 tvg-logo="" group-title="CLASSIC MUSIC",
 ###################################################### (E)
@@ -612,7 +831,7 @@ https://ia801407.us.archive.org/23/items/rafalefrenchnavypilotschillout6/RAFALE%
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/23/057f0864990748c93f.jpg" group-title="CHILL MIX",Evergreen' Beautiful Chillstep Mix # 22
 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/03/19.jpg" group-title="CHILL MIX",Ennja, Skeler, Barnacle Boi, CHVRN, FLLNDR Wave Mix Vol. 3
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/03/19.jpg" group-title="CHILL MIX",Ennja - Skeler - Barnacle Boi - CHVRN - FLLNDR Wave Mix Vol. 3
 https://ia801505.us.archive.org/21/items/ennja-skeler-barnacle-boi-chvrn-fllndr-wave-mix-vol.-3/Ennja%2C%20Skeler%2C%20Barnacle%20Boi%2C%20CHVRN%2C%20FLLNDR%20-%20Wave%20Mix%20-%20Vol.3.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
@@ -683,148 +902,457 @@ https://ia801505.us.archive.org/21/items/ennja-skeler-barnacle-boi-chvrn-fllndr-
 ###################################################### (V)
 #EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (W)
+
 #EXTINF: -1 tvg-logo="https://purzynth.com/wp-content/uploads/2018/12/Chillwave-Mix-by-Odysseus.jpg" group-title="CHILL MIX",Waves A Chillwave Mix
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/03/18.jpg" group-title="CHILL MIX",Wonderland Chillstep Mix
 https://ia801409.us.archive.org/8/items/wonderland-chillstep-mix/Wonderland%20-%20Chillstep%20Mix.mp4
+
 ###################################################### (X)
 #EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 
 ###################################################### (Y)
-
-#EXTINF: -1 group-title="CHILL MIX" pltv-subgroup="CHILLSTEP - DUBSTEP" tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/011567e09661752751.jpg",You're Alive' Beautiful Chillstep Mix # 15
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",You're Alive' Beautiful Chillstep Mix # 15
 
 #EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (Z)
-
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 #EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 
-######################################################  RELAXING NATURE - AMBIENT MUSIC  ###################################
-###################################################### (#)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/28/10f933c3aa18461ca8.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",3 HRS Stunning Underwater Footage + Relaxing Music French Polynesia Indonesia 4 K Upscale
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/26/09.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4 K Video Ultra HD 💚 60fps Epic Drone Footage
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/07.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",3 HOURS Of AMAZING NATURE SCENERY On Planet Earth The Best Relax Music 1080p HD # 2
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/17.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4 K Video Ultra HD Fly Away To A Tropical Island!
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/19.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4 K Video 💚 Beauty Of Nature
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/20.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4 K Video Drone Flight With Relaxing Music
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/21.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4 K Video Dreamlapse UHD Time Lapse Film Trailer Stock Footage Available
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/22.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4 K DRONE FILM Mallorca & Canary Islands (+ Spa Music) 1 HOUR Nature Relaxation™ Aerial Ambient Film
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/21/24.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4 K Corsica Breathtaking Views From Above 4 K Video Ultra HD
-https://ia601509.us.archive.org/5/items/4kcorsicabreathtakingviewsfromabove4kvideoultrahd/4K%20Corsica%20-%20Breathtaking%20Views%20From%20Above%20-%204K%20Video%20Ultra%20HD.mp4
-
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
-
+################################################### RETRO MIX ###################################################################
 ###################################################### (A)
 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/22/02.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",Above the Fiji Islands - Aerial Nature Relaxation™ 4K UHD Ambient Film w_ Music for Stress Relief
-
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
 ###################################################### (B)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/18.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",BORA BORA By Drone The WHOLE ISLAND Long Version In 4k
-
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
 
 ###################################################### (C)
 
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/08.jpg" group-title="RETRO MIX",Cyberpunk 2077 Mix Best Future 80's Mix Vol. 7 ║ Retrowave & Synthwave║
 
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/04/11.jpg" group-title="RETRO MIX",Cyberpunk 2077 Mix Best Future 80's Mix Vol. 9 4 K ║ Retrowave & Synthwave║
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/04/12.jpg" group-title="RETRO MIX",Cyberpunk 2077 Mix Best Future 80's Mix Vol. 3 ║ Retrowave & Synthwave║
+
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
 ###################################################### (D)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/13/maxresdefault-7.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4K Drone Footage - Bird's Eye View of Maui Island Hawaii - 3 Hour Ambient Drone Film
-
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
-
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
 ###################################################### (E)
-
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
-
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
 ###################################################### (F)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/08/23.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",FLYING OVER OAHU [ 4 K] Hawaii Ambient Aerial Film + Music For Stress Relief Honolulu To North Shore
-https://ia801408.us.archive.org/12/items/flyingoveroahu4khawaiiambientaerialfilmmusicforstressreliefhonolulutonorthshore/FLYING%20OVER%20OAHU%20%5B4K%5D%20Hawaii%20Ambient%20Aerial%20Film%20%2B%20Music%20for%20Stress%20Relief%20-%20Honolulu%20to%20North%20Shore.mp4
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/010139d2f3e83cc2ce.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",FLYING OVER BERMUDA ( 4 K UHD Version!) Ambient Aerial Drone Film + Music By Nature Relaxation™
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/12.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",FLYING OVER NORWAY ( 4 K UHD) 1 HR Ambient Drone Film + Music By Nature Relaxation™ For Stress Relief
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/14.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",FLYING OVER KAUAI ( 4 K) Hawaii's Garden Island Ambient Aerial Film + Music For Stress Relief 1.5 HR
-
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
-
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
 ###################################################### (G)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/13/maxresdefault-5.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",Greece Aerial 4 K Bird's Eye View Of Santorini Corfu And Athens 3 HOUR Ambient Drone Film
-
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
 ###################################################### (H)
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
 ###################################################### (I)
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/13a4b4fd5439b6ef2a.jpg" group-title="RETRO MIX",Infinity A Futuristic Synthwave Mix [ Chillwave Retrowave]
+
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
 ###################################################### (J)
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
 ###################################################### (K)
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
 
 ###################################################### (L)
 
-#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/ZWiuIQcRAs0/hqdefault.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",Live Música Relaxante e Natureza ?? Paisagens Relaxar e Acalmar
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1586407480/ei/2FOOXsWmAseGwASgur-AAw/ip/186.221.170.6/id/2dBGOMkMUgg.2/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRQIhANtUeSa3uzEBRXpqoI3RjwevKfud5QaX6wjE7BSCawzNAiBG5UzyfJa91eRJ1eiRJ2Jtuob6Cxjdx51wXpwZfJMpsw%3D%3D/file/index.m3u8
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/04/07.jpg" group-title="RETRO MIX",ＬＯＮＧ　ＮＩＧＨＴＳ [ Chillwave Synthwave Retrowave Mix ]
 
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
 ###################################################### (M)
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/19/16.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",Música Relajante Para Tranquilizar La Mente Con Cascada Y Bosque Relajarse Y Dormir
-
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
 ###################################################### (N)
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/09.jpg" group-title="RETRO MIX",NEON HEARTS' A Synthwave And Synthpop Mix
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/04/artworks-000282214091-3d6ihi-t500x500.jpg" group-title="RETRO MIX",NINA Sleepwalking ( Full Album)
+
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
 ###################################################### (O)
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
 ###################################################### (P)
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
 ###################################################### (Q)
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
+
 ###################################################### (R)
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/13/maxresdefault-8.jpg" group-title="RETRO MIX" pltv-subgroup="RETRO MUSIC",Retrowave Synthwave Darkwave Neon Nights Midnight Radio
+
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
+
 ###################################################### (S)
 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/19/15.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",Sleep Music Video To Fall Asleep Naturally At Sunset!
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/04/06.jpg" group-title="RETRO MIX" pltv-subgroup="RETRO MUSIC",ＳＫＹＷＡＹ [ Chillwave Synthwave Retrowave Mix ]
 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/11.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",Super Relaxing Music With Nature Sounds 3 Hour Film ☯
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/14.jpg" group-title="RETRO MIX" pltv-subgroup="RETRO MUSIC",Synthwave Mix ⚡ Cybercity ( Synthwave - Futuresynth - Retro Electro)
 
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
 ###################################################### (T)
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
+###################################################### (U)
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
+###################################################### (V)
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
+
+###################################################### (W)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/04.jpg" group-title="RETRO MIX" pltv-subgroup="RETRO MUSIC",Waves A Chillwave Mix
+
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
+###################################################### (X)
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
+###################################################### (Y)
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
+###################################################### (Z)
+#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
+
+###################################################### CHILLHOP - LOFI HIP HOP ######################################################
+###################################################### (#)
+
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+
+###################################################### (A)
+
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+
+###################################################### (B)
+
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+
+###################################################### (C)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/11.jpg" group-title="CHILLHOP - LOFI HIP HOP",🌴 Chillhop Essentials Summer 2019 Chill & Groovy Beats
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/26/01.jpg" group-title="CHILLHOP - LOFI HIP HOP",City Escape 🌃[jazzy Beats Lofi Hip Hop Mix]
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/19/05.jpg" group-title="CHILLHOP - LOFI HIP HOP",Chill Study Beats 5 • Jazz & Lofi Hiphop Mix [ 2018]
+
+###################################################### (D)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+###################################################### (E)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+###################################################### (F)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+###################################################### (G)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+
+###################################################### (H)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/06.jpg" group-title="CHILLHOP - LOFI HIP HOP",Home Town Jazzy Hip Hop
+
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+###################################################### (I)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+###################################################### (J)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+###################################################### (K)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+
+###################################################### (L)
+
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/-FlxM_0S2lA/maxresdefault.jpg" group-title="CHILLHOP - LOFI HIP HOP",lofi hip hop radio - beats to relax/study to
+https://www.youtube.com/watch?v=5qap5aO4i9A&feature=share&fbclid=IwAR1fpbs2GaHTdf9lnsJmPwaJrLye9MSxrjwfvZhF6v9yZ6cB9THyumKRJ1s
+
+#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/-FlxM_0S2lA/maxresdefault.jpg" group-title="CHILLHOP - LOFI HIP HOP",lofi hip hop radio - beats to relax/study to
+
+###################################################### (M)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+
+###################################################### (N)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/10.jpg" group-title="CHILLHOP - LOFI HIP HOP",Nighttime Ramen 🍜 [jazzy Beats Lofi Hip Hop Mix]
+
+###################################################### (O)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+###################################################### (P)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+###################################################### (Q)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+###################################################### (R)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+###################################################### (S)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+###################################################### (T)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+###################################################### (U)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+###################################################### (V)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+###################################################### (W)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+###################################################### (X)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+###################################################### (Y)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+###################################################### (Z)
+#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
+
+###################################################### BLUES - JAZZ ############################################################
+###################################################### (A)
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+###################################################### (B)
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+###################################################### (C)
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+###################################################### (D)
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+###################################################### (E)
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+###################################################### (F)
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+###################################################### (G)
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+###################################################### (H)
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+###################################################### (I)
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+###################################################### (J)
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+###################################################### (K)
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+###################################################### (L)
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+###################################################### (M)
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+###################################################### (N)
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+###################################################### (O)
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+
+###################################################### (P)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/23/06.jpg" group-title="BLUES - JAZZ",Peter Pearson Blissful Journey ( Full Album 2016)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/23/07.jpg" group-title="BLUES - JAZZ",Peter Pearson Bliss ( Full Album 2017)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/26/02.jpg" group-title="BLUES - JAZZ",Peter Pearson Lost In My Dreams ( Full Album 2016)
+
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+###################################################### (Q)
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+###################################################### (R)
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+###################################################### (S)
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+
+###################################################### (T)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/02.jpg" group-title="BLUES - JAZZ",Tony Tucker Fascinating Musiс ( Full Album 2018)
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/012561345d3fea5244.jpg" group-title="BLUES - JAZZ",Tony Tucker Down The Road Of Blues - Full Album 2018
 
 ###################################################### (U)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/26/08.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4 K Video ( Ultra HD) Unbelievable Beauty
-
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
 ###################################################### (V)
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
 ###################################################### (W)
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
 ###################################################### (X)
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
 ###################################################### (Y)
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
+
 ###################################################### (Z)
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
+
+#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/03.jpg" group-title="BLUES - JAZZ",Zed Mitchell WOW ( Full Album 2018)
+
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
 
 ################################################################ RÁDIOS ##############################################################
+###################################################### ( RÁDIOS-ESPECIAIS )
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",RÁDIO ESKA
+https://waw01-01.ic.smcdn.pl/t042-1.aac
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",ESKA PARA TRABALHAR
+https://waw01-02.ic.smcdn.pl/t014-1.aac
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",ESKA DOUBLE HOT 20
+https://waw01-03.ic.smcdn.pl/t019-1.aac
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",ESKA HOT 100
+https://waw.ic.smcdn.pl/t039-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",ESKA IMPRESKA
+https://waw01-02.ic.smcdn.pl/t005-1.aac
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",ESKA DANCE
+https://waw.ic.smcdn.pl/t012-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",ESKA ACTIVE
+https://waw.ic.smcdn.pl/t002-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",ESKA CLUB
+https://waw.ic.smcdn.pl/t004-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",VOX FM
+https://waw01-03.ic.smcdn.pl/t049-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",R&B NUMBER 1
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3aecf0941_1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",NUMBER 1 FM
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",NUMBER 1 DANCE
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e33b514f52_1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",NUMBER 1 SLOW
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3a53317d4_1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",BEST OF NUMBER 1
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e4266d184a_1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",NUMBER 1 HEART
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e367972335_1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",NUMBER 1 DEEP HOUSE
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e35cb55bf5_1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",NUMBER 1 GREEK
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e389058588_1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",NUMBER 1 OZKOK
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3d762b7d5_1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",NUMBER 1 JAZZ
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3e06878b9_1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",NUMBER 1 CLASSIC
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e34bfc5042_1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",NUMBER 1 DISC
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e41c778cb0_1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",NUMBER 1 LOUNGE
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e37fbcb763_1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",NUMBER 1 ROCK
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e39cae8c9c_1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",NUMBER 1 RAP
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e42fe816a0_1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",NUMBER 1 90 LAR
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e325182420_1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",NUMBER 1 DAMAR
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3ce2c120f_1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",NUMBER 1 ELLER HAVAYA
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e3303b3edf_1/chunks.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",ZOO RÁDIO
+https://icy.unitedradio.it/105Zoo.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",105 TRAP
+https://icecast.unitedradio.it/105Trap.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",105 DANCE 90
+https://icy.unitedradio.it/105Dance90.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",105 HITS
+https://icy.unitedradio.it/105Hits.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",105 CLASSICS
+https://icy.unitedradio.it/105Classics.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",105 MIAMI
+https://icy.unitedradio.it/105Miami.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",105 RAP ITALIA
+https://icy.unitedradio.it/105RapItalia.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",105 STORY
+https://icy.unitedradio.it/105Story.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",105 HIPHOP & RNB
+https://icy.unitedradio.it/105HipHopRnB.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",105 2K & MORE
+https://icy.unitedradio.it/1052kandMore.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",105 INDAKLUBB
+https://icy.unitedradio.it/105InDaKlubb.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",MUSIC STAR - MICHAEL JACKSON
+https://icy.unitedradio.it/um2908.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",MUSIC STAR - ELISA
+https://icy.unitedradio.it/Elisa.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",MUSIC STAR - JOVANOTTI
+https://icy.unitedradio.it/Jovanotti.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",MUSIC STAR - COLDPLAY
+https://icy.unitedradio.it/ColdPlay.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",MUSIC STAR - LIGABUE
+https://icy.unitedradio.it/Ligabue.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",MUSIC STAR - VASCO ROSSI
+https://icy.unitedradio.it/Vasco.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",ZOSTANWDOMU
+https://waw.ic.smcdn.pl/t019-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",GIRLS FOGUETE
+https://waw.ic.smcdn.pl/t088-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",SUCESSOS LATINOS
+https://waw.ic.smcdn.pl/t021-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",RELAXING MUSIC
+https://waw.ic.smcdn.pl/t025-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",HIP HOP POLONÊS SEM CENSURA
+https://waw01-03.ic.smcdn.pl/t100-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",RELAKS
+https://waw.ic.smcdn.pl/t011-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",POP DO PRACY
+https://waw.ic.smcdn.pl/t038-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",ROCK DO PRACY
+https://waw.ic.smcdn.pl/t030-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",MUZYKA DO NAUKI
+https://waw.ic.smcdn.pl/t024-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",MUZIKA DO PRACY
+https://waw.ic.smcdn.pl/t014-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",THE BEST PRACY
+https://waw.ic.smcdn.pl/t010-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",MUZIKA PLAY
+https://waw.ic.smcdn.pl/t089-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",ANÚNCIO MUSIC
+https://waw.ic.smcdn.pl/t016-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",HITS PARAFINAL DE SEMANA
+https://waw.ic.smcdn.pl/t005-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",SCHOLL MUSIC 2019
+https://waw.ic.smcdn.pl/t006-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",HITS WEB 2018/2019
+https://waw.ic.smcdn.pl/t033-1.mp3
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ESPECIAIS",
+
 ###################################################### ( RÁDIOS-ADULTO CONTEPORÂNEAS )
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/16/01.png" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",RÁDIO MOTEL - MG
@@ -951,17 +1479,6 @@ http://icestreaming.rai.it/1.mp3?1582601936930
 http://radios-cr.cdn.nedmedia.io/radios/monumental.m3u8
 
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-ADULTO CONTEPORÂNEAS",
 
 ###################################################### ( RÁDIOS-FLASHBACK & ROMÂNTICAS )
 
@@ -971,37 +1488,6 @@ http://stm15.aplicativopararadio.com:22068/stream?1583023375409
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",RÁDIO ALTERNATIVA - MS
 http://cc5.streammaximum.com:9087/stream?1583023456998
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-FLASHBACK & ROMÂNTICAS",
 
 ###################################################### ( RÁDIOS-POP INTERNACIONAL )
@@ -2498,331 +2984,331 @@ http://server02.ouvir.radio.br:8060/stream?1584409221417
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA / TECNOBREGA & FORRÓ",
-
 ###################################################### ( )
 
 ###################################################### (A)
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81KEgTBkHXL._SL1500_.jpg"group-title="RÁDIO",ABSOLUTE CHILLOUT
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81KEgTBkHXL._SL1500_.jpg" group-title="RÁDIO",ABSOLUTE CHILLOUT
 http://54.38.43.201:8006/stream-128kmp3-AbsoluteChillout
 
-#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s18656/images/logog.png?t=155609"group-title="RÁDIO",ANTENA 1 RJ
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s18656/images/logog.png?t=155609" group-title="RÁDIO",ANTENA 1 RJ
 http://a1rj.streams.com.br:7801/stream
 
-#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/antena1_saopaulo947.png"group-title="RÁDIO",ANTENA 1 SP
+#EXTINF:-1 tvg-logo="https://tudoradio.com/img/uploads/radios/antena1_saopaulo947.png" group-title="RÁDIO",ANTENA 1 SP
 https://antenaone.crossradio.com.br/stream/1
 
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s131009g.png"group-title="RÁDIO",Addict Radio Lounge
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s131009g.png" group-title="RÁDIO",Addict Radio Lounge
 http://stream3.addictradio.net/addictlounge.mp3
 
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s127653g.png"group-title="RÁDIO",ABC Lounge Jazz
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s127653g.png" group-title="RÁDIO",ABC Lounge Jazz
 http://str1.openstream.co/589?aw_0_1st.stationid=3139&aw_0_1st.publisherId=613&aw_0_1st.serverId=str1
 
-#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_negativo_vert_RGB.png"group-title="RÁDIO",ANTENA 1 PT
+#EXTINF:-1 tvg-logo="http://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/Antena1_negativo_vert_RGB.png" group-title="RÁDIO",ANTENA 1 PT
 http://radiocast.rtp.pt/antena180a.mp3
 
-#EXTINF:-1 tvg-logo="http://www.canuckradios.com/wp-content/uploads/2017/03/allhits-86.6.jpg"group-title="RÁDIO",All Hits 86.6 FM Brantford
+#EXTINF:-1 tvg-logo="http://www.canuckradios.com/wp-content/uploads/2017/03/allhits-86.6.jpg" group-title="RÁDIO",All Hits 86.6 FM Brantford
 http://149.56.147.197:8326/stream
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/Music_Choice_1995.png"group-title="RÁDIO",Adult Alternative
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/Music_Choice_1995.png" group-title="RÁDIO",Adult Alternative
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-022/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://theurbanbuzz.com/wp-content/uploads/2017/09/Music-Choice-logo-pink.jpg"group-title="RÁDIO",Alt R&B
+#EXTINF:-1 tvg-logo="http://theurbanbuzz.com/wp-content/uploads/2017/09/Music-Choice-logo-pink.jpg" group-title="RÁDIO",Alt R&B
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-163/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nTGxIjv.jpg"group-title="RÁDIO",Alternative MC
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIO",Alternative MC
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-014/chunklist.m3u8
 
 ###################################################### (B)
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s299525g.png"group-title="RÁDIO",bigFM Sunset
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s299525g.png" group-title="RÁDIO",bigFM Sunset
 http://streams.bigfm.de/bigfm-sunsetlounge-128-mp3?usid=0-0-H-A-D-02
 
-#EXTINF:-1 tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/24ba4cfcbdcb0d660543ab97434574e2/ca3c011c72b0f4edead21d21_rw_1200.jpg?h=48967eb783ad8384e75f21b3478a65ec"group-title="RÁDIO",Bossa Nova
+#EXTINF:-1 tvg-logo="https://pro2-bar-s3-cdn-cf1.myportfolio.com/24ba4cfcbdcb0d660543ab97434574e2/ca3c011c72b0f4edead21d21_rw_1200.jpg?h=48967eb783ad8384e75f21b3478a65ec" group-title="RÁDIO",Bossa Nova
 http://6d9a.webradio.upx.net.br:9974/stream
 
-#EXTINF:-1 tvg-logo="https://www.allgigs.co.uk/images/object/artist/85102/Hits_Radio_Live-1-200-200-100-crop.png"group-title="RÁDIO",Brits + Hits
+#EXTINF:-1 tvg-logo="https://www.allgigs.co.uk/images/object/artist/85102/Hits_Radio_Live-1-200-200-100-crop.png" group-title="RÁDIO",Brits + Hits
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-154/chunklist.m3u8
 
 ###################################################### (C)
-#EXTINF:-1 tvg-logo="https://static.radio.pt/images/broadcasts/86/fd/16612/1/c300.png"group-title="RÁDIO",COSTA DEL MAR
+#EXTINF:-1 tvg-logo="https://static.radio.pt/images/broadcasts/86/fd/16612/1/c300.png" group-title="RÁDIO",COSTA DEL MAR
 http://stream.cdm-chillout.com:8020/stream-mp3-Chill
 
-#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s97246/images/logog.jpg?t=152215"group-title="RÁDIO",Chillout Ibiza FM
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s97246/images/logog.jpg?t=152215" group-title="RÁDIO",Chillout Ibiza FM
 http://edge2.peta.live365.net/b05055_128mp3
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-JKqO-kNRcw-RXVz5y7bZWBwwo3nYUhN_1ZzsY-q6xS01QS9V"group-title="RÁDIO",CAPITAL TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-JKqO-kNRcw-RXVz5y7bZWBwwo3nYUhN_1ZzsY-q6xS01QS9V" group-title="RÁDIO",CAPITAL TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/cadena-100-logo-png-8.png"group-title="RÁDIO",Cadena 100 🇪🇸
+#EXTINF:-1 tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/cadena-100-logo-png-8.png" group-title="RÁDIO",Cadena 100 🇪🇸
 http://cadena100-streamers-mp3-low.flumotion.com/cope/cadena100-low.mp3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/CidadeFM_Logotipo_2011_1.jpg"group-title="RÁDIO",Cidade fm
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/CidadeFM_Logotipo_2011_1.jpg" group-title="RÁDIO",Cidade fm
 http://mcrscast.mcr.iol.pt/cidadefm
 
-#EXTINF:-1 tvg-logo="http://valeriethuillier.com/wp-content/uploads/2013/06/Fete-musique.jpg"group-title="RÁDIO",CLUB ZONE
+#EXTINF:-1 tvg-logo="http://valeriethuillier.com/wp-content/uploads/2013/06/Fete-musique.jpg" group-title="RÁDIO",CLUB ZONE
 http://virtualdjradio.com:8000/channel1.mp3
 
 ###################################################### (D)
 
-#EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/qEBwZSLYtqDNYxYAL3_yHLcak20=/0x0:1280x960/1200x800/filters:focal(0x0:1280x960)/cdn.vox-cdn.com/uploads/chorus_image/image/48548907/11696297_110805642596790_1890661725509849814_o.0.0.jpg"group-title="RÁDIO",Dance / EDM
+#EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/qEBwZSLYtqDNYxYAL3_yHLcak20=/0x0:1280x960/1200x800/filters:focal(0x0:1280x960)/cdn.vox-cdn.com/uploads/chorus_image/image/48548907/11696297_110805642596790_1890661725509849814_o.0.0.jpg" group-title="RÁDIO",Dance / EDM
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-013/chunklist.m3u8
 
 ###################################################### (E)
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8N2egzkjYA4/XO9FnF1YgyI/AAAAAAAAQt4/ozvwi5t2D8U85ERleNQHZOv-pD6yCFXSwCEwYBhgL/s1600/super-radio-tupi-fm-rio-de-janeiro.png"group-title="RÁDIO",Estúdio 96.5 FM Rio de Janeiro - RJ
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-8N2egzkjYA4/XO9FnF1YgyI/AAAAAAAAQt4/ozvwi5t2D8U85ERleNQHZOv-pD6yCFXSwCEwYBhgL/s1600/super-radio-tupi-fm-rio-de-janeiro.png" group-title="RÁDIO",Estúdio 96.5 FM Rio de Janeiro - RJ
 http://cdn.rj.assocrj.com.br/live//tupi-estudio-video06/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/5d/d3/5dd3befe45a9a874e66bd035b8298336.jpg"group-title="RÁDIO",Europa FM 🇪🇸
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/5d/d3/5dd3befe45a9a874e66bd035b8298336.jpg" group-title="RÁDIO",Europa FM 🇪🇸
 http://stream.irratia.net/2
 
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/200/88316934-2a02-40e7-b92b-85af7660ff12.png"group-title="RÁDIO",Eldoradio Top 25
+#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/200/88316934-2a02-40e7-b92b-85af7660ff12.png" group-title="RÁDIO",Eldoradio Top 25
 http://sc-eldotop25.newmedia.lu/;*.mp3
 
 ###################################################### (F)
-#EXTINF:-1 tvg-logo="https://www.sccpre.cat/mypng/detail/34-345215_marca-a-festa-logo-de-festas-png.png"group-title="RÁDIO",Festa
+#EXTINF:-1 tvg-logo="https://www.sccpre.cat/mypng/detail/34-345215_marca-a-festa-logo-de-festas-png.png" group-title="RÁDIO",Festa
 http://6d9a.webradio.upx.net.br:9070/stream
 
-#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/articular/articular1606/articular160600031/68957980-summer-holiday-illustration-on-a-music-and-party-theme-with-speakers-and-sunglasses-on-blue-backgrou.jpg"group-title="RÁDIO",FM UK Top 40
+#EXTINF:-1 tvg-logo="https://previews.123rf.com/images/articular/articular1606/articular160600031/68957980-summer-holiday-illustration-on-a-music-and-party-theme-with-speakers-and-sunglasses-on-blue-backgrou.jpg" group-title="RÁDIO",FM UK Top 40
 http://relay.181.fm:8070/;
 
 ###################################################### (G)
 ###################################################### (H)
 
-#EXTINF:-1 tvg-logo="https://www.santaterezatem.com.br/wp-content/uploads/2017/03/bau-de-hist-300x268.png"group-title="RÁDIO",HISTORINHA INFANTIL
+#EXTINF:-1 tvg-logo="https://www.santaterezatem.com.br/wp-content/uploads/2017/03/bau-de-hist-300x268.png" group-title="RÁDIO",HISTORINHA INFANTIL
 http://192.99.150.31:8371/stream?I
 
-#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s268573/images/logog.jpg"group-title="RÁDIO",Hunter fm Pop2k
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s268573/images/logog.jpg" group-title="RÁDIO",Hunter fm Pop2k
 http://live.hunter.fm/pop2k
 
-#EXTINF:-1 tvg-logo="https://ws.shoutcast.com/images/contacts/2/255a/255a3148-768c-4abd-8721-7937e530c5e8/radios/423ab2d6-d0ed-4060-9aef-a61be8a077f2/423ab2d6-d0ed-4060-9aef-a61be8a077f2.png"group-title="RÁDIO",Hunter fm Hits
+#EXTINF:-1 tvg-logo="https://ws.shoutcast.com/images/contacts/2/255a/255a3148-768c-4abd-8721-7937e530c5e8/radios/423ab2d6-d0ed-4060-9aef-a61be8a077f2/423ab2d6-d0ed-4060-9aef-a61be8a077f2.png" group-title="RÁDIO",Hunter fm Hits
 http://live.hunter.fm/live
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/Hiper-FM.jpg"group-title="RÁDIO",HIPER FM
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/Hiper-FM.jpg" group-title="RÁDIO",HIPER FM
 http://195.23.85.126:9500/stream/1/
 
-#EXTINF:-1 tvg-logo="http://community.vfs.com/oomph/files/2013/03/292793_10152188157735043_259753009_n2.jpg"group-title="RÁDIO",Hip-Hop + R&B
+#EXTINF:-1 tvg-logo="http://community.vfs.com/oomph/files/2013/03/292793_10152188157735043_259753009_n2.jpg" group-title="RÁDIO",Hip-Hop + R&B
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-005/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/33ca35a4-ebff-48e7-99fc-a6f381278cca.png"group-title="RÁDIO",Hit List
+#EXTINF:-1 tvg-logo="https://i3.radionomy.com/radios/400/33ca35a4-ebff-48e7-99fc-a6f381278cca.png" group-title="RÁDIO",Hit List
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-002/chunklist.m3u8
 
 ###################################################### (I)
 ###################################################### (J)
-#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/108575/resized/180x172c/rodykle.jpg"group-title="RÁDIO",Jazz Lounge
+#EXTINF:-1 tvg-logo="http://www.liveradio.ie/files/images/108575/resized/180x172c/rodykle.jpg" group-title="RÁDIO",Jazz Lounge
 http://eu8.fastcast4u.com:5068/;
 
-#EXTINF:-1 tvg-logo="https://static.radio.net/images/broadcasts/57/e5/7066/3/c300.png"group-title="RÁDIO",Jazzy Lounge
+#EXTINF:-1 tvg-logo="https://static.radio.net/images/broadcasts/57/e5/7066/3/c300.png" group-title="RÁDIO",Jazzy Lounge
 http://agnes.torontocast.com:8106/stream
 
 ###################################################### (K)
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/46/Logotipo_da_Kiss_FM.png/200px-Logotipo_da_Kiss_FM.png"group-title="RÁDIO",Kiss FM Algarve
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/46/Logotipo_da_Kiss_FM.png/200px-Logotipo_da_Kiss_FM.png" group-title="RÁDIO",Kiss FM Algarve
 http://162.210.196.217:8070/stream.mp3?1526653362498
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/46/Logotipo_da_Kiss_FM.png/200px-Logotipo_da_Kiss_FM.png"group-title="RÁDIO",Kiss FM 🇪🇸
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/46/Logotipo_da_Kiss_FM.png/200px-Logotipo_da_Kiss_FM.png" group-title="RÁDIO",Kiss FM 🇪🇸
 http://kissfm.kissfmradio.cires21.com/kissfm.mp3
 
 ###################################################### (L)
-#EXTINF:-1 tvg-logo="https://static.radio.pt/images/broadcasts/db/d9/8785/c300.png"group-title="RÁDIO",Lounge Motion FM
+#EXTINF:-1 tvg-logo="https://static.radio.pt/images/broadcasts/db/d9/8785/c300.png" group-title="RÁDIO",Lounge Motion FM
 http://199.58.160.66/motionthree_aacp
 
-#EXTINF:-1 tvg-logo="https://static-br.radio.net/images/broadcasts/85/0a/2082/c300.png"group-title="RÁDIO",Lounge-Radio.com
+#EXTINF:-1 tvg-logo="https://static-br.radio.net/images/broadcasts/85/0a/2082/c300.png" group-title="RÁDIO",Lounge-Radio.com
 http://fr1.streamhosting.ch/lounge128.mp3
 
-#EXTINF:-1 tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX17663052.jpg"group-title="RÁDIO",Lounge
+#EXTINF:-1 tvg-logo="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX17663052.jpg" group-title="RÁDIO",Lounge
 http://6d9a.webradio.upx.net.br:9064/stream
 
-#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Love.png"group-title="RÁDIO",Love Songs
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/dashradio-files/icon_logos/colored_light/Love.png" group-title="RÁDIO",Love Songs
 https://ice55.securenetsystems.net/DASH66
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4iQ8WASlw7XXQULdGInqZGZI_lIYe7f5C6ODE9A7Ts5qL0qfy7Q"group-title="RÁDIO",Love Songs
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4iQ8WASlw7XXQULdGInqZGZI_lIYe7f5C6ODE9A7Ts5qL0qfy7Q" group-title="RÁDIO",Love Songs
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-049/chunklist.m3u8
 
 ###################################################### (M)
-#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s260087/images/logog.png?t=154342"group-title="RÁDIO",Monte Carlo Lounge
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s260087/images/logog.png?t=154342" group-title="RÁDIO",Monte Carlo Lounge
 http://node-28.zeno.fm/953wvvz4gseuv?rj-ttl=5&rj-token=AAABbY9-MzsrHaHXrcDB_KrtUH8sI5PBR4D2RUlFtqd3sm8rr9NVWg
 
-#EXTINF:-1 tvg-logo="http://www.milanolounge.it/images/Milano-Lounge-Radio-200x200-compressed.jpg"group-title="RÁDIO",Milano Lounge
+#EXTINF:-1 tvg-logo="http://www.milanolounge.it/images/Milano-Lounge-Radio-200x200-compressed.jpg" group-title="RÁDIO",Milano Lounge
 http://antares.dribb.com:5080/stream
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-fcHwN7HRkNY/VTjVXn5SBXI/AAAAAAAAC3w/kyQWkd3xftc/s1600/classical-music.gif"group-title="RÁDIO",Música Clássica
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-fcHwN7HRkNY/VTjVXn5SBXI/AAAAAAAAC3w/kyQWkd3xftc/s1600/classical-music.gif" group-title="RÁDIO",Música Clássica
 http://6d9a.webradio.upx.net.br:9970/stream
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/be/Log%C3%B3tipo_da_Mega_Hits.png/220px-Log%C3%B3tipo_da_Mega_Hits.png"group-title="RÁDIO",MEGA HITS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/b/be/Log%C3%B3tipo_da_Mega_Hits.png/220px-Log%C3%B3tipo_da_Mega_Hits.png" group-title="RÁDIO",MEGA HITS
 http://19553.live.streamtheworld.com/MEGA_HITS_SC
 
-#EXTINF:-1 tvg-logo="https://minharadioonline.net/sites/radiotransmundial.com.br/images/destaque/user_1206850739.jpg"group-title="RÁDIO",MAIS KIZOMBA
+#EXTINF:-1 tvg-logo="https://minharadioonline.net/sites/radiotransmundial.com.br/images/destaque/user_1206850739.jpg" group-title="RÁDIO",MAIS KIZOMBA
 http://109.71.41.6:8123/stream?1486995398698.mp3
 
-#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s47713d.png"group-title="RÁDIO",M Absolute Top 40
+#EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s47713d.png" group-title="RÁDIO",M Absolute Top 40
 http://185.33.21.112:80/top40_128
 
-#EXTINF:-1 tvg-logo="https://i.etsystatic.com/15439563/r/il/1d9520/1406121767/il_570xN.1406121767_k2ps.jpg"group-title="RÁDIO",Metal
+#EXTINF:-1 tvg-logo="https://i.etsystatic.com/15439563/r/il/1d9520/1406121767/il_570xN.1406121767_k2ps.jpg" group-title="RÁDIO",Metal
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-015/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/nTGxIjv.jpg"group-title="RÁDIO",Music Choice Max
+#EXTINF:-1 tvg-logo="http://i.imgur.com/nTGxIjv.jpg" group-title="RÁDIO",Music Choice Max
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-050/chunklist.m3u8
 
 ###################################################### (N)
 
-#EXTINF:-1 tvg-logo="http://www.lesplumeseditions.fr/image/cache/category_75/logo-metal-new-rock-original-4-7cm-m-pla-cal-14137-yrmgexvl-1841-500x550_0.jpg"group-title="RÁDIO",New Rock
+#EXTINF:-1 tvg-logo="http://www.lesplumeseditions.fr/image/cache/category_75/logo-metal-new-rock-original-4-7cm-m-pla-cal-14137-yrmgexvl-1841-500x550_0.jpg" group-title="RÁDIO",New Rock
 http://6d9a.webradio.upx.net.br:8028/stream
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905339325201743872/pQFQoF8S_400x400.jpg"group-title="RÁDIO",Nova Era
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/905339325201743872/pQFQoF8S_400x400.jpg" group-title="RÁDIO",Nova Era
 http://centova.radios.pt:9478/stream/1/
 
-#EXTINF:-1 tvg-logo="https://nove3cinco.pt/sv/wp-content/uploads/2018/01/Normal_semfundo.png"group-title="RÁDIO",Nove3cinco
+#EXTINF:-1 tvg-logo="https://nove3cinco.pt/sv/wp-content/uploads/2018/01/Normal_semfundo.png" group-title="RÁDIO",Nove3cinco
 http://centova.radios.pt:9522/stream/1/
 
 ###################################################### (O)
-#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/Esta%C3%A7%C3%A3o-Orbital-101.9-FM-R%C3%A1dio.png"group-title="RÁDIO",ORBITAL
+#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2007/07/Esta%C3%A7%C3%A3o-Orbital-101.9-FM-R%C3%A1dio.png" group-title="RÁDIO",ORBITAL
 http://195.23.85.126:8401/stream/1/
 
 ###################################################### (P)
-#EXTINF:-1 tvg-logo="http://www.pulsradio.com/img/logo-lounge.png"group-title="RÁDIO",Puls Radio Lounge
+#EXTINF:-1 tvg-logo="http://www.pulsradio.com/img/logo-lounge.png" group-title="RÁDIO",Puls Radio Lounge
 http://87.98.129.202/relaxHD.mp3
 
-#EXTINF:-1 tvg-logo="http://djguilherme.hospedagemdesites.ws/painelctrl/arquivos/conteudo/pagode%20fotinha.JPG"group-title="RÁDIO",Pagode
+#EXTINF:-1 tvg-logo="http://djguilherme.hospedagemdesites.ws/painelctrl/arquivos/conteudo/pagode%20fotinha.JPG" group-title="RÁDIO",Pagode
 http://6d9a.webradio.upx.net.br:9061/stream
 
-#EXTINF:-1 tvg-logo="https://images-platform.99static.com/opEGFGw7lzVCay0SqsyL_SCaW_s=/500x500/top/smart/99designs-contests-attachments/31/31260/attachment_31260178"group-title="RÁDIO",Pop Rock
+#EXTINF:-1 tvg-logo="https://images-platform.99static.com/opEGFGw7lzVCay0SqsyL_SCaW_s=/500x500/top/smart/99designs-contests-attachments/31/31260/attachment_31260178" group-title="RÁDIO",Pop Rock
 http://6d9a.webradio.upx.net.br:8016/stream
 
-#EXTINF:-1 tvg-logo="https://webstockreview.net/images/clipart-music-singing-19.png"group-title="RÁDIO",Pop Hits
+#EXTINF:-1 tvg-logo="https://webstockreview.net/images/clipart-music-singing-19.png" group-title="RÁDIO",Pop Hits
 http://6d9a.webradio.upx.net.br:9046/stream
 
-#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/k3Lc69GMYE.png"group-title="RÁDIO",PLACARD
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/k3Lc69GMYE.png" group-title="RÁDIO",PLACARD
 http://213.239.218.99:7098/;?1475760096281.aac
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/952249834437722112/EVa0cP3l_400x400.jpg"group-title="RÁDIO",Pulse FM Hit Music Now!
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/952249834437722112/EVa0cP3l_400x400.jpg" group-title="RÁDIO",Pulse FM Hit Music Now!
 http://176.31.107.8:8946/stream
 
-#EXTINF:-1 tvg-logo="https://cdn6.f-cdn.com/contestentries/275303/16853388/55fb9bb78a9db_thumb900.jpg"group-title="RÁDIO",Pop & Country
+#EXTINF:-1 tvg-logo="https://cdn6.f-cdn.com/contestentries/275303/16853388/55fb9bb78a9db_thumb900.jpg" group-title="RÁDIO",Pop & Country
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-047/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://content.hungama.com/audio%20album/display%20image/300x300%20jpeg/1948085210.jpg"group-title="RÁDIO",Pop Hits
+#EXTINF:-1 tvg-logo="https://content.hungama.com/audio%20album/display%20image/300x300%20jpeg/1948085210.jpg" group-title="RÁDIO",Pop Hits
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-029/chunklist.m3u8
 
 ###################################################### (Q)
 ###################################################### (R)
 
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s16221g.png"group-title="RÁDIO",RFI
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s16221g.png" group-title="RÁDIO",RFI
 http://live02.rfi.fr/rfibrasil-64k.mp3
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1008787156737904640/04SJEw4T.jpg"group-title="RÁDIO",Rádio SulAmérica Paradiso FM
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1008787156737904640/04SJEw4T.jpg" group-title="RÁDIO",Rádio SulAmérica Paradiso FM
 http://17943.live.streamtheworld.com:3690/SULAMERICA_SC?DIST=TuneIn&TGT=TuneIn&maxServers=2&gender=m&ua=RadioTime&ttag=RadioTime
 
-#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s6165/images/logog.png?t=155714"group-title="RÁDIO",Rádio Kiss FM (São Paulo)
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s6165/images/logog.png?t=155714" group-title="RÁDIO",Rádio Kiss FM (São Paulo)
 http://stm15.sateg.com.br:23538/;
 
-#EXTINF:-1 tvg-logo="http://radiomixfm.com.br/wp-content/uploads/2018/02/logo-2018-social.png"group-title="RÁDIO",Rádio Mix FM
+#EXTINF:-1 tvg-logo="http://radiomixfm.com.br/wp-content/uploads/2018/02/logo-2018-social.png" group-title="RÁDIO",Rádio Mix FM
 http://mixaac.crossradio.com.br:1100/live
 
-#EXTINF:-1 tvg-logo="http://ouvir.tabelasdofutebol.com/wp-content/uploads/2018/08/rdio-transamrica-pop-fm-101-3.jpg"group-title="RÁDIO",Rádio Transamerica FM
+#EXTINF:-1 tvg-logo="http://ouvir.tabelasdofutebol.com/wp-content/uploads/2018/08/rdio-transamrica-pop-fm-101-3.jpg" group-title="RÁDIO",Rádio Transamerica FM
 http://transamerica.crossradio.com.br:9114/live.mp3
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-y7pvdqR7Kk/hqdefault.jpg"group-title="RÁDIO",Rádio Eldorado FM
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/-y7pvdqR7Kk/hqdefault.jpg" group-title="RÁDIO",Rádio Eldorado FM
 http://noasrv.caster.fm:10136/stream
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/432628301635403776/QZIv7vY6.jpeg"group-title="RÁDIO",Rádio Princesa FM
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/432628301635403776/QZIv7vY6.jpeg" group-title="RÁDIO",Rádio Princesa FM
 http://noasrv.caster.fm:10124/stream
 
-#EXTINF:-1 tvg-logo="https://www.researchgate.net/profile/Fernanda_Henriques2/publication/45339833/figure/fig17/AS:373023522738188@1465947146868/Roberto-Carlos-50-anos-de-musica-Selo-comemorativo.png"group-title="RÁDIO",ROBERTO CARLOS
+#EXTINF:-1 tvg-logo="https://www.researchgate.net/profile/Fernanda_Henriques2/publication/45339833/figure/fig17/AS:373023522738188@1465947146868/Roberto-Carlos-50-anos-de-musica-Selo-comemorativo.png" group-title="RÁDIO",ROBERTO CARLOS
 http://192.99.150.31:9137/stream
 
-#EXTINF:-1 tvg-logo="http://romanticafm.com.br/wp-content/uploads/2018/08/romantica-rede-fm.png"group-title="RÁDIO",Romantica
+#EXTINF:-1 tvg-logo="http://romanticafm.com.br/wp-content/uploads/2018/08/romantica-rede-fm.png" group-title="RÁDIO",Romantica
 http://unlimited4-us.dps.live/romantica/mp3/icecast.audio
 
-#EXTINF:-1 tvg-logo="http://romanticafm.com.br/wp-content/uploads/2018/08/romantica-rede-fm.png"group-title="RÁDIO",Românticas BR
+#EXTINF:-1 tvg-logo="http://romanticafm.com.br/wp-content/uploads/2018/08/romantica-rede-fm.png" group-title="RÁDIO",Românticas BR
 https://servidor38-3.brlogic.com:8636/live
 
-#EXTINF:-1 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/10/radio-meo-music.jpg"group-title="RÁDIO",Radio Meo
+#EXTINF:-1 tvg-logo="http://www.tvtuga.com/wp-content/uploads/2015/10/radio-meo-music.jpg" group-title="RÁDIO",Radio Meo
 http://centova.radios.pt:8495/stream/1/
 
-#EXTINF:-1 tvg-logo="http://m80.iol.pt/images/capa-indisponivel.jpg"group-title="RÁDIO",Radio M80
+#EXTINF:-1 tvg-logo="http://m80.iol.pt/images/capa-indisponivel.jpg" group-title="RÁDIO",Radio M80
 http://mcrscast.mcr.iol.pt/m80
 
-#EXTINF:-1 tvg-logo="https://appsportugal.com/media/uploads/download98.png"group-title="RÁDIO",RADIO COMERCIAL
+#EXTINF:-1 tvg-logo="https://appsportugal.com/media/uploads/download98.png" group-title="RÁDIO",RADIO COMERCIAL
 http://mcrscast.mcr.iol.pt/comercial
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4TBij23f8cnTcmbIAV5ONzTAeNURQxl_Hye7CdEyVCox431a6tXo4g4k"group-title="RÁDIO",RFM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4TBij23f8cnTcmbIAV5ONzTAeNURQxl_Hye7CdEyVCox431a6tXo4g4k" group-title="RÁDIO",RFM
 http://19553.live.streamtheworld.com/RFM_SC
 
-#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_06e9e58e19d3d91b565f4b3424659762/logo200.jpg"group-title="RÁDIO",Radio Atitude
+#EXTINF:-1 tvg-logo="http://db.radioline.fr/pictures/radio_06e9e58e19d3d91b565f4b3424659762/logo200.jpg" group-title="RÁDIO",Radio Atitude
 http://centova.radio.com.pt:9034/;stream.mp3
 
-#EXTINF:-1 tvg-logo="http://static.radio.pt/images/broadcasts/d9/1c/4865/c175.png"group-title="RÁDIO",Radio Popular Fm
+#EXTINF:-1 tvg-logo="http://static.radio.pt/images/broadcasts/d9/1c/4865/c175.png" group-title="RÁDIO",Radio Popular Fm
 http://195.8.58.150:32281/stream/1/
 
-#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s219263/images/logog.jpg?t=152535"group-title="RÁDIO",Rádio Toca a Dançar RTD
+#EXTINF:-1 tvg-logo="http://cdn-profiles.tunein.com/s219263/images/logog.jpg?t=152535" group-title="RÁDIO",Rádio Toca a Dançar RTD
 http://5.9.14.150:8238/;
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/images.png"group-title="RÁDIO",Radio Nostalgia
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/images.png" group-title="RÁDIO",Radio Nostalgia
 http://centova.radios.pt:8435/;
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/download.jpg"group-title="RÁDIO",Radio Marginal
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/17/download.jpg" group-title="RÁDIO",Radio Marginal
 http://centova.radios.pt:8499/stream/1/
 
-#EXTINF:-1 tvg-logo="https://mediaserver2.rr.pt/newrr/non_lgrr1734952d.png"group-title="RÁDIO",RADIO RENASCENCA
+#EXTINF:-1 tvg-logo="https://mediaserver2.rr.pt/newrr/non_lgrr1734952d.png" group-title="RÁDIO",RADIO RENASCENCA
 http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA_SC
 
-#EXTINF:-1 tvg-logo="http://www.apradiodifusao.pt/xiiicongresso/images/radios/radioportalegre.png"group-title="RÁDIO",RÁDIO PORTALEGRE
+#EXTINF:-1 tvg-logo="http://www.apradiodifusao.pt/xiiicongresso/images/radios/radioportalegre.png" group-title="RÁDIO",RÁDIO PORTALEGRE
 http://centova.radios.pt:9492/stream
 
-#EXTINF:-1 tvg-logo="https://minharadioonline.net/sites/radiotransmundial.com.br/images/destaque/user_1206850739.jpg"group-title="RÁDIO",Rock y Pop Latino
+#EXTINF:-1 tvg-logo="https://minharadioonline.net/sites/radiotransmundial.com.br/images/destaque/user_1206850739.jpg" group-title="RÁDIO",Rock y Pop Latino
 http://streaming.radionomy.com/PopYRockEnEspanol
 
-#EXTINF:-1 tvg-logo="https://static.radio.pt/images/broadcasts/f0/03/3118/3/c300.png"group-title="RÁDIO",RADIO SCOOP
+#EXTINF:-1 tvg-logo="https://static.radio.pt/images/broadcasts/f0/03/3118/3/c300.png" group-title="RÁDIO",RADIO SCOOP
 http://stream.radioscoop.com/scoop1.mp3
 
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a7/be/03/a7be03d8-3335-5f70-e603-9210ef439297/source/600x600bb.jpg"group-title="RÁDIO",R&B + Soul
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a7/be/03/a7be03d8-3335-5f70-e603-9210ef439297/source/600x600bb.jpg" group-title="RÁDIO",R&B + Soul
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-010/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://steemitimages.com/DQmVDeNTeqnUzR6BBtd6d6YLYMun7hVRhZJfmqSj7Awr4Fq/Asset%201.png"group-title="RÁDIO",Rap
+#EXTINF:-1 tvg-logo="https://steemitimages.com/DQmVDeNTeqnUzR6BBtd6d6YLYMun7hVRhZJfmqSj7Awr4Fq/Asset%201.png" group-title="RÁDIO",Rap
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-011/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.designevo.com/res/templates/thumb_small/fashionable-rapper-and-banner.png"group-title="RÁDIO",Rap 2K
+#EXTINF:-1 tvg-logo="https://www.designevo.com/res/templates/thumb_small/fashionable-rapper-and-banner.png" group-title="RÁDIO",Rap 2K
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-165/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.von.gov.ng/wp-content/uploads/2018/11/REGGAE-MUSIC.gif"group-title="RÁDIO",Reggae
+#EXTINF:-1 tvg-logo="https://www.von.gov.ng/wp-content/uploads/2018/11/REGGAE-MUSIC.gif" group-title="RÁDIO",Reggae
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-024/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.freepik.com/vetores-gratis/logotipo-da-musica-rock_23-2147889170.jpg"group-title="RÁDIO",Rock
+#EXTINF:-1 tvg-logo="https://image.freepik.com/vetores-gratis/logotipo-da-musica-rock_23-2147889170.jpg" group-title="RÁDIO",Rock
 http://edge.music-choice-ac-chaina1.top.comcast.net/AudioChannels/Ch-044/chunklist.m3u8
 
 ###################################################### (S)
-#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s229616g.png"group-title="RÁDIO",STUDIO DO AMOR
+#EXTINF:-1 tvg-logo="http://cdn-radiotime-logos.tunein.com/s229616g.png" group-title="RÁDIO",STUDIO DO AMOR
 http://192.99.150.31:8962/stream?
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1070712926301011968/RmoHHL2J.jpg"group-title="RÁDIO",Super-bock (Super Rock)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1070712926301011968/RmoHHL2J.jpg" group-title="RÁDIO",Super-bock (Super Rock)
 http://centova.radios.pt:8435/stream/1/
 
-#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/02/logo_smooth-300x184.png"group-title="RÁDIO",Smooth fm
+#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/02/logo_smooth-300x184.png" group-title="RÁDIO",Smooth fm
 http://mcrscast.mcr.iol.pt/smoothfm
 
-#EXTINF:-1 tvg-logo="https://minharadioonline.net/sites/radiotransmundial.com.br/images/destaque/user_1206850739.jpg"group-title="RÁDIO",Salsa
+#EXTINF:-1 tvg-logo="https://minharadioonline.net/sites/radiotransmundial.com.br/images/destaque/user_1206850739.jpg" group-title="RÁDIO",Salsa
 http://streaming.radionomy.com/Salsa-de-la-mata-SER
 
 ###################################################### (T)
-#EXTINF:-1 tvg-logo="https://www.trilhasalacarte.com.br/arquivos/i2.jpg"group-title="RÁDIO",Trilhas Sonoras
+
+#EXTINF:-1 tvg-logo="https://www.trilhasalacarte.com.br/arquivos/i2.jpg" group-title="RÁDIO",Trilhas Sonoras
 http://6d9a.webradio.upx.net.br:9896/stream
 
-#EXTINF:-1 tvg-logo="https://lh4.ggpht.com/TonKNb7XOFsH79tVMDRXx9lo0xX3Fi699_K3kvqc1y0bJ6SOvf7it49_Rm4gVsZ3Ttc=w300"group-title="RÁDIO",TSF
+#EXTINF:-1 tvg-logo="https://lh4.ggpht.com/TonKNb7XOFsH79tVMDRXx9lo0xX3Fi699_K3kvqc1y0bJ6SOvf7it49_Rm4gVsZ3Ttc=w300" group-title="RÁDIO",TSF
 http://tsfdirecto.tsf.pt/tsfdirecto.mp3
 
-#EXTINF:-1 tvg-logo="https://minharadioonline.net/sites/radiotransmundial.com.br/images/destaque/user_1206850739.jpg"group-title="RÁDIO",Top Latino Radio
+#EXTINF:-1 tvg-logo="https://minharadioonline.net/sites/radiotransmundial.com.br/images/destaque/user_1206850739.jpg" group-title="RÁDIO",Top Latino Radio
 http://173.236.60.186:8020/stream
 
-#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20190516/original/pngtree-vector-summer-time-holiday-typographic-illustrationwith-surf-boards-on-vintage-wood-png-image_4201384.jpg"group-title="RÁDIO",The Heart (Love Songs)
+#EXTINF:-1 tvg-logo="https://png.pngtree.com/png-clipart/20190516/original/pngtree-vector-summer-time-holiday-typographic-illustrationwith-surf-boards-on-vintage-wood-png-image_4201384.jpg" group-title="RÁDIO",The Heart (Love Songs)
 http://relay.181.fm:8006/;
 
 ###################################################### (U)
 ###################################################### (V)
-#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/images/virgin.png"group-title="RÁDIO",Virgin Radio
+#EXTINF:-1 tvg-logo="http://www.espai.jazztel.es/images/virgin.png" group-title="RÁDIO",Virgin Radio
 http://radio.virginradio.co.uk/stream
 
-#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/09/vodafone-300x174.jpg"group-title="RÁDIO",Vodafone
+#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/09/vodafone-300x174.jpg" group-title="RÁDIO",Vodafone
 http://195.23.102.207/vodafone
 
-#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/09/vodafone-300x174.jpg"group-title="RÁDIO",Vodafone 2
+#EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/09/vodafone-300x174.jpg" group-title="RÁDIO",Vodafone 2
 http://mcrscast.mcr.iol.pt/vodafone
 
 ###################################################### (W)
@@ -2833,220 +3319,6 @@ http://mcrscast.mcr.iol.pt/vodafone
 #EXTINF: -1 tvg-logo="" group-title="RÁDIO",
 ###################################################### (Z)
 #EXTINF: -1 tvg-logo="" group-title="RÁDIO",
-
-###################################################### AMBIENTE GOSPEL ###########################################################
-###################################################### (A)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/12/23/ALINE-BARROS-AS-MELHORES-musicas-mais-tocadas-ATUALIZADA-2019-NOVA-LISTA.jpg" group-title="AMBIENTE GOSPEL",ALINE BARROS AS MELHORES (músicas mais tocadas) [ATUALIZADA 2019]
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/03/ANTONIO-BICUDO---ASSIM-SOU-EM-TUAS-MAOS.jpg" group-title="AMBIENTE GOSPEL",AS MELHORES DE ANTONIO BICUDO
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/05/ANTONIO-BICUDO---O-ESTRANGEIRO.jpg" group-title="AMBIENTE GOSPEL",ANTONIO BICUDO - O ESTRANGEIRO ( CD COMPLETO ) Nº 228
-
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (B)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (C)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (D)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (E)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (F)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (G)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (H)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (I)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (J)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (K)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (L)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (M)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (N)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (O)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (P)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (Q)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (R)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (S)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (T)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (U)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (V)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (W)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (X)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (Y)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-###################################################### (Z)
-#EXTINF: -1 tvg-logo="" group-title="AMBIENTE GOSPEL",
-
-###################################################### BLUES - JAZZ ############################################################
-###################################################### (A)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (B)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (C)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (D)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (E)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (F)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (G)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (H)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (I)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (J)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (K)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (L)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (M)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (N)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (O)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-
-###################################################### (P)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/23/06.jpg" group-title="BLUES - JAZZ",Peter Pearson Blissful Journey ( Full Album 2016)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/23/07.jpg" group-title="BLUES - JAZZ",Peter Pearson Bliss ( Full Album 2017)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/26/02.jpg" group-title="BLUES - JAZZ",Peter Pearson Lost In My Dreams ( Full Album 2016)
-
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (Q)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (R)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (S)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-
-###################################################### (T)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/02.jpg" group-title="BLUES - JAZZ",Tony Tucker Fascinating Musiс ( Full Album 2018)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/012561345d3fea5244.jpg" group-title="BLUES - JAZZ",Tony Tucker Down The Road Of Blues - Full Album 2018
-
-###################################################### (U)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (V)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (W)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (X)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-###################################################### (Y)
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-
-###################################################### (Z)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/03.jpg" group-title="BLUES - JAZZ",Zed Mitchell WOW ( Full Album 2018)
-
-#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
-
-###################################################### CHILLHOP - LOFI HIP HOP ######################################################
-###################################################### (#)
-
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-
-###################################################### (A)
-
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-
-###################################################### (B)
-
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-
-###################################################### (C)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/11.jpg" group-title="CHILLHOP - LOFI HIP HOP",🌴 Chillhop Essentials Summer 2019 Chill & Groovy Beats
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/26/01.jpg" group-title="CHILLHOP - LOFI HIP HOP",City Escape 🌃[jazzy Beats Lofi Hip Hop Mix]
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/19/05.jpg" group-title="CHILLHOP - LOFI HIP HOP",Chill Study Beats 5 • Jazz & Lofi Hiphop Mix [ 2018]
-
-###################################################### (D)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-###################################################### (E)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-###################################################### (F)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-###################################################### (G)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-
-###################################################### (H)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/06.jpg" group-title="CHILLHOP - LOFI HIP HOP",Home Town Jazzy Hip Hop
-
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-###################################################### (I)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-###################################################### (J)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-###################################################### (K)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-
-###################################################### (L)
-
-#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/-FlxM_0S2lA/maxresdefault.jpg" group-title="CHILLHOP - LOFI HIP HOP",lofi hip hop radio - beats to relax/study to ( TESTE AO VIVO facebook compartilhado)
-https://www.youtube.com/watch?v=5qap5aO4i9A&feature=share&fbclid=IwAR1fpbs2GaHTdf9lnsJmPwaJrLye9MSxrjwfvZhF6v9yZ6cB9THyumKRJ1s
-
-#EXTINF: -1 tvg-logo="https://i.ytimg.com/vi/-FlxM_0S2lA/maxresdefault.jpg" group-title="CHILLHOP - LOFI HIP HOP",lofi hip hop radio - beats to relax/study to
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1586409371/ei/O1uOXpKIH4vMxwSk9rPQBA/ip/186.221.170.6/id/5qap5aO4i9A.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maudio/1/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJpPlLswRgIhALTHlK3eDuVu9CWRaS7Y_GszPGovvllltZfq85DXueIzAiEAi5BMC3j5GQxMlqwt89C2YDeI4Jijc4Gmd7DFFLJA9d4%3D/file/index.m3u8
-
-###################################################### (M)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-
-###################################################### (N)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/10.jpg" group-title="CHILLHOP - LOFI HIP HOP",Nighttime Ramen 🍜 [jazzy Beats Lofi Hip Hop Mix]
-
-###################################################### (O)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-###################################################### (P)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-###################################################### (Q)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-###################################################### (R)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-###################################################### (S)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-###################################################### (T)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-###################################################### (U)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-###################################################### (V)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-###################################################### (W)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-###################################################### (X)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-###################################################### (Y)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
-###################################################### (Z)
-#EXTINF: -1 tvg-logo="" group-title="CHILLHOP - LOFI HIP HOP",
 
 ###################################################### ELETRONIC MUSIC ###########################################################
 ###################################################### (#)
@@ -3386,98 +3658,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1586409371/ei/O
 #EXTINF: -1 tvg-logo="" group-title="PAGODE",
 ###################################################### (Z)
 #EXTINF: -1 tvg-logo="" group-title="PAGODE",
-
-################################################### RETRO MIX ###################################################################
-###################################################### (A)
-
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (B)
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-
-###################################################### (C)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/08.jpg" group-title="RETRO MIX",Cyberpunk 2077 Mix Best Future 80's Mix Vol. 7 ║ Retrowave & Synthwave║
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/04/11.jpg" group-title="RETRO MIX",Cyberpunk 2077 Mix Best Future 80's Mix Vol. 9 4 K ║ Retrowave & Synthwave║
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/04/12.jpg" group-title="RETRO MIX",Cyberpunk 2077 Mix Best Future 80's Mix Vol. 3 ║ Retrowave & Synthwave║
-
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (D)
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (E)
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (F)
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (G)
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (H)
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (I)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/13a4b4fd5439b6ef2a.jpg" group-title="RETRO MIX",Infinity A Futuristic Synthwave Mix [ Chillwave Retrowave]
-
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (J)
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (K)
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-
-###################################################### (L)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/04/07.jpg" group-title="RETRO MIX",ＬＯＮＧ　ＮＩＧＨＴＳ [ Chillwave Synthwave Retrowave Mix ]
-
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (M)
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-
-###################################################### (N)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/09.jpg" group-title="RETRO MIX",NEON HEARTS' A Synthwave And Synthpop Mix
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/04/artworks-000282214091-3d6ihi-t500x500.jpg" group-title="RETRO MIX",NINA Sleepwalking ( Full Album)
-
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (O)
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (P)
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (Q)
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-
-###################################################### (R)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/13/maxresdefault-8.jpg" group-title="RETRO MIX" pltv-subgroup="RETRO MUSIC",Retrowave Synthwave Darkwave Neon Nights Midnight Radio
-
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-
-###################################################### (S)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/04/06.jpg" group-title="RETRO MIX" pltv-subgroup="RETRO MUSIC",ＳＫＹＷＡＹ [ Chillwave Synthwave Retrowave Mix ]
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/14.jpg" group-title="RETRO MIX" pltv-subgroup="RETRO MUSIC",Synthwave Mix ⚡ Cybercity ( Synthwave - Futuresynth - Retro Electro)
-
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (T)
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (U)
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (V)
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-
-###################################################### (W)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/03/04.jpg" group-title="RETRO MIX" pltv-subgroup="RETRO MUSIC",Waves A Chillwave Mix
-
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (X)
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (Y)
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
-###################################################### (Z)
-#EXTINF: -1 tvg-logo="" group-title="RETRO MIX",
 
 ###################################################### ROCK ###########################################################
 ###################################################### (#)
