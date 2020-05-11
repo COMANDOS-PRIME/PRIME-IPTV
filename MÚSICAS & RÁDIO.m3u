@@ -16,10 +16,6 @@ https://ia601509.us.archive.org/8/items/sobel_202003/SOBEL.ia.mp4
 
 ###################################################### CANAIS DE CLIPES MUSICAIS #################################################
 ###################################################### (#)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/08/08.png" group-title="CANAIS DE CLIPES MUSICAIS",4FUN TV
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/08/09.png" group-title="CANAIS DE CLIPES MUSICAIS",4FUN DANCE
-
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/04/14/17.jpg" group-title="CANAIS DE CLIPES MUSICAIS",7 TV MURCIA
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 
@@ -44,16 +40,6 @@ http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxupfront-inapp.m3u8
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/18/03.png" group-title="CANAIS DE CLIPES MUSICAIS",BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/18/04.jpg" group-title="CANAIS DE CLIPES MUSICAIS",BEBLACK ÁFRICA 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/18/05.jpg" group-title="CANAIS DE CLIPES MUSICAIS",BEBLACK CRIBBEAN
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/18/01.jpg" group-title="CANAIS DE CLIPES MUSICAIS",BEBLACK CLASSIK
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/18/11.png" group-title="CANAIS DE CLIPES MUSICAIS",BRIDGE ace
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/18/12.png" group-title="CANAIS DE CLIPES MUSICAIS",BRIDGE TV
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/18/138216df24d59507c0.png" group-title="CANAIS DE CLIPES MUSICAIS",BRIDGE TV 2
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/18/06.jpg" group-title="CANAIS DE CLIPES MUSICAIS",BRIDGE TV 3
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/18/14.png" group-title="CANAIS DE CLIPES MUSICAIS",BRIDGE TV CLASSIC
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/18/15.png" group-title="CANAIS DE CLIPES MUSICAIS",BRIDGE TV DANCE
 
 ###################################################### (C)
 
@@ -402,7 +388,6 @@ https://zouglacam-mdc-secure.akamaized.net/zouglastream/radio_backup9/chunks.m3u
 
 ###################################################### AMBIENTE GOSPEL ###########################################################
 ###################################################### (A)
-
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/04/01.jpg" group-title="AMBIENTE GOSPEL",ALINE BARROS AS MELHORES (músicas mais tocadas) [ATUALIZADA 2019]
 https://ia601402.us.archive.org/23/items/aline-barros-as-melhores-musicas-mais-tocadas-atualizada-2019-nova-lista/ALINE%20BARROS%20-%20AS%20MELHORES%20%28m%C3%BAsicas%20mais%20tocadas%29%20%5BATUALIZADA%202019%5D%20%5BNOVA%20LISTA%5D.ia.mp4
 
@@ -488,7 +473,6 @@ https://ia601509.us.archive.org/5/items/4kcorsicabreathtakingviewsfromabove4kvid
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/22.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",4 K DRONE FILM Mallorca & Canary Islands (+ Spa Music) 1 HOUR Nature Relaxation™ Aerial Ambient Film
 
 #EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
 
 ###################################################### (A)
 
@@ -498,7 +482,6 @@ https://ia601509.us.archive.org/5/items/4kcorsicabreathtakingviewsfromabove4kvid
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/18.jpg" group-title="RELAXING NATURE - AMBIENT MUSIC",BORA BORA By Drone The WHOLE ISLAND Long Version In 4k
 
-#EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
 #EXTINF: -1 tvg-logo="" group-title="RELAXING NATURE - AMBIENT MUSIC",
 
 ###################################################### (C)
