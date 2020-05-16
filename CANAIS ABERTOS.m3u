@@ -1043,9 +1043,6 @@ http://hls.fm1.com.br:8080/hls/tvliberdade.m3u8
 #EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2013/08/redebrasil.jpg"group-title="CANAIS ABERTOS",RBTV - Rede Brasil de Televisão
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w2116565669.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.meioemensagem.com.br/wp-content/uploads/2016/02/futura-canal.jpg"group-title="CANAIS ABERTOS",CANAL FUTURA - (RJ)
-http://caikron.com.br:1935/unipar/tvup/chunklist_w719595372.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS ABERTOS",REDE VIDA
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
@@ -1063,9 +1060,6 @@ https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-p.m3u8?sd=10
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/69/Esporte_Interativo_BR.png/320px-Esporte_Interativo_BR.png" group-title="CANAIS ABERTOS", CARIOCA INTERATIVO TV
 http://wse01.logicahost.com.br:1935/cariocainterativo/cariocainterativo/chunklist_w306082016.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/600353545158791168/JI0QFnod.png" group-title="CANAIS ABERTOS", TV AL -(MS)
-https://cdn.jmvstream.com/live/hls/lv_6769/LV6769_Q7AKXnL6Bn.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foztv.com.br/wp-content/uploads/2018/07/foztv-novo.png" group-title="CANAIS ABERTOS",FOZ TV
 https://streamingserverbr1.septe.com.br:1936/hls/foztv.m3u8
@@ -1091,9 +1085,6 @@ http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/chunklist_w456429934.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Bd0Jlv1UsNzZUJhaCLbTDMxLBVVDUphpwkEG94KtWc-r1vq4IqNGr8a_x3R2AY5wgaI" group-title="CANAIS ABERTOS",TV GOSPEL CARTOON
 http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=495096105
 
-#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/83/c1/0c/83c10c33-8078-37f9-a216-cf5f375fa7a8/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.jpeg/246x0w.jpg" group-title="CANAIS ABERTOS",FM O DIA RJ
-https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y26pa5e7" group-title="CANAIS ABERTOS",FOX NEWS 23
 http://svc-lvanvato-cxtv-koki.cmgvideo.com/koki/2564k/index.m3u8
 
@@ -1108,9 +1099,6 @@ http://tv02.logicahost.com.br:1935/santana01/santana01/live.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.tvfronteira.com.br/app/img/logo.png" group-title="CANAIS ABERTOS",TV FRONTEIRA
 http://stmv4.euroti.com.br:1935/aguiberto6360/aguiberto6360/live.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.globalhub.com.br/wp-content/uploads/2015/03/Logo-TV-BAND-HD.png" group-title="CANAIS ABERTOS",BAND HD SP
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
 #EXTINF:-1 tvg-logo="http://recordtv.r7.com/emissoras-record/files/2015/12/ES_TV-VITORIA.png" group-title="CANAIS ABERTOS",TV VITÓRIA
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_3_original.m3u8
@@ -1181,23 +1169,11 @@ https://tvseculo21-lh.akamaihd.net/i/tvseculo_1@16110/index_1200_av-b.m3u8?sd=10
 #EXTINF:-1 tvg-logo="" group-title="CANAIS ABERTOS",MPB MUSICALIDADE
 http://192.99.150.31:8775/stream
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRLMA5CZwYGLtFJ93FEnzL7Is9kpY4OCOqOzIION9AXA9sTIt"group-title="CANAIS ABERTOS",REDE PLENITUDE - SP
-https://5a7d54e35f9d2.streamlock.net/iaptdbr/smil:iaptdbr.smil/chunklist_w1825681574_b2400000.m3u8
-
 #EXTINF:-1 tvg-logo="https://tinyurl.com/y2og3nmf"group-title="CANAIS ABERTOS",TV TERRA VIVA
 https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w845432168.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png"group-title="CANAIS ABERTOS",TV CIDADE VERDE - PI
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w392072680.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_gZqUnhh0DEJ0bHJvsHbwa8k9LRxUVKi0WBeB5bx01I9nL_k"group-title="CANAIS ABERTOS",1001 NOITES - PR
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_w1047064168_b1601536.m3u8
-
 #EXTINF:-1 tvg-logo="https://canalrural.uol.com.br/wp-content/uploads/2018/08/canal_rural.png"group-title="CANAIS ABERTOS",CANAL RURAL
 https://evpp.mm.uol.com.br/canal_rural/aovivo.sdp/chunklist_w742766855.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-paraiba_m.png"group-title="CANAIS ABERTOS",TV NOVA PARAÍBA - PB
-https://stmv1.srvstm.com/miguel8553/miguel8553/playlist.m3u8?wowzasessionid=934174638
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS ABERTOS",ESPN EXTRA HD
 http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,3958f83a366a90dbbd093f8907129171;base64np;k_t80-AGg9JIUeY!/amlst:k_uEyv1NhtNXEWo1/chunklist_b1835008.m3u8
@@ -1205,19 +1181,43 @@ http://c3170-gbbrslbps-sambatech.akamaized.net/live/3170,8466,3958f83a366a90dbbd
 #EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png"group-title="CANAIS ABERTOS",BAND 2
 https://evpp.mm.uol.com.br/bandpracas/bandtv_pp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-WK2zFaEvuzHDKV5BvLjLIJcDulfpcKqFbhw=s288-c-k-c0xffffffff-no-rj-mo"group-title="CANAIS ABERTOS",TV É-PARANÁ (PR)
-http://200.189.113.201/hls/tve.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.campustv.ac/addons/shared_addons/themes/campustv/img/ctv.png"group-title="CANAIS ABERTOS",TV CAMPUS UFSM
 https://farol.ufsm.br/conteudo/hls/wnd2h0c_record1_source/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-zPvdDariesg/XFuNdn1JA0I/AAAAAAAAJeE/Nb2xEOaGRscbtdImXWL3TSL65SF6n9nKACLcBGAs/s1600/JB4KPbpL.jpg"group-title="CANAIS ABERTOS",YEEAAH!-TEEN
 https://stmv1.srvstm.com/yeeaah/yeeaah/playlist.m3u8
 
+#####################
+
+#EXTINF:-1 tvg-logo="https://www.meioemensagem.com.br/wp-content/uploads/2016/02/futura-canal.jpg"group-title="CANAIS ABERTOS",CANAL FUTURA - (RJ)
+http://caikron.com.br:1935/unipar/tvup/chunklist_w719595372.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/600353545158791168/JI0QFnod.png" group-title="CANAIS ABERTOS", TV AL -(MS)
+https://cdn.jmvstream.com/live/hls/lv_6769/LV6769_Q7AKXnL6Bn.m3u8
+
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/83/c1/0c/83c10c33-8078-37f9-a216-cf5f375fa7a8/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-6.jpeg/246x0w.jpg" group-title="CANAIS ABERTOS",FM O DIA RJ
+https://c2901-slbps-sambavideos.akamaized.net/livet/FMoDiaVideo_14d480346fa04ebcb4f03173f2dae707/ngrp:livestream/chunklist_b898304.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.globalhub.com.br/wp-content/uploads/2015/03/Logo-TV-BAND-HD.png" group-title="CANAIS ABERTOS",BAND HD SP
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRLMA5CZwYGLtFJ93FEnzL7Is9kpY4OCOqOzIION9AXA9sTIt"group-title="CANAIS ABERTOS",REDE PLENITUDE - SP
+https://5a7d54e35f9d2.streamlock.net/iaptdbr/smil:iaptdbr.smil/chunklist_w1825681574_b2400000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Logotipo_TV_Cidade_Verde.png"group-title="CANAIS ABERTOS",TV CIDADE VERDE - PI
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w392072680.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_gZqUnhh0DEJ0bHJvsHbwa8k9LRxUVKi0WBeB5bx01I9nL_k"group-title="CANAIS ABERTOS",1001 NOITES - PR
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_w1047064168_b1601536.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-paraiba_m.png"group-title="CANAIS ABERTOS",TV NOVA PARAÍBA - PB
+https://stmv1.srvstm.com/miguel8553/miguel8553/playlist.m3u8?wowzasessionid=934174638
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AGF-l7-WK2zFaEvuzHDKV5BvLjLIJcDulfpcKqFbhw=s288-c-k-c0xffffffff-no-rj-mo"group-title="CANAIS ABERTOS",TV É-PARANÁ (PR)
+http://200.189.113.201/hls/tve.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Tvu_logo.png"group-title="CANAIS ABERTOS",TVU - RS
 https://5c64355d4b57c.streamlock.net:1936/8298/8298/chunklist_w1326833672.m3u8
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/_XGn-mWQCm6I/Rw_Io_uO7eI/AAAAAAAAC_k/wi1V6CPygus/s400/tv-escola.jpg"group-title="CANAIS ABERTOS",TV ESCOLA
 
 #EXTINF:-1 tvg-logo="https://movie.ipb.org.br/uploads/ipbtv-1.jpg"group-title="CANAIS ABERTOS",IPB TV - SP
 https://player.internetaovivo.com:8443/live_ipbtv/ipbtv1/playlist.m3u8
@@ -1783,17 +1783,120 @@ https://5c21f7ec1999d.streamlock.net/8040/8040/chunklist_w1722478180.m3u8
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",FLORIPA TV
 https://videos-fms.jwpsrv.com/content/conversions/WaFRuzY2/videos/t5SX9Xbb-31802950.mp4.m3u8?token=0_5e9fe257_0xcf52e356300abe29841916d954873b7115f40a8e
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",CBN ESPANHOL
+http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_2000_av-p.m3u8
 
-####################################################### ()
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",MESIAS TV
+https://stream8.mexiserver.com/MesiasTv/MesiasTv/chunklist_w1980861251.m3u8
 
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",UNCION TV
+https://www.webmedialive.org:1936/8022/8022/chunklist_w244908910.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",CBN NEWS TV
+http://bcliveuniv-lh.akamaihd.net/i/news_1@194050/index_900_av-p.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",TELE VIDA
+https://5bf8041cb3fed.streamlock.net/TeveVida/TeveVida/chunklist_w1477006197.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",CMC TV
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",TGM TV
+http://f.tx.edge.63.christianworldmedia.com:1935/freshanointorg/mp4:freshanointorg/chunklist_w300658974.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",WFAA CHANNEL 8 - BREAKING NEWS
+https://wfaa-lh.akamaihd.net/i/WFAA_Breaking_1@37783/index_2000_av-p.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",DJING - ELECTRONIC MUSIC TV
+https://www.djing.com/tv/29263-04.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",CBS 47
+http://svc-lvanvato-cxtv-wjax.cmgvideo.com/wjax/564k/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",NACION TV HOUSTON
+http://primary.iptv-global.net:1935/NacionTV/ngrp:myStream_all/chunklist_w698882407_b3128000_DVR.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",NACION TV GOSPEL
+http://primary.iptv-global.net:1935/NacionTV/ngrp:myStream_all/chunklist_w1009356965_b478000_DVR.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",KIRO 7 NEWS
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/2564k/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",COUNTRY MUSIC CHANNEL
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",DJING ANIMATION
+https://www.djing.com/tv/a-29264-04.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",VIVA CRISTO TV
+https://ss6.domint.net:2946/vct_str/vctv/chunklist_w652421661.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",FLASHBACK TV
+https://edge2.tikilive.com:8443/html5_tikilive/54822/amlst:mainstream/chunklist_w1727736713_b2170364.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTU0ODIyJmNOYW1lPUZsYXNoYmFjayUyMFRWJm9JRD03NDU1NDYmb05hbWU9Rmxhc2hiYWNrVFYmc0lkPXUwcDB2ajBxYWVuOG8ydGJhb28yZ2ppaWFmJnVJRD0wJnVOYW1lPUd1ZXN0OTU5Njk%3D&id=ZLSNQgaxFiTA5CAoAYea
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",RESTAURACION TV
+https://2-fss-2.themediacdn.com/pl_138/200836-1357134-1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",COURT TV
+https://content-asab2.uplynk.com/channel/87c82188ea944bcb961c34236b9648b0/e.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay&pbs=476ed0ffbbce4c91943fd61fa0b93620
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",URBANA PUBLIC TV
+https://playback2.akamaized.net/streams/27078849_8196114_lsi32exem1q3ukndva2_1/exp=1589684375~acl=%2f*~data=hdntl~hmac=552fd47f8d96f70598f6119f93d88434d36a79696ae2f399dd248ab6c3986a41/media/27078849_8196114_lsi32exem1q3ukndva2_1@446000p.m3u8?dw=14400&ts=1589594400
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",NEWSMAX TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",RADIOU TV
+https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",DJING
+https://www.djing.com/tv/i-29264-04.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",LA MEGA MUNDIAL
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w790171832.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",SPIRIT TELEVISION
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",3ABN DARE TO DREAM NETWORK
+https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/HQs/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",ALERTA TV
+https://5b3050bb1b2d8.streamlock.net/alertatv/alertatv/chunklist_w1931609386.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",WFGC TELEVISION
+http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",ALIENTO VISION
+https://livestreamcdn.net:444/AlientoSD/mp4:AlientoSD_360p/chunklist_w59543136.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",DJING UNDERGROUND
+https://www.djing.com/tv/u-29264-04.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",3ABN PROCLAIM
+https://moiptvhls-i.akamaihd.net/hls/live/652317-b/secure/HQs/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",TV UNIDOS
+https://vse-sa-all11.secdn.net/tvunidos-origin/live/tvunidos/chunklist_sess959904216.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",3ABN FRANÇAIS
+https://moiptvhls-i.akamaihd.net/hls/live/652314/secure/HQs/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",3ABN
+https://moiptvhls-i.akamaihd.net/hls/live/652042/secure/HQs/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - ESTADOS UNIDOS",3ABN INTERNATIONAL
+https://moiptvhls-i.akamaihd.net/hls/live/652312/secure/HQs/chunklist.m3u8
 
 ####################################################### (F)
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
+####################################################### (FRANÇA)
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - FRANÇA",FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - FRANÇA",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - FRANÇA",
+#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - FRANÇA",
 
 ####################################################### (G)
 ####################################################### (GRÉCIA)
