@@ -15,6 +15,7 @@ https://ia601504.us.archive.org/16/items/03_20200326_202003/03.mp4
 https://ia601509.us.archive.org/8/items/sobel_202003/SOBEL.ia.mp4
 
 ####################################################### ( CANAIS 24HS ) ################################################
+
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gj9XSqMh/11.png" group-title="CANAIS 24HS",CINE 24HS
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
 
@@ -24,7 +25,7 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?LISTASDAGLAU
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSklKwnsya4MMMgikbengtcKjM4tYhYGBoDXo8VNfOGsgDcy-h" group-title="CANAIS 24HS",CINE SKY
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/06/14/01a6f0ef71d32552cd.jpg" group-title="SÃO PAULO",TV JAPI - SP
+#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/06/14/01a6f0ef71d32552cd.jpg" group-title="CANAIS 24HS",TV JAPI - SP
 https://5d2c98775bafe.streamlock.net/8220/8220/chunklist_w1408488800.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS 24HS",SBT SD
