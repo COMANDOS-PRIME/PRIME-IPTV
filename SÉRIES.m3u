@@ -1,165 +1,34 @@
 #EXTM3U
 #####################################################################################################################################
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/0194002fc029bc9c95.png" group-title="INFORMAÇÕES",💜❤💛💚💙📺🎬 SÉRIES 🎬📺💙💚💛❤💜
+#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/06/30/01.jpg" group-title="INFORMAÇÕES",💜❤💛💚💙📺🎬 ## //COMANDOS PRIME\\ ## 🎧🎶💙💚💛❤💜
+https://ia801504.us.archive.org/22/items/comandos-prime-oficil/COMANDOS%20PRIME%20Ofici%40l.mp4
+
+#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/06/30/03.png" group-title="INFORMAÇÕES",💜❤💛💚💙📺🎬 ## //O MELHOR DO P2P & CDN - PARA SUA TV\\ ## 🎧🎶💙💚💛❤💜
+https://ia601407.us.archive.org/11/items/02_20200701_20200701/02.mp4
+
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/0194002fc029bc9c95.png" group-title="INFORMAÇÕES",💜❤💛💚💙📺🎬 ## //SÉRIES\\ ## 🎬📺💙💚💛❤💜
 https://ia601502.us.archive.org/7/items/06_20200326_202003/06.mp4
  
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/02.png" group-title="INFORMAÇÕES",💜❤💛💚💙📺📽 AS  MELHORES  SÉRIES  EM  SUAS  MÃOS 📽📺💙💚💛❤💜
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/02.png" group-title="INFORMAÇÕES",💜❤💛💚💙📺📽 ## //AS  MELHORES  SÉRIES  EM  SUAS  MÃOS\\ ## 📽📺💙💚💛❤💜
 https://ia601504.us.archive.org/16/items/07_20200326/07.mp4
 #####################################################################################################################################
-###################################################### PUBLICIDADE - OFERTAS & PRODUTOS
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/0170588226fb2dbc96.png"group-title="PUBLICIDADE - OFERTAS & PROMOÇÕES",MANDE SUA PROPAGANDA GRÁTIS ( PARA LHE AJUDAR )
+###################################################### ESPAÇO DO CLIENTE - OFERTAS & PROMOÇÕES
+
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/0170588226fb2dbc96.png"group-title="ESPAÇO DO CLIENTE - OFERTAS & PROMOÇÕES",MANDE SUA PROPAGANDA GRÁTIS ( PARA LHE AJUDAR NA DIVULGAÇÃO )
 https://ia601504.us.archive.org/16/items/03_20200326_202003/03.mp4
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/PIZZARIA-SOBEL.jpg"group-title="PUBLICIDADE - OFERTAS & PROMOÇÕES",PIZZARIA SOBEL ( GOSTOSO COMO UM BEIJO ) FAÇA SEU PEDIDO - RJ
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/PIZZARIA-SOBEL.jpg"group-title="ESPAÇO DO CLIENTE - OFERTAS & PROMOÇÕES",PIZZARIA SOBEL ( GOSTOSO COMO UM BEIJO ) - FAÇA SEU PEDIDO (21) 96419-6912 - RJ
 https://ia601509.us.archive.org/8/items/sobel_202003/SOBEL.ia.mp4
 
 ######################################################  ##########  ##################################################
 ######################################################
 #EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
-
 ######################################################  AAAAAAAAAA  ##################################################
 ######################################################
 #EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
-
 ######################################################  BBBBBBBBBB  ##################################################
-###################################################### ( BREAKING BAD )
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD.jpg" group-title="BREAKING BAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 01 - Piloto
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT01EP01.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD.jpg" group-title="BREAKING BAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 02 - Ressurreição
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT01EP02.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD.jpg" group-title="BREAKING BAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 03 - Dúvida 
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT01EP03.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD.jpg" group-title="BREAKING BAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 04 - Homem com Câncer
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT01EP04.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD.jpg" group-title="BREAKING BAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 05 - Matéria Cinzenta
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT01EP05.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD.jpg" group-title="BREAKING BAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 06 - O Grande Blefe
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT01EP06.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD.jpg" group-title="BREAKING BAD" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA ) Episódio 07 - Um Trato Sem Dificuldades
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT01EP07.mp4
-
-###################################################### (2)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 01 - 07:37
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP01.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 02 - Grelhado
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP02.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 03 - Picado Por Uma Abelha Morta
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP03.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 04 - Abaixo
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP04.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 05 - Ruptura
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP05.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 06 - Esconde-esconde
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP06.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 07 - Preto e Azul
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP07.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 08 - Melhor Chamar Saul
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP08.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 09 - 4 Dias Fora
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP09.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 10 - Sobre
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP10.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 11 - Mandala
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP11.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 12 - Fênix
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP12.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/19/BREAKING-BAD-2.jpg" group-title="BREAKING BAD" pltv-subgroup="2ª TEMPORADA", ( 2ª TEMPORADA ) Episódio 13 - ABQ
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT02EP13.mp4
-
-###################################################### (3)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 01 - Não Mas
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP01.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 02 - Caballo Sin Nombre
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP02.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 03 - I.F.T
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP03.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 04 - Luz Verde
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP04.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 05 - Mas
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP05.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 06 - Pôr do Sol
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP06.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 07 - Um Minuto
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP07.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 08 - Vejo Você
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP08.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 09 - Kafkiano
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP09.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 10 - Voar
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP10.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 11 - Abiquiu
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP11.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 12 - Meias Medidas
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP12.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-3.jpg" group-title="BREAKING BAD" pltv-subgroup="3ª TEMPORADA", ( 3ª TEMPORADA ) Episódio 13 - Medidas Completa
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT03EP13.mp4
-
-###################################################### (4)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 01 - Estilete
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP01.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 02 - Trinta e Oito Arrebitado
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP02.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 03 - Casa Aberta
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP03.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 04 - Pontos de Bala
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP04.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 05 - Espingarda
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP05.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 06 - Encurralado
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP06.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 07 - Cão Problema
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP07.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 08 - Irmãos
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP08.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 09 - Defeito
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP09.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 10 - Saúde
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP10.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 11 - Espaço do Rastejamento
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP11.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 12 - Fim dos Tempos
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP12.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-4.jpg" group-title="BREAKING BAD" pltv-subgroup="4ª TEMPORADA", ( 4ª TEMPORADA ) Episódio 13 - Cara Fora
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT04EP13.mp4
-
-###################################################### (5)
-
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 01 - Ao Vivo Livre ou Morrer
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT05EP01.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 02 - Madrigal
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT05EP02.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 03 - Subsídio de Risco
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT05EP03.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 04 - Cinquenta e Um
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT05EP04.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 05 - Frete Morto
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT05EP05.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 06 - PDV
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT05EP06.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 07 - Diga Meu Nome
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT05EP07.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 08 - Pairando Sobre Tudo
-http://cdnfe2.azureedge.net/RCServer05/ondemand/BBT05EP08.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 09 - Dinheiro de Sangue
-http://cdnfe3.azureedge.net/RCServer07/ondemand/BBT05EP09.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 10 - Enterrado
-http://cdnfe3.azureedge.net/RCServer07/ondemand/BBT05EP10.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 11 - Confissões
-http://cdnfe3.azureedge.net/RCServer07/ondemand/BBT05EP11.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 12 - Cão Raivoso
-http://cdnfe3.azureedge.net/RCServer07/ondemand/BBT05EP12.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 13 - To'hajiilee
-http://cdnfe3.azureedge.net/RCServer07/ondemand/BBT05EP13.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 14 - Ozymandias
-http://cdnfe3.azureedge.net/RCServer07/ondemand/BBT05EP14.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 15 - Estado de granito
-http://cdnfe3.azureedge.net/RCServer07/ondemand/BBT05EP15.mp4
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/30/BREAKING-BAD-5.jpg" group-title="BREAKING BAD" pltv-subgroup="5ª TEMPORADA", ( 5ª TEMPORADA ) Episódio 16 - Felina
-http://cdnfe3.azureedge.net/RCServer07/ondemand/BBT05EP16.mp4
-
+######################################################
+#EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
 ######################################################  CCCCCCCCCC  ##################################################
 ######################################################
 #EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
@@ -1337,7 +1206,6 @@ http://cdnfe3.azureedge.net/RCServer08/ondemand/WTCHMNT01EP07.mp4?attachment=tru
 
 ######################################################
 #EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
-
 ######################################################  XXXXXXXXXX  ##################################################
 ######################################################
 #EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
@@ -1349,3 +1217,17 @@ http://cdnfe3.azureedge.net/RCServer08/ondemand/WTCHMNT01EP07.mp4?attachment=tru
 #EXTINF: -1 tvg-logo="" group-title="" pltv-subgroup="1ª TEMPORADA", ( 1ª TEMPORADA )
 
 ####################################################  COMANDOS PRIME  ###############################################################
+####################################################
+####################################################
+##########  ♻ Gostou? Entre em Contato e veja mais novidades:
+##########  📱 (21)98620-9067 (Apenas ZAP) Desenvolvedor do Conteúdo
+##########  ✔"Link de Atendimento Pelo ( ZAP )":
+##########  👉 https://is.gd/atendimentoprime
+##########  ✔"Instagram":
+##########  👉 @comandosprime
+##########  ✔"Página no Facebook":
+##########  👉 https://www.facebook.com/ComandosprimeOficial/
+##########  ✔"Link de Atendimento pelo (Telegram)":
+##########  👉 https://t.me/comandosprime
+####################################################
+####################################################
