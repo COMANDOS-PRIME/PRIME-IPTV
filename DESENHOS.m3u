@@ -1,22 +1,28 @@
 #EXTM3U
 ###################################################################################################################################
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/01eaa8c271c47410ee.png" group-title="INFORMAÇÕES",💜❤💛💚💙📺🎪 DESENHOS 🎪📺💙💚💛❤💜
+#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/06/30/01.jpg" group-title="INFORMAÇÕES",💜❤💛💚💙📺🎪 ## //COMANDOS PRIME\\ ## 🎪📺💙💚💛❤💜
+https://ia801504.us.archive.org/22/items/comandos-prime-oficil/COMANDOS%20PRIME%20Ofici%40l.mp4
+
+#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/06/30/03.png" group-title="INFORMAÇÕES",💜❤💛💚💙📺🎪 ## //O MELHOR DO P2P & CDN - PARA SUA TV\\ ## 🎪📺💙💚💛❤💜
+https://ia601407.us.archive.org/11/items/02_20200701_20200701/02.mp4
+
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/01eaa8c271c47410ee.png" group-title="INFORMAÇÕES",💜❤💛💚💙📺🎪 ## //DESENHOS\\ ## 🎪📺💙💚💛❤💜
 https://ia601406.us.archive.org/9/items/10_20200327/10.mp4
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/01ae1166c2313f1df6.jpg" group-title="INFORMAÇÕES",💜❤💛💚💙📺🎪 O MELHOR DO CONTEÚDO INFANTIL PARA NOSSOS PEQUENOS 🎪📺💙💚💛❤💜
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/01ae1166c2313f1df6.jpg" group-title="INFORMAÇÕES",💜❤💛💚💙📺🎪 ## //O MELHOR DO CONTEÚDO INFANTIL PARA NOSSOS PEQUENOS\\ ## 🎪📺💙💚💛❤💜
 https://ia601403.us.archive.org/0/items/11_20200327/11.mp4
 ###################################################################################################################################
-###################################################### PUBLICIDADE - OFERTAS & PRODUTOS
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/0170588226fb2dbc96.png"group-title="PUBLICIDADE - OFERTAS & PROMOÇÕES",MANDE SUA PROPAGANDA GRÁTIS ( PARA LHE AJUDAR )
+###################################################### ESPAÇO DO CLIENTE - OFERTAS & PROMOÇÕES
+
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/0170588226fb2dbc96.png"group-title="ESPAÇO DO CLIENTE - OFERTAS & PROMOÇÕES",MANDE SUA PROPAGANDA GRÁTIS ( PARA LHE AJUDAR NA DIVULGAÇÃO )
 https://ia601504.us.archive.org/16/items/03_20200326_202003/03.mp4
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/PIZZARIA-SOBEL.jpg"group-title="PUBLICIDADE - OFERTAS & PROMOÇÕES",PIZZARIA SOBEL ( GOSTOSO COMO UM BEIJO ) FAÇA SEU PEDIDO - RJ
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/PIZZARIA-SOBEL.jpg"group-title="ESPAÇO DO CLIENTE - OFERTAS & PROMOÇÕES",PIZZARIA SOBEL ( GOSTOSO COMO UM BEIJO ) - FAÇA SEU PEDIDO (21) 96419-6912 - RJ
 https://ia601509.us.archive.org/8/items/sobel_202003/SOBEL.ia.mp4
 
 ######################################################  #########  ######################################################
 ######################################################
 #EXTINF: -1 tvg-logo="" group-title="",
-
 ######################################################  AAAAAAAAA  ######################################################
 ###################################################### ( A PEQUENA SEREIA )
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/20/06.jpg" group-title="A PEQUENA SEREIA",(1ª TEMPORADA) Episódio 01 - Uma Amizade de Peso
@@ -140,9 +146,6 @@ https://ia801401.us.archive.org/25/items/cavalodefogoepisodio12deondevemossonhos
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/28/02.jpg" group-title="CAVALO DE FOGO",Cavalo De Fogo Episódio - 13 O Rei Dos Cavalos
 https://ia801504.us.archive.org/6/items/cavalodefogoepisodio13oreidoscavalos_202002/Cavalo%20de%20Fogo%20-%20Epis%C3%B3dio%2013%20-%20O%20Rei%20dos%20Cavalos.mp4
 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/28/02.jpg" group-title="CAVALO DE FOGO",
-######################################################
-
 ######################################################  DDDDDDDDD  ######################################################
 ###################################################### (DESENHOS CLÁSSICOS)
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/21/0109329292bfe9a44d.jpg" group-title="DESENHOS CLÁSSICOS",DESENHOS CLÁSSICOS
@@ -259,11 +262,9 @@ https://ia801405.us.archive.org/32/items/leitaoofilme/LEIT%C3%83O%20-%20O%20FILM
 
 ######################################################
 #EXTINF: -1 tvg-logo="" group-title="",
-
 ######################################################  NNNNNNNNN  ######################################################
 ######################################################
 #EXTINF: -1 tvg-logo="" group-title="",
-
 ######################################################  OOOOOOOOO  ######################################################
 ###################################################### ( OS CAÇA FANTASMAS )
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/02/21/0195f12b2aa4ae1318.jpg" group-title="OS CAÇA FANTASMAS",
@@ -271,7 +272,6 @@ https://ia801405.us.archive.org/32/items/leitaoofilme/LEIT%C3%83O%20-%20O%20FILM
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/02/21/03.jpg" group-title="OS CAÇA FANTASMAS",
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/02/21/04.jpg" group-title="OS CAÇA FANTASMAS",
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/02/21/05.jpg" group-title="OS CAÇA FANTASMAS",
-
 ######################################################  PPPPPPPPP  ######################################################
 ######################################################
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/08/01.png" group-title="",
@@ -284,13 +284,10 @@ https://ia801405.us.archive.org/32/items/leitaoofilme/LEIT%C3%83O%20-%20O%20FILM
 ######################################################  SSSSSSSSS  ######################################################
 ######################################################
 #EXTINF: -1 tvg-logo="" group-title="",
-
 ######################################################  TTTTTTTTT  ######################################################
 ###################################################### ( TARZAN )
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/25/02.jpg" group-title="TARZAN",TARZAN ( 1999 )
-
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/25/05.jpg" group-title="TARZAN",TARZAN & JANE
-
 ######################################################
 #EXTINF: -1 tvg-logo="" group-title="",
 #EXTINF: -1 tvg-logo="" group-title="",
@@ -312,4 +309,18 @@ https://ia801405.us.archive.org/32/items/leitaoofilme/LEIT%C3%83O%20-%20O%20FILM
 ######################################################
 #EXTINF: -1 tvg-logo="" group-title="",
 
-#########################################################  COMANDOS PRIME  #########################################################
+######################################################  COMANDOS PRIME  #########################################################
+######################################################
+######################################################
+##########  ♻ Gostou? Entre em Contato e veja mais novidades:
+##########  📱 (21)98620-9067 (Apenas ZAP) Desenvolvedor do Conteúdo
+##########  ✔"Link de Atendimento Pelo ( ZAP )":
+##########  👉 https://is.gd/atendimentoprime
+##########  ✔"Instagram":
+##########  👉 @comandosprime
+##########  ✔"Página no Facebook":
+##########  👉 https://www.facebook.com/ComandosprimeOficial/
+##########  ✔"Link de Atendimento pelo (Telegram)":
+##########  👉 https://t.me/comandosprime
+######################################################
+######################################################
