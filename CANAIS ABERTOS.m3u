@@ -34,19 +34,19 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 #EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/06/14/01a6f0ef71d32552cd.jpg" group-title="CANAIS 24HS",TV JAPI - SP
 https://5d2c98775bafe.streamlock.net/8220/8220/chunklist_w1408488800.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/01ea2b6d345d8e19bf.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",TV CARIOCA - RJ
+#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/01ea2b6d345d8e19bf.jpg" group-title="CANAIS 24HS",TV CARIOCA - RJ
 https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w884743616.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-IrcQBf_rBqg/VwPjw9ay_GI/AAAAAAAACTs/0TmrOuhvT3EF_s3wfT5_z1a0upxHvGepA/s1600/sbt-hd.png" group-title="CANAIS 24HS",SBT HD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS 24HS",SBT HD 2
+https://m.youtube.com/watch?feature=youtu.be&v=9z_8k1Ir-6U
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS 24HS",SBT SD
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w431368380.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS 24HS",SBT SD 2
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS 24HS",SBT HD
-https://m.youtube.com/watch?feature=youtu.be&v=9z_8k1Ir-6U
-
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-IrcQBf_rBqg/VwPjw9ay_GI/AAAAAAAACTs/0TmrOuhvT3EF_s3wfT5_z1a0upxHvGepA/s1600/sbt-hd.png" group-title="CANAIS 24HS",SBT HD
 http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/14/08.png" group-title="CANAIS 24HS",SBT ( TV DIFUSORA )
