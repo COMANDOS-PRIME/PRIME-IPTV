@@ -31,7 +31,7 @@ http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?LISTASDAGLAU
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSklKwnsya4MMMgikbengtcKjM4tYhYGBoDXo8VNfOGsgDcy-h" group-title="CANAIS 24HS",CINE SKY
 http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
 
-#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/MANCHETE.jpg" group-title="PARAÍBA" pltv-subgroup="",TV MANCHETE
+#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/MANCHETE.jpg" group-title="CANAIS 24HS",TV MANCHETE
 https://srv4.zcast.com.br/tvmanchate/tvmanchate/chunklist_w1820977228.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/06/14/01a6f0ef71d32552cd.jpg" group-title="CANAIS 24HS",TV JAPI - SP
