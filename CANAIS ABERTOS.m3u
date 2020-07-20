@@ -22,19 +22,10 @@ https://ia601509.us.archive.org/8/items/sobel_202003/SOBEL.ia.mp4
 
 ####################################################### ( CANAIS 24HS ) ################################################
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/gj9XSqMh/11.png" group-title="CANAIS 24HS",CINE 24HS
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Wb9vnpYm/02.png" group-title="CANAIS 24HS",TOP FILMES
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?LISTASDAGLAU
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSklKwnsya4MMMgikbengtcKjM4tYhYGBoDXo8VNfOGsgDcy-h" group-title="CANAIS 24HS",CINE SKY
-http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8?wowzasessionid=540052745
-
 #EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/MANCHETE.jpg" group-title="CANAIS 24HS",TV MANCHETE
 https://srv4.zcast.com.br/tvmanchate/tvmanchate/chunklist_w1820977228.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/06/14/01a6f0ef71d32552cd.jpg" group-title="CANAIS 24HS",TV JAPI - SP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gj9XSqMh/11.png" group-title="CANAIS 24HS",TV JAPI - SP
 https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1493666723.m3u8
 
 #EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/01ea2b6d345d8e19bf.jpg" group-title="CANAIS 24HS",TV CARIOCA - RJ
@@ -66,6 +57,36 @@ http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 
 #EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/04.png" group-title="CANAIS 24HS",TV CÂMARA HD
 http://stream2.camara.gov.br:8134/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/icon.png" group-title="CANAIS 24HS",RETRO PLUS
+https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w261967600.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/553954.jpg" group-title="CANAIS 24HS",BONANZA
+http://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/kisspng-oliver-hardy-stan-laurel-laurel-and-hardy-thicker-5b173cbba35045.0501921815282495316689-1.png" group-title="CANAIS 24HS",LAUREL & HARDY - ( O GORDO E O MAGRO )
+http://dai.google.com/linear/hls/event/uDdlFsS2S1CqcUkd7KGu4Q/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/LEGO.png" group-title="CANAIS 24HS",LEGO TOONS
+https://stitcher.unreel.me/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/SH.jpg" group-title="CANAIS 24HS",SHERLOCK HOLMES
+http://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/Super-Geek-heroes-2.jpg" group-title="CANAIS 24HS",SUPER GEEK HEROES
+https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8?fluxustv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/A.png" group-title="CANAIS 24HS",THE GREATEST AMERICAN HERO
+http://dai.google.com/linear/hls/event/zaW9PVeXQeamNt6SZ9FsOg/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/01.jpg" group-title="CANAIS 24HS",THE LONE RANGER
+http://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/tom-and-jerry.jpg" group-title="CANAIS 24HS",TOM & JERRY
+http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+
+#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/nasa_nasa.png" group-title="CANAIS 24HS",NASA
+https://r2---sn-bg0eznek.googlevideo.com/videoplayback?expire=1595310505&ei=SS0WX6NH1oqhsg_LhYn4Bg&ip=45.228.111.66&id=o-ACOTFVTDMtL-SSlclMjNAwo6nMwkgSiPum-IsR-y9ZYj&itag=22&source=youtube&requiressl=yes&vprv=1&mime=video%2Fmp4&ratebypass=yes&dur=33231.447&lmt=1542082175954871&fvip=2&fexp=23883098&c=WEB&txp=5431432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAPWz98anqXZXqJGv0W6NWlcK2nuYILhH82K8Vkf7iMXGAiEAvBnQE9-Ez_rROY7mcFp8DtqPRTgrJKVjPTcJdfb8d_s%3D&cm2rm=sn-gxqxc5oq5cg-jbie7l,sn-bg0d67d&req_id=cabb1900728da3ee&redirect_counter=2&cms_redirect=yes&mh=TE&mm=34&mn=sn-bg0eznek&ms=ltu&mt=1595288787&mv=m&mvi=2&pl=24&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAM0woDPnJa7UmdIrQR89m7311lYuZ2U6VbktJ5A-5lzKAiATJTiE-CNPNuu5zCZgk2aF7zMuNdlKUApmu-JFFLPRgg%3D%3D
 
 #################################################### ( ACRE )
 
@@ -1008,9 +1029,6 @@ http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/chunklist_w834300153.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COSTA RICA",TELERED
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w931484095.m3u8
-
-#EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COSTA RICA",ENLACE TV
-https://playback2.akamaized.net/streams/2675843_1839332_lsi65fvhqyyfgqy0roh_1/exp=1584918134~acl=%2f*~data=hdntl~hmac=6888e2d72186bd9069246b16018517bb4dd5f34597b42b57559dd002e15300a4/media/2675843_1839332_lsi65fvhqyyfgqy0roh_1@678000p.m3u8?dw=14400&ts=1584831600
 
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS - COSTA RICA",TV REPRETEL 6
 https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg0OTE4MjQxLCJzZXNzaW9uIjoiMTYyLjI0My4yNDYuMTYwIiwid2hpdGVsaXN0IjpbIjE2Mi4yNDMuMjQ2LjE2MCJdfSwic2lnbmF0dXJlIjoiZjRkNTY3NTk5OThlNWU2MTk4MjE1YTFhYWJjZjJlZGUxNzEwMTQzYSJ9
@@ -2047,215 +2065,188 @@ http://vcp1.myplaytv.com/promar/promar/chunklist_w450696455.m3u8
 #EXTINF:-1 tvg-logo=""group-title="CANAIS INTERNACIONAIS -",
 
 #############################################################################################################################
- #EXTINF:-1 tvg-logo="https://i.imgur.com/eQYzog8.png" group-title="24/7 ADULT SWIM",Aqua Teen Hunger Force
+####################################################### (ADULT SWIM 24HS)
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQYzog8.png" group-title="ADULT SWIM 24HS",Aqua Teen Hunger Force
 https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/slawVDH.png" group-title="24/7 ADULT SWIM",Black Jesus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/slawVDH.png" group-title="ADULT SWIM 24HS",Black Jesus
 http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sLEHqIC.png" group-title="24/7 ADULT SWIM",Daily Live Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sLEHqIC.png" group-title="ADULT SWIM 24HS",Daily Live Action
 https://adultswim-vodlive.cdn.turner.com/live/daily_liveaction_1/stream.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/le0DGBd.png" group-title="24/7 ADULT SWIM",Dream Corp LLC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/le0DGBd.png" group-title="ADULT SWIM 24HS",Dream Corp LLC
 http://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zlPbOI0.png" group-title="24/7 ADULT SWIM",Home Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zlPbOI0.png" group-title="ADULT SWIM 24HS",Home Movies
 https://adultswim-vodlive.cdn.turner.com/live/test-2/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sLEHqIC.png" group-title="24/7 ADULT SWIM",Live Stream
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sLEHqIC.png" group-title="ADULT SWIM 24HS",Live Stream
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rYIysEl.png" group-title="24/7 ADULT SWIM",Metalocalypse
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rYIysEl.png" group-title="ADULT SWIM 24HS",Metalocalypse
 http://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aShyuut.png" group-title="24/7 ADULT SWIM",Mr. Pickles
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aShyuut.png" group-title="ADULT SWIM 24HS",Mr. Pickles
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7bZnIJ0.png" group-title="24/7 ADULT SWIM",Rick and Morty
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7bZnIJ0.png" group-title="ADULT SWIM 24HS",Rick and Morty
 http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="24/7 ADULT SWIM",Robot Chicken
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="ADULT SWIM 24HS",Robot Chicken
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zSs1e5z.png" group-title="24/7 ADULT SWIM",Squidbillies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/zSs1e5z.png" group-title="ADULT SWIM 24HS",Squidbillies
 https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream_7.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K3nLFU9.png" group-title="24/7 ADULT SWIM",Superjail!
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K3nLFU9.png" group-title="ADULT SWIM 24HS",Superjail!
 https://adultswim-vodlive.cdn.turner.com/live/superjail/stream.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GBlHt4r.png" group-title="24/7 ADULT SWIM",The Eric Andre Show
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GBlHt4r.png" group-title="ADULT SWIM 24HS",The Eric Andre Show
 http://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kru210h.png" group-title="24/7 ADULT SWIM",The Venture Bros.
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kru210h.png" group-title="ADULT SWIM 24HS",The Venture Bros.
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9lsXliT.png" group-title="24/7 ADULT SWIM",Tim and Eric
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9lsXliT.png" group-title="ADULT SWIM 24HS",Tim and Eric
 http://adultswim-vodlive.cdn.turner.com/tim-and-eric/stream.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/64uOrnR.png" group-title="24/7 ADULT SWIM",Williams Stream
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/64uOrnR.png" group-title="ADULT SWIM 24HS",Williams Stream
 http://adultswim-vodlive.cdn.turner.com/live/williams-stream/stream_html5.m3u8
 
-##################################
+####################################################### (NOTÍCIAS DO MUNDO 24HS)
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="NOTÍCIAS DO MUNDO 24HS",Al Jazeera (QA) (Opt-1)
 http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="NOTÍCIAS DO MUNDO 24HS",Al Jazeera (QA) (Opt-2)
 http://ott-cdn.ucom.am/s23/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="24/7 WORLD NEWS",Al Jazeera (QA) (Opt-3)
+#EXTINF:-1 tvg-logo="http://pluspng.com/img-png/al-jazeera-png-al-jazeera-logo-1431.png" group-title="NOTÍCIAS DO MUNDO 24HS",Al Jazeera (QA) (Opt-3)
 http://45.126.83.51/qwr9ew/s/s17/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang (KR) (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="NOTÍCIAS DO MUNDO 24HS",Arirang (KR) (Opt-1)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="24/7 WORLD NEWS",Arirang (KR) (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.isv.net/logos/arirangtv.png" group-title="NOTÍCIAS DO MUNDO 24HS",Arirang (KR) (Opt-2)
 http://cdn-01.bonus-tv.ru:8080/arirang_edge/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-1)
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="NOTÍCIAS DO MUNDO 24HS",BBC World News (GB) (Opt-1)
 http://ott-cdn.ucom.am/s24/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-2)
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="NOTÍCIAS DO MUNDO 24HS",BBC World News (GB) (Opt-2)
 http://92.43.140.249/s24/04.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="24/7 WORLD NEWS",BBC World News (GB) (Opt-3)
+#EXTINF:-1 tvg-logo="https://www.digitaltveurope.com/files/2011/12/BBC-World-News1.jpg" group-title="NOTÍCIAS DO MUNDO 24HS",BBC World News (GB) (Opt-3)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="24/7 WORLD NEWS",Bloomberg TV Asia (HK)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="NOTÍCIAS DO MUNDO 24HS",Bloomberg TV Asia (HK)
 http://45.126.83.51/uq2663/h/h03/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="24/7 WORLD NEWS",CGTN (CN) (Opt-1)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="NOTÍCIAS DO MUNDO 24HS",CGTN (CN) (Opt-1)
 http://live.cgtn.com/500/prog_index.m3u8
  
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="24/7 WORLD NEWS",CGTN (CN) (Opt-2)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="NOTÍCIAS DO MUNDO 24HS",CGTN (CN) (Opt-2)
 http://live.cgtn.com/1000/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS",CNA (SG) (Opt-1)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NOTÍCIAS DO MUNDO 24HS",CNA (SG) (Opt-1)
 http://210.210.155.35/uq2663/h/h29/01.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="24/7 WORLD NEWS",CNA (SG) (Opt-2)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="NOTÍCIAS DO MUNDO 24HS",CNA (SG) (Opt-2)
 http://45.126.83.51/uq2663/h/h29/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNN (US) (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="NOTÍCIAS DO MUNDO 24HS",CNN (US) (Opt-1)
 http://ott-cdn.ucom.am/s27/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="24/7 WORLD NEWS",CNN (US) (Opt-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ilZJT5s.png" group-title="NOTÍCIAS DO MUNDO 24HS",CNN (US) (Opt-2)
 http://92.43.140.249/s27/04.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="24/7 WORLD NEWS",DW News (DE)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kJcwaOU.png" group-title="NOTÍCIAS DO MUNDO 24HS",DW News (DE)
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="24/7 WORLD NEWS",Euronews (FR)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cSZn7dD.png" group-title="NOTÍCIAS DO MUNDO 24HS",Euronews (FR)
 http://210.210.155.35/session/dff6d9c0-7b79-11e8-810e-c81f66f89318/qwr9ew/s/s15/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="NOTÍCIAS DO MUNDO 24HS",France 24 (FR) (Opt-1)
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="24/7 WORLD NEWS",France 24 (FR) (Opt-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="NOTÍCIAS DO MUNDO 24HS",France 24 (FR) (Opt-2)
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="24/7 WORLD NEWS",NHK World (JP)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mBTe5bW.png" group-title="NOTÍCIAS DO MUNDO 24HS",NHK World (JP)
 http://45.126.83.51/uq2663/h/h23/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4nNmJSW.png" group-title="24/7 WORLD NEWS",Press TV (IR) (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4nNmJSW.png" group-title="NOTÍCIAS DO MUNDO 24HS",Press TV (IR) (Opt-1)
 https://5a61de8ed719d.streamlock.net/liveprs/smil:liveprs.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4nNmJSW.png" group-title="24/7 WORLD NEWS",Press TV (IR) (Opt-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4nNmJSW.png" group-title="NOTÍCIAS DO MUNDO 24HS",Press TV (IR) (Opt-2)
 https://live2.presstv.com/liveprs/smil:liveprs.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="24/7 WORLD NEWS",RT America (RU) (Opt-1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="NOTÍCIAS DO MUNDO 24HS",RT America (RU) (Opt-1)
 https://rt-usa.secure.footprint.net/1105.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="24/7 WORLD NEWS",RT America (RU) (Opt-2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3wQJsKQ.jpg" group-title="NOTÍCIAS DO MUNDO 24HS",RT America (RU) (Opt-2)
 http://ott-cdn.ucom.am/s96/index.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="24/7 WORLD NEWS",RT UK (RU)
+#EXTINF:-1 tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" group-title="NOTÍCIAS DO MUNDO 24HS",RT UK (RU)
 https://rt-uk.secure.footprint.net/1106.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="24/7 WORLD NEWS",Sky News (UK)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="NOTÍCIAS DO MUNDO 24HS",Sky News (UK)
 http://d59pscns5ugc8.cloudfront.net/cdhls/skynewsamericas/1013/live/06.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="24/7 WORLD NEWS",TeleSUR (VE)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png" group-title="NOTÍCIAS DO MUNDO 24HS",TeleSUR (VE)
 https://d7g1ebft2592.cloudfront.net/mblivev3/hd/playlist.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PLpyQsV.png" group-title="24/7 WORLD NEWS",TRT World (TR)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PLpyQsV.png" group-title="NOTÍCIAS DO MUNDO 24HS",TRT World (TR)
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 
-#############################
+####################################################### (CANAIS OLÍMPICOS 24HS)
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 1 (SD)
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 1 (HD)
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 1 (UHD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="CANAIS OLÍMPICOS 24HS",Olympic Channel 1 (UHD)
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 2 (SD)
-https://ott-live.olympicchannel.com/out/u/OC2_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="CANAIS OLÍMPICOS 24HS",Olympic Channel 1 (HD)
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 2 (HD)
-https://ott-live.olympicchannel.com/out/u/OC2_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="CANAIS OLÍMPICOS 24HS",Olympic Channel 1 (SD)
+http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 2 (UHD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="CANAIS OLÍMPICOS 24HS",Olympic Channel 2 (UHD)
 https://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 3 (SD)
-https://ott-live.olympicchannel.com/out/u/OC3_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="CANAIS OLÍMPICOS 24HS",Olympic Channel 2 (HD)
+https://ott-live.olympicchannel.com/out/u/OC2_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 3 (HD)
-https://ott-live.olympicchannel.com/out/u/OC3_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="CANAIS OLÍMPICOS 24HS",Olympic Channel 2 (SD)
+https://ott-live.olympicchannel.com/out/u/OC2_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 3 (UHD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="CANAIS OLÍMPICOS 24HS",Olympic Channel 3 (UHD)
 https://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 4 (SD)
-https://ott-live.olympicchannel.com/out/u/OC4_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="CANAIS OLÍMPICOS 24HS",Olympic Channel 3 (HD)
+https://ott-live.olympicchannel.com/out/u/OC3_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 4 (HD)
-https://ott-live.olympicchannel.com/out/u/OC4_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="CANAIS OLÍMPICOS 24HS",Olympic Channel 3 (SD)
+https://ott-live.olympicchannel.com/out/u/OC3_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 4 (UHD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="CANAIS OLÍMPICOS 24HS",Olympic Channel 4 (UHD)
 https://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 5 (SD)
-https://ott-live.olympicchannel.com/out/u/OC5_3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="CANAIS OLÍMPICOS 24HS",Olympic Channel 4 (HD)
+https://ott-live.olympicchannel.com/out/u/OC4_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 5 (HD)
-https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="CANAIS OLÍMPICOS 24HS",Olympic Channel 4 (SD)
+https://ott-live.olympicchannel.com/out/u/OC4_3.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="24/7 OLYMPICS",Olympic Channel 5 (UHD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="CANAIS OLÍMPICOS 24HS",Olympic Channel 5 (UHD)
 https://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
 
-##############################
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4CzYgbn.png" group-title="24/7 ENGLISH",Bonanza
-http://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KITjJUj.png" group-title="24/7 ENGLISH",Laurel & Hardy
-http://dai.google.com/linear/hls/event/uDdlFsS2S1CqcUkd7KGu4Q/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="CANAIS OLÍMPICOS 24HS",Olympic Channel 5 (HD)
+https://ott-live.olympicchannel.com/out/u/OC5_2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Su9Wrf1.png" group-title="24/7 ENGLISH",Lego Toons
-https://stitcher.unreel.me/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mO4czyn.png" group-title="24/7 ENGLISH",Sherlock Holmes
-http://dai.google.com/linear/hls/event/fMcxjP7ORACGFsBvi7ZhAg/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e6zdoNk.png" group-title="24/7 ENGLISH",Super Geek Heroes
-https://vcnyellowspot.teleosmedia.com/stream/yellowspot/super-geek-heros/seglist_720p.m3u8?fluxustv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c5vbjmJ.png" group-title="24/7 ENGLISH",The Greatest American Hero
-http://dai.google.com/linear/hls/event/zaW9PVeXQeamNt6SZ9FsOg/master.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0hTpPb6.png" group-title="24/7 ENGLISH",The Lone Ranger
-http://dai.google.com/linear/hls/event/dRKvXuioSv-e5T65yR_7Ow/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wR2Zv8d.png" group-title="24/7 ENGLISH",The Lucy Show
-http://dai.google.com/linear/hls/pa/event/-s-FtbzrQCaLMDSyM0ejyw/stream/6dc92ea2-dba1-4493-b8d2-269e89f9ba9c:CHS/variant/1b0beacafb6a1cad0279ea30f33d25f9/bandwidth/1291125.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9OwQuDE.png" group-title="24/7 ENGLISH",Tom & Jerry
-http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5sIgTki.png" group-title="CANAIS OLÍMPICOS 24HS",Olympic Channel 5 (SD)
+https://ott-live.olympicchannel.com/out/u/OC5_3.m3u8
 
 ###########################
 
