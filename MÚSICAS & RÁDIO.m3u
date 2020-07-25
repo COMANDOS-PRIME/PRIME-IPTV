@@ -946,6 +946,11 @@ https://ia801509.us.archive.org/33/items/new-york-chillout-nu-jazz-deep-house-lo
 #EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/07/23/maxresdefault.jpg" group-title="CHILLOUT - LOUNGE",DJ Paulo Arruda Copacabana Deep 3
 https://ia801509.us.archive.org/25/items/dj-paulo-arruda-copacabana-deep-3-you-tube/DJ%20Paulo%20Arruda%20-%20Copacabana%20Deep%203%20-%20YouTube.mp4
 
+#EXTINF: -1 tvg-logo="" group-title="CHILLOUT - LOUNGE",DJ Paulo Arruda Lounge Collection 5 Rio Chillout
+https://ia801508.us.archive.org/2/items/dj-paulo-arruda-lounge-collection-5-rio-chillout/DJ%20Paulo%20Arruda%20-%20Lounge%20Collection%205%20_%20Rio%20Chillout.ia.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="CHILLOUT - LOUNGE",
+
 ###################################################### (Q)
 #EXTINF: -1 tvg-logo="" group-title="CHILLOUT - LOUNGE",
 ###################################################### (R)
@@ -975,7 +980,10 @@ https://ia801407.us.archive.org/23/items/rafalefrenchnavypilotschillout6/RAFALE%
 ###################################################### (U)
 #EXTINF: -1 tvg-logo="" group-title="CHILLOUT - LOUNGE",
 ###################################################### (V)
-#EXTINF: -1 tvg-logo="" group-title="CHILLOUT - LOUNGE",
+
+#EXTINF: -1 tvg-logo="" group-title="CHILLOUT - LOUNGE",Vintage Brazil Bossa Nova
+https://ia601403.us.archive.org/26/items/vintage-brazil-bossa-nova/Vintage%20Brazil%20Bossa-Nova.ia.mp4
+
 ###################################################### (W)
 #EXTINF: -1 tvg-logo="" group-title="CHILLOUT - LOUNGE",
 ###################################################### (X)
@@ -993,7 +1001,9 @@ https://ia801407.us.archive.org/23/items/rafalefrenchnavypilotschillout6/RAFALE%
 ###################################################### (B)
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/03/12c4cb6c6280f2fb34.jpg" group-title="CHILL MIX",Best Of Synthwave Out Run Mix 🏎️ Nightride
 
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",Bloom Chillstep Mix
+https://ia601500.us.archive.org/7/items/bloom-chillstep-mix/Bloom%20_%20Chillstep%20Mix.mp4
+
 ###################################################### (C)
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/03/10cadb77af76512e86.jpg" group-title="CHILL MIX",City Lights (Retrowave Synthwave Chillwave Mix)
@@ -1004,7 +1014,9 @@ https://ia801407.us.archive.org/23/items/rafalefrenchnavypilotschillout6/RAFALE%
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/23/0474dd08819c79d08a.jpg" group-title="CHILL MIX",Chillstep Mix 2018 [ 2 Hours]
 
-#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",Chillstep Mix 2017 [ 2 Hours]
+https://ia801409.us.archive.org/26/items/chillstep-mix-2017-2-hours/Chillstep%20Mix%202017%20%5B2%20Hours%5D.ia.mp4
+
 ###################################################### (D)
 #EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 
@@ -1037,6 +1049,7 @@ https://ia801505.us.archive.org/21/items/ennja-skeler-barnacle-boi-chvrn-fllndr-
 ###################################################### (I)
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/25/05.jpg" group-title="CHILL MIX",In The End Emotional Chill & Chillstep Mix
+https://ia601500.us.archive.org/0/items/in-the-end-emotional-chill-chillstep-mix/In%20The%20End%20_%20Emotional%20Chill%20%26%20Chillstep%20Mix.ia.mp4
 
 #EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (J)
@@ -1070,12 +1083,23 @@ https://ia801505.us.archive.org/21/items/ennja-skeler-barnacle-boi-chvrn-fllndr-
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/06/17467725c021eac74e.jpg" group-title="CHILL MIX",Skeler BEST OF (original Video) 2019
 
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",Submerged Chill Mix
+https://ia801405.us.archive.org/0/items/submerged-chill-mix/Submerged%20_%20Chill%20Mix.ia.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",Solace Chillstep Mix 2020
+https://ia801401.us.archive.org/10/items/solace-chillstep-mix-2020/Solace%20_%20Chillstep%20Mix%202020.ia.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 #EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 #EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (T)
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/22/00.jpg" group-title="CHILL MIX",'The Road' Beautiful Chillstep Mix #19
 
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",The Calm Chillstep Mix
+https://ia801401.us.archive.org/0/items/the-calm-chillstep-mix/The%20Calm%20-%20Chillstep%20Mix.ia.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 #EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (U)
 #EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
@@ -1088,15 +1112,18 @@ https://ia801505.us.archive.org/21/items/ennja-skeler-barnacle-boi-chvrn-fllndr-
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/03/18.jpg" group-title="CHILL MIX",Wonderland Chillstep Mix
 https://ia801409.us.archive.org/8/items/wonderland-chillstep-mix/Wonderland%20-%20Chillstep%20Mix.mp4
 
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (X)
 #EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
-
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (Y)
 
 #EXTINF: -1 tvg-logo="" group-title="CHILL MIX",You're Alive' Beautiful Chillstep Mix # 15
 
 #EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (Z)
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 #EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 
 ################################################### RETRO MIX ###################################################################
