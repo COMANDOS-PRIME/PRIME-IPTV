@@ -1154,9 +1154,9 @@ https://ia601500.us.archive.org/7/items/bloom-chillstep-mix/Bloom%20_%20Chillste
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/gJSzQtrP/21.jpg" group-title="CHILL MIX",Chillstep Mix 2017 [ 2 Hours]
 https://ia801409.us.archive.org/26/items/chillstep-mix-2017-2-hours/Chillstep%20Mix%202017%20%5B2%20Hours%5D.ia.mp4
 
+#EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
 ###################################################### (D)
 #EXTINF: -1 tvg-logo="" group-title="CHILL MIX",
-
 ###################################################### (E)
 
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/19/09.jpg" group-title="CHILL MIX",Epic Gaming Mix 2014
@@ -4200,38 +4200,192 @@ http://s1.svrdedicados.pw:7102/;?1584409157336
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO BREGA ROMÂNTICO - RJ
 http://server02.ouvir.radio.br:8060/stream?1584409221417
 
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
-#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO BREGA STUDIO Y - AM
+http://suaradio1.dyndns.ws:13508/stream?1597103109597
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CACIQUE - MS
+https://s08.maxcast.com.br:8064/live?1597103189985
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CAIÇARAS WEB - RJ
+http://wz1.dnip.com.br/sc_caica/sc_caica.stream/chunklist_w2063705200.m3u8
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO COLINA WEB - AL
+https://node-01.zeno.fm/ru0z6uztpwzuv?1597103350358=&rj-tok=AAABc9rS514AQo2N7TrLNpNw-w&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CORNO FM - DF
+http://radios.livecenter.com.br:9340/stream?1597103420413
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CQSOM WEB - DF
+https://s08.maxcast.com.br:8288/live?1597103477016
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO ESTAÇÃO DO BREGA - PE
+http://node-21.zeno.fm/tzrhdse1tmzuv?1597103541896=&rj-tok=AAABc9rVyscA8tjUPv9JDmKlDw&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO ESTAÇÃO FM - RJ
+http://stm2.painelvox.com:6692/stream?1597103614303
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO FRECHEIRINHA WEB - CE
+http://stm51.srvstm.com:10602/stream?1597103714738
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO JAGUAR FM - SP
+http://server02.ouvir.radio.br:8060/stream?1597103837170
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO JUVENTUDE 102 WEB - PE
+http://srv1.stmip.com:7012/stream?1597103909162
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO KBRAL WEB - CE
+http://node-28.zeno.fm/2gqqdc2r6yzuv?1597103969209=&rj-tok=AAABc9rcT6YAefLWW49g-nUkBw&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO NOSSA RÁDIO ERECHIM - RS
+https://s12.maxcast.com.br:8184/live?1597104148069
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO ÓTIMA WEB - CE
+http://server02.ouvir.radio.br:8088/stream?1597104219619
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO PLAY FM - BA
+https://node-04.zeno.fm/8u80p3kgktzuv?1597104275536=&rj-tok=AAABc9rhAXcAWbHgG5lnRMYdhg&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO PLAY WEB - PB
+http://node-09.zeno.fm/pry616kh1xquv?1597104501604=&rj-tok=AAABc9rkbrkA9NMqPXUxHaYKug&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO A PAIXÃO DA BAHIA - BA
+http://stm1.srvst.com:7010/stream?1597104623819
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO ALTERNATIVA FM - PB
+http://sd.dnip.com.br:13340/;?1597104699138
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO AMADO BATISTA - AL
+http://node-21.zeno.fm/aeab6tt0yqruv?1597104765470=&rj-tok=AAABc9rodo8AeJldH70PKMUpMg&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO AMADO BATISTA HITS - GO
+http://stm4.xcast.com.br:7782/stream?1597105191796
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO AMOR DE INTERNET - SP
+http://sv12.hdradios.net:7532/;?1597105284220
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO APARECIDA FM - PI
+https://ssl.mestrestream.xyz:7330/;?1597105454987
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO APARELHAGENS - PA
+https://player.transmissaodigital.com/proxy/6766?1597105516284
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO ARROCHA FM - RJ
+http://srv10.ipstm.net:20158/stream?1597105632605
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO ATIVA FM - PE
+http://hts05.kshost.com.br:9782/stream?1597105717362
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO BACANAS BAR FM - CE
+http://stm1.stremus.com.br:7142/stream?1597105783420
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO BANZA FM - BA
+http://node-29.zeno.fm/qx5858ehknzuv?1597105852320=&rj-tok=AAABc9r5C_cA50AtL_xMhW7DIA&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO BAÚ MUSICAL - SP
+https://servidor32.brlogic.com:8070/live?1597105911261
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO BR MUSIC - PI
+http://stm37.conectastm.com:7442/stream?1597105980418
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO BREGA - PE
+http://server02.ouvir.radio.br:8050/stream?1597106067706
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO BREGA - SP
+http://sk7.org:8090/stream?1597106325407
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO BREGA DO FORRÓ - PE
+http://server02.ouvir.radio.br:8060/stream?1597106384501
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO BREGA FM - AL
+http://node-22.zeno.fm/dxe2we5z3tzuv?1597106447555=&rj-tok=AAABc9sCH80AkXrjHXz-ES3BZw&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO BREGA FUNK - PE
+http://stm11.srvstm.com:8632/stream?1597106502169
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO BREGA HITS - RN
+http://stm12.xcast.com.br:9598/;?1597106561019
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO BREGA POP - PE
+http://stream2.painel-stm.com:7352/stream?1597106620626
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO BREGA RAIZ - PE
+http://node-29.zeno.fm/rrdqmq59m0quv?1597106683750=&rj-tok=AAABc9sFuxoA32_AH8pqMc0G-Q&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO BREGA SHOW - PB
+http://190.stm-ip.com:9000/stream?1597106741467
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO BREGÃO MIX - PE
+http://node-17.zeno.fm/sb01p12k5qruv?1597106815890=&rj-tok=AAABc9sHv5UAe00zF0yHWD-uwA&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CAETÉS - PE
+http://servidor22.brlogic.com:8462/live?1597106880687
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CÂMARA MUNICIPAL BOM JESUS - PB
+http://s69.stm-ip.com:7204/stream?1597106938569
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CAMBUCI FM - SP
+http://stream.webradioevolution.com.br:8060/stream?1597107036408
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CANUDOS WEB - SP
+http://stm21.fusionsolucoes.com.br:7410/stream?1597107098476
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CARPINA ONLINE - PE
+http://server02.ouvir.radio.br:8060/stream?1597107196421
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CASTILHO - MT
+https://s18.maxcast.com.br:8128/live?1597107258921
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CIDADE FM - SP
+http://srv4.ipstm.net:15706/stream?1597107344092
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CIDADE FM - CE
+http://node-15.zeno.fm/x72dpb8f9yzuv.aac?1597107914878=&rj-tok=AAABc9sYhH8A_rxIhvVJaggAMQ&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CLÁSSICOS DO BREGA - PE
+http://node-19.zeno.fm/uzg1qz6merruv?1597108000930=&rj-tok=AAABc9sZ1GkAYhN4GNPqfl8rFQ&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CLUBE DA JOVEM GUARDA - PE
+http://server02.ouvir.radio.br:8060/stream?1597108353005
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CLUB FM 40 GRAUS - MT
+http://12.stmip.in:28324/stream?1597108631975
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CONEXÃO BREGA HITS - AL
+http://server01.stmsg.com.br:7270/stream?1597109569493
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CONQUISTA FM 77 - BA
+http://216.245.217.18:8288/live?1597109651069
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CORNO HITS - AL
+https://ssl.xcast.com.br:7476/stream?1597109713916
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO CRUZ DAS ALMAS ONLINE - BA
+http://s139.stm-ip.com:7508/stream?1597109781951
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO DIAS D'AVILA WEB - BA
+https://s11.maxcast.com.br:8106/live?1597109862053
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO DIFUSORA REGIONAL - PI
+http://node-32.zeno.fm/w0sqkd06pzzuv?1597109969400=&rj-tok=AAABc9s33NgAQQzACf6OJHGBuQ&rj-ttl=5
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO DJ YAGO NET - PE
+http://server02.ouvir.radio.br:8060/stream?1597110034368
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO ELETRÔNICA FM - PI
+http://13.stmip.in:27612/;?1597110130896
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO EM HD FORRÓ - CE
+http://server02.ouvir.radio.br:8060/stream?1597110211052
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO ENXADA AMOLADA - RN
+http://stm27.xcast.com.br:10644/stream?1597110283073
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO F.A STUDIO - PB
+http://srv11.ipstm.net:22378/stream?1597110374534
+
+#EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO FORRÓ BREGA - MG
+http://node-28.zeno.fm/g3556gtum3quv?1597110448896=&rj-tok=AAABc9s_LmYAk7lh_AED8CE2ng&rj-ttl=5
+
 #EXTINF: -1 tvg-logo="" group-title="RÁDIOS-BREGA & TECNOBREGA",RÁDIO
 
 ###################################################### ( FORRÓ )
@@ -4580,15 +4734,6 @@ http://195.23.102.207/vodafone
 
 #EXTINF:-1 tvg-logo="http://radiosdeportugal.com/wp-content/uploads/2012/09/vodafone-300x174.jpg" group-title="RÁDIO",Vodafone 2
 http://mcrscast.mcr.iol.pt/vodafone
-
-###################################################### (W)
-#EXTINF: -1 tvg-logo="" group-title="RÁDIO",
-###################################################### (X)
-#EXTINF: -1 tvg-logo="" group-title="RÁDIO",
-###################################################### (Y)
-#EXTINF: -1 tvg-logo="" group-title="RÁDIO",
-###################################################### (Z)
-#EXTINF: -1 tvg-logo="" group-title="RÁDIO",
 
 ###################################################### ELETRONIC MUSIC ###########################################################
 ###################################################### (#)
@@ -5974,9 +6119,6 @@ http://listen.shoutcast.com/89fmaradiorock
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-radiotime-logos.tunein.com/s144627d.png" group-title="BRAZIL",A Tarde 103.9 FM Salvador
 http://sh.upx.com.br:8120/;
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images.radiovolna.net/_files/images/164x164/430af0034a5ab04491c763ce6ca3578d/w6/luen597620e8bf17c582727553.jpg" group-title="BRAZIL",Alpha FM 101.7
-http://listen.shoutcast.com/alphafm101-7
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/dH7Ea6pCs6.png" group-title="BRAZIL",Antena 1 FM 94.7
 http://5.135.83.159:80/stream2
