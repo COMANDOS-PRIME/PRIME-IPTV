@@ -1,23 +1,23 @@
 #EXTM3U
 ##################################################################################################################################
-#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/06/30/01.jpg" group-title="INFORMAÇÕES",💜❤💛💚💙🎼🎧 ## //COMANDOS PRIME\\ ## 🎧🎶💙💚💛❤💜
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SN7xT5cp/12.png" group-title="INFORMAÇÕES",💜❤💛💚💙🎼🎧 ## //COMANDOS PRIME\\ ## 🎧🎶💙💚💛❤💜
 https://ia801504.us.archive.org/22/items/comandos-prime-oficil/COMANDOS%20PRIME%20Ofici%40l.mp4
 
-#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/06/30/03.png" group-title="INFORMAÇÕES",💜❤💛💚💙🎼🎧 ## //O MELHOR DO P2P & CDN - PARA SUA TV\\ ## 🎧🎶💙💚💛❤💜
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/59nqFPkn/03.png" group-title="INFORMAÇÕES",💜❤💛💚💙🎼🎧 ## //O MELHOR DO P2P & CDN - PARA SUA TV\\ ## 🎧🎶💙💚💛❤💜
 https://ia601407.us.archive.org/11/items/02_20200701_20200701/02.mp4
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/28/016bc564b8e996f163.png" group-title="INFORMAÇÕES",💜❤💛💚💙🎼🎧 ## //MÚSICAS & RÁDIO\\ ## 🎧🎶💙💚💛❤💜
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZqHFFV5b/01.png" group-title="INFORMAÇÕES",💜❤💛💚💙🎼🎧 ## //MÚSICAS & RÁDIO\\ ## 🎧🎶💙💚💛❤💜
 https://ia601502.us.archive.org/25/items/08_20200327/08.mp4 
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/28/022b66da94663a68de.png" group-title="INFORMAÇÕES",💜❤💛💚💙🎼🎧 ## //O MELHOR DA MÚSICA EM SUAS MÃOS\\ ## 🎧🎶💙💚💛❤💜
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/kMKvXx0g/02.png" group-title="INFORMAÇÕES",💜❤💛💚💙🎼🎧 ## //O MELHOR DA MÚSICA EM SUAS MÃOS\\ ## 🎧🎶💙💚💛❤💜
 https://ia601505.us.archive.org/8/items/09_20200327/09.mp4
 ##################################################################################################################################
 ###################################################### ESPAÇO DO CLIENTE - OFERTAS & PROMOÇÕES
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/0170588226fb2dbc96.png"group-title="ESPAÇO DO CLIENTE - OFERTAS & PROMOÇÕES",MANDE SUA PROPAGANDA GRÁTIS ( PARA LHE AJUDAR NA DIVULGAÇÃO )
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSQCmCMY/01.png"group-title="ESPAÇO DO CLIENTE - OFERTAS & PROMOÇÕES",MANDE SUA PROPAGANDA GRÁTIS ( PARA LHE AJUDAR NA DIVULGAÇÃO )
 https://ia601504.us.archive.org/16/items/03_20200326_202003/03.mp4
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/01/26/PIZZARIA-SOBEL.jpg"group-title="ESPAÇO DO CLIENTE - OFERTAS & PROMOÇÕES",PIZZARIA SOBEL ( GOSTOSO COMO UM BEIJO ) - FAÇA SEU PEDIDO (21) 96419-6912 - RJ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ncQbLwHQ/PIZZARIA-SOBEL.jpg"group-title="ESPAÇO DO CLIENTE - OFERTAS & PROMOÇÕES",PIZZARIA SOBEL ( GOSTOSO COMO UM BEIJO ) - FAÇA SEU PEDIDO (21) 96419-6912 - RJ
 https://ia601509.us.archive.org/8/items/sobel_202003/SOBEL.ia.mp4
 
 ###################################################### CANAIS DE CLIPES MUSICAIS #################################################
@@ -2063,6 +2063,11 @@ https://ia801406.us.archive.org/20/items/morcheeba-live-rockpalast-2018-720-p-hd
 https://ia801502.us.archive.org/10/items/new-york-jazz-lounge-bar-jazz-classics-720-p-hd-1/New%20York%20Jazz%20Lounge%20-%20Bar%20Jazz%20Classics%28720P_HD%29_1.ia.mp4
 
 ###################################################### (O)
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/T2KNfL9k/17.jpg" group-title="BLUES - JAZZ",Office Music Jazz Bossa Nova Special Mix【 For Work Study】 Restaurants BGM Lounge Music Shop BGM
+https://ia801403.us.archive.org/23/items/office-music-jazz-bossa-nova-special-mix-for-work-study-restaurants-bgm-lounge-m/office%20music%20Jazz%20_%20BossaNova%20Special%20mix%E3%80%90For%20Work%20_%20Study%E3%80%91Restaurants%20BGM_%20Lounge%20Music_%20shop%20BGM%28720P_HD%29_1.mp4
+
+#EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
 #EXTINF: -1 tvg-logo="" group-title="BLUES - JAZZ",
 ###################################################### (P)
 #EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/10/23/06.jpg" group-title="BLUES - JAZZ",Peter Pearson Blissful Journey ( Full Album 2016)
