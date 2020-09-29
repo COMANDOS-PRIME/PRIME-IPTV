@@ -33,9 +33,6 @@ http://albmusic.dyndns.tv:1935/albuk/albmus.stream/chunklist_w2035782086.m3u8
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/MppwnQ6P/03.jpg" group-title="CANAIS DE CLIPES MUSICAIS",AFN TV
 https://unirtmp.tulix.tv/tintv2/tintv2//chunklist_w2136651189.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/k5kPYYxz/18.jpg" group-title="CANAIS DE CLIPES MUSICAIS",ANTENA 3
-
-
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/C1Fs0SHq/19.jpg" group-title="CANAIS DE CLIPES MUSICAIS",AFRO MUSIC CHANNEL
 http://afro-music.sapo.ao/bimages/images/videos_upload/videos/video127.mov
 
@@ -169,131 +166,131 @@ https://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/chunklist_w143361793
 
 ###################################################### (L)
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/06/30/33.jpg" group-title="CANAIS DE CLIPES MUSICAIS",LA MEGA MUNDIAL
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/L8dZx1QV/33.jpg" group-title="CANAIS DE CLIPES MUSICAIS",LA MEGA MUNDIAL
 http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w790171832.m3u8
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/06/30/36.png" group-title="CANAIS DE CLIPES MUSICAIS",LFM TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/cHjR74Kg/36.png" group-title="CANAIS DE CLIPES MUSICAIS",LFM TV
 https://edge8.vedge.infomaniak.com/livecast/smil:lfmmd.smil/chunklist_w846223479_b1600000.m3u8
 
 ###################################################### (M)
 
-#EXTINF: -1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/7/7158.1529168668.png" group-title="CANAIS DE CLIPES MUSICAIS",MCM TOP
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/9F967D49/54.png" group-title="CANAIS DE CLIPES MUSICAIS",MCM TOP
 http://ott-cdn.ucom.am/s49/04.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/2/2d/Logo_m2o_%282012%29.png" group-title="CANAIS DE CLIPES MUSICAIS",M2O MUSIC TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/SxJDM51v/55.png" group-title="CANAIS DE CLIPES MUSICAIS",M2O MUSIC TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/06/30/34.jpg" group-title="CANAIS DE CLIPES MUSICAIS",MUSIC TOP
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/MppKb014/34.jpg" group-title="CANAIS DE CLIPES MUSICAIS",MUSIC TOP
 http://live-edge01.telecentro.net.ar:80/live/msctphd-720/chunklist_w1970982040.m3u8
 
-#EXTINF: -1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/112010/mezzo_tv.png?itok=fGKpsxjz" group-title="CANAIS DE CLIPES MUSICAIS",MEZZO 2
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/HWM2dXcf/47.jpg" group-title="CANAIS DE CLIPES MUSICAIS",MEZZO 2
 http://ott-cdn.ucom.am/s35/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/06/30/35.jpg" group-title="CANAIS DE CLIPES MUSICAIS",MTC
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8zcfPgXj/35.jpg" group-title="CANAIS DE CLIPES MUSICAIS",MTC
 http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist_w1589381311.m3u8
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/06/30/41.png" group-title="CANAIS DE CLIPES MUSICAIS",MUSIC CHANNEL ROMANIA
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/W4MNs9Vd/41.png" group-title="CANAIS DE CLIPES MUSICAIS",MUSIC CHANNEL ROMANIA
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/chunklist_w1957132764.m3u8
 
 ###################################################### (N)
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",
 ###################################################### (O)
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/06/30/36.jpg" group-title="CANAIS DE CLIPES MUSICAIS",OCKO TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/SQthb09Z/36.jpg" group-title="CANAIS DE CLIPES MUSICAIS",OCKO TV
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/chunklist_b2628000.m3u8
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/06/30/37.jpg" group-title="CANAIS DE CLIPES MUSICAIS",OTTO FM TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/x8XB1Cm6/37.jpg" group-title="CANAIS DE CLIPES MUSICAIS",OTTO FM TV
 http://217.182.192.240:8080/hls/ottofmtv/1_2/index.m3u8
 
 ###################################################### (P)
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/06/30/38.jpg" group-title="CANAIS DE CLIPES MUSICAIS",PORTAL FOX MIX
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/gcZkkkKw/38.jpg" group-title="CANAIS DE CLIPES MUSICAIS",PORTAL FOX MIX
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/07/29/42.png" group-title="CANAIS DE CLIPES MUSICAIS",PARNIAN TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Nf8smJSB/42.png" group-title="CANAIS DE CLIPES MUSICAIS",PARNIAN TV
 https://live2.parnian.tv/hls/live/play.m3u8
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/07/29/43.png" group-title="CANAIS DE CLIPES MUSICAIS",POWER TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/2S2CXqCt/43.png" group-title="CANAIS DE CLIPES MUSICAIS",POWER TV
 https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b2650000_sltur.m3u8
 
 ###################################################### (Q)
 #EXTINF: -1 tvg-logo="" group-title="CANAIS DE CLIPES MUSICAIS",
 ###################################################### (R)
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/07/29/45.png" group-title="CANAIS DE CLIPES MUSICAIS",RETRO PLUS TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/7ZYk7xSn/45.png" group-title="CANAIS DE CLIPES MUSICAIS",RETRO PLUS TV
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1692366484.m3u8
 
-#EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71wt09PGuAL._SX425_.jpg" group-title="CANAIS DE CLIPES MUSICAIS",RETRO MUSIC HD
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/TwvNV9Zv/48.jpg" group-title="CANAIS DE CLIPES MUSICAIS",RETRO MUSIC HD
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="http://retromusic.cz/wp-content/uploads/2017/08/retro-logo.png" group-title="CANAIS DE CLIPES MUSICAIS",RETRO TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/KjBLh6fR/56.png" group-title="CANAIS DE CLIPES MUSICAIS",RETRO TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w381000196_b750000.m3u8
 
-#EXTINF: -1 tvg-logo="https://2.bp.blogspot.com/-W14bHYMWKVE/W1Xs3LnhVzI/AAAAAAAAxOI/MBGyA6J25-oW30Tu79YrQncrQfK3UTY9ACLcBGAs/s320/Radio+TV+ITALIA.fw.png" group-title="CANAIS DE CLIPES MUSICAIS",RADIO ITÁLIA TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/mg2cmzvc/57.png" group-title="CANAIS DE CLIPES MUSICAIS",RADIO ITÁLIA TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF: -1 tvg-logo="https://static.tuneyou.com/images/logos/500_500/44/7344/RadioSanBorja91.1FM.png" group-title="CANAIS DE CLIPES MUSICAIS",RADIO SANBORJA
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/J4RthH4T/58.png" group-title="CANAIS DE CLIPES MUSICAIS",RADIO SANBORJA
 https://5949aa132c8fb.streamlock.net:554/iptvsanborja/livesanborjatv/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://marpimagecache.s3.amazonaws.com/image/1_300x170_2018-06-12-12-17-32-443.png" group-title="CANAIS DE CLIPES MUSICAIS",RADIO CONTACT FEEL GOOD
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/0QxrJz02/59.png" group-title="CANAIS DE CLIPES MUSICAIS",RADIO CONTACT FEEL GOOD
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8
 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/21/27.png" group-title="CANAIS DE CLIPES MUSICAIS",RTI 1
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QMZdRFPk/27.png" group-title="CANAIS DE CLIPES MUSICAIS",RTI 1
 https://www.enovativecdn.com:4433/rticdn/smil:rti1.smil/chunklist_w1253885706_b650000_sleng.m3u8
 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/21/16.jpg" group-title="CANAIS DE CLIPES MUSICAIS",RADIO JAVAN TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/SsDQ2DKD/16.jpg" group-title="CANAIS DE CLIPES MUSICAIS",RADIO JAVAN TV
 https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist_w1636114189_b746000.m3u8
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/07/29/39.jpg" group-title="CANAIS DE CLIPES MUSICAIS",RU TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/hjPcBT0x/39.jpg" group-title="CANAIS DE CLIPES MUSICAIS",RU TV
 https://rut-v.gcdn.co/streams/1410_1326/360n/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/07/29/40.jpg" group-title="CANAIS DE CLIPES MUSICAIS",RADIOU TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/QdmjnfQs/40.jpg" group-title="CANAIS DE CLIPES MUSICAIS",RADIOU TV
 https://cdnlive.radiou.com/LS-ATL-43240-1/tracks-v1a1/mono.m3u8
 
 ###################################################### (S)
 
-#EXTINF: -1 tvg-logo="https://thewildernessroad.files.wordpress.com/2014/03/tv-standby.jpg" group-title="CANAIS DE CLIPES MUSICAIS",STAND BY TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/Wp0LH9VK/49.jpg" group-title="CANAIS DE CLIPES MUSICAIS",STAND BY TV
 http://176.31.226.78:1935/standbytvlive/stream1.sdp/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/07/29/41.jpg" group-title="CANAIS DE CLIPES MUSICAIS",SI TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/L8wxRpBV/41.jpg" group-title="CANAIS DE CLIPES MUSICAIS",SI TV
 http://st2.worldkast.com/8030/8030/chunklist_w940397358.m3u8
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/07/29/46.png" group-title="CANAIS DE CLIPES MUSICAIS",SPIRIT TELEVISION
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/bNjG7Ft2/46.png" group-title="CANAIS DE CLIPES MUSICAIS",SPIRIT TELEVISION
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/tracks-v1a1/mono.m3u8
 
 ###################################################### (T)
 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/05/05.png" group-title="CANAIS DE CLIPES MUSICAIS",TV FOLX
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/c428D4c0/25.jpg" group-title="CANAIS DE CLIPES MUSICAIS",TV FOLX
 http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/16/The_Box_2013.png" group-title="CANAIS DE CLIPES MUSICAIS",THE BOX
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/VNXwy10x/60.png" group-title="CANAIS DE CLIPES MUSICAIS",THE BOX
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-inapp.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fthebox%2f
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/07/29/48.png" group-title="CANAIS DE CLIPES MUSICAIS",TRACE TROPICAL
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/6QcH41k7/48.png" group-title="CANAIS DE CLIPES MUSICAIS",TRACE TROPICAL
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/07/29/49.png" group-title="CANAIS DE CLIPES MUSICAIS",TRACE AFRICA
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/sgVHfr8F/49.png" group-title="CANAIS DE CLIPES MUSICAIS",TRACE AFRICA
 https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/6/prog_index.m3u8
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/07/29/50.png" group-title="CANAIS DE CLIPES MUSICAIS",TRACE TOCA
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/5yVqP5Wc/50.png" group-title="CANAIS DE CLIPES MUSICAIS",TRACE TOCA
 https://d2ktlibtvvj8vp.cloudfront.net/trace_toca/6/prog_index.m3u8
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/07/29/51.png" group-title="CANAIS DE CLIPES MUSICAIS",TRACE NAIJA
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/1tpDNgnv/51.png" group-title="CANAIS DE CLIPES MUSICAIS",TRACE NAIJA
 https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/07/29/52.png" group-title="CANAIS DE CLIPES MUSICAIS",TRACE KITOKO
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/8Pw96cLk/52.png" group-title="CANAIS DE CLIPES MUSICAIS",TRACE KITOKO
 https://d2ktlibtvvj8vp.cloudfront.net/trace_kitoko/6/prog_index.m3u8
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/07/29/47.png" group-title="CANAIS DE CLIPES MUSICAIS",TRACE MZIKI
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/NGnrf7zQ/47.png" group-title="CANAIS DE CLIPES MUSICAIS",TRACE MZIKI
 http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
 
-#EXTINF: -1 tvg-logo="https://imagensbrasil.org/images/2020/07/29/42.jpg" group-title="CANAIS DE CLIPES MUSICAIS",TIN TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/gjLj6QTm/42.jpg" group-title="CANAIS DE CLIPES MUSICAIS",TIN TV
 https://unirtmp.tulix.tv/tintv/tintv/chunklist_w1759468974.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/XvCt4GpD/44.jpg" group-title="CANAIS DE CLIPES MUSICAIS",TAPESH
 http://iptv.tapesh.tv/tapesh/playlist2/index.m3u8
 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/21/26.png" group-title="CANAIS DE CLIPES MUSICAIS",TVN GLOBAL
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/nr3nLJx3/26.png" group-title="CANAIS DE CLIPES MUSICAIS",TVN GLOBAL
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/canaltvn.m3u8
 
 ###################################################### (U)
@@ -303,10 +300,10 @@ https://www.webmedialive.org:1936/8022/8022/chunklist_w244908910.m3u8
 
 ###################################################### (V)
 
-#EXTINF: -1 tvg-logo="https://img.radios.com.br/radio/xl/radio32453_1478179163.JPG" group-title="CANAIS DE CLIPES MUSICAIS",VERDES MARES
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/J7ffb06j/50.jpg" group-title="CANAIS DE CLIPES MUSICAIS",VERDES MARES
 http://srv4.zoeweb.tv:1935/z18-live/stream/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://ap.imagensbrasil.org/images/2020/03/21/25.png" group-title="CANAIS DE CLIPES MUSICAIS",VIBEE TV
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/mkWtfRwJ/06.png" group-title="CANAIS DE CLIPES MUSICAIS",VIBEE TV
 https://abr.de1se01.v2beat.live/live/360p/chunks.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.postimg.cc/Nf88XRnw/46.jpg" group-title="CANAIS DE CLIPES MUSICAIS",VISION TV MUSICA
