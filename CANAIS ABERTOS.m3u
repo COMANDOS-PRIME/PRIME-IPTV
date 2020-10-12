@@ -23,27 +23,14 @@ https://ia601509.us.archive.org/8/items/sobel_202003/SOBEL.ia.mp4
 ####################################################### ( CANAIS 24HS ) ################################################
 
 #EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/MANCHETE.jpg" group-title="CANAIS 24HS",TV MANCHETE
-https://srv4.zcast.com.br/tvmanchate/tvmanchate/chunklist_w1820977228.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gj9XSqMh/11.png" group-title="CANAIS 24HS",TV JAPI - SP
 https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1493666723.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/01ea2b6d345d8e19bf.jpg" group-title="CANAIS 24HS",TV CARIOCA - RJ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fRbrd2Pg/01.jpg" group-title="CANAIS 24HS",TV CARIOCA - RJ
 https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w884743616.m3u8
 
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-IrcQBf_rBqg/VwPjw9ay_GI/AAAAAAAACTs/0TmrOuhvT3EF_s3wfT5_z1a0upxHvGepA/s1600/sbt-hd.png" group-title="CANAIS 24HS",SBT HD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS 24HS",SBT HD 2
-https://m.youtube.com/watch?feature=youtu.be&v=9z_8k1Ir-6U
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS 24HS",SBT SD
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w431368380.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png" group-title="CANAIS 24HS",SBT SD 2
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2020/05/14/08.png" group-title="CANAIS 24HS",SBT ( TV DIFUSORA )
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J43mrzDc/18.jpg" group-title="CANAIS 24HS",SBT ( TV DIFUSORA )
 http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w1161769886.m3u8
 
 #EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/03.jpg" group-title="CANAIS 24HS",RETRO MUSIC HD
