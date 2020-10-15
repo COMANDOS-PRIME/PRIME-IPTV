@@ -6,10 +6,10 @@ https://ia801504.us.archive.org/22/items/comandos-prime-oficil/COMANDOS%20PRIME%
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/59nqFPkn/03.png" group-title="INFORMAÇÕES",💜❤💛💚💙📺📡 ## //O MELHOR DO P2P & CDN - PARA SUA TV\\ ## 📡📺💙💚💛❤💜
 https://ia601407.us.archive.org/11/items/02_20200701_20200701/02.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/GpkSx9gV/02.png" group-title="INFORMAÇÕES",❤💜💛💚💙📺📡 ## //CANAIS ABERTOS\\ ## 📡📺💙💚💛💜❤
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5NN6tC0/02.png" group-title="INFORMAÇÕES",❤💜💛💚💙📺📡 ## //CANAIS ABERTOS\\ ## 📡📺💙💚💛💜❤
 https://ia601500.us.archive.org/28/items/01_20200326_202003/01.mp4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/kgWykzNt/01.png" group-title="INFORMAÇÕES",❤💜💛💚💙📺📡 ## //O MELHOR DO CONTEÚDO NACIONAL EM SUAS MÃOS\\ ## 📡📺💙💚💛💜❤
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3Nq25Xjv/01.png" group-title="INFORMAÇÕES",❤💜💛💚💙📺📡 ## //O MELHOR DO CONTEÚDO NACIONAL EM SUAS MÃOS\\ ## 📡📺💙💚💛💜❤
 https://ia601409.us.archive.org/22/items/02_20200326_20200326_2030/02.mp4
 ###############################################################################################################################
 ###################################################### ESPAÇO DO CLIENTE - OFERTAS & PROMOÇÕES
@@ -23,6 +23,7 @@ https://ia601509.us.archive.org/8/items/sobel_202003/SOBEL.ia.mp4
 ####################################################### ( CANAIS 24HS ) ################################################
 
 #EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/MANCHETE.jpg" group-title="CANAIS 24HS",TV MANCHETE
+https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/chunklist_w1021164059.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gj9XSqMh/11.png" group-title="CANAIS 24HS",TV JAPI - SP
 https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1493666723.m3u8
@@ -33,22 +34,22 @@ https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w884743616.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/J43mrzDc/18.jpg" group-title="CANAIS 24HS",SBT ( TV DIFUSORA )
 http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w1161769886.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/03.jpg" group-title="CANAIS 24HS",RETRO MUSIC HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G29wk3Mh/03.jpg" group-title="CANAIS 24HS",RETRO MUSIC HD
 http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/18/04.jpg" group-title="CANAIS 24HS",MELODY CHANNEL
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/pTtRz59Q/04.jpg" group-title="CANAIS 24HS",MELODY CHANNEL
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/artworks-000075371270-cof0z9-t500x500.jpg" group-title="CANAIS 24HS",M20 TV MUSIC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/28XqvTC4/05.jpg" group-title="CANAIS 24HS",M20 TV MUSIC
 http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/17/04.png" group-title="CANAIS 24HS",TV CÂMARA HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLFyv8pz/04.png" group-title="CANAIS 24HS",TV CÂMARA HD
 http://stream2.camara.gov.br:8134/tv1/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/icon.png" group-title="CANAIS 24HS",RETRO PLUS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/76DnCDks/13.png" group-title="CANAIS 24HS",RETRO PLUS
 https://59f2354c05961.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w261967600.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/553954.jpg" group-title="CANAIS 24HS",BONANZA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SNrRqhTQ/06.jpg" group-title="CANAIS 24HS",BONANZA
 http://dai.google.com/linear/hls/event/LeVr-Z0_Q4qMDdXx7zr22w/master.m3u8
  
 #EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/kisspng-oliver-hardy-stan-laurel-laurel-and-hardy-thicker-5b173cbba35045.0501921815282495316689-1.png" group-title="CANAIS 24HS",LAUREL & HARDY - ( O GORDO E O MAGRO )
