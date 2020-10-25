@@ -166,18 +166,15 @@ http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/chunklist_w38773543.m3u8
 
 ####################################################### ( PARÁ )
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tv-cultura-logo-8043A38965-seeklogo.com.png" group-title="PARÁ" pltv-subgroup="",TV CULTURA - PA
-http://stream.tvitarare.com.br/hls/site/site.m3u8
-
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/01374642addb159040.jpg" group-title="PARÁ" pltv-subgroup="",TV MARAJOARA - PA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSp6R0Vn/01.jpg" group-title="PARÁ" pltv-subgroup="",TV MARAJOARA - PA
 https://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8?wowzasessionid=1367217602
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/18/01.png" group-title="PARÁ" pltv-subgroup="",TV BRASIL PARAENCE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVZtcDKv/01.png" group-title="PARÁ" pltv-subgroup="",TV BRASIL PARAENCE
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/chunklist.m3u8?73cf7ba432b12ec30120b300085d1d1d
 
 ####################################################### ( PARAÍBA )
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/04.jpg" group-title="PARAÍBA" pltv-subgroup="",TV DIÁRIO DO SERTÃO - PB
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63BFh6VC/04.jpg" group-title="PARAÍBA" pltv-subgroup="",TV DIÁRIO DO SERTÃO - PB
 http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w155831820.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OJVd05mFhz4/T7POIHMi1LI/AAAAAAAAAEk/ab4I_4BL3M0/s400/TV+Master.png" group-title="PARAÍBA" pltv-subgroup="",TV MASTER - PB
