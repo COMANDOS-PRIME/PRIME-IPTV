@@ -94,55 +94,55 @@ http://hd4.com.br:1935/tvacaradabahia/tvacaradabahia/chunklist_w341393226.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Nf6kbY3B/04.png" group-title="BAHIA",INFO BAHIA - BA
 https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/tvinforbahia/chunklist_w147238720.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/x178zN6C/05.png" group-title="BAHIA" pltv-subgroup="",TV ASSEMBLÉIA BAHIA - BA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/x178zN6C/05.png" group-title="BAHIA",TV ASSEMBLÉIA BAHIA - BA
 https://digilab.cds.ebtcvd.net/live-tvalba/stream/chunklist.m3u8
 
 ####################################################### ( CEARÁ )
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpcS1p12/01.jpg" group-title="CEARÁ" pltv-subgroup="",TV GUARANY - CE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpcS1p12/01.jpg" group-title="CEARÁ",TV GUARANY - CE
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8?wowzasessionid=1726642621
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zfNcN8T/02.jpg" group-title="CEARÁ" pltv-subgroup="",LITORAL TV - CE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1zfNcN8T/02.jpg" group-title="CEARÁ",LITORAL TV - CE
 https://596639ebdd89b.streamlock.net/8048/8048/chunklist_w762329219.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QNDCCb6/05.png" group-title="CEARÁ" pltv-subgroup="",TV O POVO - CE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QNDCCb6/05.png" group-title="CEARÁ",TV O POVO - CE
 https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist_w735649382.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2zN9wYX/01.png" group-title="CEARÁ" pltv-subgroup="",TV JAGUAR - CE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/j2zN9wYX/01.png" group-title="CEARÁ",TV JAGUAR - CE
 https://cdn.jmvstream.com/w/LVW-8213/LVW8213_6Uc30uEIC7/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdJXhJKz/02.png" group-title="CEARÁ" pltv-subgroup="",TV ASSEMBLÉIA - CE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xdJXhJKz/02.png" group-title="CEARÁ",TV ASSEMBLÉIA - CE
 https://5a7d54e35f9d2.streamlock.net/z404-live/stream/chunklist_w492731324.m3u8
 
 ####################################################### ( DISTRITO FEDERAL )
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnDWzJjv/04.png" group-title="DISTRITO FEDERAL" pltv-subgroup="",TVN BRASIL - DF
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BnDWzJjv/04.png" group-title="DISTRITO FEDERAL",TVN BRASIL - DF
 http://painelvj.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/nc4gK0gs/01.png" group-title="DISTRITO FEDERAL" pltv-subgroup="",TV CÂMARA - DF
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nc4gK0gs/01.png" group-title="DISTRITO FEDERAL",TV CÂMARA - DF
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 
 ####################################################### ( ESPÍRITO SANTO )
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xzf96bw/tvambiental01.jpg" group-title="ESPÍRITO SANTO" pltv-subgroup="",TV AMBIENTAL - ES
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/4xzf96bw/tvambiental01.jpg" group-title="ESPÍRITO SANTO",TV AMBIENTAL - ES
 https://59e4b6c1beddc.streamlock.net/8168/8168/chunklist_w1091858751.m3u8
 
 ####################################################### ( GOIÁS )
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1J8P0XW/03.png" group-title="GOIÁS" pltv-subgroup="",FONTE TV - GO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1J8P0XW/03.png" group-title="GOIÁS",FONTE TV - GO
 http://wowza.softhost.com.br:1935/fonte/fontetv/chunklist_w766999145.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1J8P0XW/03.png" group-title="GOIÁS" pltv-subgroup="",PUC TV - GO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T1J8P0XW/03.png" group-title="GOIÁS",PUC TV - GO
 http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCWztkcX/03.jpg" group-title="GOIÁS" pltv-subgroup="",UFG TV - GO
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCWztkcX/03.jpg" group-title="GOIÁS",UFG TV - GO
 http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/chunklist_w192386926_b1544100_sleng.m3u8
 
 ####################################################### ( MARANHÃO )
 
 ####################################################### ( MATO GROSSO )
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMkwsTTw/01.png" group-title="MATO GROSSO" pltv-subgroup="",WEB TV AGUA BOA - MT
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wMkwsTTw/01.png" group-title="MATO GROSSO",WEB TV AGUA BOA - MT
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/chunklist_w1570412051.m3u8
 
 ####################################################### ( MATO GROSSO DO SUL )
@@ -152,46 +152,41 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 
 ####################################################### ( MINAS GERAIS )
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrpLxV3w/03.jpg" group-title="MINAS GERAIS" pltv-subgroup="",NTV - MG
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrpLxV3w/03.jpg" group-title="MINAS GERAIS",NTV - MG
 http://srv02.brasilstream.com.br:8080/live/ntv/ntv/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tVttfMZ/06.jpg" group-title="MINAS GERAIS" pltv-subgroup="",TV PLAN - MG
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/1tVttfMZ/06.jpg" group-title="MINAS GERAIS",TV PLAN - MG
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/chunklist.m3u8?06df12dc4b15c4ad4dca89530e2ad2f4
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4Wmz8fD/04.png" group-title="MINAS GERAIS" pltv-subgroup="",TV CARAVELAS - MG
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k4Wmz8fD/04.png" group-title="MINAS GERAIS",TV CARAVELAS - MG
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxWD4TtY/10.png" group-title="MINAS GERAIS" pltv-subgroup="",TV VIÇOSA - MG
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxWD4TtY/10.png" group-title="MINAS GERAIS",TV VIÇOSA - MG
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/chunklist_w38773543.m3u8
 
 ####################################################### ( PARÁ )
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSp6R0Vn/01.jpg" group-title="PARÁ" pltv-subgroup="",TV MARAJOARA - PA
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jSp6R0Vn/01.jpg" group-title="PARÁ",TV MARAJOARA - PA
 https://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8?wowzasessionid=1367217602
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVZtcDKv/01.png" group-title="PARÁ" pltv-subgroup="",TV BRASIL PARAENCE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/dVZtcDKv/01.png" group-title="PARÁ",TV BRASIL PARAENCE
 http://rtmp.cdn.upx.net.br/723b/myStream.sdp/chunklist.m3u8?73cf7ba432b12ec30120b300085d1d1d
 
 ####################################################### ( PARAÍBA )
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/63BFh6VC/04.jpg" group-title="PARAÍBA" pltv-subgroup="",TV DIÁRIO DO SERTÃO - PB
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63BFh6VC/04.jpg" group-title="PARAÍBA",TV DIÁRIO DO SERTÃO - PB
 http://painelvj.com.br/pdsertaotv/pdsertaotv.sdp/chunklist_w155831820.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-OJVd05mFhz4/T7POIHMi1LI/AAAAAAAAAEk/ab4I_4BL3M0/s400/TV+Master.png" group-title="PARAÍBA" pltv-subgroup="",TV MASTER - PB
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpJ0fvCd/06.png" group-title="PARAÍBA",TV MASTER - PB
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/01.png" group-title="PARAÍBA" pltv-subgroup="",TV SOL - PB
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65FZr1Yd/01.png" group-title="PARAÍBA",TV SOL - PB
 http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/chunklist_w1146757709.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/02.jpg" group-title="PARAÍBA" pltv-subgroup="",REDE CIDADE VIVA - PB
-http://rtmp.cdn.upx.net.br/kwjqp/smil:cidadeviva.smil/chunklist_b2130000.m3u8?7fdb2b8cebc124e7a6ecba9372079941
-
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/03.jpg" group-title="PARAÍBA" pltv-subgroup="",TV ASSEMBLÉIA - PB
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vmXSjbtK/03.jpg" group-title="PARAÍBA" pltv-subgroup="",TV ASSEMBLÉIA - PB
 http://tv.al.pb.leg.br/hls/tvalpb.m3u8
 
 #EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/MANCHETE.jpg" group-title="PARAÍBA" pltv-subgroup="",TV MANCHETE
-https://srv4.zcast.com.br/tvmanchate/tvmanchate/chunklist_w1820977228.m3u8
-
 ####################################################### ( PARANÁ )
 
 #EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/01.jpg" group-title="PARANÁ" pltv-subgroup="",TV EVANGELIZAR - PR
