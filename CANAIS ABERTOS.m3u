@@ -186,73 +186,57 @@ http://wse01.logicahost.com.br:1935/tvsol/_definst_/tvsol/chunklist_w1146757709.
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/vmXSjbtK/03.jpg" group-title="PARAÍBA" pltv-subgroup="",TV ASSEMBLÉIA - PB
 http://tv.al.pb.leg.br/hls/tvalpb.m3u8
 
-#EXTINF:-1 tvg-logo="https://imagensbrasil.org/images/2020/07/20/MANCHETE.jpg" group-title="PARAÍBA" pltv-subgroup="",TV MANCHETE
 ####################################################### ( PARANÁ )
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/01.jpg" group-title="PARANÁ" pltv-subgroup="",TV EVANGELIZAR - PR
-http://flash32k.crossdigital.com.br/evangelizar/tv/chunklist_w996687347.m3u8
-
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/026bf3d29350db4083.png" group-title="PARANÁ" pltv-subgroup="",TVCI - PR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/KYdF7xRX/02.png" group-title="PARANÁ" pltv-subgroup="",TVCI - PR
 http://flash8.crossdigital.com.br/2306/2306/chunklist_w1232555327.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/0141c4fd6ae3e38542.jpg" group-title="PARANÁ" pltv-subgroup="",TV CATVE - PR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6QznTb3G/01.jpg" group-title="PARANÁ" pltv-subgroup="",TV CATVE - PR
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1070656754.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/05.jpg" group-title="PARANÁ" pltv-subgroup="",1001 NOITES - PR
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist_b1601536.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/paranaeducativa.png" group-title="PARANÁ" pltv-subgroup="",TV ÉPARANÁ (CULTURA) - PR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7LpGCv4h/12.jpg" group-title="PARANÁ" pltv-subgroup="",TV ÉPARANÁ (CULTURA) - PR
 http://200.189.113.201/hls/tve.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/screen-0.jpgfakeurl1type.jpg" group-title="PARANÁ" pltv-subgroup="",TV VIANA - PR
-https://01.paineldevideo.com/tvviana/tvviana/playlist.m3u8?wowzasessionid=493448987
-
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/09.jpg" group-title="PARANÁ" pltv-subgroup="",TV WEB PARANÁ - PR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/c1cCWtvr/09.jpg" group-title="PARANÁ" pltv-subgroup="",TV WEB PARANÁ - PR
 https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/chunklist_w910700699.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/04.png" group-title="PARANÁ" pltv-subgroup="",MUNDO TV - PR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63ykmS4r/13.jpg" group-title="PARANÁ" pltv-subgroup="",MUNDO TV - PR
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/chunklist_w601125261.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/18/0162435a0e2930514c.png" group-title="PARANÁ" pltv-subgroup="",TV TRANSAMÉRICA - PR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fzn7QwTh/01.png" group-title="PARANÁ" pltv-subgroup="",TV TRANSAMÉRICA - PR
 http://tvtransamerica.crossdigital.com.br/ponto2/transamerica2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/06.png" group-title="PARANÁ" pltv-subgroup="",MASTER TV - PR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6Jj092s/06.png" group-title="PARANÁ" pltv-subgroup="",MASTER TV - PR
 http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w545368532.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/10.jpg" group-title="PARANÁ" pltv-subgroup="",TV ANTARES - PR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L57QZ6xw/02.jpg" group-title="PARANÁ" pltv-subgroup="",TV ANTARES - PR
 https://stmv6.srvstm.com/9696/9696/playlist.m3u8?wowzasessionid=2012069706
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/bVlRgDMi.jpg" group-title="PARANÁ" pltv-subgroup="",TV BELTRÃO 2 - PR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MTkzSq06/04.jpg" group-title="PARANÁ" pltv-subgroup="",TV BELTRÃO 2 - PR
 https://59f1cbe63db89.streamlock.net:1443/tvbeltrao2/_definst_/tvbeltrao2/chunklist_w960383373.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/07.png" group-title="PARANÁ" pltv-subgroup="",CANAL 10 (F.IGUAÇU) - PR
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/qqbYpGfs/02.png" group-title="PARANÁ" pltv-subgroup="",CANAL 10 (F.IGUAÇU) - PR
 http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/chunklist_w1194322201.m3u8
 
 ####################################################### ( PERNAMBUCO )
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/98f2c63bd8626875fa4b533767d074ff.png" group-title="PERNAMBUCO" pltv-subgroup="",TV CARUARU - PE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC7Lt8BP/01.png" group-title="PERNAMBUCO" pltv-subgroup="",TV CARUARU - PE
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/13/07.png" group-title="PERNAMBUCO" pltv-subgroup="",TVU RECIFE - PE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSywDBR3/02.png" group-title="PERNAMBUCO" pltv-subgroup="",TVU RECIFE - PE
 http://150.161.93.220/hls/480/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/10.png" group-title="PERNAMBUCO" pltv-subgroup="",TV 40 GRAUS - PE
-https://5d23bdca513db.streamlock.net/40graustv/40graustv/chunklist_w662335199.m3u8
 
 ####################################################### ( PIAUÍ )
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/11142d3a7f99eb7d65.png" group-title="PIAUÍ" pltv-subgroup="",TV CIDADE VERDE (SBT) - PI
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/chunklist_w1548339379.m3u8
-
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/01b3870f0bcb8d25c5.png" group-title="PIAUÍ" pltv-subgroup="",TV VERDES CAMPOS SAT - PI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/fT4Sq6gD/02.jpg" group-title="PIAUÍ" pltv-subgroup="",TV VERDES CAMPOS SAT - PI
 https://596639ebdd89b.streamlock.net/8124/8124/chunklist_w352605834.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/01b0071c1be5c89132.jpg" group-title="PIAUÍ" pltv-subgroup="",TV ASSEMBLEIA - PI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/HkcKW89Q/02.jpg" group-title="PIAUÍ" pltv-subgroup="",TV ASSEMBLEIA - PI
 https://59e4b6c1beddc.streamlock.net/ronaldoalepi/ronaldoalepi/chunklist_w2138694069.m3u8
 
 ####################################################### ( RIO DE JANEIRO )
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/14/01ea2b6d345d8e19bf.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",TV CARIOCA - RJ
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52JYbTv1/01.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",TV CARIOCA - RJ
 https://5d2c98775bafe.streamlock.net/8180/8180/chunklist_w884743616.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/652833020668461056/NUCFnJCh_400x400.jpg" group-title="RIO DE JANEIRO" pltv-subgroup="",TV METROPOLITANA - RJ
