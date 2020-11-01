@@ -306,21 +306,21 @@ https://stream.furg.br/hls/furgtv_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/63C8Rfnn/06.png" group-title="RIO GRANDE DO SUL",TV CIDADE FARROUPILHA - RS
 http://209.126.127.101:1935/tvcidade/tvcidade/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/022fef624889d1f9a7.jpg" group-title="RIO GRANDE DO SUL",UNITV - RS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8ctYT5N3/02.jpg" group-title="RIO GRANDE DO SUL",UNITV - RS
 http://unitvaovivo.ufrgs.br:8080/live.ogg
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/0387ece39b6ff4adc8.png" group-title="RIO GRANDE DO SUL",TV IMAGENS - RS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hs7SZHNT/03.png" group-title="RIO GRANDE DO SUL",TV IMAGENS - RS
 http://stmv1.caxiashost.com.br/caxiashost/caxiashost/playlist.m3u8?wowzasessionid=1090463670
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/04a6fd73cdfc0e5eb5.png" group-title="RIO GRANDE DO SUL",UNISC TV - RS
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6RQnsts/04.png" group-title="RIO GRANDE DO SUL",UNISC TV - RS
 http://tv.unisc.br/hls/test.m3u8
 
 ####################################################### ( SANTA CATARINA )
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/02.png" group-title="SANTA CATARINA",TV LITORAL PANORAMA - SC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NGT4wbgc/02.png" group-title="SANTA CATARINA",TV LITORAL PANORAMA - SC
 http://streaming03.zas.media:1935/panorama/panorama/chunklist_w1494615880.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/03.jpg" group-title="SANTA CATARINA",TV GIDEÕES - SC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65DxQtSP/03.jpg" group-title="SANTA CATARINA",TV GIDEÕES - SC
 https://streaming01.zas.media/gideoes/programacao_360p/chunklist_w1525300652.m3u8
 
 #EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/02a2c2b89336a5e02b.jpg" group-title="SANTA CATARINA",TV FLORIPA - SC
