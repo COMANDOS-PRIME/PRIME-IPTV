@@ -23,7 +23,7 @@ https://ia601509.us.archive.org/8/items/sobel_202003/SOBEL.ia.mp4
 ####################################################### ( CANAIS 24HS ) ################################################
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/G3P72kXc/11.jpg" group-title="CANAIS 24HS",TV MANCHETE
-https://stmv.voxtvhd.com.br/tvmanchate/tvmanchate/chunklist_w1021164059.m3u8
+https://stmv3.samcast.com.br/ivonildo3902/ivonildo3902/media_w1109575111_11781.ts
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/gj9XSqMh/11.png" group-title="CANAIS 24HS",TV JAPI - SP
 https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1493666723.m3u8
@@ -220,11 +220,35 @@ http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/chunklist_w1194322201.m3u8
 
 ####################################################### ( PERNAMBUCO )
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC7Lt8BP/01.png" group-title="PERNAMBUCO" pltv-subgroup="",TV CARUARU - PE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC7Lt8BP/01.png" group-title="PERNAMBUCO",TV CARUARU - PE
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSywDBR3/02.png" group-title="PERNAMBUCO" pltv-subgroup="",TVU RECIFE - PE
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSywDBR3/02.png" group-title="PERNAMBUCO",TVU RECIFE - PE
 http://150.161.93.220/hls/480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t3VmJPk/03.jpg" group-title="PERNAMBUCO",RWCG WEB TV - PE
+https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w1383323329.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cHyRnZQK/04.jpg" group-title="PERNAMBUCO",TV NOVA NORDESTE - PE
+https://live.comets.com.br/tvnovanordeste/aovivo/chunklist_w1947516021.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wvdtjhrC/05.jpg" group-title="PERNAMBUCO",TV MAIS NORDESTE - PE
+https://5eaa6849d0971.streamlock.net/tvmaisnordestetv/tvmaisnordestetv/media_w437921291_103202.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQB0PDw7/03.png" group-title="PERNAMBUCO",NOVA BARREIROS WEB TV - PE
+https://5d82644094cc0.streamlock.net/8026/8026/media_w1857902543_1249.ts
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/6qQzM2Xm/06.jpg" group-title="PERNAMBUCO",TV VITORIA - PE
+https://novo.bitstreaming.info:1936/tvvitoriape/tvvitoriape/chunklist_w11694789.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MKCScRV5/04.png" group-title="PERNAMBUCO",TV SERTÃO PETROLINA - PE
+https://59f2354c05961.streamlock.net:1443/sertao/_definst_/sertao/chunklist_w1497461827.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fz5hMBmM/05.png" group-title="PERNAMBUCO",RCC REDE CAETÉS DE COMUNICAÇÃO - PE
+https://srv2.zcast.com.br/edvaldonicolau8872/edvaldonicolau8872/chunklist_w1339758961.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/G3ZvhFbz/07.jpg" group-title="PERNAMBUCO",TV CORDEIRO - PE
+https://stmv1.srvif.com/tvcordeiro/tvcordeiro/chunklist_w293883542.m3u8
 
 ####################################################### ( PIAUÍ )
 
@@ -323,42 +347,37 @@ http://streaming03.zas.media:1935/panorama/panorama/chunklist_w1494615880.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65DxQtSP/03.jpg" group-title="SANTA CATARINA",TV GIDEÕES - SC
 https://streaming01.zas.media/gideoes/programacao_360p/chunklist_w1525300652.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/02a2c2b89336a5e02b.jpg" group-title="SANTA CATARINA",TV FLORIPA - SC
-http://hls.fm1.com.br:8080/hls/tvfloripa.m3u8
-
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/NbcWKyFTW5E7CwmcuneV6fX_EItHExvxizAV97ZVLPMKdbKJO20Ef7iSxlpGq2LAJeU.md.png" group-title="SANTA CATARINA",NOVA ERA TV - SC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Rh2Mw1MT/05.png" group-title="SANTA CATARINA",NOVA ERA TV - SC
 http://wz4.dnip.com.br/novaeratv/novaeratv.sdp/chunklist_w572005142.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/0456ece56f6f560bb6.png" group-title="SANTA CATARINA",GEN TV - SC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MGsXvQj9/04.png" group-title="SANTA CATARINA",GEN TV - SC
 http://wse5.player.tv.br:1935/aovivo/aovivo/chunklist_w1289660256.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/05917a7dbcb7d6d6bb.jpg" group-title="SANTA CATARINA",NGP TV - SC
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XY4vL8f2/05.jpg" group-title="SANTA CATARINA",NGP TV - SC
 https://5a0c3936c25c8.streamlock.net/8278/8278/chunklist_w69756681.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/06177818d262639239.jpg" group-title="SANTA CATARINA",TV UFSC - SC
-http://150.162.188.10:8080/hls/1_hi.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZtt23pD/03.png" group-title="SANTA CATARINA",PREMIER TV* - SC
+http://200.194.238.229:8383/live/primer/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SQGQs8FC/06.png" group-title="SANTA CATARINA",TVBE TV BRASIL - SC
+https://5c483b9d1019c.streamlock.net/8022/8022/chunklist_w800820699.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/65vXZGFM/07.jpg" group-title="SANTA CATARINA",CANAL 24 HS - SC
+https://streaming03.zas.media/canal24horas/canal24horas/chunklist_w1063300096.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="SANTA CATARINA",
 ####################################################### ( SÃO PAULO )
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b1/Logotipo_da_Record_News.png" group-title="SÃO PAULO",RECORD NEWS - SP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Kv3b6vh3/44.jpg" group-title="SÃO PAULO",RECORD NEWS - SP
 https://59f2354c05961.streamlock.net:1443/fundacao/_definst_/fundacao/chunklist_w2119333144.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="SÃO PAULO",REDE VIDA - SP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/q7D4ftqn/34.png" group-title="SÃO PAULO",REDE VIDA - SP
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist_b2128000.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/top-tv-logo-5999E0BF67-seeklogo.com.png" group-title="SÃO PAULO",TOP TV - SP
-https://5d23bdca513db.streamlock.net/8006/8006/chunklist_w924755108.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/J45RR7zT/35.png" group-title="SÃO PAULO",GOSPEL MOVIE TV - SP
+https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1308347390.m3u8
 
-#EXTINF:-1 tvg-logo="http://assistirtv.xyz/wp-content/uploads/2019/02/filmesgospel-185x200.png" group-title="SÃO PAULO",GOSPEL MOVIE TV - SP
-https://stmv3.srvstm.com/gospelf/gospelf/playlist.m3u8?wowzasessionid=1556782610
-
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/15/0301334e773709ba89.jpg" group-title="SÃO PAULO",MEGA TV - SP
-http://www.megatv.com.br/u/2018/01/04/stone-in-box-1-30_657a660.mp4
-
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-FWv58xh2EDo/TYdQLxceQcI/AAAAAAAAAX0/lzGHTe4wuIs/s1600/878.png" group-title="SÃO PAULO",TV JORNAL DE LIMEIRA - SP
-http://flash1.crossdigital.com.br:1935/1998/1998/chunklist_w1513750983.m3u8
-
-#EXTINF:-1 tvg-logo="http://royaltimes.net/wp-content/uploads/2017/06/TVC.png" group-title="SÃO PAULO",CAPITAL 777 - SP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3PmW87n/45.jpg" group-title="SÃO PAULO",CAPITAL 777 - SP
 http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2St8Ans.jpg" group-title="SÃO PAULO",TV DIGITAL BIRIGUI - SP
