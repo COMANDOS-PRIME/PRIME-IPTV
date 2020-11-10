@@ -226,9 +226,6 @@ https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/YSywDBR3/02.png" group-title="PERNAMBUCO",TVU RECIFE - PE
 http://150.161.93.220/hls/480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5t3VmJPk/03.jpg" group-title="PERNAMBUCO",RWCG WEB TV - PE
-https://video01.kshost.com.br/fabio8255/fabio8255/chunklist_w1383323329.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/cHyRnZQK/04.jpg" group-title="PERNAMBUCO",TV NOVA NORDESTE - PE
 https://live.comets.com.br/tvnovanordeste/aovivo/chunklist_w1947516021.m3u8
 
@@ -380,10 +377,10 @@ https://stmv1.srvif.com/gospelf/gospelf/chunklist_w1308347390.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3PmW87n/45.jpg" group-title="SÃO PAULO",CAPITAL 777 - SP
 http://wse01.logicahost.com.br:1935/tvcapital/_definst_/tvcapital/chunklist_w1247683792.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2St8Ans.jpg" group-title="SÃO PAULO",TV DIGITAL BIRIGUI - SP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2JpS7WB/46.jpg" group-title="SÃO PAULO",TV DIGITAL BIRIGUI - SP
 http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w1805078074.m3u8
 
-#EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/05.jpg" group-title="SÃO PAULO",TV SANTA CECÍLIA - SP
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0rBfnmz/05.jpg" group-title="SÃO PAULO",TV SANTA CECÍLIA - SP
 https://5829cb6b64c3c.streamlock.net/2063/2063/chunklist_w1335494998.m3u8
 
 #EXTINF:-1 tvg-logo="https://ap.imagensbrasil.org/images/2019/11/16/06.png" group-title="SÃO PAULO",RIVIERA SUMMER TV - SP
